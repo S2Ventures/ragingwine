@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { cities, getReviewsByCity, getCityBySlug } from '@/lib/data';
-import ReviewCard from '@/components/ReviewCard';
+import CityReviewFilters from '@/components/CityReviewFilters';
 import Newsletter from '@/components/Newsletter';
 import type { Metadata } from 'next';
 
@@ -71,11 +71,7 @@ export default function CityPage({ params }: { params: { city: string } }) {
 
       {/* Reviews */}
       {cityReviews.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-          {cityReviews.map(review => (
-            <ReviewCard key={review.slug} review={review} />
-          ))}
-        </div>
+        <CityReviewFilters reviews={cityReviews} />
       ) : (
         <div className="text-center py-16 mb-12">
           <p className="text-lg font-medium text-gray-400 mb-2">Reviews coming soon for {city.name}</p>
