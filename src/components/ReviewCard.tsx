@@ -27,15 +27,21 @@ export default function ReviewCard({ review }: { review: Review }) {
           </p>
 
           <div className="flex items-center gap-3 text-xs text-gray-400">
-            <span className="flex items-center gap-1">
-              <span>Glassware:</span>
-              <span className="font-medium text-gray-600">{review.metrics.glassware}</span>
-            </span>
-            <span>&middot;</span>
-            <span className="flex items-center gap-1">
-              <span>Markup:</span>
-              <span className="font-medium text-gray-600">{review.metrics.markup}</span>
-            </span>
+            {review.metrics ? (
+              <>
+                <span className="flex items-center gap-1">
+                  <span>Glassware:</span>
+                  <span className="font-medium text-gray-600">{review.metrics.glassware}</span>
+                </span>
+                <span>&middot;</span>
+                <span className="flex items-center gap-1">
+                  <span>Markup:</span>
+                  <span className="font-medium text-gray-600">{review.metrics.markup}</span>
+                </span>
+              </>
+            ) : review.tags ? (
+              <span className="font-medium text-gray-600">{review.tags.slice(0, 3).join(' · ')}</span>
+            ) : null}
           </div>
         </div>
       </div>

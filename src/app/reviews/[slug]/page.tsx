@@ -48,6 +48,7 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
   if (!review) notFound();
 
   const config = BADGE_CONFIG[review.badge];
+  const isEditorial = !!review.editorial;
 
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-12">
@@ -66,64 +67,89 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
         <h1 className="text-3xl sm:text-4xl font-display font-bold text-brand-dark mt-4 mb-2">
           {review.restaurant}
         </h1>
+        {review.subtitle && (
+          <p className="text-wine-600 font-medium text-lg mb-2">{review.subtitle}</p>
+        )}
         <p className="text-gray-500">
           {review.neighborhood} &middot; {review.city} &middot; {review.cuisineType}
         </p>
-        <p className="text-xs text-gray-400 mt-2">
+        {review.tags && review.tags.length > 0 && (
+          <div className="flex flex-wrap gap-2 mt-3">
+            {review.tags.map(tag => (
+              <span key={tag} className="text-xs font-medium text-wine-700 bg-wine-50 px-2 py-1 rounded-full">
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
+        <p className="text-xs text-gray-400 mt-3">
           Reviewed {new Date(review.publishedAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
         </p>
       </div>
 
-      {/* Wingman Metrics */}
-      <div className="bg-white rounded-xl border border-gray-200 p-6 mb-10">
-        <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-4">Wingman Metrics</p>
-        <WingmanMetrics metrics={review.metrics} />
-      </div>
+      {/* Wingman Metrics (structured format only) */}
+      {review.metrics && (
+        <div className="bg-white rounded-xl border border-gray-200 p-6 mb-10">
+          <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-4">Wingman Metrics</p>
+          <WingmanMetrics metrics={review.metrics} />
+        </div>
+      )}
 
-      {/* Review Body */}
-      <Section title="First Impression">
-        <p>{review.firstImpression}</p>
-      </Section>
+      {/* Editorial Format */}
+      {isEditorial && review.editorial!.map((section, i) => (
+        <Section key={i} title={section.title}>
+          <p>{section.body}</p>
+        </Section>
+      ))}
 
-      <Section title="Selection Deep Dive">
-        <p>{review.selectionDeepDive}</p>
-      </Section>
+      {/* Structured Format */}
+      {!isEditorial && (
+        <>
+          <Section title="First Impression">
+            <p>{review.firstImpression}</p>
+          </Section>
+          <Section title="Selection Deep Dive">
+            <p>{review.selectionDeepDive}</p>
+          </Section>
+          <Section title="By the Glass">
+            <p>{review.byTheGlass}</p>
+          </Section>
 
-      <Section title="By the Glass">
-        <p>{review.byTheGlass}</p>
-      </Section>
-
-      {/* Pick Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
-        <PickCard
-          icon="&#x1F4B0;"
-          title="Best Value"
-          wine={`${review.bestValue.wine} — ${review.bestValue.price}`}
-          detail={review.bestValue.note}
-          accent="text-green-700"
-        />
-        <PickCard
-          icon="&#x1F48E;"
-          title="Hidden Gem"
-          wine={review.hiddenGem.wine}
-          detail={review.hiddenGem.note}
-          accent="text-purple-700"
-        />
-        <PickCard
-          icon="&#x26D4;"
-          title="Skip This"
-          wine={review.skipThis.wine}
-          detail={review.skipThis.note}
-          accent="text-red-600"
-        />
-        <PickCard
-          icon="&#x1F37D;&#xFE0F;"
-          title="Perfect Pairing"
-          wine={`${review.perfectPairing.wine} + ${review.perfectPairing.dish}`}
-          detail={review.perfectPairing.note}
-          accent="text-wine-700"
-        />
-      </div>
+          {/* Pick Cards */}
+          {review.bestValue && review.hiddenGem && review.skipThis && review.perfectPairing && (
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
+              <PickCard
+                icon="&#x1F4B0;"
+                title="Best Value"
+                wine={`${review.bestValue.wine} — ${review.bestValue.price}`}
+                detail={review.bestValue.note}
+                accent="text-green-700"
+              />
+              <PickCard
+                icon="&#x1F48E;"
+                title="Hidden Gem"
+                wine={review.hiddenGem.wine}
+                detail={review.hiddenGem.note}
+                accent="text-purple-700"
+              />
+              <PickCard
+                icon="&#x26D4;"
+                title="Skip This"
+                wine={review.skipThis.wine}
+                detail={review.skipThis.note}
+                accent="text-red-600"
+              />
+              <PickCard
+                icon="&#x1F37D;&#xFE0F;"
+                title="Perfect Pairing"
+                wine={`${review.perfectPairing.wine} + ${review.perfectPairing.dish}`}
+                detail={review.perfectPairing.note}
+                accent="text-wine-700"
+              />
+            </div>
+          )}
+        </>
+      )}
 
       {/* Bottom Line */}
       <div className={`rounded-xl p-6 mb-12 ${config.bg} border`} style={{ borderColor: 'rgba(0,0,0,0.08)' }}>

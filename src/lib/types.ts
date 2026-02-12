@@ -10,6 +10,11 @@ export interface WingmanMetrics {
   markup: MarkupFairness;
 }
 
+export interface EditorialSection {
+  title: string;
+  body: string;
+}
+
 export interface Review {
   slug: string;
   restaurant: string;
@@ -18,17 +23,21 @@ export interface Review {
   citySlug: string;
   cuisineType: string;
   badge: BadgeType;
-  metrics: WingmanMetrics;
-  firstImpression: string;
-  selectionDeepDive: string;
-  byTheGlass: string;
-  bestValue: { wine: string; price: string; note: string };
-  hiddenGem: { wine: string; note: string };
-  skipThis: { wine: string; note: string };
-  perfectPairing: { wine: string; dish: string; note: string };
+  metrics?: WingmanMetrics;
+  firstImpression?: string;
+  selectionDeepDive?: string;
+  byTheGlass?: string;
+  bestValue?: { wine: string; price: string; note: string };
+  hiddenGem?: { wine: string; note: string };
+  skipThis?: { wine: string; note: string };
+  perfectPairing?: { wine: string; dish: string; note: string };
   bottomLine: string;
   publishedAt: string;
   heroImage?: string;
+  // Editorial format (looser narrative style)
+  editorial?: EditorialSection[];
+  subtitle?: string;
+  tags?: string[];
 }
 
 export interface City {
