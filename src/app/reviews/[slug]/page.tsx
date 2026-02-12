@@ -87,7 +87,7 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
         </p>
       </div>
 
-      {/* Wingman Metrics (structured format only) */}
+      {/* Wingman Metrics */}
       {review.metrics && (
         <div className="bg-white rounded-xl border border-gray-200 p-6 mb-10">
           <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-4">Wingman Metrics</p>

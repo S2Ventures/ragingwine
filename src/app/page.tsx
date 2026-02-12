@@ -67,10 +67,30 @@ export default function Home() {
         <div className="text-center mb-10">
           <h2 className="text-2xl font-bold text-brand-dark">Wingman Metrics</h2>
           <p className="text-gray-500 text-sm mt-2 max-w-lg mx-auto">
-            Three things that tell you more about a wine program than any point score ever could.
+            Six things that tell you more about a wine program than any point score ever could.
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+          <div className="text-center">
+            <div className="w-14 h-14 bg-wine-50 rounded-full flex items-center justify-center mx-auto mb-4">
+              <span className="text-2xl">&#x1F4DA;</span>
+            </div>
+            <h3 className="font-bold text-brand-dark mb-2">List Variety</h3>
+            <p className="text-gray-500 text-sm">
+              Deep and eclectic, solid range, plays it safe, or grocery-store defaults.
+              Does the list have real depth or just the usual suspects?
+            </p>
+          </div>
+          <div className="text-center">
+            <div className="w-14 h-14 bg-amber-50 rounded-full flex items-center justify-center mx-auto mb-4">
+              <span className="text-2xl">&#x1F4B0;</span>
+            </div>
+            <h3 className="font-bold text-brand-dark mb-2">Markup Fairness</h3>
+            <p className="text-gray-500 text-sm">
+              Fair, steep, or gouge. We compare list prices to retail so you know
+              whether you&apos;re paying a reasonable premium or getting fleeced.
+            </p>
+          </div>
           <div className="text-center">
             <div className="w-14 h-14 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-4">
               <span className="text-2xl">&#x1F377;</span>
@@ -78,7 +98,7 @@ export default function Home() {
             <h3 className="font-bold text-brand-dark mb-2">Glassware Grade</h3>
             <p className="text-gray-500 text-sm">
               Varietal-specific stems, stemless casual, or red-flag plastics.
-              How a restaurant serves your wine says everything about how much they care.
+              How they serve your wine says everything about how much they care.
             </p>
           </div>
           <div className="text-center">
@@ -92,13 +112,23 @@ export default function Home() {
             </p>
           </div>
           <div className="text-center">
-            <div className="w-14 h-14 bg-amber-50 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl">&#x1F4B0;</span>
+            <div className="w-14 h-14 bg-purple-50 rounded-full flex items-center justify-center mx-auto mb-4">
+              <span className="text-2xl">&#x2B50;</span>
             </div>
-            <h3 className="font-bold text-brand-dark mb-2">Markup Fairness</h3>
+            <h3 className="font-bold text-brand-dark mb-2">Specials &amp; Deals</h3>
             <p className="text-gray-500 text-sm">
-              Fair, steep, or gouge. We compare list prices to retail so you know
-              whether you&apos;re paying a reasonable premium or getting fleeced.
+              Active program, occasional, or set-and-forget. Featured wines,
+              half-price nights, and flights show the program is being managed.
+            </p>
+          </div>
+          <div className="text-center">
+            <div className="w-14 h-14 bg-red-50 rounded-full flex items-center justify-center mx-auto mb-4">
+              <span className="text-2xl">&#x1F321;&#xFE0F;</span>
+            </div>
+            <h3 className="font-bold text-brand-dark mb-2">Storage &amp; Temp</h3>
+            <p className="text-gray-500 text-sm">
+              Proper cellar, acceptable, or hot mess. Bottles baking on top of the bar
+              at 80 degrees means the restaurant doesn&apos;t respect the wine or you.
             </p>
           </div>
         </div>

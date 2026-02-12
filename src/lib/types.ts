@@ -3,11 +3,17 @@ export type BadgeType = 'rager' | 'wildcard' | 'reliable' | 'lazy';
 export type GlasswareGrade = 'Varietal Specific' | 'Stemless Casual' | 'Red Flag';
 export type StaffConfidence = 'Knowledgeable & Friendly' | 'Willing but Green' | 'Gatekeeper' | 'MIA';
 export type MarkupFairness = 'Fair' | 'Steep' | 'Gouge';
+export type ListVariety = 'Deep & Eclectic' | 'Solid Range' | 'Plays It Safe' | 'Grocery Store';
+export type SpecialsAndDeals = 'Active Program' | 'Occasional' | 'Set & Forget';
+export type StorageAndTemp = 'Proper' | 'Acceptable' | 'Hot Mess';
 
 export interface WingmanMetrics {
   glassware: GlasswareGrade;
   staff: StaffConfidence;
   markup: MarkupFairness;
+  variety: ListVariety;
+  specials: SpecialsAndDeals;
+  storage: StorageAndTemp;
 }
 
 export interface EditorialSection {

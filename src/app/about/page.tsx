@@ -52,10 +52,12 @@ export default function AboutPage() {
           (skip the wine).
         </p>
         <p>
-          We also score three Wingman Metrics: Glassware Grade (how they serve your wine),
-          Staff Confidence (whether your server can actually help), and Markup Fairness
-          (whether you&apos;re getting fleeced). These three things tell you more about a
-          wine program than any point score ever could.
+          We also score six Wingman Metrics that tell you more about a wine program than
+          any point score ever could: List Variety (real depth or grocery-store defaults),
+          Markup Fairness (fair premium or highway robbery), Glassware Grade (varietal stems
+          or red-flag plastics), Staff Confidence (knowledgeable wingman or actively unhelpful),
+          Specials &amp; Deals (featured wines, half-price nights, or set-and-forget), and
+          Storage &amp; Temp (proper cellar or bottles baking on top of the bar).
         </p>
 
         <h2 className="text-xl font-bold text-brand-dark pt-4">Where We Are</h2>

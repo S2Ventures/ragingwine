@@ -33,23 +33,34 @@ export default function ReviewCard({ review }: { review: Review }) {
             {review.bottomLine}
           </p>
 
-          <div className="flex items-center gap-3 text-xs text-gray-400">
-            {review.metrics ? (
-              <>
-                <span className="flex items-center gap-1">
-                  <span>Glassware:</span>
-                  <span className="font-medium text-gray-600">{review.metrics.glassware}</span>
-                </span>
-                <span>&middot;</span>
-                <span className="flex items-center gap-1">
-                  <span>Markup:</span>
-                  <span className="font-medium text-gray-600">{review.metrics.markup}</span>
-                </span>
-              </>
-            ) : review.tags ? (
-              <span className="font-medium text-gray-600">{review.tags.slice(0, 3).join(' · ')}</span>
-            ) : null}
-          </div>
+          {review.metrics && (
+            <div className="grid grid-cols-3 gap-x-3 gap-y-1.5 text-xs border-t border-gray-100 pt-3">
+              <div>
+                <span className="text-gray-400">Variety</span>
+                <p className="font-medium text-gray-600 truncate">{review.metrics.variety}</p>
+              </div>
+              <div>
+                <span className="text-gray-400">Markup</span>
+                <p className="font-medium text-gray-600">{review.metrics.markup}</p>
+              </div>
+              <div>
+                <span className="text-gray-400">Glassware</span>
+                <p className="font-medium text-gray-600 truncate">{review.metrics.glassware}</p>
+              </div>
+              <div>
+                <span className="text-gray-400">Staff</span>
+                <p className="font-medium text-gray-600 truncate">{review.metrics.staff}</p>
+              </div>
+              <div>
+                <span className="text-gray-400">Specials</span>
+                <p className="font-medium text-gray-600 truncate">{review.metrics.specials}</p>
+              </div>
+              <div>
+                <span className="text-gray-400">Storage</span>
+                <p className="font-medium text-gray-600">{review.metrics.storage}</p>
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </Link>

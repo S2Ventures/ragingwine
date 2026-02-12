@@ -35,12 +35,34 @@ function getMarkupVariant(value: string): 'good' | 'ok' | 'bad' {
   return 'bad';
 }
 
+function getVarietyVariant(value: string): 'good' | 'ok' | 'bad' {
+  if (value === 'Deep & Eclectic') return 'good';
+  if (value === 'Solid Range') return 'good';
+  if (value === 'Plays It Safe') return 'ok';
+  return 'bad';
+}
+
+function getSpecialsVariant(value: string): 'good' | 'ok' | 'bad' {
+  if (value === 'Active Program') return 'good';
+  if (value === 'Occasional') return 'ok';
+  return 'bad';
+}
+
+function getStorageVariant(value: string): 'good' | 'ok' | 'bad' {
+  if (value === 'Proper') return 'good';
+  if (value === 'Acceptable') return 'ok';
+  return 'bad';
+}
+
 export default function WingmanMetrics({ metrics }: { metrics: WingmanMetricsType }) {
   return (
-    <div className="flex flex-wrap gap-4">
+    <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+      <MetricPill label="List Variety" value={metrics.variety} variant={getVarietyVariant(metrics.variety)} />
+      <MetricPill label="Markup" value={metrics.markup} variant={getMarkupVariant(metrics.markup)} />
       <MetricPill label="Glassware" value={metrics.glassware} variant={getGlasswareVariant(metrics.glassware)} />
       <MetricPill label="Staff" value={metrics.staff} variant={getStaffVariant(metrics.staff)} />
-      <MetricPill label="Markup" value={metrics.markup} variant={getMarkupVariant(metrics.markup)} />
+      <MetricPill label="Specials & Deals" value={metrics.specials} variant={getSpecialsVariant(metrics.specials)} />
+      <MetricPill label="Storage & Temp" value={metrics.storage} variant={getStorageVariant(metrics.storage)} />
     </div>
   );
 }
