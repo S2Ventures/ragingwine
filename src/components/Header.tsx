@@ -6,6 +6,7 @@ import Logo from './Logo';
 
 const navItems = [
   { label: 'Reviews', href: '/reviews' },
+  { label: 'Wineries', href: '/wineries' },
   { label: 'Adventures', href: '/adventures' },
   { label: 'Wine 101', href: '/wine-101' },
   { label: 'Atlanta', href: '/cities/atlanta' },

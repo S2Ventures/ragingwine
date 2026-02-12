@@ -56,6 +56,41 @@ export interface City {
   description: string;
 }
 
+// Winery types
+export type GrapeSourcing = '100% Estate' | 'Estate + Sourced' | 'Primarily Sourced';
+
+export interface Winery {
+  slug: string;
+  name: string;
+  region: string;
+  location: string;
+  grapes: string;
+  sourcing: GrapeSourcing;
+  tastingPrice: string;
+  tastingDetails: string;
+  hours: string;
+  food: string;
+  entertainment: string;
+  rating: string;
+  ratingSource: string;
+  highlights: string[];
+  description: string;
+  website?: string;
+}
+
+export interface WineryState {
+  name: string;
+  slug: string;
+  abbreviation: string;
+  tagline: string;
+  overview: string;
+  avas: string[];
+  keyGrapes: string[];
+  wineryCount: number;
+  regions: string[];
+  keyTakeaways: string[];
+}
+
 export const BADGE_CONFIG: Record<BadgeType, { label: string; color: string; bg: string; icon: string; description: string }> = {
   rager: {
     label: 'The Rager',
