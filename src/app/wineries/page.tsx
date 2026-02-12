@@ -80,7 +80,7 @@ export default function WineriesPage() {
       </div>
 
       {/* Coming Soon placeholder for states without data yet */}
-      {wineryStates.length < 2 && (
+      {wineryStates.length < 5 && (
         <div className="text-center py-12 mb-12">
           <p className="text-lg font-medium text-gray-400 mb-2">More states coming soon</p>
           <p className="text-sm text-gray-400">

@@ -1,3 +1,6 @@
+'use client';
+
+import { useState } from 'react';
 import { Winery } from '@/lib/types';
 
 function SourcingBadge({ sourcing }: { sourcing: string }) {
@@ -16,8 +19,13 @@ function SourcingBadge({ sourcing }: { sourcing: string }) {
 }
 
 export default function WineryCard({ winery }: { winery: Winery }) {
+  const [expanded, setExpanded] = useState(false);
+
   return (
-    <div className="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all duration-200">
+    <div
+      onClick={() => setExpanded(!expanded)}
+      className="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-all duration-200 cursor-pointer"
+    >
       <div className="h-2 bg-wine-500" />
       <div className="p-5">
         {/* Header */}
@@ -39,55 +47,71 @@ export default function WineryCard({ winery }: { winery: Winery }) {
         </div>
 
         {/* Description */}
-        <p className="text-sm text-gray-600 mb-4 line-clamp-3">{winery.description}</p>
+        <p className={`text-sm text-gray-600 mb-4 ${expanded ? '' : 'line-clamp-3'}`}>
+          {winery.description}
+        </p>
 
         {/* Highlights */}
         {winery.highlights.length > 0 && (
           <div className="flex flex-wrap gap-1.5 mb-4">
-            {winery.highlights.slice(0, 3).map((h, i) => (
+            {(expanded ? winery.highlights : winery.highlights.slice(0, 3)).map((h, i) => (
               <span key={i} className="text-xs bg-brand-warm text-gray-600 px-2 py-0.5 rounded">
                 {h}
               </span>
             ))}
-            {winery.highlights.length > 3 && (
+            {!expanded && winery.highlights.length > 3 && (
               <span className="text-xs text-gray-400">+{winery.highlights.length - 3} more</span>
             )}
           </div>
         )}
 
         {/* Quick Details Grid */}
-        <div className="grid grid-cols-2 gap-x-4 gap-y-2 text-xs border-t border-gray-100 pt-3">
+        <div className={`grid grid-cols-2 gap-x-4 gap-y-2 text-xs border-t border-gray-100 pt-3 ${expanded ? '' : ''}`}>
           <div>
             <span className="text-gray-400">Grapes</span>
-            <p className="font-medium text-gray-600 line-clamp-1">{winery.grapes}</p>
+            <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.grapes}</p>
           </div>
           <div>
             <span className="text-gray-400">Hours</span>
-            <p className="font-medium text-gray-600 line-clamp-1">{winery.hours}</p>
+            <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.hours}</p>
           </div>
           <div>
             <span className="text-gray-400">Food</span>
-            <p className="font-medium text-gray-600 line-clamp-1">{winery.food}</p>
+            <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.food}</p>
           </div>
           <div>
             <span className="text-gray-400">Entertainment</span>
-            <p className="font-medium text-gray-600 line-clamp-1">{winery.entertainment}</p>
+            <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.entertainment}</p>
           </div>
         </div>
 
-        {/* Website Link */}
-        {winery.website && (
+        {/* Expanded: Tasting Details */}
+        {expanded && winery.tastingDetails && (
           <div className="mt-3 pt-3 border-t border-gray-100">
+            <span className="text-xs text-gray-400">Tasting Details</span>
+            <p className="text-xs font-medium text-gray-600 mt-0.5">{winery.tastingDetails}</p>
+          </div>
+        )}
+
+        {/* Website Link + Expand Indicator */}
+        <div className="mt-3 pt-3 border-t border-gray-100 flex items-center justify-between">
+          {winery.website ? (
             <a
               href={winery.website}
               target="_blank"
               rel="noopener noreferrer"
+              onClick={(e) => e.stopPropagation()}
               className="text-xs font-medium text-wine-600 hover:text-wine-800 transition-colors"
             >
               Visit Website &rarr;
             </a>
-          </div>
-        )}
+          ) : (
+            <span />
+          )}
+          <span className="text-xs text-gray-400">
+            {expanded ? 'Click to collapse' : 'Click to expand'}
+          </span>
+        </div>
       </div>
     </div>
   );

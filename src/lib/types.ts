@@ -61,6 +61,7 @@ export type GrapeSourcing = '100% Estate' | 'Estate + Sourced' | 'Primarily Sour
 
 export interface Winery {
   slug: string;
+  stateSlug: string;
   name: string;
   region: string;
   location: string;

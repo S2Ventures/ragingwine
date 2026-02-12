@@ -79,11 +79,15 @@ export default function WineryStatePage({ params }: { params: { state: string } 
           <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">
             Recognized AVAs
           </h2>
-          <div className="space-y-2">
-            {state.avas.map(ava => (
-              <p key={ava} className="text-sm font-medium text-brand-dark">{ava}</p>
-            ))}
-          </div>
+          {state.avas.length > 0 ? (
+            <div className="space-y-2">
+              {state.avas.map(ava => (
+                <p key={ava} className="text-sm font-medium text-brand-dark">{ava}</p>
+              ))}
+            </div>
+          ) : (
+            <p className="text-sm text-gray-400 italic">No designated AVAs yet</p>
+          )}
         </div>
         <div className="bg-white rounded-xl border border-gray-200 p-6">
           <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">
