@@ -1138,6 +1138,7 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Postino hides a serious reserve wine list behind one of the best value deals in Atlanta. $25 for a board and a bottle on Monday and Tuesday, and a vintage list that goes deeper than you expect. Reliable and rewarding.',
     publishedAt: '2026-02-10',
+    halfPriceWineNight: { day: 'Monday & Tuesday', details: '$25 Board & Bottle (bruschetta + full bottle) after 8 PM, plus $6 glasses daily until 5 PM' },
   },
   {
     slug: 'el-vinedo-local-atlanta',
@@ -1435,6 +1436,39 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'B&W Burgers is a fantastic burger-and-beer spot with award-winning smash burgers, 20+ craft taps, free live music, and a rooftop patio. But the wine list is a dozen grocery-store labels at steep markup. Stick with the Tropicalia, bring your own bottle, or order the Blanton\'s.',
     publishedAt: '2026-02-11',
+    halfPriceWineNight: { day: 'Thursday', details: '50% off all wine and margaritas — Margarita & Wine Thursdays' },
+  },
+  {
+    slug: 'di-paolo-atlanta',
+    restaurant: 'di Paolo Italian Kitchen',
+    neighborhood: 'Alpharetta',
+    city: 'Atlanta',
+    citySlug: 'atlanta',
+    cuisineType: 'Northern Italian',
+    badge: 'rager',
+    subtitle: 'Zagat\'s Former No. 1 Italian in Atlanta with 80+ Bottles and Half-Price Sundays',
+    tags: ['Zagat No. 1', 'Handmade Pasta', '80+ Wines', 'Half-Price Sundays', 'Since 1995', 'Best Chefs America'],
+    halfPriceWineNight: { day: 'Sunday', details: '50% off all bottles $100 and under' },
+    editorial: [
+      {
+        title: 'The Wine List',
+        body: 'di Paolo\'s wine list runs 80+ bottles and reads like a sommelier\'s tour of Italy with carefully chosen New World counterpoints. Piedmont is the anchor: G.D. Vajra Barolo ($89), Furina Grimaldi Barolo ($120), Bruno Giacosa Dolcetto d\'Alba ($72), Luigi Giordano Barbaresco ($82), Bava "Libera" Barbera d\'Asti ($58). Tuscany brings Ciacci Piccolomini Rosso di Montalcino ($60), Grattamacco Rosso Bolgheri ($79). The Veneto section includes Zenato "Ripassa" Valpolicella Ripasso Superiore ($72) and Corte Rugolin "Crosara de le Strie" Amarone Classico 2016 ($120). American selections include Cristom Mt. Jefferson Cuvée Pinot Noir ($95), Faust Cabernet from Napa ($120), and Ridge Zinfandel from Paso Robles ($88). Most bottles land $40 to $88, genuinely fair for this caliber.',
+      },
+      {
+        title: 'Sunday Half-Price Bottles',
+        body: 'Every Sunday night, di Paolo offers 50% off all bottles of wine $100 and under. G.D. Vajra Barolo for $44.50. Zenato Ripassa for $36. Cristom Willamette Pinot for $47.50. These are cellar-worthy wines at prices below most retail shops, served alongside handmade pasta. Sunday is the hardest reservation of the week. Book well ahead.',
+      },
+      {
+        title: 'The Kitchen and the Bar',
+        body: 'Executive chef Darin Hiebel (Best Chefs America) runs a kitchen where every pasta is hand-rolled each morning, mozzarella is pulled daily, and the bread sticks are baked fresh. Zagat named di Paolo No. 1 Italian in Atlanta four consecutive years. The Pappardelle con Coniglio (braised rabbit, Castelvetrano olives, shaved Grana Padano) is the signature. At the bar, Zack is one of the best bartenders in Atlanta, routinely called out by name in reviews. His Old Fashioneds are worth the trip alone, and he guides wine selections without pretension. Bar seats fill fast with regulars.',
+      },
+      {
+        title: 'Why Rager',
+        body: 'A strip-mall Northern Italian kitchen that has been making everything from scratch for 30 years, with an 80+ bottle wine list featuring Barolo, Barbaresco, Amarone, and Brunello at fair markups, plus half-price Sundays that turn serious Italian wines into steals. The kitchen, the list, the bar, and the deal all align. Worth the drive to Alpharetta.',
+      },
+    ],
+    bottomLine: 'di Paolo is a 30-year-old scratch Italian kitchen in a strip mall with an 80+ bottle wine list, half-price Sundays that make Barolo affordable, and one of the best bartenders in Atlanta behind the bar. Zagat\'s former No. 1 Italian for a reason.',
+    publishedAt: '2026-02-11',
   },
   {
     slug: 'the-anchorage-greenville',
@@ -1489,6 +1523,7 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Lazy Goat hides one of the deepest Old World wine programs in the South behind a casual Mediterranean menu and river views. Half-price Thursdays turn collector bottles into steals. A genuine destination wine list.',
     publishedAt: '2026-02-11',
+    halfPriceWineNight: { day: 'Thursday', details: 'Half-price bottled wines at dinner' },
   },
   {
     slug: 'northampton-wine-dine-greenville',
@@ -1597,6 +1632,7 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Sassafras delivers honest wine pairings with Southern comfort food and half-price bottles every Wednesday. Nothing flashy, just well-executed. The definition of Reliable.',
     publishedAt: '2026-02-11',
+    halfPriceWineNight: { day: 'Wednesday', details: 'All bottles half price, up to $40 off' },
   },
   {
     slug: 'jones-oyster-co-greenville',

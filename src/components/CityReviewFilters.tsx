@@ -13,6 +13,11 @@ const BADGE_ORDER: BadgeType[] = ['rager', 'wildcard', 'reliable', 'lazy'];
 export default function CityReviewFilters({ reviews }: CityReviewFiltersProps) {
   const [activeBadge, setActiveBadge] = useState<BadgeType | 'all'>('all');
   const [activeNeighborhood, setActiveNeighborhood] = useState<string>('all');
+  const [halfPriceOnly, setHalfPriceOnly] = useState(false);
+
+  const halfPriceCount = useMemo(() => {
+    return reviews.filter(r => r.halfPriceWineNight).length;
+  }, [reviews]);
 
   const neighborhoods = useMemo(() => {
     const set = new Set(reviews.map(r => r.neighborhood));
@@ -32,9 +37,12 @@ export default function CityReviewFilters({ reviews }: CityReviewFiltersProps) {
     return reviews.filter(r => {
       if (activeBadge !== 'all' && r.badge !== activeBadge) return false;
       if (activeNeighborhood !== 'all' && r.neighborhood !== activeNeighborhood) return false;
+      if (halfPriceOnly && !r.halfPriceWineNight) return false;
       return true;
     });
-  }, [reviews, activeBadge, activeNeighborhood]);
+  }, [reviews, activeBadge, activeNeighborhood, halfPriceOnly]);
+
+  const isFiltered = activeBadge !== 'all' || activeNeighborhood !== 'all' || halfPriceOnly;
 
   return (
     <div>
@@ -76,41 +84,61 @@ export default function CityReviewFilters({ reviews }: CityReviewFiltersProps) {
         })}
       </div>
 
-      {/* Neighborhood Filter */}
-      {neighborhoods.length > 3 && (
-        <div className="flex flex-wrap gap-2 mb-8">
+      {/* Half-Price Wine Night + Neighborhood row */}
+      <div className="flex flex-wrap items-center gap-2 mb-8">
+        {halfPriceCount > 0 && (
           <button
-            onClick={() => setActiveNeighborhood('all')}
-            className={`px-3 py-1.5 text-xs rounded-full border transition-all ${
-              activeNeighborhood === 'all'
-                ? 'bg-gray-700 text-white border-gray-700'
-                : 'bg-white text-gray-500 border-gray-200 hover:border-gray-300'
+            onClick={() => setHalfPriceOnly(!halfPriceOnly)}
+            className={`px-3 py-1.5 text-xs font-semibold rounded-full border transition-all ${
+              halfPriceOnly
+                ? 'bg-purple-600 text-white border-purple-600'
+                : 'bg-white text-purple-600 border-purple-300 hover:border-purple-400'
             }`}
           >
-            All Neighborhoods
+            &#127863; Half-Price Wine Night ({halfPriceCount})
           </button>
-          {neighborhoods.map(n => (
+        )}
+
+        {halfPriceCount > 0 && neighborhoods.length > 3 && (
+          <span className="text-gray-300 text-xs">|</span>
+        )}
+
+        {neighborhoods.length > 3 && (
+          <>
             <button
-              key={n}
-              onClick={() => setActiveNeighborhood(activeNeighborhood === n ? 'all' : n)}
+              onClick={() => setActiveNeighborhood('all')}
               className={`px-3 py-1.5 text-xs rounded-full border transition-all ${
-                activeNeighborhood === n
+                activeNeighborhood === 'all'
                   ? 'bg-gray-700 text-white border-gray-700'
                   : 'bg-white text-gray-500 border-gray-200 hover:border-gray-300'
               }`}
             >
-              {n}
+              All Neighborhoods
             </button>
-          ))}
-        </div>
-      )}
+            {neighborhoods.map(n => (
+              <button
+                key={n}
+                onClick={() => setActiveNeighborhood(activeNeighborhood === n ? 'all' : n)}
+                className={`px-3 py-1.5 text-xs rounded-full border transition-all ${
+                  activeNeighborhood === n
+                    ? 'bg-gray-700 text-white border-gray-700'
+                    : 'bg-white text-gray-500 border-gray-200 hover:border-gray-300'
+                }`}
+              >
+                {n}
+              </button>
+            ))}
+          </>
+        )}
+      </div>
 
       {/* Results Count */}
-      {(activeBadge !== 'all' || activeNeighborhood !== 'all') && (
+      {isFiltered && (
         <p className="text-xs text-gray-400 mb-4">
           Showing {filtered.length} of {reviews.length} reviews
           {activeBadge !== 'all' && <span> &middot; {BADGE_CONFIG[activeBadge].label}</span>}
           {activeNeighborhood !== 'all' && <span> &middot; {activeNeighborhood}</span>}
+          {halfPriceOnly && <span> &middot; Half-Price Wine Night</span>}
         </p>
       )}
 
@@ -125,7 +153,7 @@ export default function CityReviewFilters({ reviews }: CityReviewFiltersProps) {
         <div className="text-center py-12 mb-12">
           <p className="text-sm text-gray-400">No reviews match these filters.</p>
           <button
-            onClick={() => { setActiveBadge('all'); setActiveNeighborhood('all'); }}
+            onClick={() => { setActiveBadge('all'); setActiveNeighborhood('all'); setHalfPriceOnly(false); }}
             className="text-wine-600 text-sm mt-2 hover:underline"
           >
             Clear filters

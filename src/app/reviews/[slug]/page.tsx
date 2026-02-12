@@ -151,6 +151,20 @@ export default function ReviewPage({ params }: { params: { slug: string } }) {
         </>
       )}
 
+      {/* Half-Price Wine Night */}
+      {review.halfPriceWineNight && (
+        <div className="rounded-xl p-5 mb-8 bg-purple-50 border border-purple-200">
+          <div className="flex items-center gap-2 mb-1">
+            <span className="text-lg">&#127863;</span>
+            <span className="text-sm font-bold text-purple-800">Half-Price Wine Night</span>
+          </div>
+          <p className="text-sm text-purple-700">
+            <span className="font-semibold">{review.halfPriceWineNight.day}</span>
+            {review.halfPriceWineNight.details && <span> &mdash; {review.halfPriceWineNight.details}</span>}
+          </p>
+        </div>
+      )}
+
       {/* Bottom Line */}
       <div className={`rounded-xl p-6 mb-12 ${config.bg} border`} style={{ borderColor: 'rgba(0,0,0,0.08)' }}>
         <p className={`text-xs font-bold uppercase tracking-wider ${config.color} mb-2`}>

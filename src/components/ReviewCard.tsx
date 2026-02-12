@@ -22,6 +22,13 @@ export default function ReviewCard({ review }: { review: Review }) {
             <Badge type={review.badge} size="sm" />
           </div>
 
+          {review.halfPriceWineNight && (
+            <div className="flex items-center gap-1.5 mb-3 px-2 py-1 bg-purple-50 border border-purple-200 rounded-md w-fit">
+              <span className="text-xs">&#127863;</span>
+              <span className="text-xs font-semibold text-purple-700">Half-Price {review.halfPriceWineNight.day.includes('&') ? review.halfPriceWineNight.day : review.halfPriceWineNight.day + 's'}</span>
+            </div>
+          )}
+
           <p className="text-sm text-gray-600 line-clamp-2 mb-4">
             {review.bottomLine}
           </p>

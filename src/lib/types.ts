@@ -38,6 +38,8 @@ export interface Review {
   editorial?: EditorialSection[];
   subtitle?: string;
   tags?: string[];
+  // Half-price wine night deal
+  halfPriceWineNight?: { day: string; details?: string };
 }
 
 export interface City {
