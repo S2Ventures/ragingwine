@@ -423,7 +423,7 @@ export const reviews: Review[] = [
   {
     slug: 'hw-steakhouse-atlanta',
     restaurant: 'H&W Steakhouse',
-    neighborhood: 'Buckhead',
+    neighborhood: 'Peachtree Corners',
     city: 'Atlanta',
     citySlug: 'atlanta',
     cuisineType: 'Steakhouse',
@@ -437,7 +437,7 @@ export const reviews: Review[] = [
       storage: 'Proper',
     },
     subtitle: '500 Selections and a Napa Obsession Worth Exploring',
-    tags: ['500+ Wines', 'Buckhead', 'Steakhouse', 'Napa Valley Focus'],
+    tags: ['500+ Wines', 'Peachtree Corners', 'Steakhouse', 'Napa Valley Focus'],
     editorial: [
       {
         title: 'The Wine Program',
@@ -445,14 +445,14 @@ export const reviews: Review[] = [
       },
       {
         title: 'The Setting',
-        body: 'Buckhead location with the kind of dark-wood, leather-booth ambiance that signals serious dining. The staff knows the list and can navigate you through the heavier sections without defaulting to the most expensive bottle. Service here is old-school Atlanta hospitality: attentive, knowledgeable, unhurried.',
+        body: 'Peachtree Corners location with the kind of dark-wood, leather-booth ambiance that signals serious dining. The staff knows the list and can navigate you through the heavier sections without defaulting to the most expensive bottle. Service here is old-school Atlanta hospitality: attentive, knowledgeable, unhurried.',
       },
       {
         title: 'The Play',
         body: 'If you are a Cabernet person, this is your Atlanta headquarters. The Napa depth alone makes it worth the trip. But the hidden play is the Bordeaux section, where the markups are more reasonable than the California side and the quality matches or exceeds. Order the ribeye, ask about older vintages, and let the staff do their job.',
       },
     ],
-    bottomLine: 'H&W Steakhouse is the Buckhead wine destination for anyone who thinks steak and Cabernet is a love story worth telling. 500+ selections with real depth in Napa and Bordeaux.',
+    bottomLine: 'H&W Steakhouse is the Peachtree Corners wine destination for anyone who thinks steak and Cabernet is a love story worth telling. 500+ selections with real depth in Napa and Bordeaux.',
     publishedAt: '2026-02-10',
   },
   {
