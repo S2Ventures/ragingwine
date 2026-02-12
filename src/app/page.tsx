@@ -14,7 +14,7 @@ export default function Home() {
       <section className="bg-brand-dark text-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-20 text-center">
           <p className="text-wine-400 font-semibold text-sm uppercase tracking-wider mb-4">
-            Your Wine List Wingman
+            Your Wine Adventure Wingman
           </p>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold mb-6 leading-tight">
             Stop guessing.<br />Start drinking better.

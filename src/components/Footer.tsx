@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="text-white font-bold text-lg mb-2">
               <span>RAGING</span><span className="text-wine-500">WINE</span>
             </div>
-            <p className="text-sm">Your Wine List Wingman</p>
+            <p className="text-sm">Your Wine Adventure Wingman</p>
           </div>
 
           <div>
