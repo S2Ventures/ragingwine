@@ -60,7 +60,7 @@ export const reviews: Review[] = [
       note: 'The volcanic mineral character of the wine mirrors the char on the octopus. Salt meets smoke. This is why you came here.',
     },
     bottomLine: 'The Optimist isn\'t just a great seafood restaurant with a wine list. It\'s a wine destination that happens to serve incredible fish. Trust this restaurant to choose your wine for you.',
-    publishedAt: '2025-02-15',
+    publishedAt: '2026-02-15',
   },
   {
     slug: 'staplehouse-atlanta',
@@ -97,7 +97,7 @@ export const reviews: Review[] = [
       note: 'Whichever vegetables are on the tasting menu, this ros\u00E9 has the acidity and earthiness to match. Ask the sommelier to time this pour.',
     },
     bottomLine: 'Staplehouse is for the diner who wants to be surprised. The wine list is an adventure, not a safety net. Come with an open mind and let the staff guide you.',
-    publishedAt: '2025-02-18',
+    publishedAt: '2026-02-18',
   },
   {
     slug: 'south-city-kitchen-atlanta',
@@ -134,7 +134,7 @@ export const reviews: Review[] = [
       note: 'The wine\'s floral aromatics cut through the richness of the grits while its soft acidity complements the spice. An underrated combination.',
     },
     bottomLine: 'South City Kitchen has a wine list that does its job without trying to impress. Fair prices, safe picks, and nothing that\'ll embarrass you on a date. It just won\'t make your night either.',
-    publishedAt: '2025-02-20',
+    publishedAt: '2026-02-20',
   },
 ];
 

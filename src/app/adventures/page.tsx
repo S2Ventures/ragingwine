@@ -48,7 +48,7 @@ export default function AdventuresPage() {
       <div className="bg-wine-50 border border-wine-200 rounded-xl p-6 mb-10">
         <p className="font-semibold text-wine-800 mb-1">Adventures are launching soon</p>
         <p className="text-wine-700 text-sm">
-          Our first adventures drop in spring 2025. Subscribe to the newsletter to get early access
+          Our first adventures drop in spring 2026. Subscribe to the newsletter to get early access
           and invitations to live events.
         </p>
       </div>
