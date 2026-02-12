@@ -1410,6 +1410,33 @@ export const reviews: Review[] = [
     publishedAt: '2026-02-10',
   },
   {
+    slug: 'bw-burgers-atlanta',
+    restaurant: 'B&W Burgers, Buns & Brews',
+    neighborhood: 'Norcross',
+    city: 'Atlanta',
+    citySlug: 'atlanta',
+    cuisineType: 'Burgers / Sports Bar',
+    badge: 'lazy',
+    subtitle: 'Great Burgers, Great Beer, Great Music. The Wine List? Not So Much.',
+    tags: ['Lazy List', 'Burgers', 'Craft Beer', 'Live Music', 'Rooftop Patio', 'Norcross'],
+    editorial: [
+      {
+        title: 'What They Get Right',
+        body: 'B&W is a legitimate neighborhood gem in historic downtown Norcross. The smash burgers won the 2024 Gwinnett Burger Week People\'s Choice Award. The Beer Cheese Smash Burger with candy bacon and a fried egg on a pretzel bun is worth the drive. Twenty-plus draft taps are well-curated with local Georgia breweries: Creature Comforts Tropicalia, Cultivation Fresh Cut Pale Ale brewed right down the road, Cherry Street Digital Recess Hazy IPA, and their own B&W House Brew amber lager. Bell\'s Two Hearted and Ghost in the Machine round out the craft side. Free live bands every Friday and Saturday, a rooftop patio, and Blanton\'s bourbon at a reasonable price. This place knows what it is.',
+      },
+      {
+        title: 'What They Get Wrong',
+        body: 'The wine list. The entire selection is roughly a dozen wines, and it reads like a distributor\'s starter pack: Josh Cellars Chardonnay, Meiomi Pinot Noir, Noble Vines Marquis Red Blend, Barone Fini Pinot Grigio. No rosé. No interesting varietals. No by-the-glass discoveries. No half-bottles. No Georgia or Southeast wines. The markup stings too: $30 for a bottle of Josh Cellars Chardonnay that retails for $9. You\'re essentially choosing between "Meiomi or Josh?" which is the wine equivalent of "Bud Light or Miller Lite?" The one bright spot is Singing Tree Chardonnay from Goldschmidt Vineyards, a perfectly drinkable wine at a fair price. They also offer a $25 corkage fee with a meal, which is actually the smartest wine move on the menu.',
+      },
+      {
+        title: 'Why Lazy List',
+        body: 'A restaurant with a full bar, rooftop patio, live entertainment, and a 20-tap craft beer program clearly knows how to curate a beverage experience. The wine list got none of that attention. It\'s an afterthought assembled by someone who was told "we probably need to have wine" rather than anyone who actually drinks it. The beer program proves the talent is there. Here\'s hoping the wine list eventually gets even a fraction of the same care.',
+      },
+    ],
+    bottomLine: 'B&W Burgers is a fantastic burger-and-beer spot with award-winning smash burgers, 20+ craft taps, free live music, and a rooftop patio. But the wine list is a dozen grocery-store labels at steep markup. Stick with the Tropicalia, bring your own bottle, or order the Blanton\'s.',
+    publishedAt: '2026-02-11',
+  },
+  {
     slug: 'the-anchorage-greenville',
     restaurant: 'The Anchorage',
     neighborhood: 'Village of West Greenville',
