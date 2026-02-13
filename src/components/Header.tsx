@@ -14,6 +14,7 @@ const navItems = [
   { label: 'Greenville', href: '/cities/greenville' },
   { label: 'Key West', href: '/cities/key-west' },
   { label: 'Charleston', href: '/cities/charleston' },
+  { label: 'Shop', href: '/shop' },
   { label: 'About', href: '/about' },
 ];
 
