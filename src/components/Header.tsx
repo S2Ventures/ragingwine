@@ -7,11 +7,13 @@ import Logo from './Logo';
 const navItems = [
   { label: 'Reviews', href: '/reviews' },
   { label: 'Wineries', href: '/wineries' },
+  { label: 'Quiz', href: '/quiz' },
   { label: 'Adventures', href: '/adventures' },
   { label: 'Wine 101', href: '/wine-101' },
   { label: 'Atlanta', href: '/cities/atlanta' },
   { label: 'Greenville', href: '/cities/greenville' },
   { label: 'Key West', href: '/cities/key-west' },
+  { label: 'Charleston', href: '/cities/charleston' },
   { label: 'About', href: '/about' },
 ];
 

@@ -22,6 +22,13 @@ export const cities: City[] = [
     tagline: 'Wine adventures beyond the frozen margarita',
     description: 'Key West is a destination city where visitors make restaurant decisions daily with zero local knowledge. Wine lists here range from tourist-trap lazy to surprisingly adventurous. We map the territory so you don\'t have to guess.',
   },
+  {
+    name: 'Charleston',
+    slug: 'charleston',
+    state: 'South Carolina',
+    tagline: 'Holy City sips with Lowcountry soul',
+    description: 'Charleston\'s award-winning food scene is world-famous, but its wine programs deserve their own spotlight. From King Street fine dining to neighborhood bistros on Upper King, the city blends Southern tradition with ambitious sommeliers who know their way around a wine list. Reviews coming soon.',
+  },
 ];
 
 export const reviews: Review[] = [
