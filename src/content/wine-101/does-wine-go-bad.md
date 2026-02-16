@@ -1,6 +1,6 @@
 ---
 slug: does-wine-go-bad
-title: "Does Wine Go Bad? How to Store, Preserve, and Know When a Bottle Is Past Its Prime"
+title: "Does Wine Go Bad? Storage, Shelf Life, and Spoilage Signs"
 description: "How to store wine at home, how long opened wine lasts, signs a wine has turned, and how to preserve an unfinished bottle."
 category: "Wine Culture"
 readTime: "7 min"
@@ -37,7 +37,7 @@ These wines don't "age" in any meaningful sense. They don't develop complexity o
 
 ### Wines That Benefit from Aging
 
-Certain wines are built to improve over years or decades. They have higher tannin, acidity, and concentration, which act as natural preservatives that allow the wine to evolve positively. These include top Cabernet Sauvignon (Napa, Bordeaux), Barolo and Barbaresco, vintage Champagne, quality Riesling (especially German), Burgundy (both red and white), Vintage Port, and Sauternes and other noble-rot dessert wines.
+Certain wines are built to improve over years or decades. They have higher [tannin](/wine-101/what-is-tannin), acidity, and concentration, which act as natural preservatives that allow the wine to evolve positively. These include top Cabernet Sauvignon (Napa, Bordeaux), Barolo and Barbaresco, vintage Champagne, quality Riesling (especially German), Burgundy (both red and white), Vintage Port, and Sauternes and other noble-rot dessert wines.
 
 Even these wines need proper storage. A $200 Bordeaux aged for 20 years in a temperature-controlled cellar is transcendent. The same bottle left on top of the fridge for 20 years is expensive vinegar.
 
@@ -49,7 +49,7 @@ Here's the uncomfortable truth: storage conditions matter more than the wine's p
 
 If you're keeping wine for more than a few weeks, these are the conditions that protect it.
 
-**Temperature: 55°F (13°C) is ideal.** This is the standard cellar temperature that slows chemical reactions without stopping them, allowing wine to age gracefully. Anything between 45-65°F is acceptable for medium-term storage. Above 70°F, you're accelerating degradation. Above 80°F, you're cooking the wine.
+**Temperature: [55°F (13°C)](/wine-101/wine-serving-temperature) is ideal.** This is the standard cellar temperature that slows chemical reactions without stopping them, allowing wine to age gracefully. Anything between 45-65°F is acceptable for medium-term storage. Above 70°F, you're accelerating degradation. Above 80°F, you're cooking the wine.
 
 **Consistency matters more than precision.** A steady 60°F is better than a temperature that swings between 50°F and 70°F daily. Temperature fluctuations cause the wine to expand and contract, which can push air past the cork and accelerate oxidation.
 

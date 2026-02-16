@@ -97,7 +97,7 @@ If you're unsure what to order, starting with a glass is a smart move. It buys y
 
 ### The Math That Matters
 
-A standard bottle yields about five 5-ounce glasses. If a glass costs $14 and the bottle costs $48, the bottle becomes the better deal at three or more glasses of the same wine. Two glasses costs $28 (more than half the bottle price for less than half the wine). Three glasses costs $42 (close to bottle price for only three-fifths of the wine).
+A standard bottle yields about [five 5-ounce glasses](/wine-101/glasses-of-wine-in-a-bottle). If a glass costs $14 and the bottle costs $48, the bottle becomes the better deal at three or more glasses of the same wine. Two glasses costs $28 (more than half the bottle price for less than half the wine). Three glasses costs $42 (close to bottle price for only three-fifths of the wine).
 
 If two or more people at the table want the same style of wine, check whether a bottle of something similar is available. You'll almost always come out ahead.
 
@@ -143,6 +143,6 @@ If the list is genuinely overwhelming, if it's 30 pages of Burgundy and you can'
 
 **Order the "weird" bottle.** If one wine on the list is from a region or grape you've never seen before, and it's in your price range, order it. Restaurants put unusual wines on their list because someone on the team loves them. You're more likely to be delighted by the unexpected pick than by the safe one.
 
-**Start with bubbles.** When you genuinely can't decide, a glass of sparkling wine is always the right opening move. It pairs with everything, it sets a celebratory tone, and it gives you time to figure out what you actually want to drink with your main course.
+**Start with bubbles.** When you genuinely can't decide, a glass of [sparkling wine](/wine-101/sparkling-wine-vs-champagne) is always the right opening move. It pairs with everything, it sets a celebratory tone, and it gives you time to figure out what you actually want to drink with your main course.
 
 The wine list isn't a test. It's a menu. And like any menu, it's there to help you find something you'll enjoy. Read the structure, aim for the middle, talk to your server, and stop worrying about getting it "right." There's no wrong answer when the glass is full and the company is good.

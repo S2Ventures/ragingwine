@@ -1,6 +1,6 @@
 ---
 slug: what-is-tannin
-title: "What Is Tannin in Wine? (And Why It Makes Some Wines Taste Bitter)"
+title: "What Is Tannin in Wine? Why Some Wines Taste Bitter"
 description: "A friendly explanation of tannins — what they are, where they come from, why they matter, and how to find wines with more or fewer tannins."
 category: "Wine Basics"
 readTime: "7 min"
@@ -87,7 +87,7 @@ Tannin is the reason red wine and steak are inseparable. It's not tradition or m
 
 **Fat cuts tannin.** Fatty foods (marbled steak, rich cheese, duck confit) coat your mouth with a lipid layer that buffers the drying effect of tannin. This is why a young, tannic Barolo that feels harsh on its own becomes velvety alongside braised short ribs.
 
-**The reverse is also true.** If you drink a tannic Cabernet with a light salad or delicate fish, the tannin overwhelms the food. The wine tastes harsh and the food tastes like nothing. Matching the weight of the wine to the weight of the food keeps both in balance.
+**The reverse is also true.** If you drink a tannic Cabernet with a light salad or delicate fish, the tannin overwhelms the food. The wine tastes harsh and the food tastes like nothing. Matching the weight of the wine to the [weight of the food](/wine-101/wine-and-food-pairing) keeps both in balance.
 
 **Practical rules:**
 
@@ -120,7 +120,7 @@ If you've opened a young, tannic red and it's too aggressive, you have options.
 
 Most white wines have negligible tannin because they're made without skin contact. But there are exceptions.
 
-**Orange wine** (white grapes fermented with their skins, like a red wine) develops noticeable tannin. If you've tried an orange wine and found it grippy and textured, that's skin tannin in action.
+**[Orange wine](/wine-101/natural-organic-biodynamic-wine)** (white grapes fermented with their skins, like a red wine) develops noticeable tannin. If you've tried an orange wine and found it grippy and textured, that's skin tannin in action.
 
 **Heavily oaked Chardonnay** can pick up some tannin from the barrels, though it's subtler than grape tannin. You might notice it as a slight drying quality on the finish of a big, barrel-aged white Burgundy.
 
@@ -128,6 +128,6 @@ Most white wines have negligible tannin because they're made without skin contac
 
 Tannin isn't a flaw. It's a feature. It gives red wine its structure, its aging ability, and its partnership with food. A wine with no tannin is like a building with no frame: it might look nice, but it won't stand up to time or pressure.
 
-If tannin has been the barrier keeping you from enjoying big reds, try this: order a glass of Cabernet at your next steak dinner. Alternate bites of meat with sips of wine. You'll feel the tannin melt away against the protein, and the wine will reveal layers of fruit, spice, and complexity that the tannin was guarding all along.
+If tannin has been the barrier keeping you from enjoying big reds, try this: order a glass of Cabernet at your next [steak dinner](/wine-101/what-wine-goes-with-steak). Alternate bites of meat with sips of wine. You'll feel the tannin melt away against the protein, and the wine will reveal layers of fruit, spice, and complexity that the tannin was guarding all along.
 
 Tannin isn't the enemy. It's the bouncer. And once you're past the door, the party is excellent.

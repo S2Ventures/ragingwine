@@ -1,7 +1,7 @@
 ---
 slug: byob-corkage-fees
-title: "How to Bring Your Own Wine to a Restaurant: Corkage Fees, Etiquette, and When It Makes Sense"
-description: "A complete guide to BYOB wine etiquette. When it's appropriate, how corkage fees work, and how to handle it gracefully."
+title: "BYOB Wine at Restaurants: Corkage Fees and Etiquette"
+description: "A complete guide to bringing your own wine to a restaurant. How corkage fees work, what's appropriate, and when BYOB actually saves you money."
 category: "Restaurant Skills"
 readTime: "7 min"
 tier: 3
@@ -61,7 +61,7 @@ When you and friends are doing a themed tasting (all Barolo vintages, a horizont
 
 This is the cardinal rule. If the restaurant carries Caymus Cabernet and you walk in with a bottle of Caymus Cabernet, you're telling them you'd rather not pay their markup on a wine they're already offering. It's the equivalent of bringing outside food to a restaurant because you think theirs is overpriced.
 
-Before visiting, check the restaurant's wine list online (most post it on their website). If you can't find it, call ahead and ask: "We'd like to bring a bottle of [wine]. Is that available on your list?" If it is, choose a different bottle.
+Before visiting, check the restaurant's [wine list](/wine-101/how-to-read-a-wine-list) online (most post it on their website). If you can't find it, call ahead and ask: "We'd like to bring a bottle of [wine]. Is that available on your list?" If it is, choose a different bottle.
 
 ### Rule 2: Call Ahead
 
@@ -97,7 +97,7 @@ Many restaurants will waive or reduce the corkage fee if you order a bottle from
 
 Bring the bottle in a wine bag or wrapped in a cloth. Don't pull it out of a grocery bag. If it's a special bottle, the presentation matters. A proper wine bag costs $5 and signals that you take this seriously.
 
-If the wine needs to be chilled (white, sparkling, rosé), transport it in a cooler or insulated bag. Arriving with a warm Champagne and asking the restaurant to chill it for 30 minutes delays your meal and occupies their ice bucket.
+If the wine needs to be chilled (white, sparkling, rosé), transport it in a cooler or insulated bag. Getting the [serving temperature](/wine-101/wine-serving-temperature) right matters. Arriving with a warm Champagne and asking the restaurant to chill it for 30 minutes delays your meal and occupies their ice bucket.
 
 For red wine that's been cellared, try to keep it at cellar temperature during transit. A wine that's been bouncing around in a hot car all afternoon needs time to settle before drinking.
 
@@ -109,7 +109,7 @@ The server will present the bottle, open it, pour a taste for you to check, and 
 
 ### Decanting
 
-If you're bringing a wine that benefits from decanting (older reds with sediment, young tannic reds that need air), you can ask the restaurant to decant it. Most upscale restaurants have decanters on hand and will do this as part of the corkage service. At casual spots, it's less common, so you might bring your own decanter or just plan to let the wine open up in the glass.
+If you're bringing a wine that benefits from decanting (older reds with sediment, young [tannic](/wine-101/what-is-tannin) reds that need air), you can ask the restaurant to decant it. Most upscale restaurants have decanters on hand and will do this as part of the corkage service. At casual spots, it's less common, so you might bring your own decanter or just plan to let the wine open up in the glass.
 
 ## Tipping on BYOB Bottles
 

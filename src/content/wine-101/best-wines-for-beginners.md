@@ -23,7 +23,7 @@ No prerequisites. No shame. No weird gatekeeping about how you should have start
 
 Wine beginners tend to gravitate toward two things: sweetness and fruit. That's not a flaw. That's your palate telling you what it finds pleasurable. Respect it.
 
-Over time, most wine drinkers naturally migrate toward drier, more complex wines. But trying to skip ahead to bone-dry Barolo on day one is like starting a running habit with a marathon. You'll hate it, quit, and blame the whole sport.
+Over time, most wine drinkers naturally migrate toward [drier](/wine-101/what-does-dry-wine-mean), more complex wines. But trying to skip ahead to bone-dry Barolo on day one is like starting a running habit with a marathon. You'll hate it, quit, and blame the whole sport.
 
 Start where your palate is. Move at your own pace. There's no deadline.
 
@@ -79,7 +79,7 @@ The fastest way to figure out your palate is systematic experimentation. Here's 
 
 **The Two-Bottle Test.** Buy two inexpensive bottles from different categories. Say, a Sauvignon Blanc and a Chardonnay. Taste them back to back over dinner. Notice which one you reach for more often. That tells you whether you lean toward crisp/light or rich/full.
 
-**The Restaurant Flight.** Many wine-focused restaurants offer tasting flights of three or four wines. This is the most efficient way to explore because you get direct comparisons with food context. Order a flight, note which glass you liked best, and remember that varietal.
+**The Restaurant Flight.** Many wine-focused restaurants offer [tasting flights](/wine-101/wine-tasting-guide) of three or four wines. This is the most efficient way to explore because you get direct comparisons with food context. Order a flight, note which glass you liked best, and remember that varietal.
 
 **The Three-Word Method.** After tasting a wine, describe it with exactly three words. Don't overthink it. "Light, fruity, crisp" or "heavy, spicy, smooth" or "tart, bubbly, refreshing." Over time, you'll notice patterns in the words you use for wines you enjoy. Those patterns are your palate talking.
 
@@ -113,6 +113,16 @@ There's no right pace. Some people spend months on Pinot Grigio and that's perfe
 | Whiskey/bourbon | Cabernet Sauvignon | $12–20 |
 | Margaritas | Dry rosé or Albariño | $10–15 |
 | Nothing yet | Start with Beaujolais | $10–14 |
+
+## Your First Restaurant Wine Order
+
+Ordering wine at a restaurant for the first time feels intimidating, but it doesn't have to be. Start with by-the-glass options. Every restaurant with a wine program offers several wines by the glass, and these are curated to be crowd-pleasers. Ask your server: "What's your most popular glass of white?" or "What's a smooth, easy-drinking red?" These are perfectly normal questions that servers hear every night.
+
+If the list has a Pinot Grigio, a Sauvignon Blanc, and a Chardonnay by the glass, you can taste your way across the white wine spectrum in a single dinner. Same logic applies to reds: a Pinot Noir and a Malbec by the glass cover the light-to-medium range. Ordering two different glasses across courses is a smart exploration strategy, not indecision. For a full walkthrough of the process, read our guide on [how to order wine at a restaurant](/wine-101/how-to-order-wine).
+
+Don't worry about the tasting ritual when the server pours your glass. Give it a swirl, take a sniff, take a sip, and nod. That's it. You're not judging the wine at this stage; you're checking that it's not flawed (which it won't be 97% of the time). If it smells and tastes like wine, you're good. Say "that's great" and move on with your evening.
+
+The most important thing: there is no wrong order. The server doesn't judge you for ordering Moscato. The sommelier doesn't judge you for asking what Merlot tastes like. These are their jobs, and helping you find something you enjoy is the best part of their night. The only mistake is being too intimidated to ask.
 
 ## What Not to Worry About
 

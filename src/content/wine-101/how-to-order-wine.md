@@ -61,7 +61,7 @@ The number one reason people freeze when ordering wine is that they don't know t
 
 **Order by the glass when:** you and your dining companions want different wines, you're eating light and won't finish a bottle, you want to try something new without committing, or you're the only one drinking.
 
-**Order a bottle when:** two or more people are drinking the same style, you want better value (a bottle is usually the equivalent of about four glasses at the by-the-glass price), or the bottle list has significantly better options than the glass pour selection.
+**Order a bottle when:** two or more people are drinking the same style, you want better value (a bottle is usually the equivalent of about [four glasses](/wine-101/glasses-of-wine-in-a-bottle) at the by-the-glass price), or the bottle list has significantly better options than the glass pour selection.
 
 **The math:** most restaurants price a single glass at roughly one-quarter to one-third the bottle price. If three or more people want the same wine, a bottle almost always wins. If you're ordering two glasses of the same wine, you're often paying bottle price for less wine.
 
@@ -79,7 +79,7 @@ The server brings the bottle, shows you the label, opens it, and pours you a sma
 
 **When to send it back:** If the wine genuinely smells off or tastes like it's spoiled, you have every right to say: "I think this might be corked. Would you mind checking?" No good restaurant will push back on this. Corked wine happens to roughly 2-3% of bottles sealed with natural cork. It's not an insult to the restaurant. It's chemistry.
 
-**When NOT to send it back:** "I don't love this" is not a reason to return a bottle. The tasting ritual is a quality check, not a satisfaction guarantee. If you ordered a tannic Cabernet and it tastes tannic, that's the wine doing its job.
+**When NOT to send it back:** "I don't love this" is not a reason to return a bottle. The tasting ritual is a quality check, not a satisfaction guarantee. If you ordered a [tannic](/wine-101/what-is-tannin) Cabernet and it tastes tannic, that's the wine doing its job.
 
 ## How to Set a Budget Without Announcing Your Price Range
 
@@ -99,7 +99,7 @@ Nobody wants to say "I'm looking to spend about forty bucks" in front of a table
 
 **Sniffing the cork.** The server may hand you the cork. You don't need to smell it. Just set it on the table. If you want to look at it, check that it's moist on the wine end (meaning it was stored properly) and doesn't smell aggressively moldy. But honestly, the wine in your glass tells you everything the cork would.
 
-**Overthinking the pairing.** The "rules" of wine pairing are more like gentle suggestions. If you want Chardonnay with your steak, order Chardonnay with your steak. The wine police are not coming.
+**Overthinking the pairing.** The "rules" of [wine pairing](/wine-101/wine-and-food-pairing) are more like gentle suggestions. If you want Chardonnay with your steak, order Chardonnay with your steak. The wine police are not coming.
 
 ## The Quick-Reference Ordering Checklist
 
@@ -113,4 +113,4 @@ Nobody wants to say "I'm looking to spend about forty bucks" in front of a table
 
 That's the whole process. No advanced degree required. No French necessary. Just a willingness to point at a menu and say "that one looks good."
 
-The best wine order you'll ever make is the one where you stop worrying about getting it right and start focusing on enjoying the meal. The restaurant wants you to have a great time. Your server wants to help. And the wine, frankly, doesn't care how you pronounce it.
+The best wine order you'll ever make is the one where you stop worrying about getting it right and start focusing on enjoying the meal. The restaurant wants you to have a great time. Your server wants to help. And the wine, frankly, doesn't care how you pronounce it. Every confident wine drinker started exactly where you are right now, staring at an unfamiliar list and hoping for the best. The difference is they stopped hesitating and started asking questions. Do the same, and you'll never dread a wine list again.

@@ -1,6 +1,6 @@
 ---
 slug: wine-serving-temperature
-title: "The Complete Guide to Wine Serving Temperature: Why It Matters More Than You Think"
+title: "Wine Serving Temperature: The Most Fixable Wine Mistake"
 description: "Exact temperature ranges for every major wine style, quick-chill techniques, and how to tell if your restaurant is serving wine too warm or too cold."
 category: "Wine Culture"
 readTime: "7 min"
@@ -39,7 +39,7 @@ Champagne, Prosecco, Cava, and Crémant all want the same treatment: well chille
 
 ### Light White and Rosé: 45-50°F (7-10°C)
 
-Sauvignon Blanc, Pinot Grigio, Vinho Verde, Albariño, and dry rosé all thrive in this range. Cold enough to be refreshing, warm enough that you can actually taste the aromatics.
+Sauvignon Blanc, Pinot Grigio, Vinho Verde, Albariño, and [dry rosé](/wine-101/what-is-rose-wine) all thrive in this range. Cold enough to be refreshing, warm enough that you can actually taste the aromatics.
 
 A common mistake: serving these straight from a commercial fridge set to 35°F. That's too cold. The wine will taste like lemon water. Pull it from the fridge 10 minutes before pouring, or cup the glass in your hands for a minute to bring it up slightly.
 
@@ -108,7 +108,7 @@ Understanding why temperature matters helps you adjust on the fly.
 
 **Cold suppresses aromas.** The colder a wine is, the less you can smell. This is why ice-cold wine seems "clean" and "simple." It's not that the complexity isn't there. It's locked up. As wine warms in the glass, aromas open up. This is why you should let an overly cold white sit for a few minutes rather than drinking it immediately.
 
-**Cold amplifies acidity and tannin.** A cool wine tastes crisper and more structured. A warm wine of the same kind tastes softer and flabbier. This is why chilling a red wine slightly makes it taste more vibrant: you're lifting the acidity and firming up the tannins.
+**Cold amplifies acidity and [tannin](/wine-101/what-is-tannin).** A cool wine tastes crisper and more structured. A warm wine of the same kind tastes softer and flabbier. This is why chilling a red wine slightly makes it taste more vibrant: you're lifting the acidity and firming up the tannins.
 
 **Warmth amplifies alcohol and sweetness.** As wine warms up, the alcohol becomes more apparent on your nose and palate, and any residual sugar tastes sweeter. A sweet dessert wine at 70°F can taste cloying and boozy. The same wine at 48°F tastes balanced and refreshing.
 

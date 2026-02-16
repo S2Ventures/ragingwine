@@ -1,7 +1,7 @@
 ---
 slug: chardonnay-vs-sauvignon-blanc
-title: "Chardonnay vs. Sauvignon Blanc: Which White Wine Is Right for You?"
-description: "The world's two most popular whites, head to head. Flavor, body, food pairings, and when to reach for each."
+title: "Chardonnay vs. Sauvignon Blanc: Which White Wine Fits?"
+description: "The world's two most popular whites, head to head. Flavor profiles, body, food pairings, price sweet spots, and when to reach for each at a restaurant."
 category: "Comparisons"
 readTime: "7 min"
 tier: 2
@@ -61,7 +61,7 @@ Sauvignon Blanc is more consistent across styles. The grape's natural acidity an
 
 ## Food Pairing Guide
 
-This is where the choice gets practical. What's on your plate?
+This is where the choice gets practical. What's on your plate? Understanding [wine and food pairing](/wine-101/wine-and-food-pairing) fundamentals will help you make smart choices both at home and on restaurant wine lists.
 
 ### Chardonnay Pairs Best With:
 
@@ -115,6 +115,8 @@ This is where the choice gets practical. What's on your plate?
 
 ## The Price-to-Quality Sweet Spots
 
+Looking for great value wines on a restaurant list? You're in luck—both of these whites offer exceptional options at [under $20](/wine-101/best-wines-under-20) price points.
+
 ### Chardonnay Values:
 
 **Mâcon-Villages (Burgundy):** $12-18. Clean, balanced, unoaked Chardonnay from the south of Burgundy. Excellent quality for the price.
@@ -130,6 +132,8 @@ This is where the choice gets practical. What's on your plate?
 **Sancerre:** $18-25. Yes, it's pricier, but the elegance and mineral character of Loire Valley Sauvignon Blanc is worth the step up for a special dinner.
 
 **Spain (Rueda):** $8-12. Often made from Verdejo (a close cousin of Sauv Blanc), wines from Rueda offer herbaceous, citrusy character at rock-bottom prices.
+
+One critical distinction: both Chardonnay and Sauvignon Blanc are [dry wines](/wine-101/what-does-dry-wine-mean), which means they contain minimal residual sugar. This matters when you're reading a wine list—neither of these will taste sweet, even if the descriptions include fruity language. The freshness comes from acidity, not sugar.
 
 ## The Decision Matrix
 
@@ -147,3 +151,13 @@ This is where the choice gets practical. What's on your plate?
 Both are great wines. Neither is objectively better. The right choice depends entirely on what's on your plate and what kind of experience you want. Rich and indulgent? Chardonnay. Bright and refreshing? Sauvignon Blanc.
 
 When in doubt, order a glass of each and settle the debate yourself.
+
+## How to Choose Between Them at a Restaurant
+
+Faced with a wine list at a restaurant? Here's how to nail the Chardonnay vs. Sauvignon Blanc decision every time. Start by scanning the menu: what are you eating? If it's rich (butter sauce, cream, cheese, shellfish in beurre blanc), point toward Chardonnay. If it's light and fresh (salad, sushi, grilled vegetables with lemon), Sauvignon Blanc wins. But the real game-changer is asking your server or sommelier—they can tell you not just whether the wine is dry and what it tastes like, but which specific producer on the list aligns with your meal.
+
+One smart restaurant move: order both by the glass. This lets you taste-test without committing to a full bottle, and you'll immediately feel the difference between the two styles. If the list doesn't offer both by the glass and you're ordering a bottle, err toward Sauvignon Blanc—it's more versatile across courses and pairs with a wider range of restaurant dishes. Chardonnay shines when you know exactly what you're eating; Sauvignon Blanc is your safety play when you're building a meal course by course.
+
+Don't overthink glass versus bottle for these two. Chardonnay's richness means it can hold up in a glass for a few hours before oxidizing, and Sauvignon Blanc's acidity preserves it even better. The worst mistake is letting perfect paralysis stop you from ordering. Pick one, enjoy it, and try the other next time. That's how you develop your preferences.
+
+A final pro tip for restaurant ordering: notice what your server or sommelier recommends based on the season and your dining companions. In warmer months, expect Sauvignon Blanc to be the default suggestion. In cooler months, Chardonnay becomes more prominent. If you're dining with a group and some people are unsure about white wine in general, Chardonnay is the safer bet—its richness and familiar flavors appeal to a broader audience. If your table skews adventurous, Sauvignon Blanc shows sophistication and prompts interesting conversations about terroir and regional expression. Neither choice is wrong; context matters.

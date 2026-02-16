@@ -1,6 +1,6 @@
 ---
 slug: wine-trends-2026
-title: "2026 Wine Trends: What to Drink Now and What's Coming to Restaurant Menus"
+title: "2026 Wine Trends: What to Drink Right Now"
 description: "The wines, regions, and styles shaping 2026. From chillable reds to Portugal's rise and the 'drink less, drink better' movement."
 category: "Trends"
 readTime: "8 min"
@@ -31,7 +31,7 @@ Portugal has been the most undervalued wine country on earth for years. In 2026,
 
 The "red wine must be served at room temperature" orthodoxy is dead. In 2026, lighter reds served slightly chilled are one of the fastest-growing segments in wine, especially during warmer months and in casual dining settings.
 
-**The grapes driving the trend:** Gamay (Beaujolais), Frappato (Sicily), Lambrusco (Emilia-Romagna), Zweigelt (Austria), Trousseau (Jura), and lighter styles of Grenache and Pinot Noir. These are low-tannin, high-acid, fruit-forward reds that become more refreshing when chilled to 55-60°F.
+**The grapes driving the trend:** Gamay (Beaujolais), Frappato (Sicily), Lambrusco (Emilia-Romagna), Zweigelt (Austria), Trousseau (Jura), and lighter styles of Grenache and Pinot Noir. These are low-[tannin](/wine-101/what-is-tannin), high-acid, fruit-forward reds that become more refreshing when [chilled to 55-60°F](/wine-101/wine-serving-temperature).
 
 **Why it works:** Chilling a light red amplifies its acidity and fruit, making it taste brighter and more refreshing. These wines fill the gap between white wine and full-bodied reds. They're versatile with food (charcuterie, grilled vegetables, lighter proteins), they work in warm weather, and they appeal to drinkers who find big reds too heavy.
 
@@ -98,7 +98,7 @@ Walk into a forward-thinking restaurant in 2026 and the wine list looks differen
 
 **More style-based organization.** Instead of organizing exclusively by region or varietal, more lists are using style categories: "Light & Crisp," "Rich & Textured," "Bold & Structured." This makes the list accessible to diners who know what they like but don't know wine geography.
 
-**More transparency about farming.** Organic, biodynamic, and natural wine designations are increasingly noted on wine lists, either in a dedicated section or with symbols next to individual wines. This reflects growing consumer interest in how wine is made, not just how it tastes.
+**More transparency about farming.** [Organic, biodynamic, and natural wine](/wine-101/natural-organic-biodynamic-wine) designations are increasingly noted on wine lists, either in a dedicated section or with symbols next to individual wines. This reflects growing consumer interest in how wine is made, not just how it tastes.
 
 **More inclusive pricing.** The middle of the wine list is getting more interesting. Sommeliers are deliberately seeking out wines from emerging regions and lesser-known producers that deliver exceptional quality at approachable prices. The days of only finding value at the bottom of the list are fading.
 

@@ -23,7 +23,7 @@ You don't need a chart with 47 intersecting arrows. You don't need to know the d
 
 **Match the weight of the wine to the weight of the food.**
 
-That's it. That's the foundation of every pairing decision you'll ever make. A light wine with a heavy dish gets bulldozed. A heavy wine with a light dish bulldozes the food. When they're in the same weight class, everybody wins.
+That's it. That's the foundation of every pairing decision you'll ever make. (If you're still deciding between [red and white wine](/wine-101/red-wine-vs-white-wine) in general, start there.) A light wine with a heavy dish gets bulldozed. A heavy wine with a light dish bulldozes the food. When they're in the same weight class, everybody wins.
 
 Light foods (salads, raw fish, steamed vegetables) pair with light wines (Pinot Grigio, Sauvignon Blanc, Vinho Verde).
 
@@ -57,7 +57,7 @@ Chicken is the most versatile protein on any menu, which means the preparation m
 
 **Chicken Parmesan → Italian red (Chianti, Barbera, Montepulciano).** The tomato sauce is the real driver here. Tomatoes are high in acid, so you need a wine with matching acidity. Italian reds were literally born for this.
 
-**Fried chicken → Sparkling wine.** Yes, seriously. The bubbles and acidity in Champagne, Cava, or Prosecco cut through the grease like a squeegee on a windshield. This is one of the most underrated pairings in the game.
+**Fried chicken → [Sparkling wine](/wine-101/sparkling-wine-vs-champagne).** Yes, seriously. The bubbles and acidity in Champagne, Cava, or Prosecco cut through the grease like a squeegee on a windshield. This is one of the most underrated pairings in the game.
 
 ## Seafood Pairings
 
@@ -129,6 +129,16 @@ Pizza deserves its own section because it's the most frequently eaten meal in Am
 | Margherita pizza | Sangiovese | Italian on Italian |
 | Lobster | Oaked Chardonnay | Butter on butter |
 | Hot wings | Lambrusco | Cold, fizzy, slightly sweet |
+
+## How to Use Pairings at a Restaurant
+
+Knowing the theory is one thing. Deploying it at a restaurant table is where it pays off. The simplest approach: tell your server what everyone at the table is ordering, then ask for a wine recommendation. This gives them the information they need to suggest something that works across multiple dishes. You'll get a better recommendation than scanning the list yourself because the server knows which wines on their list pair best with their kitchen's specific preparations.
+
+By-the-glass programs are a pairing cheat code. If your table is ordering wildly different dishes (steak, fish, pasta), skip the bottle and let everyone order a glass that matches their plate. This is increasingly common at restaurants with strong wine programs, and it's the most food-friendly way to order. For more on navigating this decision, check out our guide on [how to order wine at a restaurant](/wine-101/how-to-order-wine).
+
+If you want to pair wine with each course but don't want to order four bottles, ask if the restaurant offers half bottles or a tasting menu with wine pairings. Many upscale restaurants build multi-course pairing menus specifically because they understand that different dishes call for different wines. These pairings are designed by the sommelier in consultation with the chef, and they're usually the best food-and-wine experience the restaurant offers.
+
+When in doubt, trust the sommelier more than the chart. A good sommelier has tasted every wine on the list alongside most of the menu items. They know which specific bottles on their list match which dishes better than any general guide can. Give them your order, your budget, and your flavor preferences, and let them do what they do best. For tips on [how to talk to a sommelier](/wine-101/how-to-talk-to-a-sommelier) without feeling intimidated, we've got you covered.
 
 ## When to Break the Rules
 

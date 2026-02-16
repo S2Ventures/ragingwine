@@ -1,7 +1,7 @@
 ---
 slug: how-to-talk-to-a-sommelier
 title: "How to Talk to a Sommelier (They Actually Want to Help You)"
-description: "A confidence-building guide that reframes the sommelier as your dining ally. Exact phrases to use, how to set a budget discreetly, and the tasting ritual decoded."
+description: "Exact phrases to use, how to set a budget discreetly, the tasting ritual decoded, and why sommeliers actually want to help you."
 category: "Restaurant Skills"
 readTime: "7 min"
 tier: 3
@@ -43,7 +43,7 @@ This gives the sommelier a starting point. They know your comfort zone and your 
 
 **Example:** "We're splitting the branzino and the duck. What works with both?"
 
-Food pairing is where sommeliers earn their keep. They know the menu intimately, often more than the servers do, because they've tasted every dish alongside different wines. Give them your order and let them work. The recommendation will be better than anything you'd pick from scanning the list.
+[Food pairing](/wine-101/wine-and-food-pairing) is where sommeliers earn their keep. They know the menu intimately, often more than the servers do, because they've tasted every dish alongside different wines. Give them your order and let them work. The recommendation will be better than anything you'd pick from scanning the list.
 
 ### 3. "I'm looking for something in this range."
 
@@ -103,7 +103,7 @@ If you suspect a problem, say: "I think this might be off. Would you mind trying
 
 **What happens next:** The restaurant replaces the bottle. No charge. This is standard. You are not being difficult or rude. You're using the tasting ritual for its intended purpose.
 
-**What you should NOT do:** Send a bottle back because you don't love the style. If you ordered a tannic Cabernet and it tastes tannic, that's the wine being itself. The tasting pour is a defect check, not a satisfaction guarantee.
+**What you should NOT do:** Send a bottle back because you don't love the style. If you ordered a [tannic](/wine-101/what-is-tannin) Cabernet and it tastes tannic, that's the wine being itself. The tasting pour is a defect check, not a satisfaction guarantee.
 
 ## What Sommeliers Wish You Knew
 
@@ -117,7 +117,7 @@ Here are the things wine professionals say when asked what diners get wrong most
 
 **They notice when you skip them.** If a table spends ten minutes struggling with the wine list and never asks for help, the sommelier notices. They're right there, willing and able. Use the resource.
 
-**They love the "weird" wines on their list.** If a sommelier put an orange wine from Slovenia or a volcanic red from the Canary Islands on the list, it's because they love it. Ask about the unusual bottles. You'll get the most animated, genuine recommendation of the night.
+**They love the "weird" wines on their list.** If a sommelier put an [orange wine](/wine-101/natural-organic-biodynamic-wine) from Slovenia or a volcanic red from the Canary Islands on the list, it's because they love it. Ask about the unusual bottles. You'll get the most animated, genuine recommendation of the night.
 
 ## Tipping on Wine
 

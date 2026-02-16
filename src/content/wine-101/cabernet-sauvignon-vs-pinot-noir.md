@@ -37,7 +37,7 @@ The backbone of Bordeaux and the crown jewel of Napa Valley. Cabernet Sauvignon 
 
 **Oak influence:** Almost always aged in oak barrels, which adds vanilla, spice, toast, and structural tannins on top of the grape's natural tannins.
 
-**Body:** Full. Cab is one of the heaviest, densest red wines you'll encounter. It coats your mouth and doesn't let go.
+**Body:** Full. Cab is one of the heaviest, densest red wines you'll encounter. It coats your mouth and doesn't let go. Much of Cabernet's power comes from [tannins](/wine-101/what-is-tannin)—compounds in the grape skins that create that gripping sensation and allow the wine to evolve for decades.
 
 ### Pinot Noir
 
@@ -94,7 +94,7 @@ This is where the Cab vs. Pinot decision really crystallizes.
 
 ### Cabernet Sauvignon Pairs Best With:
 
-**Ribeye and NY Strip.** The classic steakhouse red. Tannins melt into fat.
+**Ribeye and NY Strip.** The classic steakhouse red. Tannins melt into fat. See our full guide on [wine pairings with steak](/wine-101/what-wine-goes-with-steak) for more details on matching specific cuts and preparation styles.
 
 **Lamb (grilled chops, rack, braised shank).** Cabernet's herbal undertones match lamb's gamey richness.
 
@@ -147,6 +147,16 @@ This is where the Cab vs. Pinot decision really crystallizes.
 | Cabernet Sauvignon | $18–30 | Paso Robles, Washington State |
 | Pinot Noir | $14–20 | Oregon, New Zealand |
 | Pinot Noir | $20–35 | Burgundy (Bourgogne level), Sonoma Coast |
+
+## Ordering Cab vs. Pinot at a Restaurant
+
+The restaurant wine list is where this decision becomes truly practical. If you're at a steakhouse, the list will be heavy on Cabernet Sauvignon—that's intentional, and it's the right move. Steakhouse chefs know their clientele orders beef, and they've curated their wine list accordingly. A quality Cabernet at $45–80 will pair beautifully with your ribeye or porterhouse. If you see a Pinot Noir on a steakhouse list, it's usually a smaller selection for the lighter eaters.
+
+Flip the script at a French bistro or upscale casual restaurant. You'll notice the emphasis shifts toward Pinot Noir, especially if the menu leans into chicken, duck, mushroom dishes, or lighter proteins. Bistros reflect European sensibilities, where Pinot is the red of choice. You might find excellent Burgundy options (premium-priced) and Oregon Pinots (better value).
+
+Price expectations differ dramatically by venue. That Napa Cabernet you're eyeing? Restaurant markups can run 3x the retail price, so a $50 bottle becomes a $150 list price. Pinot Noir, especially from Oregon or New Zealand, often has slightly better restaurant value simply because less hype surrounds it. Still pricey, but the markups tend to be slightly more reasonable.
+
+When in doubt, ask your server or sommelier which red makes sense for your meal. If you're eating a medium-rare steak, they'll almost certainly recommend Cabernet. If you're sharing a mixed table with duck, chicken, and seafood, they might steer you toward Pinot Noir as the more versatile option. This is exactly what [learning to order wine properly](/wine-101/how-to-order-wine) is about—using your server's expertise to narrow the field and make a smarter choice.
 
 ## The Verdict (There Isn't One)
 

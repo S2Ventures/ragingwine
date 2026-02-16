@@ -71,11 +71,11 @@ Take a medium-sized sip and let the wine spread across your entire tongue. Diffe
 
 ### The Five Components
 
-**Sweetness.** Detected on the tip of your tongue, sweetness is the first thing you'll notice. Most dinner wines are dry (no perceptible sugar), but some have a touch of sweetness that softens the acidity. Off-dry wines have a hint. Semi-sweet and sweet wines have progressively more.
+**Sweetness.** Detected on the tip of your tongue, sweetness is the first thing you'll notice. Most dinner wines are [dry](/wine-101/what-does-dry-wine-mean) (no perceptible sugar), but some have a touch of sweetness that softens the acidity. Off-dry wines have a hint. Semi-sweet and sweet wines have progressively more.
 
 **Acidity.** Felt on the sides of your tongue, acidity makes your mouth water. High-acid wines feel crisp, fresh, and lively. Low-acid wines feel soft, round, and sometimes flat. Acidity is what makes wine refreshing and food-friendly. Think of the difference between lemonade (high acid, refreshing) and sugar water (no acid, cloying).
 
-**Tannin.** Felt as a drying, gripping sensation across your gums and cheeks. Tannin comes from grape skins, seeds, and oak. It's present in almost all red wines and absent from most whites. High-tannin wines (Cabernet Sauvignon, Nebbiolo) feel mouth-drying and structured. Low-tannin wines (Pinot Noir, Gamay) feel smooth and silky.
+**[Tannin](/wine-101/what-is-tannin).** Felt as a drying, gripping sensation across your gums and cheeks. Tannin comes from grape skins, seeds, and oak. It's present in almost all red wines and absent from most whites. High-tannin wines (Cabernet Sauvignon, Nebbiolo) feel mouth-drying and structured. Low-tannin wines (Pinot Noir, Gamay) feel smooth and silky.
 
 **Body.** Body is the overall weight and texture of the wine in your mouth. Think of the difference between skim milk (light body), whole milk (medium body), and heavy cream (full body). Light-bodied wines feel thin and nimble. Full-bodied wines feel rich and viscous. Body is influenced by alcohol, sugar, tannin, and extract.
 
@@ -131,7 +131,7 @@ Pace yourself. If there are 20 wines to taste, you don't need to drink them all.
 
 ### At Restaurants
 
-You can apply this framework to every glass you order. You don't need to announce your observations. Just pay attention. Over time, you'll develop an intuitive sense for what you like and why, which makes future ordering faster and more confident.
+You can apply this framework to every glass you order. You don't need to announce your observations. Just pay attention. Over time, you'll develop an intuitive sense for what you like and why, which makes future [ordering](/wine-101/how-to-order-wine) faster and more confident.
 
 ## The Most Important Thing
 

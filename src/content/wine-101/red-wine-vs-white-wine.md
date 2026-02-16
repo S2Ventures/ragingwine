@@ -47,7 +47,7 @@ The exception: oaked Chardonnay and Viognier can be full-bodied whites that riva
 
 ## Tannin: The Defining Red Wine Characteristic
 
-Tannins are naturally occurring compounds found in grape skins, seeds, and oak barrels. They create that drying, slightly grippy sensation in your mouth—similar to over-steeped tea or dark chocolate.
+Tannins are naturally occurring compounds found in grape skins, seeds, and oak barrels. They create that drying, slightly grippy sensation in your mouth—similar to over-steeped tea or dark chocolate. Learn more about [what tannin is and how it affects your wine experience](/wine-101/what-is-tannin).
 
 Red wines have tannins because they're made with skin contact. Some reds have a lot of tannin (Cabernet Sauvignon, Nebbiolo, Tannat) and some have very little (Pinot Noir, Gamay, Grenache), but all reds have more tannin than whites.
 
@@ -57,7 +57,7 @@ Tannin isn't good or bad. It's a stylistic element. If you find red wine bitter 
 
 ## Serving Temperature
 
-Serving wine at the wrong temperature is the most common and most fixable wine mistake.
+Serving wine at the wrong temperature is the most common and most fixable wine mistake. Understanding proper [wine serving temperature](/wine-101/wine-serving-temperature) makes an enormous difference in how the wine tastes.
 
 | Wine Type | Ideal Temp | Practical Translation |
 |-----------|-----------|----------------------|
@@ -72,7 +72,7 @@ The most common mistake is serving reds too warm. "Room temperature" was coined 
 
 ## Quick Food Pairing Rules
 
-The general principle: **red wine pairs with richer, heavier dishes. White wine pairs with lighter, more delicate dishes.** But the exceptions are where it gets fun.
+The general principle: **red wine pairs with richer, heavier dishes. White wine pairs with lighter, more delicate dishes.** But the exceptions are where it gets fun. Master the fundamentals with our guide to [wine and food pairing](/wine-101/wine-and-food-pairing).
 
 **Reds work best with:** red meat, lamb, game, tomato-based pastas, hard cheeses, mushroom dishes, barbecue.
 
@@ -99,9 +99,13 @@ The general principle: **red wine pairs with richer, heavier dishes. White wine 
 
 ## What About Rosé and Orange Wine?
 
-Rosé sits between red and white. It's made from red grapes with brief skin contact (a few hours to a couple of days), extracting some color and a touch of tannin but far less than a full red wine. The result is a pink wine with the refreshing acidity of white wine and a hint of the fruitiness you find in reds.
+Rosé sits between red and white. It's made from red grapes with brief skin contact (a few hours to a couple of days), extracting some color and a touch of tannin but far less than a full red wine. The result is a pink wine with the refreshing acidity of white wine and a hint of the fruitiness you find in reds. Learn more about [rosé wine and what makes it unique](/wine-101/what-is-rose-wine).
 
 Orange wine (also called skin-contact white wine) flips the script. It's made from white grapes but fermented with extended skin contact, like a red wine. The result is an amber-hued wine with more texture, tannin, and complexity than standard white wine. Orange wine is the darling of natural wine bars and adventurous drinkers.
+
+Rosé has exploded in popularity over the past decade, and for good reason. On a restaurant menu, it's the wine that bridges gaps between drinkers who normally split red versus white. It's crisp enough to pair with appetizers and lighter seafood courses, but it has enough body to work with richer fish preparations or roasted chicken. Many restaurants now feature rosé prominently, recognizing it as a versatile crowd-pleaser that works from spring through early fall.
+
+Orange wine remains more niche, found primarily in natural wine-focused establishments and restaurants with adventurous wine programs. If you see it on a menu, it's a signal that the restaurant takes wine seriously and is interested in older European winemaking traditions. Natural and biodynamic producers are particularly drawn to orange wine techniques, as the extended skin contact creates complex flavors without relying on sulfite additions. It's worth trying if you're comfortable with unusual colors and more mineral, slightly funky flavor profiles.
 
 ## How to Pick Between Red and White
 
@@ -120,3 +124,13 @@ When you're staring at a menu and can't decide, use this decision tree:
 **Genuinely can't decide?** → Order a glass of each. Nobody is stopping you, and it's a perfectly normal restaurant move.
 
 The red vs. white choice isn't a commitment. It's a starting point. Most serious wine drinkers enjoy both depending on the occasion, the meal, and their mood. The point isn't to pick a side. It's to understand what each brings to the table so you can choose with purpose.
+
+## How to Navigate Red vs. White at a Restaurant
+
+At the restaurant table, the red-versus-white decision becomes social and practical. If you're dining alone or with someone who shares your preference, great—you've got your answer. But in a mixed group where some people want red and others want white? That's when you need a strategy.
+
+The smartest move is ordering by the glass. This lets each person get what they want, and there's no awkwardness about committing to a bottle that only half the table will enjoy. Most restaurants' wine-by-the-glass programs are thoughtfully curated precisely for this reason—the list recognizes that diners have different preferences and different dishes.
+
+If you're ordering a bottle to share, ask your server for a recommendation that works across the table. A good server will ask what people are eating and suggest either a medium-bodied red that doesn't overpower lighter dishes (like a Pinot Noir) or a fuller white that can stand up to richer foods (like an oaked Chardonnay). The overlap zone wines—Pinot Noir, lighter Syrah, richer Sauvignon Blancs, and oaked Chardonnay—exist precisely for these moments.
+
+Don't let the table's divided preferences paralyze you. Some of the best meals happen when everyone orders what they actually want, wines don't match perfectly, and nobody cares because the food and company are great. Wine is meant to enhance the experience, not become the experience.

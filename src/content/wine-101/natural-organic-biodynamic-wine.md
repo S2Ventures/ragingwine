@@ -1,6 +1,6 @@
 ---
 slug: natural-organic-biodynamic-wine
-title: "Natural Wine, Organic Wine, and Biodynamic Wine: What Do These Labels Actually Mean?"
+title: "Natural vs. Organic vs. Biodynamic Wine Explained"
 description: "The real differences between organic, biodynamic, and natural wine. What's certified, what's marketing, and how to find wines that match your values."
 category: "Wine Culture"
 readTime: "8 min"
@@ -45,7 +45,7 @@ Organic farming is environmentally meaningful. No synthetic pesticides, healthie
 
 Does organic wine taste better? Not inherently. Organic farming can produce exceptional fruit, but so can conventional farming. The winemaker's skill matters more than the farming certification. Some of the world's greatest wines are made from organically farmed grapes. Some of the world's greatest wines are not.
 
-Does organic wine give you fewer headaches? The sulfite levels in organic wine are lower, but sulfites are unlikely the cause of wine headaches in the first place. The evidence points to histamines, quercetin, and dehydration as more probable culprits.
+Does organic wine give you fewer headaches? The sulfite levels in organic wine are lower, but sulfites are [unlikely the cause of wine headaches](/wine-101/wine-headache-sulfites) in the first place. The evidence points to histamines, quercetin, and dehydration as more probable culprits.
 
 ## Biodynamic Wine
 
@@ -143,4 +143,4 @@ Organic wine is farming-certified and regulated. Biodynamic wine is farming-cert
 
 None of these categories guarantee quality. All of them can produce extraordinary wine. The certification tells you how the grapes were grown and (sometimes) how the wine was made. It doesn't tell you whether you'll enjoy drinking it.
 
-If environmental impact matters to you, look for organic or biodynamic certification. If minimal-intervention winemaking appeals to you, explore natural wine with an open mind and a willingness to encounter the occasional dud. If you just want good wine, ignore the labels entirely and taste what's in the glass. That's still the only test that matters.
+If environmental impact matters to you, look for organic or biodynamic certification. If minimal-intervention winemaking appeals to you, explore natural wine with an open mind and a willingness to encounter the occasional dud. If you just want good wine, ignore the labels entirely and [taste what's in the glass](/wine-101/wine-tasting-guide). That's still the only test that matters.

@@ -1,6 +1,6 @@
 ---
 slug: calories-in-wine
-title: "How Many Calories Are in a Glass of Wine? A Straightforward Breakdown"
+title: "How Many Calories Are in a Glass of Wine? The Breakdown"
 description: "The real calorie count for red, white, rosé, sparkling, and dessert wines. Plus, why alcohol content matters more than you think."
 category: "Health & Science"
 readTime: "7 min"
@@ -39,7 +39,7 @@ A standard 5-ounce glass of wine contains roughly:
 | Moscato | 130–160 | 5.5–9% |
 | Port / Dessert Wine | 170–235 | 15–22% |
 
-Those numbers assume a standard 5-ounce pour. Restaurant pours vary. Some places pour 6 ounces. A few generous spots pour 8. Your home pours are probably bigger than you think too, but we'll get to that.
+Those numbers assume a standard 5-ounce pour. Restaurant pours vary. Some places pour 6 ounces. A few generous spots pour 8. Your home pours are probably bigger than you think too (check our guide on [how many glasses are in a bottle](/wine-101/glasses-of-wine-in-a-bottle) for the real math), but we'll get to that.
 
 ## Why Alcohol Is the Number One Calorie Driver
 
@@ -53,7 +53,7 @@ So if you're watching calories, the ABV percentage on the bottle tells you more 
 
 ## Residual Sugar's Role
 
-Sugar contains 4 calories per gram, and sweet wines can have substantial residual sugar. A dry wine has under 4 grams of sugar per liter. A sweet Moscato can have 100+ grams per liter. That difference adds up.
+Sugar contains 4 calories per gram, and sweet wines can have substantial residual sugar. A [dry wine](/wine-101/what-does-dry-wine-mean) has under 4 grams of sugar per liter. A sweet Moscato can have 100+ grams per liter. That difference adds up.
 
 But here's the twist: many sweet wines are lower in alcohol. A Moscato at 5.5% ABV with 90 g/L of sugar ends up in roughly the same calorie range as a dry Cabernet at 14.5% ABV with almost no sugar. The calories come from different sources, but the total is surprisingly similar.
 
@@ -63,7 +63,7 @@ The real calorie bombs are dessert wines that are both high in sugar AND high in
 
 If you're looking to drink lighter without switching to water, these are your best bets:
 
-**Brut sparkling wine** (Champagne, Cava, Prosecco Brut) sits at the bottom of the calorie chart. Low sugar, moderate alcohol, and smaller pour sizes add up to the lightest wine option available. A 5-ounce glass of Brut Cava: about 90-100 calories.
+**Brut [sparkling wine](/wine-101/sparkling-wine-vs-champagne)** (Champagne, Cava, Prosecco Brut) sits at the bottom of the calorie chart. Low sugar, moderate alcohol, and smaller pour sizes add up to the lightest wine option available. A 5-ounce glass of Brut Cava: about 90-100 calories.
 
 **Vinho Verde** from Portugal is naturally low in alcohol (9-11% ABV) and bone dry, which puts it in the 85-100 calorie range. It's also delicious, slightly effervescent, and ridiculously affordable.
 
@@ -113,6 +113,16 @@ Wine lands in the middle of the pack. Lower than cocktails and craft beer, highe
 **Order a half bottle.** Many restaurants offer half bottles (375ml, about 2.5 glasses). It's a portion control strategy disguised as a wine selection.
 
 **Alternate with water.** Not revolutionary advice, but it works. A glass of water between glasses of wine keeps you hydrated and naturally slows your consumption.
+
+## What to Order at a Restaurant If You're Counting
+
+Restaurant wine lists give you everything you need to make calorie-conscious decisions if you know where to look. Start with ABV. Most lists print it next to each wine, and if they don't, the bottle certainly will. Scanning the list for wines at 12-13% ABV instead of 14-15% saves you 30-40 calories per glass without changing anything else about your evening.
+
+Sparkling wine as an aperitif is the lightest way to start dinner. A glass of Brut Cava or Prosecco while you look at the menu comes in under 100 calories and sets a festive tone. It also buys you time to decide on a bottle without feeling rushed, which often leads to a more deliberate choice for your main wine.
+
+European wines tend to run lower in alcohol than their New World counterparts. A French Côtes du Rhône at 13.5% ABV versus an Australian Shiraz at 15% makes a meaningful calorie difference over two or three glasses. If the list separates wines by region, gravitate toward the French, Italian, and Spanish sections for naturally lower-ABV options.
+
+Finally, consider ordering a [half bottle](/wine-101/wine-glass-vs-bottle-value) if you're dining as a pair. At 375ml (about 2.5 glasses), a half bottle gives both of you a glass plus a small top-up. It's a built-in portion control strategy that happens to look like a sophisticated wine choice. Many restaurants carry half bottles of their best sellers, and sommeliers love recommending them for multi-course meals.
 
 ## The Bottom Line
 

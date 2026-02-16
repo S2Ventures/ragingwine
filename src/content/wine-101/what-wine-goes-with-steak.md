@@ -19,7 +19,7 @@ The good news: the science behind steak and wine pairing is straightforward, and
 
 ## Why Red Wine and Steak Work Together
 
-The magic comes down to chemistry. Red wines contain tannins, those compounds from grape skins and seeds that create a drying, slightly bitter sensation on your palate. Protein and fat in steak bind to tannins and soften them, making the wine taste smoother and more fruity. At the same time, the tannins cut through the richness of the meat, cleansing your palate between bites.
+The magic comes down to chemistry. Red wines contain [tannins](/wine-101/what-is-tannin), those compounds from grape skins and seeds that create a drying, slightly bitter sensation on your palate. Protein and fat in steak bind to tannins and soften them, making the wine taste smoother and more fruity. At the same time, the tannins cut through the richness of the meat, cleansing your palate between bites.
 
 It's a feedback loop: the steak makes the wine taste better, and the wine makes the steak taste better. That's why this pairing has survived every food trend for centuries.
 
@@ -41,7 +41,7 @@ The most marbled, richest cut on the menu. All that intramuscular fat demands a 
 
 The tenderest cut but also the leanest. Less fat means less tannin-softening power, so massive reds can overwhelm filet's delicate flavor.
 
-**Best match: Pinot Noir (Burgundy, Oregon, or New Zealand).** Pinot's lighter body, silky texture, and red fruit character complement filet's tenderness without bulldozing it. This is the pairing that proves you don't always need the biggest wine.
+**Best match: [Pinot Noir (Burgundy, Oregon, or New Zealand)](/wine-101/cabernet-sauvignon-vs-pinot-noir).** Pinot's lighter body, silky texture, and red fruit character complement filet's tenderness without bulldozing it. This is the pairing that proves you don't always need the biggest wine.
 
 **Also great: Merlot (Washington State or Right Bank Bordeaux).** Soft tannins and plummy fruit that mirror filet's gentle richness.
 
@@ -124,4 +124,22 @@ Steakhouse wine lists are legendarily long. Some have 500+ bottles. Here's how t
 
 **Don't overlook Malbec and Côtes du Rhône.** These are the value plays on most steakhouse lists. Lower price, excellent quality, and perfectly suited for red meat.
 
-The perfect steak-and-wine pairing doesn't require a sommelier certification. It requires a basic understanding of which cuts need big wines (ribeye, T-bone) and which prefer finesse (filet), and the confidence to ask your server for help with the rest. Order boldly, eat well, drink better.
+### Understanding Steakhouse Wine List Structure
+
+Steakhouse wine lists aren't random collections. They're carefully curated by price point, region, and style. Understanding this structure helps you navigate even the most intimidating list. Most steakhouses organize their reds by region: California Cabernets at the top (both price and prestige), followed by Bordeaux blends, then value regions like Argentina and Spain at the bottom. This geography-based organization is actually a gift because once you identify your price range, you can focus on one geographic section rather than scanning the entire list.
+
+The first page of a steakhouse wine list is almost always the most expensive. By-the-glass selections and "Sommelier's Picks" sections are usually found on pages two or three for a reason: the restaurant wants you to find them. This is your shortcut. The wines on these curated lists are chosen specifically for food compatibility and fair pricing, which means they're perfect for a steak dinner without the prestige markup.
+
+### Reading Price Tiers and Finding Value
+
+The biggest mistake diners make at steakhouses is ordering from the middle of the price list out of fear. They think anything cheap looks bad on the bill. But steakhouse wine margins are so high that even their "value" picks are well-marked up from retail. A $60 bottle on the list costs the restaurant roughly $20 in wholesale cost. That same bottle might cost you $18 at a wine shop. You're not getting a bargain, but you're not being robbed either.
+
+Look at the price jumps between bottles. Most steakhouses have natural tiers: wines from $40-60, then a jump to $80-120, then another jump to $150+. The jump between tiers reveals where the restaurant's markup philosophy changes. Often, the sweet spot is right at the bottom of the second tier, where you get serious quality wines at better-than-expected value. A $75 wine on a steakhouse list might be far more impressive than a $60 wine because of how the tiers are constructed.
+
+### Half Bottles and Smart Ordering Strategies
+
+If you're dining as a couple and the main pairing doesn't excite you, ask about half bottles. Many steakhouses carry half bottles of their premium Cabernets and Bordeaux blends. Half bottles are priced at roughly 55-65% of the full bottle price, giving you better value while allowing you to enjoy wine at the highest quality tier. Half bottles also solve the problem of wanting two different wines with different courses. Order a half bottle of Pinot Noir with the filet course, then switch to a Cabernet with a final course steak or cheese. You get variety without committing to two full bottles.
+
+For larger groups, ask your server about pairing wines with specific courses. Steakhouses with proper wine programs love when diners engage with wine seriously. The sommelier can suggest a progression that makes sense for your menu and might even recommend specific glasses by vintage or producer rather than just by varietal. This isn't pretentious; it's how restaurants serve great meals.
+
+The perfect steak-and-wine pairing doesn't require a sommelier certification. It requires a basic understanding of which cuts need big wines (ribeye, T-bone) and which prefer finesse (filet), and the confidence to [ask your server for help](/wine-101/how-to-read-a-wine-list) with the rest. Order boldly, eat well, drink better.

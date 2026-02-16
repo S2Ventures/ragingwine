@@ -1,6 +1,6 @@
 ---
 slug: wine-glass-vs-bottle-value
-title: "Wine by the Glass vs. Bottle: How to Get the Best Value at a Restaurant"
+title: "Glass vs. Bottle: Best Value at a Restaurant"
 description: "A math-driven guide to restaurant wine pricing. Where the real markups are, when a bottle beats glasses, and how to stop overpaying."
 category: "Value & Budget"
 readTime: "7 min"
@@ -31,7 +31,7 @@ Here's the thing about bottle markup: it's actually the more reasonable pricing 
 
 ### By-the-Glass Markup
 
-A standard wine bottle holds 750ml, which yields about five 5-ounce glasses. Most restaurants price a single glass at roughly 25-33% of the bottle's retail price, which means one glass costs about what the restaurant paid for the entire bottle wholesale.
+A standard wine bottle holds 750ml, which yields about [five 5-ounce glasses](/wine-101/glasses-of-wine-in-a-bottle). Most restaurants price a single glass at roughly 25-33% of the bottle's retail price, which means one glass costs about what the restaurant paid for the entire bottle wholesale.
 
 Let's trace the math:
 
@@ -79,7 +79,7 @@ If one person will have two glasses and the other will have one, three glasses c
 
 ### Look Past the Glass List
 
-The by-the-glass selection is typically limited to 8-15 wines. The bottle list might have 50-200 options. The full list contains wines from smaller producers, less common regions, and more interesting styles that the restaurant can't offer by the glass because turnover would be too slow.
+The by-the-glass selection is typically limited to 8-15 wines. The bottle list might have 50-200 options. The [full list](/wine-101/how-to-read-a-wine-list) contains wines from smaller producers, less common regions, and more interesting styles that the restaurant can't offer by the glass because turnover would be too slow.
 
 This is where the best value lives. A Greek Assyrtiko or a Portuguese Alvarinho might sit on the bottle list at $38 while the comparable "safe" Sauvignon Blanc by the glass runs $15. Two glasses of the Sauvignon Blanc costs $30 for 10 ounces. The Assyrtiko bottle costs $38 for 25 ounces. The bottle is more interesting wine at a better per-ounce price.
 
@@ -103,7 +103,7 @@ The bottle isn't always the right call. There are legitimate reasons to order by
 
 **You're eating light.** If you're having a one-course meal or a light lunch, a single glass might be all you want. Ordering a bottle to "get the value" and then drinking more than you intended isn't actually saving you anything.
 
-**You want to explore.** Ordering different glasses across courses (a Sauvignon Blanc with appetizers, a Pinot Noir with your entree, a glass of Champagne to finish) gives you a tasting-menu experience with wine. The per-glass premium is the price of variety.
+**You want to explore.** Ordering different glasses across courses (a Sauvignon Blanc with appetizers, a Pinot Noir with your entree, a glass of Champagne to finish) gives you a tasting-menu experience with [wine pairing](/wine-101/wine-and-food-pairing). The per-glass premium is the price of variety.
 
 **You're the only one drinking wine.** A full bottle is 25 ounces. If you're the only drinker, that's five glasses. Unless you're settling in for a long evening, a glass or two is the responsible play.
 

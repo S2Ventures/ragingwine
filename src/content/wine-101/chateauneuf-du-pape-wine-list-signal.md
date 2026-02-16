@@ -1,7 +1,7 @@
 ---
 slug: chateauneuf-du-pape-wine-list-signal
-title: "The Wine List Litmus Test: What Châteauneuf-du-Pape Tells You About a Restaurant"
-description: "Châteauneuf-du-Pape is more than a great wine. It's a signal that someone behind the scenes actually cares about what you're drinking. Here's the history, the grapes, and the hack."
+title: "The Châteauneuf-du-Pape Wine List Hack"
+description: "Châteauneuf-du-Pape on a wine list signals someone cares. The history, the 13 grapes, and why this wine is a shortcut to reading any restaurant."
 category: "Restaurant Skills"
 readTime: "9 min"
 tier: 1
@@ -87,7 +87,7 @@ So why does finding Châteauneuf-du-Pape on a restaurant wine list tell you the 
 
 **It suggests depth of knowledge.** A buyer who stocks Châteauneuf-du-Pape likely understands the Rhône Valley, which means they probably understand Burgundy, Bordeaux, and a few other regions that reward curiosity. The whole list is probably more thoughtful than average.
 
-**It pairs brilliantly with restaurant food.** CDP's combination of fruit, herbs, spice, and moderate tannin makes it one of the most versatile food wines at the table. It handles grilled meats, roasted vegetables, lamb, game, hard cheeses, and even hearty pasta. A restaurant that stocks it knows their food and knows what works with it.
+**It pairs brilliantly with restaurant food.** CDP's combination of fruit, herbs, spice, and moderate [tannin](/wine-101/what-is-tannin) makes it one of the most versatile [food wines](/wine-101/wine-and-food-pairing) at the table. It handles grilled meats, roasted vegetables, lamb, game, hard cheeses, and even hearty pasta. A restaurant that stocks it knows their food and knows what works with it.
 
 **It occupies a sweet spot in pricing.** Good Châteauneuf-du-Pape on a restaurant list typically runs $60-$120 a bottle. That's above the bottom of the list (so they're not just stocking cheap crowd-pleasers) but well below the trophy wines (so they're not just showing off). It's a practical luxury. The kind of wine a restaurant stocks because they want you to drink well, not because they want to pad the bill.
 

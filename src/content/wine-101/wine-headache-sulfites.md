@@ -1,7 +1,7 @@
 ---
 slug: wine-headache-sulfites
-title: "Why Does Wine Give Me a Headache? The Truth About Sulfites, Tannins, and Red Wine"
-description: "It's probably not the sulfites. Here's the real science behind wine headaches and what you can do about them."
+title: "Why Does Wine Give Me a Headache? Sulfites Explained"
+description: "It's probably not the sulfites. Here's the real science behind wine headaches, from histamines to tannins, and what you can actually do about them."
 category: "Health & Science"
 readTime: "7 min"
 tier: 1
@@ -35,7 +35,7 @@ Research points to several more likely causes of wine headaches, and the answer 
 
 ### Histamines
 
-Histamines are naturally present in fermented foods and beverages, including wine, aged cheese, sauerkraut, and soy sauce. Red wine contains 20-200% more histamines than white wine because histamines concentrate in grape skins, and red wine has extended skin contact during production.
+Histamines are naturally present in fermented foods and beverages, including wine, aged cheese, sauerkraut, and soy sauce. Red wine contains 20-200% more histamines than white wine because histamines concentrate in grape skins, and red wine has extended skin contact during production. (This is the same skin contact that produces [tannins](/wine-101/what-is-tannin), that drying sensation in your mouth.)
 
 Some people lack sufficient quantities of diamine oxidase (DAO), the enzyme that breaks down histamines in the gut. When histamines accumulate, they can trigger headaches, flushing, nasal congestion, and other symptoms that look a lot like what people call a "wine headache."
 
@@ -77,7 +77,7 @@ The U.S. requires this label on any wine with more than 10 ppm of sulfites. Sinc
 
 The maximum allowed is 350 ppm for U.S. wines, but most table wines fall in the 30-150 ppm range. By comparison, the FDA allows up to 6,000 ppm in certain dried fruits.
 
-"Organic wine" (USDA certified) cannot have added sulfites but may contain naturally occurring ones. "Made with organic grapes" can have up to 100 ppm of added sulfites. Neither designation guarantees a headache-free experience.
+"Organic wine" (USDA certified) cannot have added sulfites but may contain naturally occurring ones. "Made with organic grapes" can have up to 100 ppm of added sulfites. Neither designation guarantees a headache-free experience. For a deeper dive into what these labels actually mean, see our guide on [natural, organic, and biodynamic wine](/wine-101/natural-organic-biodynamic-wine).
 
 ## What You Can Actually Do About It
 
@@ -87,7 +87,7 @@ If wine gives you headaches, here are evidence-based strategies:
 
 **Choose lower-histamine wines.** If you suspect histamine sensitivity, try white wines, sparkling wines, or young, unoaked reds (Pinot Noir, Gamay) that undergo less skin contact and malolactic fermentation. Some people find that taking an antihistamine (like Zyrtec or Claritin) before drinking helps. Discuss this with your doctor first.
 
-**Try lower-alcohol wines.** Less alcohol means less dehydration, less acetaldehyde production, and fewer calories as a bonus. Wines under 13% ABV are a good starting point.
+**Try lower-alcohol wines.** Less alcohol means less dehydration, less acetaldehyde production, and [fewer calories](/wine-101/calories-in-wine) as a bonus. Wines under 13% ABV are a good starting point.
 
 **Avoid cheap bulk wine.** Mass-produced wines sometimes contain higher levels of residual chemicals, higher sulfites, and lower-quality ingredients. This isn't always the case, but the correlation is real enough to be worth noting.
 
@@ -107,6 +107,16 @@ If wine gives you headaches, here are evidence-based strategies:
 | Alcohol (dehydration) | All wine | Suppresses ADH, causes water loss | Higher ABV wines |
 | Congeners | Fermentation byproducts | Complex metabolism | Red wine |
 | Sulfites | Preservative | Asthma-like reaction (rare) | White wine (higher levels) |
+
+## Wine Headaches and Restaurant Dining
+
+Understanding headache triggers changes how you order at restaurants. The first move is checking ABV on the wine list. Most restaurant lists print it, and if they don't, the bottle will. Choosing a 12.5% Pinot Noir over a 15% Barossa Shiraz reduces your dehydration risk substantially and gives your body less acetaldehyde to process over the course of dinner.
+
+Ordering by the glass is a headache-prevention strategy disguised as wine exploration. Instead of committing to a full bottle, ordering two different glasses lets you pace yourself more naturally. You also get a built-in break between pours while the server brings the next glass. Many people find that slowing their consumption this way eliminates the headache entirely.
+
+Ask your server about lighter-bodied reds if you want to stay in the red wine lane. Pinot Noir, Gamay (Beaujolais), and Grenache-based blends like Côtes du Rhône tend to be lower in histamines, tannins, and alcohol than Cabernet Sauvignon or Syrah. A good server will point you toward the right section of the list.
+
+The simplest restaurant hack: order a bottle of sparkling water alongside your wine and alternate sips. This isn't amateur behavior. It's what sommeliers do when they're tasting through dozens of wines in a day. Hydration is the single most effective defense you have, and it costs nothing.
 
 ## The Bottom Line
 

@@ -65,9 +65,11 @@ At a restaurant, wine lists rarely state whether a wine is dry or sweet. But you
 
 **Know the label terms:**
 
+These terms appear frequently on wine labels and restaurant lists. Learning to decode them is essential for confident ordering. For a detailed breakdown of all the information on a wine label, check out [how to read a wine label](/wine-101/how-to-read-a-wine-label).
+
 | Term | Language | What It Means |
 |------|----------|--------------|
-| Brut | French/Sparkling | Very dry (less than 12 g/L sugar) |
+| Brut | French/Sparkling | Very dry (less than 12 g/L sugar). Learn more about [sparkling wine vs. Champagne](/wine-101/sparkling-wine-vs-champagne) to understand how these terms vary by region. |
 | Extra Brut | French/Sparkling | Bone dry (less than 6 g/L) |
 | Sec | French | Dry (confusingly, for sparkling wine, "sec" is actually slightly sweet) |
 | Trocken | German | Dry |
@@ -89,9 +91,13 @@ If you're looking for reliably dry options the next time you're at a restaurant,
 
 **Dry sparkling wines:** Brut Champagne, Brut Cava, Brut Prosecco, Brut Crémant d'Alsace.
 
+When you're reviewing a restaurant wine list, look for these regions and varietals first—they're your safe bet for dry options. A Sancerre at a fine dining restaurant will taste completely different from a casual wine bar's Sancerre, but both will be unmistakably dry. The price difference reflects the restaurant's markup and sourcing, not the wine's fundamental character.
+
+Restaurant wine programs increasingly feature vertical tastings or producer showcases—lineups of multiple vintages or styles from the same producer. These are goldmines for exploring dry wines systematically. Instead of guessing at unfamiliar names, you can taste multiple dry Chardonnays side by side and develop your palate in real time. If your restaurant offers wine flights, they're often themed around dryness levels or styles, making them perfect for demystifying the whole "dry" concept.
+
 ## The Myths, Busted
 
-**Myth: "I don't like dry wine."** You probably do. If you've ever enjoyed a glass of Chardonnay, Cabernet, or Prosecco Brut at a restaurant, you've drunk dry wine and liked it.
+**Myth: "I don't like dry wine."** You probably do. If you've ever enjoyed a glass of Chardonnay, Cabernet, or Prosecco Brut at a restaurant, you've drunk dry wine and liked it. Check out our recommendations for [best wines for beginners](/wine-101/best-wines-for-beginners) if you're just starting your dry wine journey.
 
 **Myth: "Cheap wine is always sweet."** Not true. Plenty of inexpensive wines are bone dry. A $10 Spanish Garnacha or a $12 Chilean Sauvignon Blanc can be as dry as a $60 Burgundy.
 
@@ -108,3 +114,13 @@ First, it helps you communicate what you want. Telling your server "I'd like som
 Second, it protects you from ordering something you won't enjoy. If you dislike sweetness in wine, knowing that certain Rieslings, Gewürztraminers, and Moscatos tend toward sweet saves you from a glass you'll regret. Conversely, if you prefer a touch of sweetness, knowing that "off-dry" is the term you're looking for opens up a whole category of wines that many people overlook and almost everyone enjoys.
 
 The word "dry" isn't complicated. It just got buried under decades of mystique that the wine world was in no rush to clear up. Now you know. Use it freely, order with confidence, and never let a single adjective stand between you and a great glass of wine.
+
+## Ordering Dry Wine at a Restaurant: What to Say
+
+The restaurant setting is where "dry" becomes your most powerful ordering tool. Here's exactly how to use it: When your server asks if you need wine recommendations, respond with "I'd like something dry" as your opening statement. This single word eliminates an entire category of wines before the conversation even begins. You've just communicated that you want a wine based on sugar content, and that's information your server can immediately work with.
+
+If you want to be even more specific, layer in other descriptors. "I'd like something dry and crisp" points toward high-acidity whites like Sauvignon Blanc or unoaked Chardonnay. "Dry and full-bodied" points toward Cabernet or other power-player reds. "Dry but with some fruit character" tells your server you want flavor without sweetness—wines like Pinot Noir or Viognier fit perfectly. These multi-word descriptions take five seconds to say and dramatically improve your odds of getting exactly what you want.
+
+When reading a wine list, watch for language that reveals dryness or sweetness. Restaurant lists often include brief tasting notes next to each wine. Terms like "crisp," "minerally," "herbaceous," or "fresh" almost always mean dry. Descriptors like "honeyed," "dessert-friendly," or "sweet fruit character" signal off-dry or sweet wines. If the note says "pairs well with spicy food" or "bright acidity," you've found a dry wine. If it says "dessert wine" or mentions "ice wine," you're looking at sweet territory.
+
+Common pitfalls to avoid: Don't assume a wine is dry just because it's red. Lambrusco, Brachetto, and some Zinfandels are off-dry or semi-sweet. Don't assume it's sweet just because it's called Riesling—German Rieslings span the full dryness spectrum. And don't let flowery or fruity descriptions scare you into ordering something you don't want. A Sauvignon Blanc that smells like passionfruit is still bone dry.

@@ -1,6 +1,6 @@
 ---
 slug: glasses-of-wine-in-a-bottle
-title: "How Many Glasses of Wine Are in a Bottle? (And Why It Matters at Dinner)"
+title: "How Many Glasses of Wine Are in a Bottle?"
 description: "Standard pours, bottle math, and how to figure out when a bottle saves you money at a restaurant. Plus every bottle size explained."
 category: "Wine Basics"
 readTime: "6 min"
@@ -51,6 +51,8 @@ This is where the glasses-per-bottle question gets useful. Most restaurants pric
 
 **The exception:** If everyone wants different wines, or you're only having one glass each, by-the-glass is fine. You're paying a premium for variety and moderation, which is perfectly reasonable.
 
+Understanding bottle value is essential for smart restaurant ordering. When you compare [the math between glasses and bottles](/wine-101/wine-glass-vs-bottle-value), the decision becomes clear. It's not about quantity; it's about getting the best wine experience for your budget.
+
 ## Every Bottle Size, Explained
 
 Wine comes in more sizes than you'd expect. Here's the full lineup:
@@ -71,6 +73,8 @@ Wine comes in more sizes than you'd expect. Here's the full lineup:
 
 **Splits** (187ml) are what you get on airplanes, at hotels, and sometimes at concerts. They're exactly one standard glass. Not much to say here except that airplane wine is the reason some people think they don't like wine.
 
+Understanding portion sizes also matters when you consider [calorie content in wine](/wine-101/calories-in-wine). Whether you're ordering a generous pour or a tasting size, knowing what you're actually getting helps you plan your evening.
+
 ## How to Split a Bottle Fairly at a Group Dinner
 
 This question comes up at every group dinner, and the answer depends on the group's vibe:
@@ -90,6 +94,18 @@ The standard 750ml bottle size wasn't standardized until 1979 when the EU establ
 One popular origin theory: 750ml was supposedly the average lung capacity of a glassblower in the 18th century, meaning that was the largest bottle they could produce in a single breath. This story is probably apocryphal, but it's too good not to share.
 
 The punt (that indentation at the bottom of most wine bottles) doesn't affect the wine inside. Its original purpose was structural strength and is now largely traditional and aesthetic. A deeper punt doesn't mean a better wine. Some excellent wines come in flat-bottomed bottles.
+
+## Ordering Strategy at Restaurants
+
+Knowing the math is one thing. Using it to make smart decisions at restaurants is another. The calculation changes depending on the restaurant type, your group, and your pairing goals.
+
+Casual restaurants and wine bars are where by-the-glass ordering makes the most sense. These establishments typically have rotating selections and higher glass-to-bottle price ratios, sometimes offering excellent value on individual pours. If you're dining solo or with someone who orders a completely different wine, a glass is perfectly reasonable. But the moment two of you want the same wine, ask your server if ordering a half bottle saves money compared to two glasses. Often it does.
+
+Fine dining restaurants play the math differently. Their bottle prices include a steeper markup, but their sommelier recommendations are curated for the menu. Here's where asking matters most. A sommelier can suggest a wine at a specific price point and tell you whether the cost reflects the quality or the restaurant's margin. They can also recommend half bottles or splits of premium wines, letting you experience wines you might never otherwise taste at a restaurant. The goal isn't necessarily to save money; it's to get the best wine experience for your budget.
+
+Group ordering requires different logic entirely. When four people are dining together and two want red wine while two want white, don't order four individual glasses. Order a bottle of red and a half bottle of white. You'll spend less money overall and everyone gets multiple pours instead of a single glass that disappears by the time appetizers arrive. The same principle applies to wine pairing dinners with multiple courses. Asking your server about [how to order wine strategically](/wine-101/how-to-order-wine) for a multi-course meal can elevate the entire experience and often save money compared to ordering individual glasses with each course.
+
+Half bottles deserve special mention for wine pairing dinners. If the restaurant offers them, they're the smartest play for serious wine exploration. A typical pairing dinner might feature three to four wines across three to four courses. Half bottles mean you get meaningful pours without excessive alcohol consumption, and you can try wines from different regions, styles, or producers. Ask your server or sommelier whether they recommend half bottles for pairing programs, and whether they can suggest a progression of wines at your desired price point. Most restaurants with strong wine programs love these conversations.
 
 ## The Quick-Reference Pour Guide
 

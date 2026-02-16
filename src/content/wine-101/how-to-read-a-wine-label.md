@@ -1,6 +1,6 @@
 ---
 slug: how-to-read-a-wine-label
-title: "How to Read a Wine Label (So You Actually Know What You're Buying)"
+title: "How to Read a Wine Label (And Know What You're Buying)"
 description: "A visual guide to every element on a wine label. Varietal, region, vintage, ABV, producer, and which terms actually mean something."
 category: "Wine Basics"
 readTime: "8 min"
@@ -98,7 +98,7 @@ Expressed as a percentage (12.5%, 14.5%, etc.). This tells you more than you thi
 | 14.5-16% | Full-bodied, rich, ripe. Big reds, late-harvest wines. |
 | 16%+ | Fortified or dessert wines. Port, Sherry, Marsala. |
 
-ABV also directly correlates with calories. Every percentage point higher means roughly 10-14 more calories per glass.
+ABV also directly correlates with [calories](/wine-101/calories-in-wine). Every percentage point higher means roughly 10-14 more calories per glass.
 
 ### Classification Terms
 
@@ -114,7 +114,7 @@ These are where labels get tricky, because some terms are legally regulated and 
 
 "**Reserva / Gran Reserva**" (Spain): In Rioja, Reserva requires 36 months total aging with at least 12 in oak. Gran Reserva requires 60 months with at least 18 in oak. These are meaningful aging designations.
 
-"**Brut / Extra Brut**" (Sparkling): Legally defined sweetness levels. Brut means less than 12 g/L residual sugar. Extra Brut means less than 6 g/L.
+"**Brut / Extra Brut**" ([Sparkling](/wine-101/sparkling-wine-vs-champagne)): Legally defined sweetness levels. Brut means less than 12 g/L residual sugar. Extra Brut means less than 6 g/L.
 
 **Terms that are vague or unregulated:**
 
@@ -134,7 +134,7 @@ These are where labels get tricky, because some terms are legally regulated and 
 
 "**Biodynamic**" (Demeter certified): Organic farming plus a holistic approach based on lunar and seasonal calendars. The certification is administered by the private Demeter organization, not a government body.
 
-"**Natural Wine**": No legal definition anywhere. Generally means minimal intervention: native yeast, no additives, low or no sulfites. Quality varies wildly because there's no standard.
+"**[Natural Wine](/wine-101/natural-organic-biodynamic-wine)**": No legal definition anywhere. Generally means minimal intervention: native yeast, no additives, low or no sulfites. Quality varies wildly because there's no standard.
 
 ## How to Use the Back Label
 
