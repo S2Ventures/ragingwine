@@ -25,25 +25,24 @@ function getGlasswareVariant(value: string): 'good' | 'ok' | 'bad' {
 
 function getStaffVariant(value: string): 'good' | 'ok' | 'bad' {
   if (value === 'Knowledgeable & Friendly') return 'good';
-  if (value === 'Willing but Green') return 'ok';
+  if (value === 'Willing but Green' || value === 'Rotating Cast') return 'ok';
   return 'bad';
 }
 
 function getMarkupVariant(value: string): 'good' | 'ok' | 'bad' {
-  if (value === 'Fair') return 'good';
+  if (value === 'Fair' || value === 'Steal') return 'good';
   if (value === 'Steep') return 'ok';
   return 'bad';
 }
 
 function getVarietyVariant(value: string): 'good' | 'ok' | 'bad' {
-  if (value === 'Deep & Eclectic') return 'good';
-  if (value === 'Solid Range') return 'good';
-  if (value === 'Plays It Safe') return 'ok';
+  if (value === 'Deep & Eclectic' || value === 'Solid Range' || value === 'Surprising Depth') return 'good';
+  if (value === 'Plays It Safe' || value === 'Small but Thoughtful' || value === 'Crowd Pleasers') return 'ok';
   return 'bad';
 }
 
 function getSpecialsVariant(value: string): 'good' | 'ok' | 'bad' {
-  if (value === 'Active Program') return 'good';
+  if (value === 'Active Program' || value === 'Seasonal Rotation') return 'good';
   if (value === 'Occasional') return 'ok';
   return 'bad';
 }

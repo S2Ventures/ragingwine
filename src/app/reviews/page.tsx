@@ -1,7 +1,7 @@
 import { reviews } from '@/lib/data';
 import { BADGE_CONFIG, BadgeType } from '@/lib/types';
-import ReviewCard from '@/components/ReviewCard';
 import Badge from '@/components/Badge';
+import ReviewsPageFilters from '@/components/ReviewsPageFilters';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -35,18 +35,8 @@ export default function ReviewsPage() {
         </div>
       </div>
 
-      {/* Reviews Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {reviews.map(review => (
-          <ReviewCard key={review.slug} review={review} />
-        ))}
-      </div>
-
-      {reviews.length === 0 && (
-        <div className="text-center py-20 text-gray-400">
-          <p className="text-lg font-medium">No reviews yet. We&apos;re working on it.</p>
-        </div>
-      )}
+      {/* Search, Filters & Reviews Grid */}
+      <ReviewsPageFilters reviews={reviews} />
     </div>
   );
 }
