@@ -110,6 +110,26 @@ export default function SubmitRestaurantPage() {
         </div>
       </div>
 
+      {/* Guide CTA */}
+      <div className="mb-10">
+        <Link
+          href="/submit/guide"
+          className="group flex items-center justify-between w-full bg-white border-2 border-wine-200 rounded-xl p-5 hover:border-wine-400 hover:bg-wine-50 transition-all"
+        >
+          <div>
+            <p className="font-bold text-brand-dark group-hover:text-wine-700 transition-colors">
+              Before you submit&hellip; read our guide to earning The Rager 🔥
+            </p>
+            <p className="text-sm text-gray-500 mt-1">
+              The six things we actually look for, and how to nail every one.
+            </p>
+          </div>
+          <span className="text-wine-600 text-xl ml-4 group-hover:translate-x-1 transition-transform">
+            &rarr;
+          </span>
+        </Link>
+      </div>
+
       <form onSubmit={handleSubmit} className="space-y-6">
         <div>
           <label htmlFor="restaurantName" className="block text-sm font-semibold text-brand-dark mb-1">
