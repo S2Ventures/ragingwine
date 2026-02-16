@@ -30,6 +30,7 @@ const config: Config = {
           red: '#C0392B',
           blue: '#2E86C1',
           gray: '#7F8C8D',
+          wine: '#C0392B',
         },
         badge: {
           rager: '#B8860B',
@@ -48,6 +49,6 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/typography')],
 }
 export default config
