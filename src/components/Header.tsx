@@ -6,6 +6,7 @@ import Logo from './Logo';
 
 const cityItems = [
   { label: 'Atlanta', href: '/cities/atlanta' },
+  { label: 'Clayton', href: '/cities/clayton' },
   { label: 'Greenville', href: '/cities/greenville' },
   { label: 'Key West', href: '/cities/key-west' },
   { label: 'Charleston', href: '/cities/charleston' },
