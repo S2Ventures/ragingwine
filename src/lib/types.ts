@@ -54,8 +54,6 @@ export interface City {
   state: string;
   tagline: string;
   description: string;
-  comingSoon?: boolean;
-  comingSoonTeaser?: string;
 }
 
 // Winery types
