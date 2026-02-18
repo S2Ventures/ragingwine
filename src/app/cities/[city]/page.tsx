@@ -45,8 +45,28 @@ export default function CityPage({ params }: { params: { city: string } }) {
         </p>
       </div>
 
+      {/* Coming Soon Banner */}
+      {city.comingSoon && (
+        <div className="bg-wine-50 border border-wine-200 rounded-xl p-8 mb-10">
+          <div className="flex items-center gap-3 mb-4">
+            <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-wine-600 text-white">
+              Coming Soon
+            </span>
+            <span className="text-sm text-wine-700 font-medium">Reviews in progress</span>
+          </div>
+          {city.comingSoonTeaser && (
+            <p className="text-gray-700 text-sm leading-relaxed max-w-3xl mb-6">
+              {city.comingSoonTeaser}
+            </p>
+          )}
+          <p className="text-sm text-gray-500">
+            Subscribe below to get notified when our first {city.name} reviews go live.
+          </p>
+        </div>
+      )}
+
       {/* City Stats */}
-      {cityReviews.length > 0 && (
+      {!city.comingSoon && cityReviews.length > 0 && (
         <div className="bg-white rounded-xl border border-gray-200 p-6 mb-10">
           <div className="flex flex-wrap gap-8">
             <div>
@@ -70,14 +90,14 @@ export default function CityPage({ params }: { params: { city: string } }) {
       )}
 
       {/* Reviews */}
-      {cityReviews.length > 0 ? (
+      {!city.comingSoon && cityReviews.length > 0 ? (
         <CityReviewFilters reviews={cityReviews} />
-      ) : (
+      ) : !city.comingSoon ? (
         <div className="text-center py-16 mb-12">
           <p className="text-lg font-medium text-gray-400 mb-2">Reviews coming soon for {city.name}</p>
           <p className="text-sm text-gray-400">Subscribe to get notified when we publish our first review here.</p>
         </div>
-      )}
+      ) : null}
 
       <Newsletter />
     </div>

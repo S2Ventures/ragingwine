@@ -43,6 +43,24 @@ export const cities: City[] = [
     tagline: 'Three Wine Spectator awards on one Main Street',
     description: 'Blue Ridge is the wine capital of North Georgia\'s mountains. With more than 80 restaurants packed along a walkable Main Street, three Wine Spectator-recognized wine programs, a dedicated wine bar, and nearby vineyards including Bear Claw and the new Kerith House, this mountain town delivers a wine scene that has no business being this good. Pair a serious dinner with a scenic railway ride and you\'ve got a proper weekend.',
   },
+  {
+    name: 'Asheville',
+    slug: 'asheville',
+    state: 'North Carolina',
+    tagline: 'Mountain air, James Beard nods, and natural wine on tap',
+    description: 'Asheville has quietly assembled one of the most interesting wine scenes in the Southeast. Eleven Wine Spectator award winners, a James Beard semifinalist wine bar, and nearly 60 wineries within driving distance make this mountain city a serious destination for anyone who cares about what\'s in their glass.',
+    comingSoon: true,
+    comingSoonTeaser: 'Asheville\'s food scene gets national attention, but the wine programs hiding inside these mountain restaurants deserve their own spotlight. Leo\'s House of Thirst earned a James Beard semifinal nod for Outstanding Wine and Other Beverages, pouring natural wines by the glass, bottle, and on tap. Posana and The Dining Room at the Inn on Biltmore Estate both hold Wine Spectator awards, and spots like Quench! Wine Bistro and WALLS Wine Bar prove the city\'s wine ambitions go well beyond tourist-town basics. Add in nearly 60 wineries across Western North Carolina\'s three AVAs (including Biltmore, the most visited winery in the country), and you have a wine city that rewards anyone willing to look past the craft beer headlines. We\'re scouting restaurants now. Expect reviews covering everything from downtown fine dining to neighborhood wine bars that punch above their weight.',
+  },
+  {
+    name: 'New Orleans',
+    slug: 'new-orleans',
+    state: 'Louisiana',
+    tagline: 'Grand Award cellars and Champagne houses of the South',
+    description: 'New Orleans pairs world-class Creole cuisine with some of the deepest wine cellars in America. Multiple Wine Spectator Grand Award winners, 15,000-bottle collections, and a new generation of sommeliers are making the Crescent City one of the most exciting wine destinations in the country.',
+    comingSoon: true,
+    comingSoonTeaser: 'New Orleans has always been a food city, but its wine programs are staggeringly good and wildly underrated. Brennan\'s keeps nearly 1,400 selections in a two-story cellar with an entire floor dedicated to Burgundy and close to 100 Champagnes on list. Commander\'s Palace stocks over 2,500 bottles behind one of the most famous dining rooms in America. Emeril\'s has held a Wine Spectator Grand Award for 14 consecutive years with a 10,000-bottle private cellar. And the new guard is just as compelling: MaMou pairs a sommelier-founded concept with a vinous focus you can feel the moment you walk in, Pluck Wine Bar specializes in Burgundy and sparkling from a cozy Bywater spot, and Saint-Germain brings natural wine and French bistro energy to the neighborhood wine bar format. We\'re mapping the full spectrum, from Garden District grand dames to Bywater natural wine haunts. Reviews are coming.',
+  },
 ];
 
 export const reviews: Review[] = [
