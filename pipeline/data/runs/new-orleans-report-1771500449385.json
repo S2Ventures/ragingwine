@@ -1,0 +1,108 @@
+{
+  "city": "New Orleans",
+  "citySlug": "new-orleans",
+  "startedAt": "2026-02-19T11:23:21.396Z",
+  "completedAt": "2026-02-19T11:27:28.929Z",
+  "restaurantsResearched": 17,
+  "reviewsWritten": 16,
+  "reviewsPublished": 16,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Brennan's Restaurant",
+      "slug": "brennans-restaurant-new-orleans",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Commander's Palace",
+      "slug": "commanders-palace-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Emeril's",
+      "slug": "emerils-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Galatoire's",
+      "slug": "galatoires-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Clancy's",
+      "slug": "clancys-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Broussard's Restaurant & Courtyard",
+      "slug": "broussards-restaurant-and-courtyard-new-orleans",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Chemin à la Mer",
+      "slug": "chemin-la-mer-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ralph's on the Park",
+      "slug": "ralphs-on-the-park-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "GW Fins",
+      "slug": "gw-fins-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Mr. B's Bistro",
+      "slug": "mr-bs-bistro-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Muriel's Jackson Square",
+      "slug": "muriels-jackson-square-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Chophouse New Orleans – Prime Steaks",
+      "slug": "chophouse-new-orleans-prime-steaks-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Restaurant August",
+      "slug": "restaurant-august-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Pelican Club",
+      "slug": "the-pelican-club-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Dickie Brennan's Steakhouse",
+      "slug": "dickie-brennans-steakhouse-new-orleans",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Saffron NOLA",
+      "slug": "saffron-nola-new-orleans",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}

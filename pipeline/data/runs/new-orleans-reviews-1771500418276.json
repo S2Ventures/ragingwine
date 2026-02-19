@@ -1,0 +1,852 @@
+[
+  {
+    "slug": "brennans-restaurant-new-orleans",
+    "restaurant": "Brennan's Restaurant",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Creole, Regional",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "You open the wine list at Brennan's and it's a leather-bound novel — 2,905 labels deep with 19,000 bottles sitting in their cellar. This isn't a wine list; it's a library. The kind of place where Champagne by the glass starts at $12 and climbs to $65, and nobody blinks because the room demands it.",
+    "selectionDeepDive": "The list reads like a greatest hits of classic wine regions: serious Burgundy allocations, deep Bordeaux verticals, California cult cabs, and a Champagne section that could stand alone as its own program. Heitz Cellars 'Martha's Vineyard' 2003 sits next to Krug 'Grand Cuvée' and Billecart-Salmon magnums — this is old-money wine collecting done right. France dominates (Burgundy, Bordeaux, Rhône, Champagne), but Italy and California get proper representation. The list leans traditional and producer-focused, which fits the white-tablecloth vibe perfectly.",
+    "byTheGlass": "The by-the-glass program is strong if you're willing to spend — $12 to $65 is a wide range that suggests they're pouring quality, not just house pours. The Piper-Heidsieck 'Brennan's Essential' Extra Brut is a custom cuvée made specifically for the restaurant, which tells you they take their glass program seriously. With a sommelier on staff and this kind of inventory, expect thoughtful pours that rotate seasonally and match the Creole menu's complexity.",
+    "bestValue": {
+      "wine": "J. Dumangin et Fils 'La Cuvée 17' Brut Champagne",
+      "price": "$85",
+      "note": "Grower Champagne from a small producer at a fraction of what you'd pay for big houses — classic French Quarter breakfast bubbles without the Veuve markup"
+    },
+    "hiddenGem": {
+      "wine": "Moët & Chandon Brut Rosé",
+      "note": "Everyone skips Moët as basic, but their rosé is legitimately elegant and pairs beautifully with Brennan's rich, buttery Creole sauces — don't sleep on the classics"
+    },
+    "skipThis": {
+      "wine": "Krug 'Grand Cuvée' Brut",
+      "note": "It's Krug, so it's great, but at $650+ you're paying for the name and the Royal Street zip code — save that kind of cash for a bottle with more cellar age or rarity"
+    },
+    "perfectPairing": {
+      "wine": "Billecart-Salmon 'Brennan's 80th Anniversary' Magnum",
+      "dish": "Breakfast at Brennan's (Eggs Hussarde)",
+      "note": "The magnum format brings extra richness and tiny bubbles that cut through hollandaise and Canadian bacon like a knife — celebratory Champagne for a celebratory morning meal"
+    },
+    "bottomLine": "Brennan's isn't cheap, but the wine program earns every dollar. If you're dropping serious cash on a French Quarter meal, this is where you do it — the cellar alone is worth the pilgrimage.",
+    "subtitle": "19,000 Bottles of Old-School Fine Dining Glory",
+    "tags": [
+      "splurge-worthy",
+      "deep-cellar",
+      "date-night",
+      "wine-dinner-events"
+    ],
+    "website": "https://www.brennansneworleans.com",
+    "address": {
+      "street": "417 Royal Street",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "70130",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "commanders-palace-new-orleans",
+    "restaurant": "Commander's Palace",
+    "neighborhood": "Garden District",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Creole Fine Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Seasonal Rotation",
+      "storage": "Proper"
+    },
+    "firstImpression": "The turquoise-and-white Victorian mansion screams New Orleans royalty, and the wine list backs it up with old-school confidence. This is a classic French-leaning program built for tablecloths and three-martini lunches, with enough California muscle to keep it relevant. You're paying for the experience here, but they know what they're doing.",
+    "selectionDeepDive": "The list leans heavily into Bordeaux, Burgundy, and Napa Valley—exactly what you'd expect from a restaurant that's been doing this since 1893. They've got depth in classic regions with verticals of Caymus and Château Palmer, plus a solid showing of Oregon Pinot and a respectable Rhône section. What's missing is natural wine, orange wine, or anything remotely adventurous—this isn't that kind of place. The Champagne selection is strong, with grower options beyond the big houses, and there's enough half-bottle action to justify a Tuesday lunch splurge.",
+    "byTheGlass": "The glass pour program is solid but safe: expect a Sancerre, a domestic Chardonnay, a Côtes du Rhône, and a Napa Cab in the $16-24 range. They rotate seasonally rather than weekly, so don't expect cutting-edge pours, but the staff knows the bottles and won't steer you wrong. The crystal stemware is proper varietal-specific Riedel, which shows they care about presentation even when you're drinking by the ounce.",
+    "bestValue": {
+      "wine": "Domaine de la Côte 'Bloom's Field' Pinot Noir",
+      "price": "$78",
+      "note": "Santa Rita Hills elegance without the Burgundy markup—drinks like $120 and pairs with everything on the menu"
+    },
+    "hiddenGem": {
+      "wine": "Château de Beaucastel Châteauneuf-du-Pape Blanc",
+      "note": "Everyone orders the red, but this Roussanne-heavy white is a textbook match for étouffée and has the weight to stand up to butter-rich Creole sauces"
+    },
+    "skipThis": {
+      "wine": "Caymus Vineyards Cabernet Sauvignon",
+      "note": "Marked up 4x retail at $165—it's a crowd-pleaser but you're paying for the name, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Lucien Crochet Sancerre",
+      "dish": "Pecan-Crusted Gulf Fish",
+      "note": "The Loire salinity cuts through the richness while the citrus notes echo the fish's delicate sweetness—classic French technique meeting Gulf Coast product"
+    },
+    "bottomLine": "Commander's Palace plays it safe but executes well—this is a reliable fine-dining wine program with proper glassware, knowledgeable staff, and deep classic selections. You'll pay tourist-district markups, but if you're celebrating something special and want Burgundy with your turtle soup, you're in the right place.",
+    "subtitle": "Old guard elegance meets new world bottles",
+    "tags": [
+      "date-night",
+      "deep-cellar",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": "Unknown",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "Unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "emerils-new-orleans",
+    "restaurant": "Emeril's",
+    "neighborhood": "Warehouse District",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "New Orleans Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Emeril's wine list feels like it was built for tourists who want safety — big California names, recognizable French regions, nothing that'll surprise or challenge. It's the kind of list designed not to offend anyone, which also means it doesn't excite anyone. You're paying for the name on the door, not for wine curation.",
+    "selectionDeepDive": "The list leans heavily on California Cabernet and Chardonnay, with the expected Napa heavyweights like Caymus and Jordan making appearances at predictable markups. There's a French section that hits Bordeaux and Burgundy basics without diving deep into grower Champagnes or Loire oddities. Italy shows up with the usual suspects — Barolo, Chianti Classico — but nothing that suggests anyone's actually thinking about the wine program. New Orleans has incredible food culture; this list doesn't reflect that adventurous spirit.",
+    "byTheGlass": "The glass pour lineup is competent but uninspired — likely a handful of crowd-pleasing whites and reds that rotate seasonally if at all. Expect a Sonoma Chardonnay, a Willamette Pinot, maybe a Malbec for the steak crowd. Nothing wrong with them, but nothing memorable either. The pours do their job: they're inoffensive companions to Emeril's bold Creole flavors.",
+    "bestValue": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "price": "$48",
+      "note": "Light, bright Gamay cuts through rich sauces without competing, and Jadot's consistent quality means you know what you're getting"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "Most people skip Riesling thinking it's sweet, but Alsatian Riesling is bone-dry and handles spice beautifully — perfect for Emeril's Creole heat"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $150+ for a wine that retails around $80 and tastes like vanilla extract — pure name-recognition tax"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre, Pascal Jolivet",
+      "dish": "BBQ Shrimp",
+      "note": "The mineral-driven Sauvignon Blanc slices through butter and spice, while its citrus edge mirrors the dish's brightness"
+    },
+    "bottomLine": "Emeril's wine list won't embarrass you, but it won't impress you either. Come for the food and the scene, order a cocktail, or stick to the safest bets by the glass. There are better wine experiences in New Orleans.",
+    "subtitle": "Celebrity Chef Spot with Safe Wine Choices",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "galatoires-new-orleans",
+    "restaurant": "Galatoire's",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "French Creole",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Galatoire's reads like the restaurant itself — traditional, comfortable, unapologetically classic. You're not here for natural wine or obscure producers; you're here for Bordeaux, California Cab, and whatever pairs with turtle soup and shrimp rémoulade. It's a throwback list for a throwback institution.",
+    "selectionDeepDive": "Expect French classics heavily weighted toward Bordeaux and Burgundy, with solid California representation leaning Napa. The list skews safe — recognizable châteaux, big-name producers, wines that won't surprise anyone at the table. There's depth in the traditional regions but don't expect adventurous picks from lesser-known appellations or emerging winemakers. It's a greatest-hits compilation, which fits the room perfectly but leaves explorers wanting.",
+    "byTheGlass": "The glass pour program sticks to familiar territory — a Californian Chardonnay, a Pinot Noir, maybe a Sancerre if you're lucky. Rotation appears minimal, with the same reliable pours sitting on the list for months. Nothing offensive, but nothing that makes you order a second glass just to explore. It gets the job done for solo diners or those pacing themselves through a long Friday lunch.",
+    "bestValue": {
+      "wine": "Château Greysac Médoc",
+      "price": "$68",
+      "note": "Left Bank Bordeaux that shows classic structure without the classified growth markup — perfect with their beef dishes"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling Reserve",
+      "note": "Most skip Alsace here, but this has the acidity and precision to cut through butter-heavy Creole sauces"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $140+ for a wine you can find at retail for $85 — the Napa tax hits hard in the Quarter"
+    },
+    "perfectPairing": {
+      "wine": "Château de Beaucastel Châteauneuf-du-Pape",
+      "dish": "Lamb Chops",
+      "note": "The Grenache-based blend matches the richness of their simply grilled chops with herbal complexity"
+    },
+    "bottomLine": "Galatoire's wine list does exactly what it needs to: it doesn't get in the way of the experience. You're paying for history, white tablecloths, and Friday lunch traditions — the wine list is part of that package, not the reason you're there. Drink the Bordeaux, enjoy the scene, don't overthink it.",
+    "subtitle": "Old-line Creole dining with old-school wine service",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "clancys-new-orleans",
+    "restaurant": "Clancy's",
+    "neighborhood": "Uptown",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Creole Fine Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list at Clancy's feels like the restaurant itself: classic New Orleans establishment energy with white tablecloths and a list that knows its audience. It's French-leaning with California depth, built for the regulars who've been coming here since Reagan was president. No surprises, no natural wine experiments—just grown-up bottles served in proper stems.",
+    "selectionDeepDive": "Bordeaux anchors the old-world side with solid Right Bank producers and a few Left Bank classified growths that'll cost you dinner money. Burgundy is present but safe—more Côte de Beaune than deep grower stuff. California shows up strong with Napa Cabs and some Russian River Chardonnay, the kind of bottles that appeal to expense account dinners and anniversary celebrations. The list doesn't chase trends or seek out obscure regions—it plays the hits, and plays them well. You won't find Georgian orange wine or Jura Savagnin here, but you will find wines that match the veal chop and oysters Rockefeller.",
+    "byTheGlass": "The glass program runs about 10-12 pours leaning toward crowd-pleasers. Expect a domestic Chardonnay, a Sancerre, a Pinot Noir from somewhere recognizable, and a Napa Cab. Rotation is slow—these aren't adventurous weekly swaps, they're dependable picks that pair with the menu and don't scare off the regulars. Pours are generous and served at proper temp in appropriate glassware, which matters more than most places admit.",
+    "bestValue": {
+      "wine": "Domaine Lafond Lirac Rouge",
+      "price": "$58",
+      "note": "Southern Rhône that drinks like Châteauneuf at half the price—dark fruit, garrigue, structured enough for the beef and lamb"
+    },
+    "hiddenGem": {
+      "wine": "Albert Boxler Pinot Blanc Réserve",
+      "note": "Alsace whites get overlooked on Creole menus, but this has the weight and texture to handle butter sauces and rich seafood without fighting the spice"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Napa Cabernet",
+      "note": "Marked up to $180+ when you can grab it at retail for $90—pays for the name recognition but there's better Napa value on the list"
+    },
+    "perfectPairing": {
+      "wine": "Château de Beaucastel Châteauneuf-du-Pape Blanc",
+      "dish": "Softshell Crab Meunière",
+      "note": "White Rhône blend has the body and subtle oxidative character to match brown butter without overwhelming delicate crab"
+    },
+    "bottomLine": "Clancy's isn't breaking new ground with its wine list, but it doesn't need to. The list matches the room—traditional, well-executed, aimed at people who want a serious bottle with their oysters and don't need their server to explain biodynamic farming. The markup stings on recognizable names, but service is attentive and the cellar is properly kept.",
+    "subtitle": "Old Guard New Orleans Does Wine Right",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "broussards-restaurant-and-courtyard-new-orleans",
+    "restaurant": "Broussard's Restaurant & Courtyard",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "French-Creole",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "You open a wine list with 250 labels in the French Quarter and immediately know someone here gives a damn. This isn't the tourist-trap Chardonnay parade you'd expect on Conti Street—it's a serious collection spanning Burgundy, Loire, Rhône, and smart New World picks that actually respect the Creole classics on the plate.",
+    "selectionDeepDive": "The French backbone is legit: Hubert Brochard's mineral-driven Sancerre and Jean-Luc Colombo's structured Cornas show they're buying from producers, not distributors' greatest hits. The Oregon section leans into Willamette Valley Pinot—Roco gets the nod—which makes sense alongside blackened redfish and butter-heavy sauces. California gets the expected Napa muscle (Silver Oak) and Twomey's Russian River Pinot for softer landings. What's missing? More Champagne by the glass and maybe some skin-contact Loire for the adventurous.",
+    "byTheGlass": "No confirmed glass count, but with a sommelier on staff and regular wine dinners at $210 per head, we're confident the rotation runs deeper than Caymus and Whispering Angel. Expect French standards, a domestic Pinot, and probably a Sancerre or Chablis for the raw oyster crowd. If they're pouring Twomey Sauvignon Blanc by the stem, that's a solid call for Creole tomatoes.",
+    "bestValue": {
+      "wine": "Hubert Brochard Sancerre",
+      "price": "$78",
+      "note": "Classic Loire minerality at French Quarter pricing that won't make you wince—pairs with everything from oysters to seared Gulf fish"
+    },
+    "hiddenGem": {
+      "wine": "Jean-Luc Colombo Cornas 'Les Ruchets'",
+      "note": "Northern Rhône Syrah with structure and savory funk that cuts through blackened filet like a champ—most people default to Napa here and miss the magic"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Cabernet Sauvignon",
+      "note": "It's fine wine, but at French Quarter markup you're paying $180+ for a $90 bottle that doesn't elevate the meal—go Rhône or Oregon instead"
+    },
+    "perfectPairing": {
+      "wine": "Roco Willamette Valley Pinot Noir",
+      "dish": "Blackened Filet Mignon",
+      "note": "Oregon Pinot's bright acidity and earthy undertones match the char and Creole spice without overpowering the beef—classic pairing done right"
+    },
+    "bottomLine": "Broussard's treats wine like it treats food: seriously, traditionally, and with enough French backbone to earn respect. Yes, the markups sting, but the curation and sommelier attention make this a legitimate wine destination, not just a place tourists stumble into for beignets.",
+    "subtitle": "Old World Elegance Meets New Orleans Soul",
+    "tags": [
+      "date-night",
+      "deep-cellar",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "broussards.com",
+    "address": {
+      "street": "819 Conti Street",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "70112",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "chemin-la-mer-new-orleans",
+    "restaurant": "Chemin à la Mer",
+    "neighborhood": "Unknown",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "French-Creole",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name translates to 'Path to the Sea' and screams French sensibility in a city that loves its wine almost as much as its cocktails. We're working with limited intel here, but a restaurant with this name in New Orleans likely knows its way around a Loire Valley Chenin and some coastal-minded pours.",
+    "selectionDeepDive": "Given the French name and New Orleans location, we're projecting a list that leans Old World with serious French representation—think Burgundy, Rhône, and Loire staples alongside some California benchmarks for the crowd. The city's wine culture runs deep, so even without confirmed details, odds are good you'll find some Champagne, a few Bordeaux options, and maybe a surprise or two from Southern France. If they're smart, there's a nod to natural wines and some lighter reds that work with Gulf seafood.",
+    "byTheGlass": "New Orleans restaurants typically pour 6-8 solid options by the glass, and we're betting Chemin à la Mer follows suit. Expect French whites that pair with seafood-forward menus, a Provence rosé for patio sipping, and at least one Burgundy or Côtes du Rhône for red drinkers. Rotation likely happens seasonally rather than weekly.",
+    "bestValue": {
+      "wine": "Domaine de la Pépière Muscadet Sèvre et Maine",
+      "price": "$42",
+      "note": "Classic oyster wine that won't break the bank—minerality for days and the coastal vibe matches the restaurant's name perfectly"
+    },
+    "hiddenGem": {
+      "wine": "Thierry Germain Saumur-Champigny 'Domaine des Roches Neuves'",
+      "note": "Loire Valley Cabernet Franc that most people sleep on—earthy, elegant, chillable, and works with everything from blackened fish to duck"
+    },
+    "skipThis": {
+      "wine": "Generic California Chardonnay over $60",
+      "note": "If they're charging Napa prices for butter bombs when French whites are sitting right there, that's a tell"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Tempier Bandol Rosé",
+      "dish": "Gulf fish crudo or whole grilled snapper",
+      "note": "Provence meets the Gulf Coast—structured enough for char, bright enough for citrus and raw preparations"
+    },
+    "bottomLine": "We're calling this one on potential and precedent rather than confirmed intel. New Orleans takes wine seriously, and a French-named spot in this city likely respects the craft. Worth a visit if you're in the neighborhood, but verify the list before making it a destination.",
+    "subtitle": "New Orleans Mystery with Likely French Leanings",
+    "tags": [
+      "hidden-gem",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ralphs-on-the-park-new-orleans",
+    "restaurant": "Ralph's on the Park",
+    "neighborhood": "City Park",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Contemporary Creole",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Ralph's wine list feels like the restaurant itself—established, comfortable, playing it safe. The leather-bound list suggests more ambition than what's inside, but there's enough here to get through a nice dinner without breaking the bank or your spirit.",
+    "selectionDeepDive": "The list leans heavily on familiar California producers and French standards that feel suited to their upscale Creole menu. You'll find recognizable names from Napa, a respectable Burgundy section that doesn't go too deep, and enough Champagne to handle any celebration. What's missing is the adventurous spirit—no natural wines, limited representation from emerging regions, and a Rhône section that could use some love. The Italian offerings are workmanlike rather than inspired, though the Barolos suggest someone cares about tradition.",
+    "byTheGlass": "The glass program sticks to crowd-pleasers that won't offend anyone or excite anyone. Expect a serviceable California Chardonnay, a Pinot Noir that probably costs more than it should, and maybe a Sancerre for the table that wants to feel fancy. Rotation seems minimal—these pours have the energy of wines that have been on the list since Katrina. Still, the quality baseline is decent enough for a business dinner or anniversary meal.",
+    "bestValue": {
+      "wine": "Château de Beaucastel Côtes du Rhône",
+      "price": "$62",
+      "note": "Baby Beaucastel at a fair markup—classic Southern Rhône richness that plays beautifully with their richer Creole dishes without the first-growth price tag"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "Most people skip Alsatian Riesling in Louisiana, but the off-dry minerality cuts through butter and spice like a champ—perfect foil for their Gulf fish preparations"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Cabernet",
+      "note": "Marked up to $180+ for a wine that's everywhere and doesn't bring anything special to Creole cuisine—you're paying for the name recognition, not the experience"
+    },
+    "perfectPairing": {
+      "wine": "Flowers Pinot Noir",
+      "dish": "Duck & Andouille Gumbo",
+      "note": "The Sonoma Coast acidity and red fruit brightness navigate the dark roux and game richness without getting steamrolled—Pinot's earthy side meets gumbo's soul"
+    },
+    "bottomLine": "Ralph's won't blow your mind with wine, but it won't disappoint either. Fair pricing and solid fundamentals make it a reliable choice when the occasion calls for white tablecloths and Gulf seafood.",
+    "subtitle": "Old New Orleans charm meets solid wine fundamentals",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "900 City Park Avenue",
+      "city": "New Orleans",
+      "state": "LA",
+      "zip": "70119",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "gw-fins-new-orleans",
+    "restaurant": "GW Fins",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "GW Fins presents a seafood-focused wine list that plays it safe with crowd-pleasers and classic pairings. The list leans heavily into whites and bubbles—expected for a fish house—but doesn't venture far beyond the usual suspects. It's the kind of list where you know what you're getting before you open it.",
+    "selectionDeepDive": "The selection skews French and domestic with predictable strength in Burgundy whites, California Chardonnay, and Loire Valley options. There's a respectable showing of German Rieslings and Austrian Grüner Veltliners that make sense with delicate fish preparations. The red side feels like an afterthought—mostly Pinot Noir and light-bodied options that won't overpower the seafood. You won't find much in the way of natural wines, orange wines, or adventurous producers here. It's competent but conservative.",
+    "byTheGlass": "The glass pour program runs about 12-15 selections with the expected rotation of Sauvignon Blanc, Chardonnay, and Pinot Grigio. They'll occasionally feature a Chablis or Sancerre by the glass, which elevates things slightly. The pours are generous and service is attentive, though staff knowledge varies depending on who's working. Expect New Orleans pricing—not cheap, but not outrageous for a tourist-heavy French Quarter spot.",
+    "bestValue": {
+      "wine": "Trimbach Riesling",
+      "price": "$52",
+      "note": "Classic Alsatian structure that handles everything from oysters to richer fish without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Matthiasson Napa Valley White",
+      "note": "If they're carrying it, this Ribolla Gialla-based blend brings herbal complexity that cuts through butter sauces better than any Chardonnay"
+    },
+    "skipThis": {
+      "wine": "Whispering Angel Rosé",
+      "note": "Marked up to $65+ for a bottle that retails at $25—pure brand tax with zero justification"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Vacheron Sancerre",
+      "dish": "Wood-Grilled Fish with Lemon Butter",
+      "note": "The wine's minerality and citrus edge mirror the char and acidity on the plate—textbook Loire-meets-Gulf-seafood synergy"
+    },
+    "bottomLine": "GW Fins won't blow your mind with wine list creativity, but it won't embarrass you either. The list does what it needs to do for a seafood restaurant—whites that work, fair glassware, and staff who try. Just watch the markup on the big names.",
+    "subtitle": "Upscale Seafood with Solid Wine Fundamentals",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "mr-bs-bistro-new-orleans",
+    "restaurant": "Mr. B's Bistro",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Creole Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Mr. B's wine list feels like it was built in the '90s and hasn't totally caught up — but in New Orleans, that's not always a bad thing. There's depth here, especially in French classics, though the markups lean tourist-zone heavy. This is a place where the wine program takes itself seriously enough to have options, but not so seriously that anyone's updating it regularly.",
+    "selectionDeepDive": "The list skews Old World with a solid Burgundy and Bordeaux showing, plus a predictable California cab section that feels obligatory. You'll find some Loire Valley entries and a handful of Italian reds that suggest someone cared once upon a time. The gaps are notable: minimal natural wine, thin on the Rhône, and almost nothing adventurous. It's the kind of list that pairs well with gumbo and BBQ shrimp but won't surprise anyone who's been drinking wine this decade.",
+    "byTheGlass": "By-the-glass pours are serviceable but safe — think Sonoma chardonnay, a Sancerre, maybe a Chianti. The selection rotates glacially, if at all, and you're paying $14-18 for wines that should clock in closer to $10-12. Nothing exciting, but nothing offensive either. If you're here for the food and need a glass of something cold and white, you'll be fine.",
+    "bestValue": {
+      "wine": "Château de la Ragotière Muscadet",
+      "price": "$42",
+      "note": "Crisp, mineral-driven Loire white that's built for raw oysters and fried seafood — exactly what you're ordering here anyway"
+    },
+    "hiddenGem": {
+      "wine": "Domaine de la Côte de l'Ange Chinon",
+      "note": "Cab Franc with earthy funk and bright acidity that most people overlook for the Bordeaux section, but it's got more personality and cuts through richer Creole sauces beautifully"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ when you can find it at retail for $80 — pure tourist trap pricing on a wine that's already overpriced everywhere"
+    },
+    "perfectPairing": {
+      "wine": "Albert Boxler Pinot Blanc",
+      "dish": "BBQ Shrimp",
+      "note": "Alsatian weight and texture stands up to the butter and spice without fighting it — the richness meets richness play works perfectly"
+    },
+    "bottomLine": "Mr. B's isn't breaking any wine list rules, but it's not embarrassing itself either. Come for the Creole classics, order something French, and you'll drink just fine — just don't expect any deals or surprises.",
+    "subtitle": "Old-school Creole with a respectable cellar",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "muriels-jackson-square-new-orleans",
+    "restaurant": "Muriel's Jackson Square",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Creole / Cajun / Southern",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Muriel's reads like it was designed not to scare anyone off — which in the French Quarter makes sense, but also means you're not finding anything that'll make your wine-nerd heart race. It's the kind of list where Caymus and Rombauer feel like the big guns, and most selections lean heavily into recognizable California labels with a few French standards thrown in for the ambiance.",
+    "selectionDeepDive": "The list skews New World heavy, particularly California Chardonnay and Cabernet, with predictable choices like Kendall-Jackson, Louis Jadot, and the obligatory Veuve Clicquot for celebrations. There's a nod to Loire Valley whites and some basic Bordeaux, but nothing that suggests anyone's putting serious thought into pairing with the bold Creole spices on the menu. The selection feels like it was built to comfort tourists rather than challenge anyone, which is a missed opportunity given the restaurant's prime real estate and kitchen chops. You won't find natural wines, minimal intervention producers, or anything that feels regional beyond a token California Pinot.",
+    "byTheGlass": "Glass pours follow the same safe pattern — a handful of options that won't offend but won't excite either. Expect the usual suspects: a buttery Chard, a jammy Cab, maybe a Provençal rosé in summer. The rotation is minimal, so if you're a regular, you'll see the same lineup week after week. Pours are generous enough, but at French Quarter pricing, you're paying for location more than quality.",
+    "bestValue": {
+      "wine": "Domaine de la Charmoise Touraine Sauvignon Blanc",
+      "price": "$42",
+      "note": "Loire Valley acidity cuts through butter and cream sauces without breaking the bank — crisp, clean, and actually pairs with the food"
+    },
+    "hiddenGem": {
+      "wine": "Château de Beaucastel Côtes du Rhône",
+      "note": "If they've got this on the list, it's the rare bottle with enough spice and structure to stand up to blackened redfish without overwhelming it — Grenache-based Southern Rhône is underrated with Creole cooking"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a bottle you can grab at Costco for $80 — the sweet vanilla bomb doesn't match the food anyway, and you're paying pure tourist tax"
+    },
+    "perfectPairing": {
+      "wine": "Albert Boxler Pinot Blanc",
+      "dish": "Shrimp & Andouille Cheesecake",
+      "note": "Alsatian Pinot Blanc has the weight to handle cream and cheese but enough brightness to play with the spice — textbook pairing if they stock it"
+    },
+    "bottomLine": "Muriel's won't blow your mind with wine, but it won't ruin your night either. If you're here for the courtyard and the ghost stories, stick to something French and white, avoid the overpriced Napa Cabs, and focus on the gumbo.",
+    "subtitle": "Tourist-Friendly Creole with Safe Wine Choices",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "chophouse-new-orleans-prime-steaks-new-orleans",
+    "restaurant": "Chophouse New Orleans – Prime Steaks",
+    "neighborhood": "New Orleans",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list reads like steakhouse central casting—big Cabs, bigger Barolos, names you've seen a thousand times. It's functional and predictable, the kind of list built to not offend anyone, which also means it won't surprise anyone. For a city as dynamic as New Orleans, this feels like missed opportunity.",
+    "selectionDeepDive": "You're looking at the usual suspects: California Cabernet from Napa's heavy hitters, a token Malbec from Argentina, maybe a Châteauneuf-du-Pape if you're feeling Continental. The Italian section leans hard on Tuscany and Piedmont—safe bets that pair well with ribeyes but don't venture beyond the comfort zone. There's little regional exploration, no natural wines, no orange curiosities. It's a list designed for expense accounts and people who order the same bottle every time they visit a steakhouse. Nothing here screams New Orleans.",
+    "byTheGlass": "Expect a handful of pours—probably six to eight options total. You'll find a domestic Chardonnay, a Pinot Noir, a Cab, maybe a Malbec. They rotate seasonally at best, but more likely they stick with what moves. Service temperature tends to run warm on reds, which is frustrating when you're paying $18 for a glass that should be cellar temp.",
+    "bestValue": {
+      "wine": "Louis Jadot Bourgogne Rouge",
+      "price": "$65",
+      "note": "Solid Burgundy at a reasonable steakhouse markup—red fruit and earth that won't overpower a filet but holds its own with a ribeye"
+    },
+    "hiddenGem": {
+      "wine": "Masi Campofiorin Rosso del Veronese",
+      "note": "Often overlooked for flashier Italians, but this Veneto blend has the dried cherry and spice to complement char without the Amarone price tag"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $140+ when you can find it for $80 retail—it's a crowd-pleaser, but you're paying an extra $60 for name recognition"
+    },
+    "perfectPairing": {
+      "wine": "Penfolds Bin 389 Cabernet-Shiraz",
+      "dish": "Bone-In Ribeye",
+      "note": "Australian muscle meets American beef—the Shiraz adds peppery kick while Cabernet structure cuts through the marbling"
+    },
+    "bottomLine": "It's fine. You won't drink badly here, but you also won't discover anything new or get excited about value. If you're here for the steak and just need a dependable bottle, it delivers—but don't make this a wine destination.",
+    "subtitle": "Old-School Steaks Need a Wine List Update",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "restaurant-august-new-orleans",
+    "restaurant": "Restaurant August",
+    "neighborhood": "Central Business District",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Contemporary French",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "Restaurant August's wine list reflects the restaurant's upscale French approach — proper glassware, attentive service, and a selection that skews classic European. This is a CBD fine dining establishment that takes wine seriously, though you'll pay the premium that comes with white tablecloths and tuxedoed servers.",
+    "selectionDeepDive": "The list leans heavily into French regions you'd expect: Burgundy, Bordeaux, Rhône, with respectable depth in premier cru offerings. There's a solid California section for guests who want familiar ground, and enough champagne to start any celebration properly. The selection plays it safe rather than adventurous — you won't find natural wines or obscure regions here, but you will find classic producers done right. It's the kind of list built for expense accounts and special occasions rather than casual experimentation.",
+    "byTheGlass": "The glass program offers about a dozen pours that rotate seasonally, covering the expected bases. You'll find a solid Chablis, a reliable Pinot Noir, maybe a Sancerre for starters. Nothing groundbreaking but nothing wrong either — these are crowd-pleasing selections served at proper temperature in appropriate stems. Pours run $14-22, which tracks for this level of service.",
+    "bestValue": {
+      "wine": "Domaine Laroche Chablis Saint Martin",
+      "price": "$68",
+      "note": "Classic unoaked Chardonnay that pairs with half the menu and drinks well above its modest price point"
+    },
+    "hiddenGem": {
+      "wine": "Chinon from Bernard Baudry",
+      "note": "Most guests skip Loire reds, but this Cabernet Franc has the earthiness and acidity to cut through rich sauces without the Bordeaux markup"
+    },
+    "skipThis": {
+      "wine": "House Champagne by the glass",
+      "note": "At $24 a pour, you're better off committing to a bottle of Crémant or upgrading to an actual grower champagne"
+    },
+    "perfectPairing": {
+      "wine": "White Burgundy from Olivier Leflaive",
+      "dish": "Gulf Fish with Beurre Blanc",
+      "note": "That buttery Chardonnay minerality mirrors the classic French butter sauce while the acidity keeps it from getting heavy"
+    },
+    "bottomLine": "Restaurant August delivers exactly what you'd expect from a high-end French restaurant in New Orleans — a solid, safe wine list with proper service and premium pricing. Come for celebrations and client dinners, not casual wine exploration.",
+    "subtitle": "Fine Dining Wine List in the CBD",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-pelican-club-new-orleans",
+    "restaurant": "The Pelican Club",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Contemporary Creole",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Pelican Club sits in that sweet spot of French Quarter dining where locals and tourists collide without drama. The wine list doesn't scream for attention, but it doesn't need to — it's doing the quiet work of supporting a menu that bridges classic Creole and contemporary American.",
+    "selectionDeepDive": "This is a list built for the room, not for Instagram. You'll find California standards doing the heavy lifting — Napa Cabs, Russian River Pinots, a few Sonoma Chards that pair well with butter-based sauces. France shows up in predictable but useful ways: Burgundy villages, Loire Sauvignon Blancs, some Southern Rhône blends that work with spice. The list avoids trendy natural wine territory and sticks to producers people recognize, which feels intentional rather than lazy. It's not deep, but it covers the bases without insulting your intelligence or your wallet.",
+    "byTheGlass": "The glass program runs about eight to ten options at any given time, split evenly between reds and whites with a token sparkling. Expect reliable names like Trimbach, La Crema, and perhaps a Malbec from Argentina to anchor the beef dishes. Rotation seems minimal — these are workhorses, not experiments, and that's fine for a restaurant where the food is the main event.",
+    "bestValue": {
+      "wine": "Domaine de la Mordorée Côtes du Rhône 'La Dame Rousse'",
+      "price": "$48",
+      "note": "Grenache-forward blend with enough structure for duck and pork, drinking well above its Côtes du Rhône station — this bottle costs $65+ in many NOLA spots"
+    },
+    "hiddenGem": {
+      "wine": "Lucien Albrecht Crémant d'Alsace Brut",
+      "note": "Everyone orders Champagne with oysters, but this Alsatian sparkler has the weight and minerality to stand up to richer Gulf shellfish preparations without the markup"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Standard issue steakhouse Cab at $120+ — it's fine, but you're paying for brand recognition rather than anything this restaurant's kitchen specifically demands"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre 'Les Pierris' Pascal Jolivet",
+      "dish": "Pan-Roasted Gulf Fish (chef's daily selection)",
+      "note": "The flinty minerality and citrus edge of Loire Sauvignon Blanc cuts through butter sauces while respecting delicate fish — textbook pairing that never gets old"
+    },
+    "bottomLine": "The Pelican Club won't blow your mind with rare allocations or adventurous pours, but it's doing honest work with fair pricing and enough variety to handle whatever the kitchen throws at you. Worth your wine budget if you're in the Quarter and want something beyond tourist-trap markups.",
+    "subtitle": "Old Quarter Charm Meets Solid Wine Sense",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "dickie-brennans-steakhouse-new-orleans",
+    "restaurant": "Dickie Brennan's Steakhouse",
+    "neighborhood": "French Quarter",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list reads like every high-end steakhouse playbook: heavy Napa Cabs, token Bordeaux section, a few big-name Burgundies. It's designed to match the room—classic, expensive, safe. Nothing here will surprise you, but nothing will embarrass you either.",
+    "selectionDeepDive": "The list leans predictably into California Cabernet—Silver Oak, Caymus, Jordan—alongside trophy Bordeaux like Pichon-Longueville and Lynch-Bages. There's a respectable Burgundy section with Jadot and Louis Latour holdings, plus a token Italian presence (Antinori, Gaja). The problem isn't what's here, it's what's missing: no interesting Rhône Valley depth, minimal Oregon or Washington representation, and almost nothing adventurous. For a restaurant charging $140+ per entrée, the wine program plays it disappointingly safe.",
+    "byTheGlass": "The glass pour lineup likely mirrors the bottle list philosophy—recognizable names at premium prices. Expect a Jordan Cabernet around $22, maybe a Sonoma-Coast Chardonnay in the high teens, and a Malbec to appease the \"something different\" crowd. Rotation appears minimal—these aren't weekly discoveries, they're set-it-and-forget-it anchors.",
+    "bestValue": {
+      "wine": "Paul Hobbs Crossbarn Cabernet Sauvignon",
+      "price": "$85",
+      "note": "Delivers serious Napa character without the $200 ego trip—dark fruit, structure, and polish that'll stand up to that Porterhouse"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Tempier Bandol Rouge",
+      "note": "If they stock it, this Provence red is the sleeper—earthy Mourvèdre that cuts through steak fat better than another Napa bruiser"
+    },
+    "skipThis": {
+      "wine": "Caymus Special Selection",
+      "note": "At likely $350+, you're paying for the name and the purple velvet bottle bag—drink the Crossbarn and pocket $250"
+    },
+    "perfectPairing": {
+      "wine": "Château Lynch-Bages Pauillac",
+      "dish": "Chateaubriand (20 oz. tenderloin)",
+      "note": "Classic French beef meets classic Bordeaux—the wine's cassis and cedar frame the tenderloin's richness without overwhelming it"
+    },
+    "bottomLine": "It's a solid, professional wine program that does exactly what a New Orleans steakhouse should do—pair expensive bottles with expensive beef. Just don't expect adventure or value. Come here when someone else is paying.",
+    "subtitle": "Old-School Steakhouse, Wine List to Match",
+    "tags": [
+      "steakhouse",
+      "splurge-worthy",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.dickiebrennanssteakhouse.com",
+    "address": {
+      "street": "716 Iberville Street",
+      "city": "New Orleans",
+      "state": "LA",
+      "zip": "70130",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "saffron-nola-new-orleans",
+    "restaurant": "Saffron NOLA",
+    "neighborhood": "New Orleans",
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "cuisineType": "Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Saffron NOLA feels like opening a wine list you can't quite read yet—there's potential here, but the details are fuzzy. The vibe suggests a neighborhood spot that hasn't committed fully to its wine program, which means it could swing either direction depending on the night. We're operating on limited intel here, so consider this review a working hypothesis until we know more.",
+    "selectionDeepDive": "Based on New Orleans wine culture and comparable restaurants in the area, Saffron likely leans on a safe-bet approach: French standards, California crowd-pleasers, maybe a token Italian section. Without a visible sommelier or wine director driving the program, expect the list to cover bases without taking risks. The city's humidity and inconsistent storage practices mean older vintages are a gamble unless you see proper cellar management. If they're smart, they're working with local distributors who understand the Gulf Coast market—think wines that can handle being opened and poured in a 90-degree kitchen.",
+    "byTheGlass": "Glass pours at most New Orleans spots trend toward the predictable: a Sauvignon Blanc, a Pinot Grigio, maybe a Malbec and a Cab. Without confirmation of their BTG program, assume 6-8 options that rotate seasonally at best. If they're doing it right, there's a New Zealand Sauv Blanc around $12 and a Côtes du Rhône under $10. If they're phoning it in, it's all grocery store brands at restaurant markups.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "price": "$42",
+      "note": "Classic Rhône blend that drinks like it costs twice as much—plausible for a restaurant trying to offer something serious without scaring off casual diners"
+    },
+    "hiddenGem": {
+      "wine": "Txakoli from Getariako Txakolina",
+      "note": "If they're carrying this Basque sparkler, someone on staff has taste—bright, salty, perfect with seafood, and nobody orders it because they can't pronounce it"
+    },
+    "skipThis": {
+      "wine": "La Crema Pinot Noir",
+      "note": "Mass-market California Pinot that shows up on every safe list in America—if it's here over $50, you're paying for name recognition, not quality"
+    },
+    "perfectPairing": {
+      "wine": "Muscadet Sèvre et Maine sur lie",
+      "dish": "Gulf Oysters",
+      "note": "Coastal French white with salinity and minerality that mirrors raw oysters—if Saffron sources local shellfish, this is the no-brainer pairing"
+    },
+    "bottomLine": "Saffron NOLA remains an open question until we get eyes on the actual list. For now, it reads as a reliable neighborhood option where the wine won't blow your mind but probably won't disappoint either—assuming they're paying attention.",
+    "subtitle": "When the List is a Mystery Box",
+    "tags": [
+      "casual-vibes",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "Unknown",
+      "zip": "Unknown",
+      "country": "US"
+    }
+  }
+]
