@@ -26,13 +26,18 @@ const sanity = createClient({
 // ---------------------------------------------------------------------------
 async function resolveCityRef(citySlug: string, cityName: string, state: string): Promise<string> {
   // Check if city exists
-  const existing = await sanity.fetch<{ _id: string } | null>(
-    `*[_type == "city" && slug.current == $slug][0]{ _id }`,
+  const existing = await sanity.fetch<{ _id: string; comingSoon?: boolean } | null>(
+    `*[_type == "city" && slug.current == $slug][0]{ _id, comingSoon }`,
     { slug: citySlug }
   );
 
   if (existing) {
     log.debug(`City "${cityName}" found: ${existing._id}`);
+    // Clear comingSoon flag when we're about to publish real reviews
+    if (existing.comingSoon) {
+      log.info(`Clearing comingSoon flag for ${cityName}`);
+      await sanity.patch(existing._id).set({ comingSoon: false }).commit();
+    }
     return existing._id;
   }
 

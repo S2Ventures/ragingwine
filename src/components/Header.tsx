@@ -11,8 +11,8 @@ const cityItems = [
   { label: 'Clayton', href: '/cities/clayton' },
   { label: 'Greenville', href: '/cities/greenville' },
   { label: 'Key West', href: '/cities/key-west' },
+  { label: 'New Orleans', href: '/cities/new-orleans' },
   { label: 'Asheville', href: '/cities/asheville', comingSoon: true },
-  { label: 'New Orleans', href: '/cities/new-orleans', comingSoon: true },
   { label: 'Savannah', href: '/cities/savannah', comingSoon: true },
 ];
 

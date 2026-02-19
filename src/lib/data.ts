@@ -58,8 +58,6 @@ export const cities: City[] = [
     state: 'Louisiana',
     tagline: 'Grand Award cellars and Champagne houses of the South',
     description: 'New Orleans pairs world-class Creole cuisine with some of the deepest wine cellars in America. Multiple Wine Spectator Grand Award winners, 15,000-bottle collections, and a new generation of sommeliers are making the Crescent City one of the most exciting wine destinations in the country.',
-    comingSoon: true,
-    comingSoonTeaser: 'New Orleans has always been a food city, but its wine programs are staggeringly good and wildly underrated. Brennan\'s keeps nearly 1,400 selections in a two-story cellar with an entire floor dedicated to Burgundy and close to 100 Champagnes on list. Commander\'s Palace stocks over 2,500 bottles behind one of the most famous dining rooms in America. Emeril\'s has held a Wine Spectator Grand Award for 14 consecutive years with a 10,000-bottle private cellar. And the new guard is just as compelling: MaMou pairs a sommelier-founded concept with a vinous focus you can feel the moment you walk in, Pluck Wine Bar specializes in Burgundy and sparkling from a cozy Bywater spot, and Saint-Germain brings natural wine and French bistro energy to the neighborhood wine bar format. We\'re mapping the full spectrum, from Garden District grand dames to Bywater natural wine haunts. Reviews are coming.',
   },
   {
     name: 'Savannah',
