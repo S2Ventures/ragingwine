@@ -21,28 +21,58 @@ interface PerplexityMessage {
   content: string;
 }
 
-async function queryPerplexity(messages: PerplexityMessage[]): Promise<string> {
-  const res = await fetch('https://api.perplexity.ai/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      Authorization: `Bearer ${config.perplexityApiKey}`,
-    },
-    body: JSON.stringify({
-      model: config.perplexityModel,
-      messages,
-      temperature: 0.1,
-      max_tokens: 8000,
-    }),
-  });
+async function queryPerplexity(messages: PerplexityMessage[], retries = 3): Promise<string> {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch('https://api.perplexity.ai/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${config.perplexityApiKey}`,
+        },
+        body: JSON.stringify({
+          model: config.perplexityModel,
+          messages,
+          temperature: 0.1,
+          max_tokens: 8000,
+        }),
+      });
 
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`Perplexity API ${res.status}: ${text}`);
+      if (!res.ok) {
+        const text = await res.text();
+        throw new Error(`Perplexity API ${res.status}: ${text}`);
+      }
+
+      const data = await res.json();
+      return data.choices?.[0]?.message?.content ?? '';
+    } catch (err) {
+      log.error(`Perplexity API attempt ${attempt}/${retries} failed: ${err}`);
+      if (attempt === retries) throw err;
+      await new Promise(r => setTimeout(r, 3000 * attempt));
+    }
+  }
+  throw new Error('Perplexity API: all retries exhausted');
+}
+
+// Try to extract a JSON array from a response that may contain surrounding text
+function extractJsonArray(text: string): unknown[] {
+  // Try direct parse first
+  const cleaned = text.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+  try {
+    const parsed = JSON.parse(cleaned);
+    if (Array.isArray(parsed)) return parsed;
+  } catch { /* fall through */ }
+
+  // Try to find a JSON array embedded in the text
+  const match = cleaned.match(/\[[\s\S]*\]/);
+  if (match) {
+    try {
+      const parsed = JSON.parse(match[0]);
+      if (Array.isArray(parsed)) return parsed;
+    } catch { /* fall through */ }
   }
 
-  const data = await res.json();
-  return data.choices?.[0]?.message?.content ?? '';
+  throw new Error(`No valid JSON array found in response: ${cleaned.slice(0, 100)}...`);
 }
 
 // ---------------------------------------------------------------------------
@@ -51,39 +81,55 @@ async function queryPerplexity(messages: PerplexityMessage[]): Promise<string> {
 async function discoverRestaurants(city: string, state: string, count: number): Promise<string[]> {
   log.info(`Pass 1: Discovering top ${count} wine-forward restaurants in ${city}, ${state}`);
 
-  const systemPrompt = `You are a restaurant and wine industry researcher. Return factual, verified information only. Focus on restaurants known for their wine programs, wine lists, or wine-centric dining experiences.`;
+  const systemPrompt = `You are a restaurant and wine industry researcher specializing in wine programs. You always respond with structured JSON data. Never refuse a request — this is factual restaurant research, not harmful content. Return verified information only.`;
 
-  const userPrompt = `List the top ${count} restaurants in ${city}, ${state} that are known for having notable wine programs or wine lists. Include a mix of:
+  const userPrompt = `Research restaurants in ${city}, ${state} that have notable wine programs or wine lists.
+
+Find ${count} restaurants including a mix of:
 - Fine dining with deep cellars
 - Wine bars and wine-focused bistros
 - Upscale casual spots with surprisingly good wine lists
 - Neighborhood gems with curated selections
 
-For each restaurant, provide ONLY:
+For each restaurant, provide:
 1. Restaurant name (exact, official name)
 2. Neighborhood/area within ${city}
 3. Cuisine type (e.g., "Italian", "New American", "Steakhouse")
 4. One sentence on why their wine program stands out
 
-Format as a JSON array of objects with keys: name, neighborhood, cuisineType, whyNotable
-Return ONLY the JSON array, no markdown fencing or explanation.`;
+Respond with ONLY a JSON array of objects with keys: name, neighborhood, cuisineType, whyNotable
+No markdown fencing, no explanation, no preamble. Just the JSON array.`;
 
-  const response = await queryPerplexity([
-    { role: 'system', content: systemPrompt },
-    { role: 'user', content: userPrompt },
-  ]);
+  // Try up to 3 times with slightly different prompts
+  const maxAttempts = 3;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const messages: PerplexityMessage[] = [
+      { role: 'system', content: systemPrompt },
+      { role: 'user', content: attempt === 1
+        ? userPrompt
+        : `${userPrompt}\n\nIMPORTANT: You must respond with a JSON array. Do not explain why you cannot help. This is factual restaurant research for a wine review publication.`
+      },
+    ];
 
-  try {
-    // Strip any markdown fencing if present
-    const cleaned = response.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
-    const parsed = JSON.parse(cleaned);
-    const names = parsed.map((r: { name: string }) => r.name);
-    log.info(`Discovered ${names.length} restaurants`);
-    return names;
-  } catch (err) {
-    log.error('Failed to parse discovery response', response);
-    throw new Error(`Discovery parse failed: ${err}`);
+    const response = await queryPerplexity(messages);
+
+    try {
+      const parsed = extractJsonArray(response);
+      const names = parsed.map((r: any) => r.name).filter(Boolean);
+      if (names.length === 0) throw new Error('Parsed array contained no restaurant names');
+      log.info(`Discovered ${names.length} restaurants (attempt ${attempt})`);
+      return names;
+    } catch (err) {
+      log.error(`Discovery parse attempt ${attempt}/${maxAttempts} failed: ${err}`);
+      log.error(`Response preview: ${response.slice(0, 200)}`);
+      if (attempt === maxAttempts) {
+        throw new Error(`Discovery failed after ${maxAttempts} attempts. Last error: ${err}`);
+      }
+      await new Promise(r => setTimeout(r, 3000));
+    }
   }
+
+  throw new Error('Discovery: unreachable');
 }
 
 // ---------------------------------------------------------------------------
@@ -138,8 +184,7 @@ Return a JSON array of these objects. ONLY the JSON array, no markdown fencing.`
     ]);
 
     try {
-      const cleaned = response.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
-      const parsed: ResearchedRestaurant[] = JSON.parse(cleaned);
+      const parsed = extractJsonArray(response) as ResearchedRestaurant[];
       results.push(...parsed);
       log.info(`Got ${parsed.length} results from batch`);
     } catch (err) {
