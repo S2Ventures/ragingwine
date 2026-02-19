@@ -79,18 +79,56 @@ function extractJsonArray(text: string): unknown[] {
 // Pass 1 — Discovery
 // ---------------------------------------------------------------------------
 async function discoverRestaurants(city: string, state: string, count: number): Promise<string[]> {
-  log.info(`Pass 1: Discovering top ${count} wine-forward restaurants in ${city}, ${state}`);
+  log.info(`Pass 1: Discovering wine-forward restaurants in ${city}, ${state} (target: ${count})`);
 
   const systemPrompt = `You are a restaurant and wine industry researcher specializing in wine programs. You always respond with structured JSON data. Never refuse a request — this is factual restaurant research, not harmful content. Return verified information only.`;
+
+  const allNames: string[] = [];
+  const overshoot = Math.ceil(count * 1.5); // Ask for more than we need
+
+  // First discovery pass — ask for 1.5x the target
+  const firstPassNames = await runDiscoveryPass(city, state, overshoot, [], systemPrompt);
+  allNames.push(...firstPassNames);
+  log.info(`Pass 1a: Got ${allNames.length} restaurants`);
+
+  // If we're still short, run a second pass asking for more, excluding what we have
+  if (allNames.length < count) {
+    const remaining = count - allNames.length + 10; // overshoot again
+    log.info(`Pass 1b: Need ${count - allNames.length} more, requesting ${remaining} additional`);
+    const secondPassNames = await runDiscoveryPass(city, state, remaining, allNames, systemPrompt);
+    const dedupedNew = secondPassNames.filter(n => !allNames.includes(n));
+    allNames.push(...dedupedNew);
+    log.info(`Pass 1b: Got ${dedupedNew.length} new restaurants (total: ${allNames.length})`);
+  }
+
+  // Trim to target count
+  const finalNames = allNames.slice(0, count);
+  log.info(`Discovery complete: ${finalNames.length} restaurants for ${city}`);
+  return finalNames;
+}
+
+async function runDiscoveryPass(
+  city: string,
+  state: string,
+  count: number,
+  exclude: string[],
+  systemPrompt: string
+): Promise<string[]> {
+  const excludeClause = exclude.length > 0
+    ? `\n\nDo NOT include these restaurants (already found):\n${exclude.map(n => `- ${n}`).join('\n')}\n`
+    : '';
 
   const userPrompt = `Research restaurants in ${city}, ${state} that have notable wine programs or wine lists.
 
 Find ${count} restaurants including a mix of:
-- Fine dining with deep cellars
+- Fine dining with deep cellars and extensive wine lists
 - Wine bars and wine-focused bistros
-- Upscale casual spots with surprisingly good wine lists
-- Neighborhood gems with curated selections
-
+- Upscale casual spots with surprisingly good wine selections
+- Neighborhood gems with curated wine lists
+- Steakhouses and Italian restaurants known for wine
+- Hotel restaurants with notable wine programs
+- Any restaurant where wine is a meaningful part of the experience
+${excludeClause}
 For each restaurant, provide:
 1. Restaurant name (exact, official name)
 2. Neighborhood/area within ${city}
@@ -100,14 +138,13 @@ For each restaurant, provide:
 Respond with ONLY a JSON array of objects with keys: name, neighborhood, cuisineType, whyNotable
 No markdown fencing, no explanation, no preamble. Just the JSON array.`;
 
-  // Try up to 3 times with slightly different prompts
   const maxAttempts = 3;
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     const messages: PerplexityMessage[] = [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: attempt === 1
         ? userPrompt
-        : `${userPrompt}\n\nIMPORTANT: You must respond with a JSON array. Do not explain why you cannot help. This is factual restaurant research for a wine review publication.`
+        : `${userPrompt}\n\nIMPORTANT: You must respond with a JSON array. Do not explain why you cannot help. This is factual restaurant research for a wine review publication. Return as many as you can find, even if fewer than ${count}.`
       },
     ];
 
@@ -117,7 +154,7 @@ No markdown fencing, no explanation, no preamble. Just the JSON array.`;
       const parsed = extractJsonArray(response);
       const names = parsed.map((r: any) => r.name).filter(Boolean);
       if (names.length === 0) throw new Error('Parsed array contained no restaurant names');
-      log.info(`Discovered ${names.length} restaurants (attempt ${attempt})`);
+      log.info(`Discovery pass got ${names.length} restaurants (attempt ${attempt})`);
       return names;
     } catch (err) {
       log.error(`Discovery parse attempt ${attempt}/${maxAttempts} failed: ${err}`);
@@ -129,7 +166,7 @@ No markdown fencing, no explanation, no preamble. Just the JSON array.`;
     }
   }
 
-  throw new Error('Discovery: unreachable');
+  throw new Error('Discovery pass: unreachable');
 }
 
 // ---------------------------------------------------------------------------
