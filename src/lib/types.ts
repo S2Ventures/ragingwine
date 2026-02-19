@@ -21,6 +21,14 @@ export interface EditorialSection {
   body: string;
 }
 
+export interface Address {
+  street: string;
+  city: string;
+  state: string;
+  zip: string;
+  country: string;
+}
+
 export interface Review {
   slug: string;
   restaurant: string;
@@ -46,6 +54,9 @@ export interface Review {
   tags?: string[];
   // Half-price wine night deal
   halfPriceWineNight?: { day: string; details?: string };
+  // Restaurant location data
+  website?: string;
+  address?: Address;
 }
 
 export interface City {
@@ -54,6 +65,8 @@ export interface City {
   state: string;
   tagline: string;
   description: string;
+  comingSoon?: boolean;
+  comingSoonTeaser?: string;
 }
 
 // Winery types

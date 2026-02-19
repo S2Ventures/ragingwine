@@ -1,11 +1,14 @@
 import Link from 'next/link';
-import { reviews, cities } from '@/lib/data';
+import { getReviews, getCities } from '@/lib/sanity';
 import { BADGE_CONFIG, BadgeType } from '@/lib/types';
 import ReviewCard from '@/components/ReviewCard';
 import Newsletter from '@/components/Newsletter';
 import { BadgeWithDescription } from '@/components/Badge';
 
-export default function Home() {
+export const revalidate = 60; // ISR: revalidate every 60 seconds
+
+export default async function Home() {
+  const [reviews, cities] = await Promise.all([getReviews(), getCities()]);
   const featuredReviews = reviews.slice(0, 3);
 
   return (
@@ -140,17 +143,24 @@ export default function Home() {
           <div className="text-center mb-10">
             <h2 className="text-2xl font-bold text-brand-dark">Explore by City</h2>
             <p className="text-gray-500 text-sm mt-2">
-              Six cities and counting. More coming soon.
+              Nine cities and counting. Asheville, New Orleans, and Savannah coming soon.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {cities.map(city => (
               <Link key={city.slug} href={`/cities/${city.slug}`} className="group">
                 <div className="bg-brand-cream rounded-xl p-6 border border-gray-200 hover:shadow-md transition-all hover:-translate-y-0.5">
-                  <h3 className="font-bold text-lg text-brand-dark group-hover:text-wine-700 transition-colors">
-                    {city.name}, {city.state}
-                  </h3>
-                  <p className="text-sm text-gray-500 mt-1 italic">{city.tagline}</p>
+                  <div className="flex items-center justify-between mb-1">
+                    <h3 className="font-bold text-lg text-brand-dark group-hover:text-wine-700 transition-colors">
+                      {city.name}, {city.state}
+                    </h3>
+                    {city.comingSoon && (
+                      <span className="text-[10px] font-bold uppercase tracking-wider text-wine-600 bg-wine-100 px-2 py-0.5 rounded-full">
+                        Coming Soon
+                      </span>
+                    )}
+                  </div>
+                  <p className="text-sm text-gray-500 italic">{city.tagline}</p>
                   <p className="text-sm text-gray-600 mt-3 line-clamp-3">{city.description}</p>
                 </div>
               </Link>

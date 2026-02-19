@@ -1,18 +1,22 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { reviews, getReviewBySlug } from '@/lib/data';
+import { getReviews, getReviewBySlug } from '@/lib/sanity';
 import { BADGE_CONFIG } from '@/lib/types';
 import Badge from '@/components/Badge';
 import WingmanMetrics from '@/components/WingmanMetrics';
 import Newsletter from '@/components/Newsletter';
 import type { Metadata } from 'next';
 
-export function generateStaticParams() {
+export const revalidate = 60;
+export const dynamicParams = true;
+
+export async function generateStaticParams() {
+  const reviews = await getReviews();
   return reviews.map(review => ({ slug: review.slug }));
 }
 
-export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
-  const review = getReviewBySlug(params.slug);
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  const review = await getReviewBySlug(params.slug);
   if (!review) return { title: 'Review Not Found' };
   const config = BADGE_CONFIG[review.badge];
   return {
@@ -43,8 +47,8 @@ function PickCard({ icon, title, wine, detail, accent }: { icon: string; title: 
   );
 }
 
-export default function ReviewPage({ params }: { params: { slug: string } }) {
-  const review = getReviewBySlug(params.slug);
+export default async function ReviewPage({ params }: { params: { slug: string } }) {
+  const review = await getReviewBySlug(params.slug);
   if (!review) notFound();
 
   const config = BADGE_CONFIG[review.badge];

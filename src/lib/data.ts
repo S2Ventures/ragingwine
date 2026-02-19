@@ -43,6 +43,33 @@ export const cities: City[] = [
     tagline: 'Three Wine Spectator awards on one Main Street',
     description: 'Blue Ridge is the wine capital of North Georgia\'s mountains. With more than 80 restaurants packed along a walkable Main Street, three Wine Spectator-recognized wine programs, a dedicated wine bar, and nearby vineyards including Bear Claw and the new Kerith House, this mountain town delivers a wine scene that has no business being this good. Pair a serious dinner with a scenic railway ride and you\'ve got a proper weekend.',
   },
+  {
+    name: 'Asheville',
+    slug: 'asheville',
+    state: 'North Carolina',
+    tagline: 'Mountain air, James Beard nods, and natural wine on tap',
+    description: 'Asheville has quietly assembled one of the most interesting wine scenes in the Southeast. Eleven Wine Spectator award winners, a James Beard semifinalist wine bar, and nearly 60 wineries within driving distance make this mountain city a serious destination for anyone who cares about what\'s in their glass.',
+    comingSoon: true,
+    comingSoonTeaser: 'Asheville\'s food scene gets national attention, but the wine programs hiding inside these mountain restaurants deserve their own spotlight. Leo\'s House of Thirst earned a James Beard semifinal nod for Outstanding Wine and Other Beverages, pouring natural wines by the glass, bottle, and on tap. Posana and The Dining Room at the Inn on Biltmore Estate both hold Wine Spectator awards, and spots like Quench! Wine Bistro and WALLS Wine Bar prove the city\'s wine ambitions go well beyond tourist-town basics. Add in nearly 60 wineries across Western North Carolina\'s three AVAs (including Biltmore, the most visited winery in the country), and you have a wine city that rewards anyone willing to look past the craft beer headlines. We\'re scouting restaurants now. Expect reviews covering everything from downtown fine dining to neighborhood wine bars that punch above their weight.',
+  },
+  {
+    name: 'New Orleans',
+    slug: 'new-orleans',
+    state: 'Louisiana',
+    tagline: 'Grand Award cellars and Champagne houses of the South',
+    description: 'New Orleans pairs world-class Creole cuisine with some of the deepest wine cellars in America. Multiple Wine Spectator Grand Award winners, 15,000-bottle collections, and a new generation of sommeliers are making the Crescent City one of the most exciting wine destinations in the country.',
+    comingSoon: true,
+    comingSoonTeaser: 'New Orleans has always been a food city, but its wine programs are staggeringly good and wildly underrated. Brennan\'s keeps nearly 1,400 selections in a two-story cellar with an entire floor dedicated to Burgundy and close to 100 Champagnes on list. Commander\'s Palace stocks over 2,500 bottles behind one of the most famous dining rooms in America. Emeril\'s has held a Wine Spectator Grand Award for 14 consecutive years with a 10,000-bottle private cellar. And the new guard is just as compelling: MaMou pairs a sommelier-founded concept with a vinous focus you can feel the moment you walk in, Pluck Wine Bar specializes in Burgundy and sparkling from a cozy Bywater spot, and Saint-Germain brings natural wine and French bistro energy to the neighborhood wine bar format. We\'re mapping the full spectrum, from Garden District grand dames to Bywater natural wine haunts. Reviews are coming.',
+  },
+  {
+    name: 'Savannah',
+    slug: 'savannah',
+    state: 'Georgia',
+    tagline: 'The Hostess City is finally pouring like it means it',
+    description: 'Savannah\'s wine scene has been quietly catching up to Charleston for over a decade, and the gap is closing fast. Wine Spectator award winners, a new generation of certified sommeliers, and the city\'s first dedicated food and wine festival signal a scene that is ready for serious attention.',
+    comingSoon: true,
+    comingSoonTeaser: 'Savannah was always the slower sibling to Charleston when it came to wine, but that started shifting around 2012 and the momentum has not stopped. Common Restaurant on Broughton Street now holds Wine Spectator\'s Best of Award of Excellence with 550-plus bottles and 30 rotating by-the-glass pours curated by Wine Director Shawn Crowley and Certified Sommelier Danny Skalak. The 1540 Room at The DeSoto earned its own Wine Spectator award in 2025. Elizabeth on 37th has been running a serious wine program since 1981. And the inaugural Hostess City Food and Wine Fest in 2025 brought 50 restaurants and a dozen wine purveyors together in a city that clearly wants to be taken seriously as a wine destination. We\'re scouting the full landscape from River Street to the Victorian District. Expect reviews covering everything from award-winning fine dining to the neighborhood spots where Savannah\'s sommeliers actually drink on their nights off.',
+  },
 ];
 
 export const reviews: Review[] = [
@@ -85,6 +112,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'The Optimist isn\'t just a great seafood restaurant with a wine list. It\'s a wine destination that happens to serve incredible fish. Trust this restaurant to choose your wine for you.',
     publishedAt: '2026-02-15',
+    website: 'https://www.theoptimistrestaurant.com',
+    address: { street: '914 Howell Mill Rd NW', city: 'Atlanta', state: 'GA', zip: '30318', country: 'US' },
   },
   {
     slug: 'staplehouse-atlanta',
@@ -125,6 +154,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Staplehouse is for the diner who wants to be surprised. The wine list is an adventure, not a safety net. Come with an open mind and let the staff guide you.',
     publishedAt: '2026-02-18',
+    website: 'https://www.staplehouse.com',
+    address: { street: '541 Edgewood Ave SE', city: 'Atlanta', state: 'GA', zip: '30312', country: 'US' },
   },
   {
     slug: 'south-city-kitchen-atlanta',
@@ -165,6 +196,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'South City Kitchen has a wine list that does its job without trying to impress. Fair prices, safe picks, and nothing that\'ll embarrass you on a date. It just won\'t make your night either.',
     publishedAt: '2026-02-20',
+    website: 'https://www.southcitykitchen.com',
+    address: { street: '1144 Crescent Ave NE', city: 'Atlanta', state: 'GA', zip: '30309', country: 'US' },
   },
   // --- Key West Reviews (Editorial Style) ---
   {
@@ -205,6 +238,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Lola\'s Bistro is the best-kept BYOB secret in Key West. Bring your own bottle, let the chef cook, and have the kind of meal that makes you rethink what dining out can be. This is our number one.',
     publishedAt: '2026-02-08',
+    website: 'https://lolasbistro.net',
+    address: { street: '728 Simonton St', city: 'Key West', state: 'FL', zip: '33040', country: 'US' },
   },
   {
     slug: 'the-little-pearl-key-west',
@@ -244,6 +279,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Little Pearl is the restaurant that makes you realize Key West has a real food scene, not just a tourist one. Excellent wine list, flawless tasting menu, and the kind of quiet confidence that only comes from doing it right for years. This is our number two, and some nights it fights for number one.',
     publishedAt: '2026-02-08',
+    website: 'https://littlepearlkeywest.com',
+    address: { street: '632 Olivia St', city: 'Key West', state: 'FL', zip: '33040', country: 'US' },
   },
   {
     slug: 'latitudes-sunset-key',
@@ -283,6 +320,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Latitudes is what you picture when someone says "island dining" and it actually delivers. The boat ride, the beach, the sunset, the food, the wine. One of our absolute favorites and worth every bit of the effort to get there.',
     publishedAt: '2026-02-08',
+    website: 'https://www.opalcollection.com/sunset-key-cottages/restaurants/latitudes/',
+    address: { street: '245 Front St', city: 'Key West', state: 'FL', zip: '33040', country: 'US' },
   },
   {
     slug: 'louies-backyard-key-west',
@@ -322,6 +361,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Louie\'s Backyard is the rare Key West restaurant that has been famous for decades and still earns it every night. The back deck alone is worth the trip. The wine list and food make it one of our favorites on the island.',
     publishedAt: '2026-02-08',
+    website: 'https://www.louiesbackyard.com',
+    address: { street: '700 Waddell Ave', city: 'Key West', state: 'FL', zip: '33040', country: 'US' },
   },
   {
     slug: 'el-siboney-key-west',
@@ -361,6 +402,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'El Siboney breaks every rule in this guide and still earns its spot. No wine, no white tablecloths, no reservations. Just the best Cuban food on the island, homemade sangria that hits perfectly, and a check that makes you feel like you got away with something.',
     publishedAt: '2026-02-08',
+    website: 'https://www.elsiboneyrestaurant.com',
+    address: { street: '900 Catherine St', city: 'Key West', state: 'FL', zip: '33040', country: 'US' },
   },
   {
     slug: 'cafe-marquesa-key-west',
@@ -400,6 +443,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Cafe Marquesa has the best wine program of any sit-down restaurant in Key West, full stop. Two Michelin Keys, Wine Spectator recognition, and a kitchen that matches the cellar course for course. If you care about wine and you are in Key West, this is mandatory.',
     publishedAt: '2026-02-08',
+    website: 'https://marquesa.com/cafe-marquesa/',
+    address: { street: '600 Fleming St', city: 'Key West', state: 'FL', zip: '33040', country: 'US' },
   },
   {
     slug: 'santiagos-bodega-key-west',
@@ -439,6 +484,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Santiago\'s Bodega is the Key West wine bar hiding inside a tapas restaurant. The variety of the wine list, the half-price happy hour, and the quality of the small plates make this a Wild Card that overdelivers every time. If you only have one casual evening in Key West, spend it here.',
     publishedAt: '2026-02-08',
+    website: 'https://santiagosbodega.com',
+    address: { street: '207 Petronia St', city: 'Key West', state: 'FL', zip: '33040', country: 'US' },
   },
   // --- Atlanta Reviews (Editorial Style) ---
   {
@@ -475,6 +522,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'H&W Steakhouse is the Peachtree Corners wine destination for anyone who thinks steak and Cabernet is a love story worth telling. 500+ selections with real depth in Napa and Bordeaux.',
     publishedAt: '2026-02-10',
+    website: 'https://www.hwsteakhouse.com',
+    address: { street: '5242 Peachtree Pkwy', city: 'Norcross', state: 'GA', zip: '30071', country: 'US' },
   },
   {
     slug: 'atlanta-fish-market',
@@ -510,6 +559,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Atlanta Fish Market delivers exactly what Wine Spectator recognition promises: a well-organized list with fair pricing and enough depth to keep a seafood dinner interesting. Reliable in the best sense.',
     publishedAt: '2026-02-10',
+    website: 'https://atlantafishmarket.com',
+    address: { street: '265 Pharr Rd NE', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'atlas-atlanta',
@@ -545,6 +596,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Atlas has the deepest wine program in Atlanta. 900 selections, 75 by the glass, Wine Spectator Best of Award. This is the city\'s wine destination for serious drinkers.',
     publishedAt: '2026-02-10',
+    website: 'https://atlasrestaurant.com',
+    address: { street: '88 W Paces Ferry Rd NW', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'bones-atlanta',
@@ -580,6 +633,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Bones is the most decorated wine program in Atlanta, full stop. 35+ years of Wine Spectator recognition, 7,000 bottles, and a staff that treats every pour like it matters. A Buckhead institution.',
     publishedAt: '2026-02-10',
+    website: 'https://bonesrestaurant.com',
+    address: { street: '3130 Piedmont Rd NE', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'canoe-atlanta',
@@ -615,6 +670,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Canoe pairs a 370-bottle wine list with one of the best restaurant settings in Atlanta. The list is reliable, the pricing is fair, and the riverfront patio sells itself.',
     publishedAt: '2026-02-10',
+    website: 'https://canoeatl.com',
+    address: { street: '4199 Paces Ferry Rd SE', city: 'Atlanta', state: 'GA', zip: '30339', country: 'US' },
   },
   {
     slug: 'le-bilboquet-atlanta',
@@ -650,6 +707,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Le Bilboquet is the deepest French wine program in Atlanta. 2,000+ bottles, serious Burgundy and Bordeaux depth, and a bistro kitchen that earns every cork pulled.',
     publishedAt: '2026-02-10',
+    website: 'https://www.lebilboquetatlanta.com',
+    address: { street: '3027 Bolling Way NE', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'le-bon-nosh-atlanta',
@@ -685,6 +744,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Le Bon Nosh is the most philosophically committed wine program in Atlanta. 500+ bottles, all French, many biodynamic. This is where you go when you want wine to mean something beyond the glass.',
     publishedAt: '2026-02-10',
+    website: 'https://www.lebonnosh.com',
+    address: { street: '65 Irby Ave NW, Suite 103', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'marcel-atlanta',
@@ -720,6 +781,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Marcel bridges French elegance and California muscle across 465 selections. One of the most balanced wine programs in Atlanta, backed by a kitchen that deserves every bottle.',
     publishedAt: '2026-02-10',
+    website: 'https://marcelatl.com',
+    address: { street: '1170 Howell Mill Rd', city: 'Atlanta', state: 'GA', zip: '30318', country: 'US' },
   },
   {
     slug: 'white-oak-kitchen-atlanta',
@@ -755,6 +818,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'White Oak Kitchen pairs 450 labels with a glass wine cellar and a downtown location that deserves more attention. One of Atlanta\'s most visually striking wine programs with the depth to back it up.',
     publishedAt: '2026-02-10',
+    website: 'https://www.whiteoakkitchen.com',
+    address: { street: '270 Peachtree St NW, Suite 100', city: 'Atlanta', state: 'GA', zip: '30303', country: 'US' },
   },
   {
     slug: 'aria-atlanta',
@@ -790,6 +855,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Aria is the biodynamic fine dining wine program Atlanta did not know it needed. Star Wine List recognition, low-intervention focus, and a chef who has kept this restaurant excellent for over two decades.',
     publishedAt: '2026-02-10',
+    website: 'https://www.aria-atl.com',
+    address: { street: '490 E Paces Ferry Rd NE', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'bacchanalia-atlanta',
@@ -825,6 +892,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Bacchanalia is Atlanta\'s Michelin-starred wine experience. The program is built for the tasting menu format, and the sommelier pairing is one of the best values in Atlanta fine dining.',
     publishedAt: '2026-02-10',
+    website: 'https://www.starprovisions.com/bacchanalia',
+    address: { street: '1460 Ellsworth Industrial Blvd, Suite A', city: 'Atlanta', state: 'GA', zip: '30318', country: 'US' },
   },
   {
     slug: 'la-grotta-atlanta',
@@ -860,6 +929,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'La Grotta is the deepest Italian wine program in Atlanta. 400+ labels, four decades of expertise, and a staff that knows every corner of the list. If Italian wine is your thing, this is mandatory.',
     publishedAt: '2026-02-10',
+    website: 'https://www.lagrottaatlanta.com',
+    address: { street: '2637 Peachtree Rd NE', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'sotto-sotto-atlanta',
@@ -895,6 +966,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Sotto Sotto delivers a solid Italian wine program in one of Atlanta\'s most beloved neighborhood restaurants. Reliable picks, fair pricing, and the kind of energy that makes Tuesday feel like Friday.',
     publishedAt: '2026-02-10',
+    website: 'https://sottosottoatl.com',
+    address: { street: '313 N Highland Ave NE', city: 'Atlanta', state: 'GA', zip: '30307', country: 'US' },
   },
   {
     slug: 'miller-union-atlanta',
@@ -930,6 +1003,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Miller Union has the most qualified wine staff in Atlanta. Five certified sommeliers, a James Beard-nominated kitchen, and a list built on the same farm-to-table principles as the food. Trust the team here.',
     publishedAt: '2026-02-10',
+    website: 'https://www.millerunion.com',
+    address: { street: '999 Brady Ave NW', city: 'Atlanta', state: 'GA', zip: '30318', country: 'US' },
   },
   {
     slug: 'rays-on-the-river-atlanta',
@@ -965,6 +1040,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Ray\'s on the River stocks 3,000+ bottles at prices that make Buckhead look expensive. A reliable wine program with value pricing and a riverfront setting. The smart choice for a nice dinner that does not punish your wallet.',
     publishedAt: '2026-02-10',
+    website: 'https://www.raysontheriver.com',
+    address: { street: '6700 Powers Ferry Rd', city: 'Sandy Springs', state: 'GA', zip: '30339', country: 'US' },
   },
   {
     slug: 'rays-in-the-city-atlanta',
@@ -1000,6 +1077,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Ray\'s in the City holds one of only two Wine Spectator Best of Awards in Atlanta. Deep list, strong service, and a downtown location that makes it the go-to for serious wine with surf or turf.',
     publishedAt: '2026-02-10',
+    website: 'https://www.raysinthecity.com',
+    address: { street: '240 Peachtree St NW', city: 'Atlanta', state: 'GA', zip: '30303', country: 'US' },
   },
   {
     slug: 'kyma-atlanta',
@@ -1035,6 +1114,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Kyma is the Greek wine education Atlanta needed. 90% Greek list, expert staff, and seafood that demands these wines. The most regionally unique wine program in the city.',
     publishedAt: '2026-02-10',
+    website: 'https://kymaatlanta.com',
+    address: { street: '3085 Piedmont Rd NE', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'le-colonial-atlanta',
@@ -1070,6 +1151,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Le Colonial has a wine list built to solve one of the hardest pairing challenges in dining: matching wine to Vietnamese flavors. 200 selections, French-leaning, and smarter than most lists twice its size.',
     publishedAt: '2026-02-10',
+    website: 'https://www.lecolonial.com/atlanta',
+    address: { street: '3035 Peachtree Rd NE, Suite A201', city: 'Atlanta', state: 'GA', zip: '30305', country: 'US' },
   },
   {
     slug: 'capolinea-atlanta',
@@ -1105,6 +1188,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Capolinea is the Italian wine Wild Card in Atlanta. 175 labels, personal buying, and a neighborhood vibe that makes exploration feel natural. Smaller list, bigger discoveries.',
     publishedAt: '2026-02-10',
+    website: 'https://capolineaatlanta.com',
+    address: { street: '159 Northside Dr NW, Floor 4', city: 'Atlanta', state: 'GA', zip: '30313', country: 'US' },
   },
   // --- Atlanta Lesser-Known Wine Spots (Editorial Style) ---
   {
@@ -1141,6 +1226,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Madeira Park is the most exciting wine program in Atlanta right now. An 11-page list, a secret rare-wine book, century-old fortified wines, and a James Beard-winning team behind it. This is not just a wine bar. This is a wine destination.',
     publishedAt: '2026-02-10',
+    website: 'https://www.madeiraparkatl.com',
+    address: { street: '640 N Highland Ave NE', city: 'Atlanta', state: 'GA', zip: '30306', country: 'US' },
   },
   {
     slug: 'fawn-wine-amaro-atlanta',
@@ -1176,6 +1263,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Fawn Wine & Amaro is the most conceptually bold wine program in Atlanta. Volcanic-soil wines, 40 amari, and a James Beard-winning chef behind the food. If you want to discover something genuinely new, this is where you start.',
     publishedAt: '2026-02-10',
+    website: 'https://www.fawnwineamaro.com',
+    address: { street: '119 E Ponce De Leon Ave', city: 'Decatur', state: 'GA', zip: '30030', country: 'US' },
   },
   {
     slug: 'commune-atlanta',
@@ -1211,6 +1300,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Commune is where wine meets vinyl and both get better. James Beard-nominated sommelier, natural wine focus, and a listening-room format that makes every visit different. The most creative wine experience in Atlanta.',
     publishedAt: '2026-02-10',
+    website: 'https://www.communeatl.com',
+    address: { street: '6 Olive St', city: 'Avondale Estates', state: 'GA', zip: '30002', country: 'US' },
   },
   {
     slug: 'cooks-and-soldiers-atlanta',
@@ -1246,6 +1337,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Cooks & Soldiers has the deepest Spanish wine program in Atlanta, made accessible by Coravin pours that let you taste rare bottles by the glass. Basque pintxos, Iberian wines, and a format built for exploration.',
     publishedAt: '2026-02-10',
+    website: 'https://www.cooksandsoldiers.com',
+    address: { street: '691 14th St', city: 'Atlanta', state: 'GA', zip: '30318', country: 'US' },
   },
   {
     slug: 'barcelona-wine-bar-atlanta',
@@ -1281,6 +1374,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Barcelona Wine Bar has one of the largest Spanish wine programs in the country, Star Wine List recognition, and a $13.50 flight that should be mandatory for anyone who drinks wine in Atlanta. A Rager hiding in plain sight.',
     publishedAt: '2026-02-10',
+    website: 'https://barcelonawinebar.com',
+    address: { street: '240 N Highland Ave NE', city: 'Atlanta', state: 'GA', zip: '30307', country: 'US' },
   },
   {
     slug: 'stem-wine-bar-atlanta',
@@ -1316,6 +1411,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Stem Wine Bar is the best-kept wine secret in metro Atlanta. An Advanced Sommelier, Enomatic rare pours, and a program that would be a destination in Buckhead. The fact that it is in a Marietta strip mall just makes it a better story.',
     publishedAt: '2026-02-10',
+    website: 'https://www.stemwinebar.com',
+    address: { street: '1311 Johnson Ferry Rd, Suite 516', city: 'Marietta', state: 'GA', zip: '30068', country: 'US' },
   },
   {
     slug: 'side-saddle-atlanta',
@@ -1351,6 +1448,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Side Saddle is Atlanta\'s natural wine gateway. Tight personal list, all low-intervention, and the best patio on the BeltLine. If pet-nats and orange wines are your thing, or if you want them to be, start here.',
     publishedAt: '2026-02-10',
+    website: 'https://www.sidesaddle.wine',
+    address: { street: '680 Hamilton Ave SE', city: 'Atlanta', state: 'GA', zip: '30312', country: 'US' },
   },
   {
     slug: 'little-bear-atlanta',
@@ -1386,6 +1485,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Little Bear is a Michelin Bib Gourmand restaurant with a wine program that punches above its weight and a $25 Booze Pack that makes exploration effortless. Alpine whites, low-intervention reds, and farm-to-table food that earns every pour.',
     publishedAt: '2026-02-10',
+    website: 'https://littlebearatl.com',
+    address: { street: '71 Georgia Ave SE, Suite A', city: 'Atlanta', state: 'GA', zip: '30312', country: 'US' },
   },
   {
     slug: 'lyla-lila-atlanta',
@@ -1421,6 +1522,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Lyla Lila is the most uncompromising wine program in Atlanta. 43-page beverage book, 100% organic and biodynamic, James Beard-nominated, and a kitchen that shares the same values as the cellar.',
     publishedAt: '2026-02-10',
+    website: 'https://www.lylalilaatl.com',
+    address: { street: '693 Peachtree St NE', city: 'Atlanta', state: 'GA', zip: '30308', country: 'US' },
   },
   {
     slug: 'postino-atlanta',
@@ -1456,6 +1559,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Postino hides a serious reserve wine list behind one of the best value deals in Atlanta. $25 for a board and a bottle on Monday and Tuesday, and a vintage list that goes deeper than you expect. Reliable and rewarding.',
     publishedAt: '2026-02-10',
+    website: 'https://www.postinowinecafe.com',
+    address: { street: '3655 Roswell Rd NE, Suite 300', city: 'Atlanta', state: 'GA', zip: '30342', country: 'US' },
     halfPriceWineNight: { day: 'Monday & Tuesday', details: '$25 Board & Bottle (bruschetta + full bottle) after 8 PM, plus $6 glasses daily until 5 PM' },
   },
   {
@@ -1492,6 +1597,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'El Vinedo Local is Atlanta\'s only South American wine destination. Organic Argentine and Chilean wines, flight options, and food that pairs perfectly at prices that make this accessible to everyone.',
     publishedAt: '2026-02-10',
+    website: 'https://www.elvinedolocal.com',
+    address: { street: '730 Peachtree St NE, Suite 100', city: 'Atlanta', state: 'GA', zip: '30308', country: 'US' },
   },
   {
     slug: 'vinoteca-atlanta',
@@ -1527,6 +1634,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'VinoTeca is the Inman Park wine bar where the staff remembers what you liked last time. Small-production, natural focus, daily tastings, and a retail shop that lets you take your discoveries home.',
     publishedAt: '2026-02-10',
+    website: 'https://www.shopvinoteca.com',
+    address: { street: '299 N Highland Ave NE, Suite T', city: 'Atlanta', state: 'GA', zip: '30307', country: 'US' },
   },
   {
     slug: 'taste-wine-bar-atlanta',
@@ -1562,6 +1671,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Taste Wine Bar puts 50 wines on self-service taps and lets you pour your own tastings. Zero pressure, rotating discoveries, and a market with 100+ bottles to take home. The most interactive wine experience in Atlanta.',
     publishedAt: '2026-02-10',
+    website: 'https://www.tastewinebarandmarket.com',
+    address: { street: '202 Chattahoochee Row, Suite B', city: 'Atlanta', state: 'GA', zip: '30318', country: 'US' },
   },
   {
     slug: 'larakin-atlanta',
@@ -1597,6 +1708,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Larakin is the tiniest wine bar in Atlanta and one of the most charming. Natural European wines on a chalkboard, coffee in the morning, and a vibe that makes Midtown feel like a European side street.',
     publishedAt: '2026-02-10',
+    website: 'https://www.larakinwineandcoffee.com',
+    address: { street: '208 12th St NE', city: 'Atlanta', state: 'GA', zip: '30309', country: 'US' },
   },
   {
     slug: '3-parks-wine-shop-atlanta',
@@ -1632,6 +1745,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: '3 Parks Wine Shop is where Atlanta goes to learn about wine without pretense. Educational flights, organic focus, two locations, and a community-first approach that makes everyone feel like a regular.',
     publishedAt: '2026-02-10',
+    website: 'https://3parkswine.com',
+    address: { street: '451 Bill Kennedy Way SE, Suite C', city: 'Atlanta', state: 'GA', zip: '30316', country: 'US' },
   },
   {
     slug: 'indaco-atlanta',
@@ -1667,6 +1782,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Indaco puts an all-Italian wine program on the BeltLine with handmade pasta and approachable pricing. Reliable, well-curated, and perfectly located for a casual Italian evening.',
     publishedAt: '2026-02-10',
+    website: 'https://www.indacorestaurant.com',
+    address: { street: '725 Ponce De Leon Ave NE, Suite 250', city: 'Atlanta', state: 'GA', zip: '30306', country: 'US' },
   },
   {
     slug: 'cru-food-wine-bar-atlanta',
@@ -1702,6 +1819,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'CRU Food & Wine Bar brings 350 wines and two decades of wine-bar expertise to Alpharetta. Structured flights, rooftop patio, and the most serious wine program in the north Atlanta suburbs.',
     publishedAt: '2026-02-10',
+    website: 'https://cruwinebar.com',
+    address: { street: '915 Battery Ave SE', city: 'Atlanta', state: 'GA', zip: '30339', country: 'US' },
   },
   {
     slug: 'petite-violette-atlanta',
@@ -1737,6 +1856,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Petite Violette is a 50-year Atlanta institution with a personally curated French wine collection that money alone cannot build. Burgundy, Bordeaux, affordable French cuisine, and live music. A hidden Rager in Brookhaven.',
     publishedAt: '2026-02-10',
+    website: 'https://www.petitevioletterestaurant.com',
+    address: { street: '2948 Clairmont Rd NE', city: 'Atlanta', state: 'GA', zip: '30329', country: 'US' },
   },
   {
     slug: 'marietta-proper-atlanta',
@@ -1772,6 +1893,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Marietta Proper is a James Beard semi-finalist wine bar with a speakeasy downstairs and small-batch wines from around the world. The most exciting wine newcomer outside the city limits.',
     publishedAt: '2026-02-10',
+    website: 'https://mariettaproper.com',
+    address: { street: '9 W Park Square', city: 'Marietta', state: 'GA', zip: '30060', country: 'US' },
   },
   {
     slug: 'the-vibrary-atlanta',
@@ -1807,6 +1930,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Vibrary combines organic wine, curated books, and genuine community in Stone Mountain Village. Black women-owned, scholarship-supporting, and proof that the best wine experiences are about more than what is in the glass.',
     publishedAt: '2026-02-10',
+    website: 'https://www.thevibrary.co',
+    address: { street: '970 Main St, Suite A', city: 'Stone Mountain', state: 'GA', zip: '30083', country: 'US' },
   },
   {
     slug: 'bw-burgers-atlanta',
@@ -1842,6 +1967,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'B&W Burgers is a fantastic burger-and-beer spot with award-winning smash burgers, 20+ craft taps, free live music, and a rooftop patio. But the wine list is a dozen grocery-store labels at steep markup. Stick with the Tropicalia, bring your own bottle, or order the Blanton\'s.',
     publishedAt: '2026-02-11',
+    website: 'https://bwburgers.com',
+    address: { street: '113 S Peachtree St', city: 'Norcross', state: 'GA', zip: '30071', country: 'US' },
     halfPriceWineNight: { day: 'Thursday', details: '50% off all wine and margaritas — Margarita & Wine Thursdays' },
   },
   {
@@ -1883,6 +2010,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'di Paolo is a 30-year-old scratch Italian kitchen in a strip mall with an 80+ bottle wine list, half-price Sundays that make Barolo affordable, and one of the best bartenders in Atlanta behind the bar. Zagat\'s former No. 1 Italian for a reason.',
     publishedAt: '2026-02-11',
+    website: 'https://www.dipaolorestaurant.com',
+    address: { street: '8560 Holcomb Bridge Rd', city: 'Alpharetta', state: 'GA', zip: '30022', country: 'US' },
   },
   // ── Buford Highway Corridor, Atlanta ────────────────────────────
   {
@@ -1919,6 +2048,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Terra Terroir is 18 consecutive Wine Spectator Awards deep with 220 labels, a private wine cave, and a French-American kitchen hidden in a Brookhaven strip mall. The wine anchor of the Buford Highway corridor.',
     publishedAt: '2026-02-16',
+    website: 'https://www.terraterroir.com',
+    address: { street: '3974 Peachtree Rd NE', city: 'Brookhaven', state: 'GA', zip: '30319', country: 'US' },
   },
   {
     slug: 'valenza-buford-highway',
@@ -1955,6 +2086,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Valenza has Sassicaia, Ornellaia, Tignanello, and Krug on a wine list that reads like a collector\'s inventory. Half-priced bottles on Mondays make this the best Italian wine value play in Atlanta.',
     publishedAt: '2026-02-16',
+    website: 'https://www.valenzarestaurant.com',
+    address: { street: '1441 Dresden Dr NE, Suite 100', city: 'Atlanta', state: 'GA', zip: '30319', country: 'US' },
   },
   {
     slug: 'the-alden-buford-highway',
@@ -1986,6 +2119,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Alden pairs a $175 seven-course tasting menu with a $95 wine journey through Slovenia, Portugal, the Loire, and beyond. Michelin-recommended and unlike anything else on the Buford Highway corridor.',
     publishedAt: '2026-02-16',
+    website: 'https://thealdenrestaurant.com',
+    address: { street: '5070 Peachtree Blvd, Suite B-140', city: 'Chamblee', state: 'GA', zip: '30341', country: 'US' },
   },
   {
     slug: 'arnettes-chop-shop-buford-highway',
@@ -2017,6 +2152,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Arnette\'s Chop Shop serves dry-aged Prime beef with a wine list curated by the same group behind Valenza\'s Italian cellar. The pedigree is there. Full list details pending.',
     publishedAt: '2026-02-16',
+    website: 'https://www.arnetteschopshop.com',
+    address: { street: '2700 Apple Valley Rd NE, Suite 55', city: 'Brookhaven', state: 'GA', zip: '30319', country: 'US' },
   },
   {
     slug: 'haven-restaurant-buford-highway',
@@ -2048,6 +2185,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Haven is a 4.8-rated contemporary American restaurant with winemaker dinners and the same ownership group behind Valenza\'s deep Italian cellar. A reliable wine-and-dinner option on the corridor.',
     publishedAt: '2026-02-16',
+    website: 'https://www.havenrestaurant.com',
+    address: { street: '1441 Dresden Dr NE, Suite 160', city: 'Brookhaven', state: 'GA', zip: '30319', country: 'US' },
   },
   {
     slug: 'northern-china-eatery-buford-highway',
@@ -2079,6 +2218,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Northern China Eatery is ground zero for Buford Highway\'s BYOB wine culture. No wine list, no glassware, no markup. Just extraordinary Northern Chinese food and whatever bottle you were smart enough to bring.',
     publishedAt: '2026-02-16',
+    website: 'https://www.northernchinaeatery.com',
+    address: { street: '5141 Buford Hwy NE, Suite C', city: 'Doraville', state: 'GA', zip: '30340', country: 'US' },
   },
   {
     slug: 'masterpiece-buford-highway',
@@ -2110,6 +2251,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Masterpiece is Michelin Bib Gourmand Sichuan with no wine list and no pretense. Bring an off-dry Riesling, order the Dong Po Pork, and discover why Buford Highway\'s BYOB culture is one of Atlanta\'s best-kept wine secrets.',
     publishedAt: '2026-02-16',
+    website: 'https://www.masterpiecerestaurant.com',
+    address: { street: '3940 Buford Hwy, Suite B103', city: 'Duluth', state: 'GA', zip: '30096', country: 'US' },
   },
   {
     slug: 'nam-phuong-buford-highway',
@@ -2141,6 +2284,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Nam Phuong is Michelin-recommended Vietnamese that pairs beautifully with Alsatian whites and Chenin Blanc. No wine list needed. Bring a bottle and let the food do the talking.',
     publishedAt: '2026-02-16',
+    website: 'https://www.namphuongga.com',
+    address: { street: '4051 Buford Hwy NE, Suite A', city: 'Atlanta', state: 'GA', zip: '30345', country: 'US' },
   },
   {
     slug: 'panahar-buford-highway',
@@ -2172,6 +2317,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Panahar offers free corkage, extraordinary Bangladeshi food, and wine pairing territory that no sommelier has mapped. Bring an off-dry white or a Grenache and explore.',
     publishedAt: '2026-02-16',
+    website: 'https://panaharbangladeshicuisine.com',
+    address: { street: '3375 Buford Hwy NE, Suite 1060', city: 'Atlanta', state: 'GA', zip: '30329', country: 'US' },
   },
   {
     slug: 'the-anchorage-greenville',
@@ -2207,6 +2354,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Anchorage is Greenville\'s wine destination. MICHELIN-recognized, esoteric in the best sense, with an on-site wine shop where any bottle becomes your dinner companion. The standard by which every other Greenville list should be measured.',
     publishedAt: '2026-02-11',
+    website: 'https://www.theanchoragerestaurant.com',
+    address: { street: '586 Perry Ave', city: 'Greenville', state: 'SC', zip: '29611', country: 'US' },
   },
   {
     slug: 'the-lazy-goat-greenville',
@@ -2242,6 +2391,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Lazy Goat hides one of the deepest Old World wine programs in the South behind a casual Mediterranean menu and river views. Half-price Thursdays turn collector bottles into steals. A genuine destination wine list.',
     publishedAt: '2026-02-11',
+    website: 'https://thelazygoat.com',
+    address: { street: '170 Riverplace', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
     halfPriceWineNight: { day: 'Thursday', details: 'Half-price bottled wines at dinner' },
   },
   {
@@ -2278,6 +2429,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Northampton is a wine warehouse disguised as a restaurant. 1,500+ selections, $10 corkage on anything on the shelf, and a by-the-glass program that treats every pour like it matters. The best value proposition for wine in Greenville.',
     publishedAt: '2026-02-11',
+    website: 'https://northamptonwineanddine.com',
+    address: { street: '211-A E Broad St', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'camp-greenville',
@@ -2313,6 +2466,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'CAMP pairs a Wine Spectator-awarded list with French Laundry training and a Falls Park rooftop. Grower Champagne and small-lot American wines chosen with genuine expertise. Greenville\'s most polished wine experience.',
     publishedAt: '2026-02-11',
+    website: 'https://campgvl.com',
+    address: { street: '2 East Broad St', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'passerelle-bistro-greenville',
@@ -2348,6 +2503,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Passerelle marries an all-French wine list with the most beautiful dining setting in Greenville. Focused, coherent, and romantic. Weekend brunch with Champagne overlooking the falls is the play.',
     publishedAt: '2026-02-11',
+    website: 'https://www.passerelleinthepark.com',
+    address: { street: '601 S Main St', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'sassafras-southern-bistro-greenville',
@@ -2383,6 +2540,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Sassafras delivers honest wine pairings with Southern comfort food and half-price bottles every Wednesday. Nothing flashy, just well-executed. The definition of Reliable.',
     publishedAt: '2026-02-11',
+    website: 'https://sassafrasbistro.com',
+    address: { street: '103 N Main St, Ste 107', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
     halfPriceWineNight: { day: 'Wednesday', details: 'All bottles half price, up to $40 off' },
   },
   {
@@ -2419,6 +2578,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Jones Oyster Co. curates every wine for what\'s on the half shell. Grower Champagne, estate Muscadet, and Picpoul by the glass. The most focused pairing list in Greenville.',
     publishedAt: '2026-02-11',
+    website: 'https://www.thejonesoysterco.com',
+    address: { street: '22 E Court St', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'between-the-trees-greenville',
@@ -2454,6 +2615,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Between the Trees pairs a solid by-the-glass program with the best patio views in Greenville. The Grand Bohemian Lodge setting elevates a reliable wine experience. Go for the fireplace, stay for the pour.',
     publishedAt: '2026-02-11',
+    website: 'https://www.betweenthetrees.com',
+    address: { street: '44 E Camperdown Way', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'jianna-greenville',
@@ -2489,6 +2652,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Jianna pairs handmade pasta and a raw bar with a focused Italian-American wine list and $22 pairing nights. Overlooking Falls Park from the second floor, this is where restraint in the wine program creates a better experience.',
     publishedAt: '2026-02-11',
+    website: 'https://jiannagreenville.com',
+    address: { street: '600 S Main St, 2nd Floor', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'nose-dive-greenville',
@@ -2524,6 +2689,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Nose Dive does what a gastropub wine list should: curate a tight selection, price it fairly, and pair it with food that makes you happy. The Table 301 pedigree shows in the buying.',
     publishedAt: '2026-02-11',
+    website: 'https://thenosedive.com',
+    address: { street: '116 S Main St', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'sip-whiskey-wine-bar-greenville',
@@ -2559,6 +2726,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'SIP is Greenville\'s rooftop wine moment: Main Street views, live music, and a wine-by-the-glass program that punches above what you\'d expect from a whiskey-first bar. Go for the atmosphere.',
     publishedAt: '2026-02-11',
+    website: 'https://sipgvl.com',
+    address: { street: '103 N Main St, Ste 400', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'vault-and-vator-greenville',
@@ -2594,6 +2763,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Vault & Vator is Greenville\'s most unique drinking experience: a basement speakeasy with no phones, 45 guests, and a wine list curated for people who want to be surprised. The opposite of scrolling a 20-page wine menu.',
     publishedAt: '2026-02-11',
+    website: 'https://www.vaultandvator.com',
+    address: { street: '655 S Main St, Suite 100', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'pomegranate-on-main-greenville',
@@ -2625,6 +2796,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Pomegranate on Main pairs aromatic wines with Persian cuisine in a way that makes you reconsider every other ethnic restaurant\'s approach to wine. Greenville\'s most unexpected pairing destination.',
     publishedAt: '2026-02-11',
+    website: 'https://www.pomegranateonmain.com',
+    address: { street: '618 S Main St', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'paseo-tapas-wine-bar-greenville',
@@ -2660,6 +2833,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Paseo is a 100% Spanish wine bar with Basque Txakolina and Canary Islands tapas in a Greenville food hall. Affordable, authentic, and committed to making you care about Spanish wine beyond Rioja.',
     publishedAt: '2026-02-11',
+    website: 'https://paseogvl.com',
+    address: { street: 'The Commons', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'trattoria-giorgio-greenville',
@@ -2695,6 +2870,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Trattoria Giorgio is a 30-year-old Italian restaurant with an all-Italian wine list curated by a chef who trained in San Pellegrino. No trends, no hype, just authentic pairing from someone who grew up with these wines.',
     publishedAt: '2026-02-11',
+    website: 'https://www.trattoriagiorgio.com',
+    address: { street: '121 S Main St', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   {
     slug: 'wine-house-greenville',
@@ -2726,6 +2903,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Wine House brings curated retail wine and an un-stuffy bar atmosphere to downtown Greenville\'s Daniel Building in spring 2026. Grower Champagne, small Burgundy producers, and weekly tastings. The wine bar Greenville has been waiting for.',
     publishedAt: '2026-02-11',
+    website: 'https://www.winehousegvl.com',
+    address: { street: '475 Haywood Rd, Ste 8', city: 'Greenville', state: 'SC', zip: '29607', country: 'US' },
   },
   {
     slug: 'topsoil-greenville',
@@ -2761,6 +2940,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Topsoil has a dedicated wine director running monthly clubs, weekly flights, and chef\'s tasting pairings. The most active wine education program in the Greenville area. Worth the short trip to Travelers Rest.',
     publishedAt: '2026-02-11',
+    website: 'https://www.topsoilrestaurant.com',
+    address: { street: '13 S Main St', city: 'Travelers Rest', state: 'SC', zip: '29690', country: 'US' },
   },
   {
     slug: 'fork-and-plough-greenville',
@@ -2796,6 +2977,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Fork and Plough pairs a twice-daily changing farm menu with Laurent-Perrier Champagne and Vajra Barbera by the magnum. A neighborhood restaurant where the wine program quietly overdelivers.',
     publishedAt: '2026-02-11',
+    website: 'https://www.forkandplough.com',
+    address: { street: '1629 E North St', city: 'Greenville', state: 'SC', zip: '29607', country: 'US' },
   },
   {
     slug: 'giardino-greenville',
@@ -2827,6 +3010,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Giardino pours Barolo and Ferrari Brut by the glass at fair prices in a garden setting. Honest casual Italian wine that doesn\'t overreach or overcharge.',
     publishedAt: '2026-02-11',
+    website: 'https://italiangardengvl.com',
+    address: { street: '2716 Wade Hampton Blvd', city: 'Greenville', state: 'SC', zip: '29615', country: 'US' },
   },
   {
     slug: 'urban-wren-greenville',
@@ -2862,6 +3047,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Urban Wren makes its own wine in a restored train station, pairs it with a six-course prix fixe, and lets you tour the barrel room. The most ambitious wine concept in Greenville, built from the ground up.',
     publishedAt: '2026-02-11',
+    website: 'https://www.urbanwren.com',
+    address: { street: '116 N Markley St, Suite 102', city: 'Greenville', state: 'SC', zip: '29601', country: 'US' },
   },
   // ── Clayton, Georgia ──────────────────────────────────────────
   {
@@ -2898,6 +3085,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Stekoa Creek is the wine destination in Clayton. Thirty-plus wines, fair prices, proper service, and a steakhouse that takes its list as seriously as its ribeye. Worth the mountain drive.',
     publishedAt: '2026-02-16',
+    website: 'https://stekoacreek.com',
+    address: { street: '48 N Main St', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'the-chophouse-at-laprades-clayton',
@@ -2933,6 +3122,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Chophouse at LaPrade\'s is Clayton\'s fine-dining wine destination. Award-winning, seasonally curated, and set on one of the most beautiful lakes in the Southeast. Plan ahead and bring your appetite.',
     publishedAt: '2026-02-16',
+    website: 'https://murphyschophouse.com/laprades/',
+    address: { street: '25 Shoreline Trl', city: 'Clarkesville', state: 'GA', zip: '30523', country: 'US' },
   },
   {
     slug: 'the-vandiver-clayton',
@@ -2968,6 +3159,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Vandiver pairs Tiger Mountain wines with boutique hotel dining in a mountain setting. The local wine commitment and smart curation earn it Wild Card status. Ask for the porch table.',
     publishedAt: '2026-02-16',
+    website: 'https://www.thevandiverclayton.com',
+    address: { street: '60 S Main St', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'bleu-canoe-clayton',
@@ -3003,6 +3196,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Bleu Canoe brings Harry Bissett\'s wine sensibility to Cajun food in the mountains. Extensive selection, fair pricing, and a kitchen that knows how to match spice with the right pour. A genuine surprise.',
     publishedAt: '2026-02-16',
+    website: 'https://bleucanoe.com',
+    address: { street: '115 Sweetwater Cir', city: 'Clarkesville', state: 'GA', zip: '30523', country: 'US' },
   },
   {
     slug: 'fortify-pizza-and-burger-bar-clayton',
@@ -3038,6 +3233,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Fortify pairs local Georgia wines with pizza and burgers in a fun, casual setting. The Road Town Rum Bar downstairs adds range. Solid for what it is.',
     publishedAt: '2026-02-16',
+    website: 'https://fortifyclayton.com',
+    address: { street: '151 N Main St, Suite A', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'mama-gs-italian-clayton',
@@ -3073,6 +3270,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Mama G\'s delivers Sicilian comfort food with a wine list that matches: simple, Italian-leaning, fairly priced. Order the house red and the eggplant.',
     publishedAt: '2026-02-16',
+    website: 'https://loveisgoodfood.net',
+    address: { street: '777 Hwy 441 S', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'rabun-social-clayton',
@@ -3108,6 +3307,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Rabun Social is Clayton\'s cocktail spot with a side of wine. The Asian fusion menu is the draw, the cocktails are the stars, and the wine list does its job quietly. Fair and functional.',
     publishedAt: '2026-02-16',
+    website: 'https://www.rabunsocial.com',
+    address: { street: '34 N Main St', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'the-hush-cuban-kitchen-clayton',
@@ -3143,6 +3344,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Hush serves some of the best Cuban food in North Georgia with a wine list that does the minimum. Order the mojito, enjoy the food, and hope the wine program catches up to the kitchen.',
     publishedAt: '2026-02-16',
+    website: 'https://hushcubankitchen.com',
+    address: { street: '173 N Main St', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'universal-joint-clayton',
@@ -3178,6 +3381,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Universal Joint is a solid pub with honest beer and fair wine prices. The wine list is lazy but not offensive. Stick with the craft beer or grab the Hess Chardonnay if you need a glass of white.',
     publishedAt: '2026-02-16',
+    website: 'https://www.ujclayton.com',
+    address: { street: '109 N Main St', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'clayton-cafe-clayton',
@@ -3209,6 +3414,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Clayton Cafe is comfort food at fair prices. The wine list is minimal but cheap. Come for the food, not the wine.',
     publishedAt: '2026-02-16',
+    website: 'https://theclaytoncafe.com',
+    address: { street: '50 N Main St', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'friends-clayton-grill-clayton',
@@ -3240,6 +3447,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Friends Clayton Grill is a bar-and-grill with a full bar. The wine is basic and forgettable. Order a beer or a cocktail instead.',
     publishedAt: '2026-02-16',
+    website: 'https://friendsamericangrill.com/locations/clayton/',
+    address: { street: '88 N Main St', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'lake-burton-cafe-clayton',
@@ -3271,6 +3480,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Lake Burton Cafe is a lakeside dive bar. The beer is cold, the setting is great, and the wine is irrelevant. That\'s not a criticism.',
     publishedAt: '2026-02-16',
+    website: 'https://www.thelakeburtoncafe.com',
+    address: { street: '72 Jones Branch Rd', city: 'Clayton', state: 'GA', zip: '30525', country: 'US' },
   },
   {
     slug: 'billy-goat-island-pizza-bar-clayton',
@@ -3302,6 +3513,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Billy Goat Island once had a bottle list that punched way above its weight class for a marina pizza counter. Ownership changes and a winter closure leave the wine program in limbo. We will update when it reopens.',
     publishedAt: '2026-02-16',
+    website: 'https://billygoatislandpizzabar.com',
+    address: { street: '93 Shoreline Trl', city: 'Clarkesville', state: 'GA', zip: '30523', country: 'US' },
   },
   // ── Blue Ridge, Georgia ───────────────────────────────────────
   {
@@ -3338,6 +3551,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Black Sheep is the wine dinner in Blue Ridge. Wine Spectator recognized, 100+ bottles deep, with Napa and Italian icons on a list that would impress in any major city. The patio under the oak tree is the table to get.',
     publishedAt: '2026-02-16',
+    website: 'https://blacksheepblueridge.com',
+    address: { street: '480 West Main St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'ferraros-kitchen-blue-ridge',
@@ -3373,6 +3588,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Ferraro\'s Kitchen is sommelier-driven Italian dining with three straight Wine Spectator Awards. Igor Ferraro\'s personal curation makes this one of the most intentional wine programs in the Southeast mountains.',
     publishedAt: '2026-02-16',
+    website: 'https://www.ferraroskitchen.com/blueridge',
+    address: { street: '322 W Main St, 2A', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'twisted-tomato-blue-ridge',
@@ -3408,6 +3625,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Twisted Tomato pairs Wine Spectator recognition with 850 bottles of inventory and California-strength depth. Wood-fired pizza, premium steaks, and a wine list that punches way above its mountain-town zip code.',
     publishedAt: '2026-02-16',
+    website: 'https://twistedtomatoga.com/blue-ridge/',
+    address: { street: '11 Mountain St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'grace-prime-blue-ridge',
@@ -3443,6 +3662,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Grace Prime is Blue Ridge\'s splurge steakhouse with an extensive wine list built for aged beef. Steep but justified for a big night. The tableside Smokeshow Old Fashioned is worth ordering once.',
     publishedAt: '2026-02-16',
+    website: 'https://graceprime.com',
+    address: { street: '55 Mountain St, Ste 6', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'the-vine-wine-bar-blue-ridge',
@@ -3478,6 +3699,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Vine is Blue Ridge\'s wine-first gathering spot. Flights, flatbreads, and a neighborhood bar feel that makes wine approachable. Start your evening here.',
     publishedAt: '2026-02-16',
+    website: 'https://www.blueridgemountains.com/directory/the-vine-and-eatery/',
+    address: { street: '632 E Main St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'harvest-on-main-blue-ridge',
@@ -3513,6 +3736,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Harvest on Main is Blue Ridge\'s farm-to-table anchor with an extensive wine list and a decade of consistency. The Smokehouse Burger with a glass of red is the lunch play.',
     publishedAt: '2026-02-16',
+    website: 'https://harvestonmain.com',
+    address: { street: '576 E Main St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'whiskey-and-water-blue-ridge',
@@ -3548,6 +3773,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Whiskey & Water pairs Best of Georgia-winning seafood with a wine list built for fish, served in a gorgeous 1937 Post Office. The bourbon gets the glory, but the wine holds its own.',
     publishedAt: '2026-02-16',
+    website: 'https://www.whiskeywaterbr.com',
+    address: { street: '187 Depot St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'chester-brunnenmeyers-blue-ridge',
@@ -3583,6 +3810,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Chester\'s is Blue Ridge\'s most consistent all-around restaurant with an impressive wine list, seasonal rotations, and whiskey flights. Open seven days. Get on the waitlist.',
     publishedAt: '2026-02-16',
+    website: 'https://www.chestersblueridge.com',
+    address: { street: '733 E Main St, Ste A', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'mona-lisas-dessert-house-blue-ridge',
@@ -3618,6 +3847,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'Mona Lisa\'s pairs curated wines with upscale desserts at a near-perfect rating. The after-dinner stop on Blue Ridge\'s Main Street. Thursday through Saturday only.',
     publishedAt: '2026-02-16',
+    website: 'https://mona-lisas-dessert-house.bartgrocerybbq.com/',
+    address: { street: '116 W Main St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'the-general-ledger-blue-ridge',
@@ -3653,6 +3884,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The General Ledger is a Travelers\' Choice winner with an intimate format and a wine list that pairs well with its contemporary Southern menu. A quieter Main Street alternative.',
     publishedAt: '2026-02-16',
+    website: 'https://generalledgerblueridge.com',
+    address: { street: '260 W Main St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'the-dogwood-blue-ridge',
@@ -3684,6 +3917,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Dogwood is Blue Ridge\'s best outdoor social scene with 70+ beers and live music under the trees. The wine list is an afterthought. Grab a beer.',
     publishedAt: '2026-02-16',
+    website: 'https://dogwoodblueridge.com',
+    address: { street: '520 W Main St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   {
     slug: 'the-lookout-blue-ridge',
@@ -3715,6 +3950,8 @@ export const reviews: Review[] = [
     ],
     bottomLine: 'The Lookout is a sunset cocktail spot with mountain views and a wine list that exists because it has to. The view is the Rager here.',
     publishedAt: '2026-02-16',
+    website: 'https://www.thelookoutblueridge.com',
+    address: { street: '50 W Main St', city: 'Blue Ridge', state: 'GA', zip: '30513', country: 'US' },
   },
   // ===== CHARLESTON, SC =====
   {
@@ -3765,6 +4002,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Charleston Grill is a destination cellar list in a grand hotel setting, built for Champagne, Burgundy, and Napa drinkers who want a full fine-dining experience. Come for the jazz, stay for the wine.',
     publishedAt: '2026-02-18',
+    website: 'https://charlestongrill.com',
+    address: { street: '224 King St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'peninsula-grill-charleston',
@@ -3815,6 +4054,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Peninsula Grill is a cellar-driven Rager with Champagne depth, Burgundy, and California Bordeaux varietals anchored in a serious fine-dining room. Wine Wednesday makes it a steal.',
     publishedAt: '2026-02-18',
+    website: 'https://peninsulagrill.com',
+    address: { street: '112 N Market St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'circa-1886-charleston',
@@ -3864,6 +4105,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Circa 1886 is a textbook Rager for guests who want a traditional fine-dining wine experience: deep Champagne, serious Pinot and Cabernet, Coravin pours, and a sommelier steering the ship.',
     publishedAt: '2026-02-18',
+    website: 'https://circa1886.com',
+    address: { street: '149 Wentworth St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'fig-charleston',
@@ -3913,6 +4156,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'FIG is a Rager in the way that matters most: a tightly edited, James-Beard-winning list built around food-centric wines. Not the biggest list in Charleston. Possibly the best.',
     publishedAt: '2026-02-18',
+    website: 'https://eatatfig.com',
+    address: { street: '232 Meeting St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'verns-charleston',
@@ -3962,6 +4207,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Vern\'s is not where you go for vintage-vertical flexing, but it is absolutely where you go if you want to drink like the staff and chase new producers at fair-to-good multiples.',
     publishedAt: '2026-02-18',
+    website: 'https://www.vernschs.com',
+    address: { street: '41 Bogard St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'wild-common-charleston',
@@ -4011,6 +4258,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Wild Common is a Michelin-starred Rager that earns its badge through integration, not inventory. A $95 tasting menu where the wine program is engineered to amplify each course. Trust the team.',
     publishedAt: '2026-02-18',
+    website: 'https://www.wildcommoncharleston.com',
+    address: { street: '103 Spring St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'vintage-lounge-charleston',
@@ -4060,6 +4309,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Vintage Lounge is a design-driven wine bar with 200+ bottles and a deep BTG bench, focused on small-production, often low-intervention wines. A prime spot for exploring global bottles in a lounge setting.',
     publishedAt: '2026-02-18',
+    website: 'https://www.vintagechs.com',
+    address: { street: '545 King St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'stems-and-skins-charleston',
@@ -4109,6 +4360,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Stems & Skins is the Park Circle Wild Card: nationally recognized, natural-wine-focused, and quietly one of the most important wine bars in the Southeast.',
     publishedAt: '2026-02-18',
+    website: 'https://www.stemsandskins.com',
+    address: { street: '1070 E Montague Ave', city: 'North Charleston', state: 'SC', zip: '29405', country: 'US' },
   },
   {
     slug: 'graft-wine-shop-charleston',
@@ -4158,6 +4411,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Graft is a Wild Card shop-bar hybrid that gives you a nationally credible, sommelier-curated selection at retail pricing with a small corkage kicker. The best markup math in Charleston.',
     publishedAt: '2026-02-18',
+    website: 'https://www.graftchs.com',
+    address: { street: '700 King St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'bin-152-charleston',
@@ -4207,6 +4462,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Bin 152 is an archetypal Wild Card wine bar: big BTG program, 200+ bottles, and a deeply European feel anchored by cheese, charcuterie, and good bread.',
     publishedAt: '2026-02-18',
+    website: 'https://bin152.com',
+    address: { street: '152 King St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'roseline-charleston',
@@ -4256,6 +4513,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Roseline is a 429-square-foot secret: a micro wine bar where the owner pours what he loves and the board changes every time you come back.',
     publishedAt: '2026-02-18',
+    website: 'https://roselinechs.com',
+    address: { street: '125 1/2 Line St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'the-tippling-house-charleston',
@@ -4305,6 +4564,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'The Tippling House is a downtown Wild Card: a tiny wine bar where the list is small, rotating, and grounded in producers with real stories. The quieter, more personal alternative to King Street.',
     publishedAt: '2026-02-18',
+    website: 'https://thetipplinghousechs.com',
+    address: { street: '221 Coming St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'bar-vaute-charleston',
@@ -4354,6 +4615,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Bar Vauté is a subterranean Wild Card: a Champagne and French wine bar hidden under Brasserie La Banque. Come for moody glasses of bubbles in a room most people don\'t know exists.',
     publishedAt: '2026-02-18',
+    website: 'https://www.brasserielabanque.com/bar-vaute',
+    address: { street: '1 Broad St, Fl B', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'the-establishment-charleston',
@@ -4403,6 +4666,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'The Establishment is a seafood restaurant with a legitimate, curated wine list. Sparkling depth and Loire whites for the raw bar make it a Reliable pick for wine-aware diners.',
     publishedAt: '2026-02-18',
+    website: 'https://establishmentchs.com',
+    address: { street: '28 Broad St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'uncork-charleston',
@@ -4453,6 +4718,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Uncork is a Reliable, value-oriented wine-centric restaurant that turns King Street foot traffic into tasting flights. Come on Thursday for 50% off bottles and the math gets very good.',
     publishedAt: '2026-02-18',
+    website: 'https://www.uncorkchs.com',
+    address: { street: '476 King St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'costa-charleston',
@@ -4502,6 +4769,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Costa is a modern seafood restaurant with a structurally ambitious wine program and proprietary Argentine wines. The orange-wine page and raw-bar pairings make it a Reliable pick for wine-curious diners.',
     publishedAt: '2026-02-18',
+    website: 'https://www.costacharleston.com',
+    address: { street: '320 Broad St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'the-watch-charleston',
@@ -4551,6 +4820,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'The Watch is a scenic Reliable: broad, guest-friendly, and perfectly fine for sunset bubbles and casual pairings. Come for the view, order the sparkling.',
     publishedAt: '2026-02-18',
+    website: 'https://thewatchcharleston.com',
+    address: { street: '75 Wentworth St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   // ===== CHARLESTON, SC — BATCH 2 =====
   {
@@ -4601,6 +4872,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Sorelle is a Rager with the deepest Italian wine program in Charleston: 350 labels, Master Sommelier credentials, and a Cal-Ital angle no one else offers. For Italian wine lovers, this is the must-visit cellar.',
     publishedAt: '2026-02-18',
+    website: 'https://www.sorellecharleston.com',
+    address: { street: '88 Broad St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'zero-george-charleston',
@@ -4650,6 +4923,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Zero George is the wine-geek Rager: a tasting menu where the sommelier\'s role is as central as the chef\'s. The $100 pairing is one of the best values in Charleston fine dining.',
     publishedAt: '2026-02-18',
+    website: 'https://zerorestaurantcharleston.com',
+    address: { street: '0 George St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'honeysuckle-rose-charleston',
@@ -4699,6 +4974,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Honeysuckle Rose is an all-inclusive Rager: 8 courses, 8 wine pours, gratuity included, curated by a beverage director with James Beard credentials. No list, no choices, no bill anxiety. Pure surrender.',
     publishedAt: '2026-02-18',
+    website: 'https://www.honeysucklerosechs.com',
+    address: { street: '237 Fishburne St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'chez-nous-charleston',
@@ -4748,6 +5025,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Chez Nous is the purest Wild Card in Charleston: a wine-only restaurant where an Old World list from France, Italy, and Spain is the sole beverage companion to a daily-changing six-dish menu. No cocktails, no New World, no compromise.',
     publishedAt: '2026-02-18',
+    website: 'https://www.cheznouschs.com',
+    address: { street: '6 Payne Court', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'chubby-fish-charleston',
@@ -4797,6 +5076,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Chubby Fish is a Michelin-starred Wild Card where the beer-and-wine-only license and daily-changing catch create a compact, fish-first wine program at the highest level. The $6 oyster-hour pours are the best walk-in deal in town.',
     publishedAt: '2026-02-18',
+    website: 'https://www.chubbyfishcharleston.com',
+    address: { street: '252 Coming St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'estadio-charleston',
@@ -4846,6 +5127,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Estadio is Charleston\'s only dedicated Spanish wine bar: sherry depth, vermouth, natural wine, and porróns in a walk-in-friendly tapas format. The essential Spanish stop for RagingWine readers.',
     publishedAt: '2026-02-18',
+    website: 'https://www.estadio-chs.com',
+    address: { street: '122 Spring St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'renzo-charleston',
@@ -4895,6 +5178,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Renzo is the casual Wild Card: a neighborhood pizza joint with one of Charleston\'s largest natural wine selections. No pretension, wood-fired everything, and a list curated by a genuine champion of the movement.',
     publishedAt: '2026-02-18',
+    website: 'https://www.renzochs.com',
+    address: { street: '384 Huger St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
   {
     slug: 'brasserie-la-banque-charleston',
@@ -4944,6 +5229,8 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Brasserie La Banque is a textbook Reliable: French brasserie wine done well, with Apéro Hour value and Bar Vauté extending the program into late-night territory.',
     publishedAt: '2026-02-18',
+    website: 'https://www.brasserielabanque.com',
+    address: { street: '1 Broad St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
   },
   {
     slug: 'indaco-charleston',
@@ -4993,6 +5280,238 @@ export const reviews: Review[] = [
     },
     bottomLine: 'Indaco is the approachable Reliable: transparent pricing, strong Italian core, Monday specials, and a dessert wine section that quietly punches above its weight. Smart everyday stop.',
     publishedAt: '2026-02-18',
+    website: 'https://www.indacorestaurant.com',
+    address: { street: '526 King St', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
+  },
+  {
+    slug: 'the-crossing-steakhouse-atlanta',
+    restaurant: 'The Crossing Steakhouse',
+    neighborhood: 'Norcross',
+    city: 'Atlanta',
+    citySlug: 'atlanta',
+    cuisineType: 'Steakhouse / Seafood',
+    badge: 'reliable' as const,
+    metrics: {
+      glassware: 'Stemless Casual' as const,
+      staff: 'Willing but Green' as const,
+      markup: 'Fair' as const,
+      variety: 'Solid Range' as const,
+      specials: 'Occasional' as const,
+      storage: 'Hot Mess' as const,
+    },
+    subtitle: 'The Wine List Is Growing Up. The Glassware and Storage Haven\'t Followed.',
+    tags: ['Reliable', 'Steakhouse', 'Norcross', 'Historic Downtown', 'Train Depot', 'Craft Beer'],
+    editorial: [
+      {
+        title: 'The Setting',
+        body: 'The Crossing sits in a converted train depot in the heart of historic downtown Norcross, right on S. Peachtree Street where you can watch freight trains rumble past your ribeye. The exposed brick and casual-upscale vibe hit a nice middle ground between neighborhood joint and date-night destination. Family-owned and operated, it has the feel of a place where regulars know the staff and first-timers feel welcome. The menu runs from a solid smash burger (80% chuck, 15% brisket, 5% short rib) to filet-and-lobster combos, with detours through fried green tomatoes and the Sienna chicken that shows up in every other Yelp review.',
+      },
+      {
+        title: 'The Wine List',
+        body: 'Credit where it is due: the wine list has improved over the years. You will find a reasonable spread covering the major bases, Cabernet and Merlot for the steak crowd, a few whites for the seafood side, and the occasional interesting pick. Carnavour has earned some fans. The by-the-glass options cover enough ground that most diners will find something that works. Pricing is fair by Gwinnett County standards. The selection is not deep or adventurous, but it is competent enough to pair with a good steak without feeling like an afterthought.',
+      },
+      {
+        title: 'Where It Falls Short',
+        body: 'Two problems undercut the wine program. First, the glassware. If you are charging steakhouse prices and listing wines that deserve attention, stemless tumblers send the wrong message. Proper stems would cost the restaurant almost nothing per table and would immediately elevate the experience. Second, storage. Bottles sit above the bar in full view, which looks great for ambiance but terrible for temperature. Wine stored in a warm environment ages poorly and tastes flat. A bottle of Cabernet that should be structured and alive can taste flabby and cooked after weeks above a busy bar. The Crossing positions itself as a step above casual dining, and the food mostly delivers on that promise. The wine service does not.',
+      },
+      {
+        title: 'Why Reliable',
+        body: 'The Crossing earns Reliable rather than Lazy because the list itself has genuine effort behind it. Someone is paying attention to what goes on the page, the prices are honest, and the range covers the basics without resorting to a distributor starter pack. But the execution, the glassware and the storage, keeps this from climbing any higher. Fix those two things and this could be a legitimate wine-friendly steakhouse for the Norcross corridor. Until then, order the Carnavour, ignore the stemware, and enjoy the train views.',
+      },
+    ],
+    bottomLine: 'The Crossing delivers solid steaks and improving wine selections in a charming train-depot setting. Fair prices and an honest list earn it Reliable status, but stemless glasses and bar-top wine storage hold it back from its steakhouse ambitions. The food is worth the trip. The wine is worth ordering. The glassware is worth ignoring.',
+    publishedAt: '2026-02-18',
+    website: 'https://thecrossingofnorcross.com',
+    address: { street: '40 South Peachtree St', city: 'Norcross', state: 'GA', zip: '30071', country: 'US' },
+  },
+  {
+    slug: 'mojitos-cuban-bistro-atlanta',
+    restaurant: 'Mojitos Cuban American Bistro',
+    neighborhood: 'Norcross',
+    city: 'Atlanta',
+    citySlug: 'atlanta',
+    cuisineType: 'Cuban',
+    badge: 'lazy' as const,
+    metrics: {
+      glassware: 'Stemless Casual' as const,
+      staff: 'Willing but Green' as const,
+      markup: 'Fair' as const,
+      variety: 'Plays It Safe' as const,
+      specials: 'Set & Forget' as const,
+      storage: 'Hot Mess' as const,
+    },
+    subtitle: 'Little Havana Energy on Peachtree Street. The Wine List Missed the Party.',
+    tags: ['Lazy List', 'Cuban', 'Norcross', 'Live Music', 'Salsa Nights', 'Mojitos'],
+    editorial: [
+      {
+        title: 'What They Get Right',
+        body: 'Mojitos is one of the best nights out in Norcross. The family-owned Cuban bistro has been running for over 15 years on S. Peachtree Street, and on a Friday or Saturday night with the live band going, the place has genuine Little Havana energy. Ropa vieja braised low and slow in traditional Cuban sauce. A proper Cuban sandwich on authentic pressed bread. Paella loaded with scallops, calamari, shrimp, mussels, and plantains. The ox tails in red wine sauce are a sleeper hit. Add weekend salsa nights, a dance floor that actually gets used, and a cocktail menu anchored by the namesake mojitos, and you have a neighborhood restaurant that punches well above its zip code.',
+      },
+      {
+        title: 'What They Get Wrong',
+        body: 'The wine list is an afterthought. A handful of generic options with no connection to the food, no interesting Spanish or South American bottles that would pair naturally with Cuban cuisine, and no sign that anyone involved in the beverage program has thought about wine as part of the experience. Storage follows the same pattern as too many Norcross spots: bottles above the bar where the heat from the kitchen and the lighting keeps them perpetually warm. The glassware is basic. A restaurant this good, with food this flavorful, could do remarkable things with a short, focused list of Albariño, Tempranillo, Malbec, and dry rosé. Instead, wine drinkers get the minimum.',
+      },
+      {
+        title: 'Why Lazy List',
+        body: 'This one stings because everything else at Mojitos works. The food is authentic, the atmosphere is alive, the cocktail program is fun, and the ownership clearly cares about the dining experience. The wine list just never got any of that attention. Cuban cuisine is built for wine pairing: garlic, citrus, roasted pork, black beans, and plantains all cry out for something interesting in the glass. Stick with the mojitos and the live music. They have earned that reputation for a reason.',
+      },
+    ],
+    bottomLine: 'Mojitos delivers one of the best Cuban dining experiences in metro Atlanta with live music, salsa nights, and family recipes worth driving for. But the wine list is lazy, warm, and disconnected from the food. Order the namesake cocktail, enjoy the Ropa Vieja, and save your wine expectations for somewhere else.',
+    publishedAt: '2026-02-18',
+    website: 'https://mojitosbistro.com',
+    address: { street: '35 S Peachtree St', city: 'Norcross', state: 'GA', zip: '30071', country: 'US' },
+  },
+  {
+    slug: 'iron-horse-tavern-atlanta',
+    restaurant: 'Iron Horse Tavern',
+    neighborhood: 'Norcross',
+    city: 'Atlanta',
+    citySlug: 'atlanta',
+    cuisineType: 'British Pub',
+    badge: 'lazy' as const,
+    metrics: {
+      glassware: 'Red Flag' as const,
+      staff: 'Rotating Cast' as const,
+      markup: 'Fair' as const,
+      variety: 'Grocery Store' as const,
+      specials: 'Set & Forget' as const,
+      storage: 'Acceptable' as const,
+    },
+    subtitle: 'A Proper Pub in Every Way. Except Wine.',
+    tags: ['Lazy List', 'British Pub', 'Norcross', 'Darts', 'Fireplace', 'Live Music', 'Historic Building'],
+    editorial: [
+      {
+        title: 'The Pub',
+        body: 'Iron Horse Tavern is the real thing. Housed in a 130-year-old building in the heart of historic Norcross, the exposed brick walls and original wood floors set a mood that no renovation could replicate. Darts in the back. A proper fireplace for winter nights. A huge deck for warm weather. Live music on weekends. The menu runs authentic British pub fare: shepherd\'s pie, bangers and mash, fish and chips, lamb braised with rosemary. This is the kind of neighborhood pub where everyone knows your name and the bartender remembers your order. The draft beer list is well-curated and takes its job seriously.',
+      },
+      {
+        title: 'The Wine Situation',
+        body: 'There are a couple of wines available. They are low quality. That is the entire wine program. No by-the-glass variety, no interesting bottles, no attempt to stock even a basic selection that a wine drinker could work with. Ownership has made a clear decision: this is a beer-and-whiskey establishment, and wine drinkers can take it or leave it. In a traditional British pub context, that is not entirely unfair. Pubs in the UK are not exactly wine destinations either. But a 130-year-old building with live music, a fireplace, and a kitchen turning out braised lamb deserves at least one decent red and one decent white on the list.',
+      },
+      {
+        title: 'Why Lazy List',
+        body: 'Iron Horse earns Lazy List not because it is a bad bar, it is a great bar, but because the wine offering shows zero effort. The beer program proves the ownership can curate a beverage list when they care to. Wine simply did not make the cut. If you are a wine drinker, order the beer. Seriously. The draft list is good, and a pint of something local pairs better with shepherd\'s pie than whatever is hiding in the single wine fridge. This is honest advice from a wine site: skip the wine here and enjoy what they actually do well.',
+      },
+    ],
+    bottomLine: 'Iron Horse Tavern is one of the best pubs in Gwinnett County: 130-year-old brick, darts, a fireplace, live music, and proper British pub food. But the wine offering is effectively nonexistent. Stick with the draft beer and the Scotch. You will have a great night.',
+    publishedAt: '2026-02-18',
+    website: 'https://www.iron-horse-tavern.com',
+    address: { street: '29 Jones St SW', city: 'Norcross', state: 'GA', zip: '30071', country: 'US' },
+  },
+  {
+    slug: 'zapata-tacos-tequila-atlanta',
+    restaurant: 'Zapata Tacos & Tequila Bar',
+    neighborhood: 'Norcross',
+    city: 'Atlanta',
+    citySlug: 'atlanta',
+    cuisineType: 'Mexican',
+    badge: 'lazy' as const,
+    metrics: {
+      glassware: 'Stemless Casual' as const,
+      staff: 'Willing but Green' as const,
+      markup: 'Fair' as const,
+      variety: 'Plays It Safe' as const,
+      specials: 'Set & Forget' as const,
+      storage: 'Acceptable' as const,
+    },
+    subtitle: 'One of Georgia\'s First Tequila Bars. The Wine Had Its Moment. That Moment Passed.',
+    tags: ['Lazy List', 'Mexican', 'Norcross', 'Tequila Bar', 'Margaritas', 'Live Music Thursdays', 'Outdoor Deck'],
+    editorial: [
+      {
+        title: 'What Makes Zapata Special',
+        body: 'Zapata is not your standard Mexican restaurant. Situated in a historic brick building on Jones Street in downtown Norcross, this was one of Georgia\'s first dedicated tequila bars. The agave program is legit: 20-plus tequilas and mezcals, margaritas made with 100% agave azul blanco, fresh-squeezed lime, orange liqueur, and agave nectar. The El Mejor margarita is our pick. The food draws from Guadalajara and surrounding cities rather than Tex-Mex shortcuts: signature Chihuahua Molcajetes served in volcanic stone, proper street-style tacos, and a Thursday night live music series that fills the outdoor deck. This place has character.',
+      },
+      {
+        title: 'The Wine Story',
+        body: 'There was a time when a manager here took a personal interest in wine and stocked a short but genuinely interesting list. Nothing extravagant, but a few thoughtful picks that gave wine drinkers something to work with alongside the mole and the carne asada. A Verdejo or an Albarino here, a Garnacha there, maybe a Malbec that actually paired with the food. Those days are over. Current management has moved on, and the wine selection has shrunk to a handful of uninspired options that feel like they were ordered from whatever the distributor had on discount. The bones of a wine program are technically still there. The ambition is not.',
+      },
+      {
+        title: 'Why Lazy List',
+        body: 'Zapata lands on the Lazy List because the wine program used to be better, which makes the current state harder to excuse. This is a restaurant with a world-class agave bar, a food menu that goes beyond the ordinary, live music, and an outdoor deck that practically begs for a cold glass of Albariño on a summer evening. The tequila and margarita programs prove the bar team can curate when they want to. Wine just fell off the priority list. Order the El Mejor margarita, enjoy the Molcajete, and save your wine cravings for another stop on the Norcross strip.',
+      },
+    ],
+    bottomLine: 'Zapata is a standout Mexican restaurant and legitimate tequila bar with character, history, and food that goes beyond the ordinary. But the wine list has regressed from interesting to irrelevant. The margaritas and mezcal program are the real draw here. Drink what they do best.',
+    publishedAt: '2026-02-18',
+    website: 'https://www.zapataatl.com',
+    address: { street: '15 Jones St NW', city: 'Norcross', state: 'GA', zip: '30071', country: 'US' },
+  },
+  {
+    slug: 'husk-charleston',
+    restaurant: 'Husk',
+    neighborhood: 'Downtown',
+    city: 'Charleston',
+    citySlug: 'charleston',
+    cuisineType: 'Lowcountry / Southern',
+    badge: 'wildcard' as const,
+    metrics: {
+      glassware: 'Varietal Specific' as const,
+      staff: 'Knowledgeable & Friendly' as const,
+      markup: 'Fair' as const,
+      variety: 'Deep & Eclectic' as const,
+      specials: 'Seasonal Rotation' as const,
+      storage: 'Proper' as const,
+    },
+    subtitle: 'Wine Organized by Dirt. Seriously. And It Works.',
+    tags: ['Wild Card', 'Lowcountry', 'Sean Brock', 'Soil-Type Wine List', 'James Beard', 'Heirloom Ingredients', 'Queen Anne House', 'Southern Draft Beer'],
+    editorial: [
+      {
+        title: 'The Concept',
+        body: 'Husk occupies a circa-1893 Queen Anne house on Queen Street and built its reputation on a single rule: if it is not from the South, it does not come through the door. Founded by James Beard Award winner Sean Brock (Best Chef: Southeast 2010), the kitchen runs on heirloom grains, heritage-breed pork, and ingredients sourced from farms most diners will never hear of. Brock has moved on, but the philosophy remains embedded in the walls. The menu changes daily based on what arrives from the farms. The dining room is candlelit, the floors creak, and the atmosphere sits somewhere between historic preservation and living restaurant.',
+      },
+      {
+        title: 'The Wine List',
+        body: 'This is where Husk becomes genuinely interesting for wine drinkers. The wine list is organized not by region or grape varietal but by soil type: limestone, slate, gravel, clay, and volcanic. Sommelier Clint Sloan, named one of Food & Wine\'s Top Sommeliers in 2011, designed the concept. The logic is sound even if it takes a moment to adjust: limestone soils tend to produce wines with higher acidity and mineral backbone, clay soils yield riper and fuller-bodied wines, volcanic soils bring smoky intensity. Once you understand the framework, you are actually choosing wine by flavor profile rather than geography, which pairs more naturally with food. The list features artisan producers, small-production bottles, off-the-beaten-path selections from Slovenia, Armenia, and Lebanon, plus natural wines and Southern producers. Husk also has its own wine label, The Angel Oak, produced from a vineyard in Valle de Uco, Argentina, with Torrontés, Rosé, Malbec, and blends that have earned 90-plus ratings from Wine Enthusiast and Wine Spectator.',
+      },
+      {
+        title: 'The Catch',
+        body: 'The soil-type organization is polarizing. Some diners find it confusing or pretentious. One reviewer called it "irritating" for anyone who knows grape varietals and regions but has not studied dirt. Servers are trained to guide you through it, and they do it well, but if you are someone who wants to quickly find "the Pinot Noir section," you will need to ask for help. The list also skews toward smaller producers and natural wines, which means comfort-zone drinkers looking for familiar labels will not find much to grab onto. That is part of the point, but it is worth knowing going in.',
+      },
+      {
+        title: 'Why Wild Card',
+        body: 'Husk earns Wild Card because the entire wine experience is a gamble in the best sense. The soil-type organization is unlike anything else in Charleston. The wines are off-the-beaten-path by design. The staff knows the list cold and will steer you well if you let them. The prices are fair for the quality and ambition. But you have to be willing to let go of how you normally order wine and trust the framework. If you do, you will drink something you have never tried before alongside food you cannot get anywhere else. That is the definition of Wild Card.',
+      },
+    ],
+    bottomLine: 'Husk\'s soil-type wine list is one of the most original approaches to wine service in the Southeast. Artisan producers, natural wines, and off-the-map regions organized by terroir rather than geography. Come with an open mind, trust the staff, and order something from the volcanic section with the heirloom grain dish. You will not regret it.',
+    publishedAt: '2026-02-18',
+    website: 'https://huskcharleston.com',
+    address: { street: '76 Queen St', city: 'Charleston', state: 'SC', zip: '29401', country: 'US' },
+  },
+  {
+    slug: 'park-and-grove-charleston',
+    restaurant: 'Park & Grove',
+    neighborhood: 'North Central',
+    city: 'Charleston',
+    citySlug: 'charleston',
+    cuisineType: 'Seasonal New American',
+    badge: 'wildcard' as const,
+    metrics: {
+      glassware: 'Varietal Specific' as const,
+      staff: 'Knowledgeable & Friendly' as const,
+      markup: 'Fair' as const,
+      variety: 'Small but Thoughtful' as const,
+      specials: 'Seasonal Rotation' as const,
+      storage: 'Proper' as const,
+    },
+    subtitle: 'Peninsula Grill\'s Sommelier Found a Neighborhood Home. Wine Drinkers Win.',
+    tags: ['Wild Card', 'Seasonal', 'Sommelier-Curated', 'Hampton Park', 'Farm-to-Table', 'Terroir-Driven', 'Wine Pairing Dinners'],
+    editorial: [
+      {
+        title: 'The Restaurant',
+        body: 'Park & Grove sits at 730 Rutledge Avenue in North Central Charleston, steps from Hampton Park and well off the tourist circuit. The space evolved from the former Park Cafe into a proper evening dining destination under owner Karalee Nielsen Fallert, whose portfolio includes Taco Boy, Monza, and The Royal American. Chef Ramon Taimanglo runs a seasonal kitchen built on local purveyors, and the dining room shifted from bright cafe tones to a warmer palette of gold and green. This is neighborhood dining that takes its craft seriously without any of the King Street performance.',
+      },
+      {
+        title: 'The Wine Program',
+        body: 'The real story here is sommelier Jonella Orozco. Orozco came from Peninsula Grill, one of Charleston\'s most respected fine dining programs, and she brought that level of curation to a neighborhood restaurant format. The list is not long, but every bottle is hand-selected and paired to the seasonal menu. Orozco describes her philosophy as "elegant, terroir-and-acid-driven, and versatile," which in practice means wines that work with food rather than compete with it. Expect smaller producers from Sicily, Crete, the Willamette Valley, and other regions where the winemaking tells a story. Many bottles land under $40, which is increasingly rare in Charleston. The by-the-glass program rotates with the kitchen\'s seasonal shifts, and periodic Fire & Wine dinners pair wood-fired courses with curated pours.',
+      },
+      {
+        title: 'Why Wild Card',
+        body: 'Park & Grove earns Wild Card because a former Peninsula Grill sommelier running a curated, terroir-driven wine program in a neighborhood restaurant off the tourist strip is exactly the kind of find this site exists to surface. The list is small but every pick has intent behind it. The prices respect your wallet. The staff can walk you through pairings that make the seasonal menu sing. You will not stumble onto this place by walking King Street. That is the point.',
+      },
+    ],
+    bottomLine: 'Park & Grove is the neighborhood wine gem Wine Enthusiast originally flagged as The Park Cafe, now reborn with a Peninsula Grill-trained sommelier and a seasonal, terroir-driven list. Off the tourist map, under $40 bottles, and a chef-sommelier partnership that makes every visit different. Worth the detour to Hampton Park.',
+    publishedAt: '2026-02-18',
+    website: 'https://www.parkandgrovechs.com',
+    address: { street: '730 Rutledge Ave', city: 'Charleston', state: 'SC', zip: '29403', country: 'US' },
   },
 ];
 

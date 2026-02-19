@@ -7,10 +7,13 @@ import Logo from './Logo';
 const cityItems = [
   { label: 'Atlanta', href: '/cities/atlanta' },
   { label: 'Blue Ridge', href: '/cities/blue-ridge' },
+  { label: 'Charleston', href: '/cities/charleston' },
   { label: 'Clayton', href: '/cities/clayton' },
   { label: 'Greenville', href: '/cities/greenville' },
   { label: 'Key West', href: '/cities/key-west' },
-  { label: 'Charleston', href: '/cities/charleston' },
+  { label: 'Asheville', href: '/cities/asheville', comingSoon: true },
+  { label: 'New Orleans', href: '/cities/new-orleans', comingSoon: true },
+  { label: 'Savannah', href: '/cities/savannah', comingSoon: true },
 ];
 
 const navItems = [
@@ -80,15 +83,20 @@ export default function Header() {
                 </svg>
               </button>
               {citiesOpen && (
-                <div className="absolute top-full left-0 mt-2 bg-white border border-gray-200 rounded-lg shadow-lg py-2 min-w-[160px] z-50">
+                <div className="absolute top-full left-0 mt-2 bg-white border border-gray-200 rounded-lg shadow-lg py-2 min-w-[200px] z-50">
                   {cityItems.map(city => (
                     <Link
                       key={city.href}
                       href={city.href}
                       onClick={() => setCitiesOpen(false)}
-                      className="block px-4 py-2 text-sm text-gray-600 hover:text-wine-700 hover:bg-gray-50 transition-colors"
+                      className="flex items-center justify-between px-4 py-2 text-sm text-gray-600 hover:text-wine-700 hover:bg-gray-50 transition-colors"
                     >
                       {city.label}
+                      {city.comingSoon && (
+                        <span className="text-[10px] font-bold uppercase tracking-wider text-wine-500 bg-wine-50 px-1.5 py-0.5 rounded">
+                          Soon
+                        </span>
+                      )}
                     </Link>
                   ))}
                 </div>
@@ -159,9 +167,14 @@ export default function Header() {
                     key={city.href}
                     href={city.href}
                     onClick={() => setMobileOpen(false)}
-                    className="block py-2 text-sm text-gray-500 hover:text-wine-700"
+                    className="flex items-center gap-2 py-2 text-sm text-gray-500 hover:text-wine-700"
                   >
                     {city.label}
+                    {city.comingSoon && (
+                      <span className="text-[10px] font-bold uppercase tracking-wider text-wine-500 bg-wine-50 px-1.5 py-0.5 rounded">
+                        Soon
+                      </span>
+                    )}
                   </Link>
                 ))}
               </div>

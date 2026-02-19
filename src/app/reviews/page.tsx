@@ -1,15 +1,18 @@
-import { reviews } from '@/lib/data';
+import { getReviews } from '@/lib/sanity';
 import { BADGE_CONFIG, BadgeType } from '@/lib/types';
 import Badge from '@/components/Badge';
 import ReviewsPageFilters from '@/components/ReviewsPageFilters';
 import type { Metadata } from 'next';
+
+export const revalidate = 60;
 
 export const metadata: Metadata = {
   title: 'Wine List Reviews | Raging Wine',
   description: 'Honest restaurant wine list reviews with our Vibe-Check badge system and Wingman Metrics. No scores, no BS.',
 };
 
-export default function ReviewsPage() {
+export default async function ReviewsPage() {
+  const reviews = await getReviews();
   const badgeTypes: BadgeType[] = ['rager', 'wildcard', 'reliable', 'lazy'];
 
   return (

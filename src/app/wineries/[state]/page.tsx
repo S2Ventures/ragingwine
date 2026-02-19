@@ -1,16 +1,19 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { wineryStates, getWineryStateBySlug, getWineriesByState, getWineriesByRegion } from '@/lib/wineries';
+import { getWineryStates, getWineryStateBySlug, getWineriesByState, getWineriesByRegion } from '@/lib/sanity';
 import WineryCard from '@/components/WineryCard';
 import Newsletter from '@/components/Newsletter';
 import type { Metadata } from 'next';
 
-export function generateStaticParams() {
+export const revalidate = 60;
+
+export async function generateStaticParams() {
+  const wineryStates = await getWineryStates();
   return wineryStates.map(state => ({ state: state.slug }));
 }
 
-export function generateMetadata({ params }: { params: { state: string } }): Metadata {
-  const state = getWineryStateBySlug(params.state);
+export async function generateMetadata({ params }: { params: { state: string } }): Promise<Metadata> {
+  const state = await getWineryStateBySlug(params.state);
   if (!state) return { title: 'State Not Found' };
   return {
     title: `${state.name} Wineries | Raging Wine`,
@@ -18,11 +21,11 @@ export function generateMetadata({ params }: { params: { state: string } }): Met
   };
 }
 
-export default function WineryStatePage({ params }: { params: { state: string } }) {
-  const state = getWineryStateBySlug(params.state);
+export default async function WineryStatePage({ params }: { params: { state: string } }) {
+  const state = await getWineryStateBySlug(params.state);
   if (!state) notFound();
 
-  const stateWineries = getWineriesByState(state.slug);
+  const stateWineries = await getWineriesByState(state.slug);
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
@@ -122,7 +125,7 @@ export default function WineryStatePage({ params }: { params: { state: string } 
 
       {/* Wineries By Region */}
       {state.regions.map(region => {
-        const regionWineries = getWineriesByRegion(region);
+        const regionWineries = stateWineries.filter(w => w.region === region);
         if (regionWineries.length === 0) return null;
 
         return (
