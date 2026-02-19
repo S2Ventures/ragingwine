@@ -63,4 +63,5 @@ jobs:
           git config user.email "pipeline@ragingwine.com"
           git add pipeline/data/
           git diff --staged --quiet || git commit -m "pipeline: update city queue after $(date +%Y-%m-%d) run"
+          git pull --rebase
           git push
