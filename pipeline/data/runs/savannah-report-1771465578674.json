@@ -1,0 +1,13 @@
+{
+  "city": "Savannah",
+  "citySlug": "savannah",
+  "startedAt": "2026-02-19T01:46:12.056Z",
+  "completedAt": "2026-02-19T01:46:18.113Z",
+  "restaurantsResearched": 0,
+  "reviewsWritten": 0,
+  "reviewsPublished": 0,
+  "errors": [
+    "Pipeline error: Error: Discovery parse failed: SyntaxError: Unexpected token 'I', \"I cannot p\"... is not valid JSON"
+  ],
+  "reviews": []
+}
