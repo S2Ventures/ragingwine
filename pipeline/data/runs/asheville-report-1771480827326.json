@@ -1,0 +1,77 @@
+{
+  "city": "Asheville",
+  "citySlug": "asheville",
+  "startedAt": "2026-02-19T05:58:53.316Z",
+  "completedAt": "2026-02-19T06:00:27.065Z",
+  "restaurantsResearched": 8,
+  "reviewsWritten": 8,
+  "reviewsPublished": 0,
+  "errors": [
+    "Publish failed: Posana — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required",
+    "Publish failed: Chestnut — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required",
+    "Publish failed: Cúrate Bar de Tapas — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required",
+    "Publish failed: Battery Park Book Exchange — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required",
+    "Publish failed: 5 Walnut Wine Bar — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required",
+    "Publish failed: Quench! Wine Bistro — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required",
+    "Publish failed: Sunset Terrace at Omni Grove Park Inn — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required",
+    "Publish failed: Posana Biltmore Park — Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+  ],
+  "reviews": [
+    {
+      "restaurant": "Posana",
+      "slug": "posana-asheville",
+      "badge": "reliable",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    },
+    {
+      "restaurant": "Chestnut",
+      "slug": "chestnut-asheville",
+      "badge": "reliable",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    },
+    {
+      "restaurant": "Cúrate Bar de Tapas",
+      "slug": "crate-bar-de-tapas-asheville",
+      "badge": "rager",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    },
+    {
+      "restaurant": "Battery Park Book Exchange",
+      "slug": "battery-park-book-exchange-asheville",
+      "badge": "wildcard",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    },
+    {
+      "restaurant": "5 Walnut Wine Bar",
+      "slug": "5-walnut-wine-bar-asheville",
+      "badge": "reliable",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    },
+    {
+      "restaurant": "Quench! Wine Bistro",
+      "slug": "quench-wine-bistro-asheville",
+      "badge": "rager",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    },
+    {
+      "restaurant": "Sunset Terrace at Omni Grove Park Inn",
+      "slug": "sunset-terrace-at-omni-grove-park-inn-asheville",
+      "badge": "reliable",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    },
+    {
+      "restaurant": "Posana Biltmore Park",
+      "slug": "posana-biltmore-park-asheville",
+      "badge": "reliable",
+      "published": false,
+      "error": "Error: transaction failed: Insufficient permissions; permission \"create\" required:\n- Insufficient permissions; permission \"create\" required"
+    }
+  ]
+}

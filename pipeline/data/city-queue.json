@@ -38,7 +38,9 @@
     "citySlug": "asheville",
     "state": "North Carolina",
     "priority": 2,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-19T06:00:27.065Z",
+    "reviewCount": 0
   },
   {
     "city": "New Orleans",

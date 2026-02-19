@@ -1,0 +1,246 @@
+{
+  "city": "Asheville",
+  "citySlug": "asheville",
+  "state": "North Carolina",
+  "researchedAt": "2026-02-19T05:59:13.237Z",
+  "restaurants": [
+    {
+      "name": "Posana",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Chestnut",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Cúrate Bar de Tapas",
+      "neighborhood": "Downtown Asheville",
+      "cuisineType": "Spanish tapas",
+      "website": "http://curatetapasbar.com",
+      "address": {
+        "street": "13 Biltmore Ave",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28801"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [
+        "Spanish wines",
+        "vermouth"
+      ],
+      "wineRegionFocus": [
+        "Spain"
+      ],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Lively and energetic atmosphere with a bustling tapas bar vibe in a renovated 1920s bus depot.",
+      "popularDishes": [
+        "patatas bravas",
+        "jamon Ibérico",
+        "croquettas"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 7,
+      "confidenceLevel": "medium"
+    },
+    {
+      "name": "Battery Park Book Exchange",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "5 Walnut Wine Bar",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Quench! Wine Bistro",
+      "neighborhood": "North Asheville/Woodfin",
+      "cuisineType": "Contemporary American with local ingredients",
+      "website": "https://quenchavl.com",
+      "address": {
+        "street": "60 North Merrimon Avenue, Suite 105",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28804"
+      },
+      "wineListSize": "100+ bottles",
+      "byTheGlassCount": "30+",
+      "priceRange": "$18.99-$150/bottle (retail pricing available)",
+      "notableWines": [
+        "Martin Woods Cab Franc",
+        "Pike Road Pinot Noir",
+        "Turley Petite Syrah",
+        "Onix Priorat",
+        "Saint Joseph le Prieure d'Arras",
+        "Ch. De Fleys Chablis",
+        "Fournier Sancerre",
+        "Ukrainian wines (recent additions)"
+      ],
+      "wineRegionFocus": [
+        "Rhône Valley",
+        "Burgundy",
+        "Spain (Priorat, Rioja)",
+        "Italy (Chianti, Dolcetto, Aglianico)",
+        "California",
+        "Loire Valley"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Rustic, intimate wine bar with mountain views and outdoor seating, positioned as a culinary oasis near downtown.",
+      "popularDishes": [
+        "Small plates",
+        "Fresh fish",
+        "Charcuterie and cheese selections"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$13-$40+ range",
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "additionalNotes": "Opened August 2024. Partnership with Metro Wines Asheville. Chef Sam Etheridge (formerly of Ambrozia). Weekly wine tastings Wednesday 3-5pm hosted by wine reps. Monthly coursed wine dinners. Wine selection curated by chef to pair with menu. Offers orange and pink wines, half-carafes, no wine flights."
+    },
+    {
+      "name": "Sunset Terrace at Omni Grove Park Inn",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": "unknown",
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": "unknown",
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Posana Biltmore Park",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": "unknown",
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": "unknown",
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    }
+  ]
+}
