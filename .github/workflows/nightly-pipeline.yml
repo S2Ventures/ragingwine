@@ -1,0 +1,61 @@
+name: Nightly Wine Review Pipeline
+
+on:
+  schedule:
+    # Midnight ET (5:00 UTC during EST, 4:00 UTC during EDT)
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      city:
+        description: 'City slug to process (leave empty for next in queue)'
+        required: false
+        type: string
+      dry_run:
+        description: 'Dry run (no publishing)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pipeline dependencies
+        working-directory: pipeline
+        run: npm install
+
+      - name: Run pipeline
+        working-directory: pipeline
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SANITY_WRITE_TOKEN: ${{ secrets.SANITY_WRITE_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          REPORT_EMAIL: ${{ vars.REPORT_EMAIL || 'hello@ragingwine.com' }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.city }}" != "" ]; then
+            ARGS="$ARGS --city=${{ inputs.city }}"
+          fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          npx tsx src/orchestrator.ts $ARGS
+
+      - name: Commit queue updates
+        run: |
+          git config user.name "Raging Wine Pipeline"
+          git config user.email "pipeline@ragingwine.com"
+          git add pipeline/data/
+          git diff --staged --quiet || git commit -m "pipeline: update city queue after $(date +%Y-%m-%d) run"
+          git push

@@ -1,0 +1,24 @@
+{
+  "name": "ragingwine-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pipeline": "tsx src/orchestrator.ts",
+    "research": "tsx src/research.ts",
+    "write-reviews": "tsx src/writer.ts",
+    "publish": "tsx src/publisher.ts",
+    "report": "tsx src/report.ts",
+    "dry-run": "tsx src/orchestrator.ts --dry-run"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@sanity/client": "^7.15.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "@types/node": "^20.0.0"
+  }
+}

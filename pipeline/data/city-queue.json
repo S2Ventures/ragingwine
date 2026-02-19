@@ -1,0 +1,715 @@
+[
+  {
+    "city": "Atlanta",
+    "citySlug": "atlanta",
+    "state": "Georgia",
+    "priority": 0,
+    "status": "completed",
+    "lastRunAt": "2025-02-01T00:00:00Z",
+    "reviewCount": 50
+  },
+  {
+    "city": "Norcross",
+    "citySlug": "norcross",
+    "state": "Georgia",
+    "priority": 0,
+    "status": "completed",
+    "lastRunAt": "2025-02-15T00:00:00Z",
+    "reviewCount": 6
+  },
+  {
+    "city": "Charleston",
+    "citySlug": "charleston",
+    "state": "South Carolina",
+    "priority": 0,
+    "status": "completed",
+    "lastRunAt": "2025-02-10T00:00:00Z",
+    "reviewCount": 50
+  },
+  {
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "state": "Georgia",
+    "priority": 1,
+    "status": "pending"
+  },
+  {
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "state": "North Carolina",
+    "priority": 2,
+    "status": "pending"
+  },
+  {
+    "city": "New Orleans",
+    "citySlug": "new-orleans",
+    "state": "Louisiana",
+    "priority": 3,
+    "status": "pending"
+  },
+  {
+    "city": "Miami",
+    "citySlug": "miami",
+    "state": "Florida",
+    "priority": 4,
+    "status": "pending"
+  },
+  {
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "state": "Florida",
+    "priority": 5,
+    "status": "pending"
+  },
+  {
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "state": "Florida",
+    "priority": 6,
+    "status": "pending"
+  },
+  {
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "state": "Florida",
+    "priority": 7,
+    "status": "pending"
+  },
+  {
+    "city": "Naples",
+    "citySlug": "naples",
+    "state": "Florida",
+    "priority": 8,
+    "status": "pending"
+  },
+  {
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "state": "Florida",
+    "priority": 9,
+    "status": "pending"
+  },
+  {
+    "city": "Orlando",
+    "citySlug": "orlando",
+    "state": "Florida",
+    "priority": 10,
+    "status": "pending"
+  },
+  {
+    "city": "St. Augustine",
+    "citySlug": "st-augustine",
+    "state": "Florida",
+    "priority": 11,
+    "status": "pending"
+  },
+  {
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "state": "Florida",
+    "priority": 12,
+    "status": "pending"
+  },
+  {
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "state": "Alabama",
+    "priority": 13,
+    "status": "pending"
+  },
+  {
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "state": "Tennessee",
+    "priority": 14,
+    "status": "pending"
+  },
+  {
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "state": "North Carolina",
+    "priority": 15,
+    "status": "pending"
+  },
+  {
+    "city": "Austin",
+    "citySlug": "austin",
+    "state": "Texas",
+    "priority": 16,
+    "status": "pending"
+  },
+  {
+    "city": "Dallas",
+    "citySlug": "dallas",
+    "state": "Texas",
+    "priority": 17,
+    "status": "pending"
+  },
+  {
+    "city": "Fort Worth",
+    "citySlug": "fort-worth",
+    "state": "Texas",
+    "priority": 18,
+    "status": "pending"
+  },
+  {
+    "city": "Washington",
+    "citySlug": "washington",
+    "state": "District of Columbia",
+    "priority": 19,
+    "status": "pending"
+  },
+  {
+    "city": "Chicago",
+    "citySlug": "chicago",
+    "state": "Illinois",
+    "priority": 20,
+    "status": "pending"
+  },
+  {
+    "city": "Houston",
+    "citySlug": "houston",
+    "state": "Texas",
+    "priority": 21,
+    "status": "pending"
+  },
+  {
+    "city": "San Antonio",
+    "citySlug": "san-antonio",
+    "state": "Texas",
+    "priority": 22,
+    "status": "pending"
+  },
+  {
+    "city": "Denver",
+    "citySlug": "denver",
+    "state": "Colorado",
+    "priority": 23,
+    "status": "pending"
+  },
+  {
+    "city": "Phoenix",
+    "citySlug": "phoenix",
+    "state": "Arizona",
+    "priority": 24,
+    "status": "pending"
+  },
+  {
+    "city": "Scottsdale",
+    "citySlug": "scottsdale",
+    "state": "Arizona",
+    "priority": 25,
+    "status": "pending"
+  },
+  {
+    "city": "Raleigh",
+    "citySlug": "raleigh",
+    "state": "North Carolina",
+    "priority": 28,
+    "status": "pending"
+  },
+  {
+    "city": "Richmond",
+    "citySlug": "richmond",
+    "state": "Virginia",
+    "priority": 29,
+    "status": "pending"
+  },
+  {
+    "city": "Louisville",
+    "citySlug": "louisville",
+    "state": "Kentucky",
+    "priority": 30,
+    "status": "pending"
+  },
+  {
+    "city": "Birmingham",
+    "citySlug": "birmingham",
+    "state": "Alabama",
+    "priority": 31,
+    "status": "pending"
+  },
+  {
+    "city": "Memphis",
+    "citySlug": "memphis",
+    "state": "Tennessee",
+    "priority": 32,
+    "status": "pending"
+  },
+  {
+    "city": "Indianapolis",
+    "citySlug": "indianapolis",
+    "state": "Indiana",
+    "priority": 33,
+    "status": "pending"
+  },
+  {
+    "city": "Columbus",
+    "citySlug": "columbus",
+    "state": "Ohio",
+    "priority": 34,
+    "status": "pending"
+  },
+  {
+    "city": "Cleveland",
+    "citySlug": "cleveland",
+    "state": "Ohio",
+    "priority": 35,
+    "status": "pending"
+  },
+  {
+    "city": "Detroit",
+    "citySlug": "detroit",
+    "state": "Michigan",
+    "priority": 36,
+    "status": "pending"
+  },
+  {
+    "city": "Pittsburgh",
+    "citySlug": "pittsburgh",
+    "state": "Pennsylvania",
+    "priority": 37,
+    "status": "pending"
+  },
+  {
+    "city": "Philadelphia",
+    "citySlug": "philadelphia",
+    "state": "Pennsylvania",
+    "priority": 38,
+    "status": "pending"
+  },
+  {
+    "city": "Boston",
+    "citySlug": "boston",
+    "state": "Massachusetts",
+    "priority": 39,
+    "status": "pending"
+  },
+  {
+    "city": "New York",
+    "citySlug": "new-york",
+    "state": "New York",
+    "priority": 40,
+    "status": "pending"
+  },
+  {
+    "city": "Baltimore",
+    "citySlug": "baltimore",
+    "state": "Maryland",
+    "priority": 41,
+    "status": "pending"
+  },
+  {
+    "city": "Alexandria",
+    "citySlug": "alexandria",
+    "state": "Virginia",
+    "priority": 42,
+    "status": "pending"
+  },
+  {
+    "city": "Norfolk",
+    "citySlug": "norfolk",
+    "state": "Virginia",
+    "priority": 43,
+    "status": "pending"
+  },
+  {
+    "city": "Virginia Beach",
+    "citySlug": "virginia-beach",
+    "state": "Virginia",
+    "priority": 44,
+    "status": "pending"
+  },
+  {
+    "city": "Charleston",
+    "citySlug": "charleston-wv",
+    "state": "West Virginia",
+    "priority": 45,
+    "status": "pending"
+  },
+  {
+    "city": "Lexington",
+    "citySlug": "lexington",
+    "state": "Kentucky",
+    "priority": 46,
+    "status": "pending"
+  },
+  {
+    "city": "Cincinnati",
+    "citySlug": "cincinnati",
+    "state": "Ohio",
+    "priority": 47,
+    "status": "pending"
+  },
+  {
+    "city": "Kansas City",
+    "citySlug": "kansas-city",
+    "state": "Missouri",
+    "priority": 48,
+    "status": "pending"
+  },
+  {
+    "city": "St. Louis",
+    "citySlug": "st-louis",
+    "state": "Missouri",
+    "priority": 49,
+    "status": "pending"
+  },
+  {
+    "city": "Minneapolis",
+    "citySlug": "minneapolis",
+    "state": "Minnesota",
+    "priority": 50,
+    "status": "pending"
+  },
+  {
+    "city": "Milwaukee",
+    "citySlug": "milwaukee",
+    "state": "Wisconsin",
+    "priority": 51,
+    "status": "pending"
+  },
+  {
+    "city": "Madison",
+    "citySlug": "madison",
+    "state": "Wisconsin",
+    "priority": 52,
+    "status": "pending"
+  },
+  {
+    "city": "Omaha",
+    "citySlug": "omaha",
+    "state": "Nebraska",
+    "priority": 53,
+    "status": "pending"
+  },
+  {
+    "city": "Oklahoma City",
+    "citySlug": "oklahoma-city",
+    "state": "Oklahoma",
+    "priority": 54,
+    "status": "pending"
+  },
+  {
+    "city": "Tulsa",
+    "citySlug": "tulsa",
+    "state": "Oklahoma",
+    "priority": 55,
+    "status": "pending"
+  },
+  {
+    "city": "Santa Fe",
+    "citySlug": "santa-fe",
+    "state": "New Mexico",
+    "priority": 56,
+    "status": "pending"
+  },
+  {
+    "city": "Albuquerque",
+    "citySlug": "albuquerque",
+    "state": "New Mexico",
+    "priority": 57,
+    "status": "pending"
+  },
+  {
+    "city": "Salt Lake City",
+    "citySlug": "salt-lake-city",
+    "state": "Utah",
+    "priority": 58,
+    "status": "pending"
+  },
+  {
+    "city": "Park City",
+    "citySlug": "park-city",
+    "state": "Utah",
+    "priority": 59,
+    "status": "pending"
+  },
+  {
+    "city": "Boise",
+    "citySlug": "boise",
+    "state": "Idaho",
+    "priority": 60,
+    "status": "pending"
+  },
+  {
+    "city": "Boulder",
+    "citySlug": "boulder",
+    "state": "Colorado",
+    "priority": 61,
+    "status": "pending"
+  },
+  {
+    "city": "Colorado Springs",
+    "citySlug": "colorado-springs",
+    "state": "Colorado",
+    "priority": 62,
+    "status": "pending"
+  },
+  {
+    "city": "Chattanooga",
+    "citySlug": "chattanooga",
+    "state": "Tennessee",
+    "priority": 63,
+    "status": "pending"
+  },
+  {
+    "city": "Knoxville",
+    "citySlug": "knoxville",
+    "state": "Tennessee",
+    "priority": 64,
+    "status": "pending"
+  },
+  {
+    "city": "Greenville",
+    "citySlug": "greenville",
+    "state": "South Carolina",
+    "priority": 65,
+    "status": "pending"
+  },
+  {
+    "city": "Durham",
+    "citySlug": "durham",
+    "state": "North Carolina",
+    "priority": 66,
+    "status": "pending"
+  },
+  {
+    "city": "Wilmington",
+    "citySlug": "wilmington",
+    "state": "North Carolina",
+    "priority": 67,
+    "status": "pending"
+  },
+  {
+    "city": "Pensacola",
+    "citySlug": "pensacola",
+    "state": "Florida",
+    "priority": 68,
+    "status": "pending"
+  },
+  {
+    "city": "Tallahassee",
+    "citySlug": "tallahassee",
+    "state": "Florida",
+    "priority": 69,
+    "status": "pending"
+  },
+  {
+    "city": "Fort Myers",
+    "citySlug": "fort-myers",
+    "state": "Florida",
+    "priority": 70,
+    "status": "pending"
+  },
+  {
+    "city": "Corpus Christi",
+    "citySlug": "corpus-christi",
+    "state": "Texas",
+    "priority": 71,
+    "status": "pending"
+  },
+  {
+    "city": "Galveston",
+    "citySlug": "galveston",
+    "state": "Texas",
+    "priority": 72,
+    "status": "pending"
+  },
+  {
+    "city": "Waco",
+    "citySlug": "waco",
+    "state": "Texas",
+    "priority": 73,
+    "status": "pending"
+  },
+  {
+    "city": "Fredericksburg",
+    "citySlug": "fredericksburg",
+    "state": "Texas",
+    "priority": 74,
+    "status": "pending"
+  },
+  {
+    "city": "Marfa",
+    "citySlug": "marfa",
+    "state": "Texas",
+    "priority": 75,
+    "status": "pending"
+  },
+  {
+    "city": "Bend",
+    "citySlug": "bend",
+    "state": "Oregon",
+    "priority": 76,
+    "status": "pending"
+  },
+  {
+    "city": "Portland",
+    "citySlug": "portland",
+    "state": "Oregon",
+    "priority": 77,
+    "status": "pending"
+  },
+  {
+    "city": "Seattle",
+    "citySlug": "seattle",
+    "state": "Washington",
+    "priority": 78,
+    "status": "pending"
+  },
+  {
+    "city": "Spokane",
+    "citySlug": "spokane",
+    "state": "Washington",
+    "priority": 79,
+    "status": "pending"
+  },
+  {
+    "city": "Reno",
+    "citySlug": "reno",
+    "state": "Nevada",
+    "priority": 80,
+    "status": "pending"
+  },
+  {
+    "city": "Providence",
+    "citySlug": "providence",
+    "state": "Rhode Island",
+    "priority": 81,
+    "status": "pending"
+  },
+  {
+    "city": "Portland",
+    "citySlug": "portland-me",
+    "state": "Maine",
+    "priority": 82,
+    "status": "pending"
+  },
+  {
+    "city": "Burlington",
+    "citySlug": "burlington",
+    "state": "Vermont",
+    "priority": 83,
+    "status": "pending"
+  },
+  {
+    "city": "Manchester",
+    "citySlug": "manchester",
+    "state": "New Hampshire",
+    "priority": 84,
+    "status": "pending"
+  },
+  {
+    "city": "Albany",
+    "citySlug": "albany",
+    "state": "New York",
+    "priority": 85,
+    "status": "pending"
+  },
+  {
+    "city": "Buffalo",
+    "citySlug": "buffalo",
+    "state": "New York",
+    "priority": 86,
+    "status": "pending"
+  },
+  {
+    "city": "Rochester",
+    "citySlug": "rochester",
+    "state": "New York",
+    "priority": 87,
+    "status": "pending"
+  },
+  {
+    "city": "Syracuse",
+    "citySlug": "syracuse",
+    "state": "New York",
+    "priority": 88,
+    "status": "pending"
+  },
+  {
+    "city": "Jacksonville",
+    "citySlug": "jacksonville",
+    "state": "Florida",
+    "priority": 89,
+    "status": "pending"
+  },
+  {
+    "city": "Ocala",
+    "citySlug": "ocala",
+    "state": "Florida",
+    "priority": 90,
+    "status": "pending"
+  },
+  {
+    "city": "Amarillo",
+    "citySlug": "amarillo",
+    "state": "Texas",
+    "priority": 91,
+    "status": "pending"
+  },
+  {
+    "city": "El Paso",
+    "citySlug": "el-paso",
+    "state": "Texas",
+    "priority": 92,
+    "status": "pending"
+  },
+  {
+    "city": "Little Rock",
+    "citySlug": "little-rock",
+    "state": "Arkansas",
+    "priority": 93,
+    "status": "pending"
+  },
+  {
+    "city": "Fayetteville",
+    "citySlug": "fayetteville",
+    "state": "Arkansas",
+    "priority": 94,
+    "status": "pending"
+  },
+  {
+    "city": "Des Moines",
+    "citySlug": "des-moines",
+    "state": "Iowa",
+    "priority": 95,
+    "status": "pending"
+  },
+  {
+    "city": "Sioux Falls",
+    "citySlug": "sioux-falls",
+    "state": "South Dakota",
+    "priority": 96,
+    "status": "pending"
+  },
+  {
+    "city": "Fargo",
+    "citySlug": "fargo",
+    "state": "North Dakota",
+    "priority": 97,
+    "status": "pending"
+  },
+  {
+    "city": "Cheyenne",
+    "citySlug": "cheyenne",
+    "state": "Wyoming",
+    "priority": 98,
+    "status": "pending"
+  },
+  {
+    "city": "Jackson Hole",
+    "citySlug": "jackson-hole",
+    "state": "Wyoming",
+    "priority": 99,
+    "status": "pending"
+  },
+  {
+    "city": "Anchorage",
+    "citySlug": "anchorage",
+    "state": "Alaska",
+    "priority": 100,
+    "status": "pending"
+  }
+]
