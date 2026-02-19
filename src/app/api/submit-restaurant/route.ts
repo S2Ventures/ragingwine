@@ -1,10 +1,10 @@
 import { NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabase';
+import { getSupabase } from '@/lib/supabase';
 
 export async function POST(request: Request) {
   try {
     const body = await request.json();
-    const { restaurantName, city, reason, contactName, contactEmail } = body;
+    const { restaurantName, city, website, reason, contactName, contactEmail } = body;
 
     // Validation
     if (!restaurantName || !city || !reason || !contactName || !contactEmail) {
@@ -22,9 +22,11 @@ export async function POST(request: Request) {
     }
 
     // Insert into Supabase
+    const supabase = getSupabase();
     const { error } = await supabase.from('restaurant_submissions').insert({
       restaurant_name: restaurantName.trim(),
       city: city.trim(),
+      website: website ? website.trim() : null,
       reason: reason.trim(),
       contact_name: contactName.trim(),
       contact_email: contactEmail.trim().toLowerCase(),
@@ -56,6 +58,7 @@ export async function POST(request: Request) {
               <h2>Restaurant Wants a Vibe-Check</h2>
               <p><strong>Restaurant:</strong> ${restaurantName}</p>
               <p><strong>City:</strong> ${city}</p>
+              ${website ? `<p><strong>Website:</strong> <a href="${website}">${website}</a></p>` : ''}
               <p><strong>Why we should review them:</strong> ${reason}</p>
               <hr />
               <p><strong>Contact:</strong> ${contactName}</p>
