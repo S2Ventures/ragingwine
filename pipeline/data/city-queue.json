@@ -56,7 +56,9 @@
     "citySlug": "miami",
     "state": "Florida",
     "priority": 4,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-20T06:00:52.084Z",
+    "reviewCount": 30
   },
   {
     "city": "Tampa",

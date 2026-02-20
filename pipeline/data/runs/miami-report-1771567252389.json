@@ -1,0 +1,192 @@
+{
+  "city": "Miami",
+  "citySlug": "miami",
+  "startedAt": "2026-02-20T05:53:19.372Z",
+  "completedAt": "2026-02-20T06:00:52.084Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 30,
+  "reviewsPublished": 30,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Barcelona Wine Bar Wynwood",
+      "slug": "barcelona-wine-bar-wynwood-miami",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Bouchon Bistro",
+      "slug": "bouchon-bistro-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Mastro's Ocean Club",
+      "slug": "mastros-ocean-club-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Pastis",
+      "slug": "pastis-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Queen Miami Beach",
+      "slug": "queen-miami-beach-miami",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Casa Juancho",
+      "slug": "casa-juancho-miami",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Baoli",
+      "slug": "baoli-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Casa Vigil Miami",
+      "slug": "casa-vigil-miami-miami",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Contessa Miami",
+      "slug": "contessa-miami-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Delilah",
+      "slug": "delilah-miami",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Osaka Nikkei Miami",
+      "slug": "osaka-nikkei-miami-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Zaytinya",
+      "slug": "zaytinya-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Torno Subito Miami",
+      "slug": "torno-subito-miami-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ariete",
+      "slug": "ariete-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Luca Osteria",
+      "slug": "luca-osteria-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Daniel's Miami",
+      "slug": "daniels-miami-miami",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Sra. Martinez",
+      "slug": "sra-martinez-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fontainebleau Miami Beach",
+      "slug": "fontainebleau-miami-beach-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Joia Beach",
+      "slug": "joia-beach-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Hakkasan Miami",
+      "slug": "hakkasan-miami-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Stubborn Seed",
+      "slug": "stubborn-seed-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Itamae",
+      "slug": "itamae-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Surf Club Restaurant",
+      "slug": "the-surf-club-restaurant-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "KK Hospitality Group",
+      "slug": "kk-hospitality-group-miami",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Klaw",
+      "slug": "klaw-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sexy Fish Miami",
+      "slug": "sexy-fish-miami-miami",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Commissary",
+      "slug": "commissary-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "LPM Restaurant & Bar",
+      "slug": "lpm-restaurant-and-bar-miami",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fooq's",
+      "slug": "fooqs-miami",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Pubbelly Wine Bar",
+      "slug": "pubbelly-wine-bar-miami",
+      "badge": "wildcard",
+      "published": true
+    }
+  ]
+}

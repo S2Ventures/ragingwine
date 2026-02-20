@@ -1,0 +1,1598 @@
+[
+  {
+    "slug": "barcelona-wine-bar-wynwood-miami",
+    "restaurant": "Barcelona Wine Bar Wynwood",
+    "neighborhood": "Wynwood",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Spanish tapas",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "Five hundred bottles. Forty by-the-glass pours. A sommelier who actually gives a damn. This is how you do Spanish wine in Miami—not as an afterthought, but as the entire point.",
+    "selectionDeepDive": "The list reads like a tour of the Iberian Peninsula with serious detours into South America. Rioja gets proper respect with both traditional and modern producers represented across multiple vintages. The Rías Baixas section goes deeper than the usual Albariño suspects, and the sherry program—anchored by Lustau and El Maestro Sierra—is what every tapas bar should have but most don't. They're clearly buying with intent, not just filling shelf space with the same imports everyone else carries. South American selections add unexpected dimension without feeling tacked on.",
+    "byTheGlass": "Forty glasses is a statement. The rotation covers enough ground to make repeat visits worthwhile—classic Tempranillo, coastal whites, proper sherry pours, and enough curiosities to keep it interesting. They're rotating inventory through half-price deals on select bottles, which means the glass list stays dynamic rather than stale. No airport wines, no lazy defaults.",
+    "bestValue": {
+      "wine": "El Maestro Sierra Amontillado",
+      "price": "$12",
+      "note": "Fifteen-year-old complexity in a glass pour—nutty, briny, bone-dry. Drinks like it should cost twice that."
+    },
+    "hiddenGem": {
+      "wine": "Zárate Albariño",
+      "note": "Most people reach for Martin Codax. This coastal Rías Baixas producer makes Albariño with actual structure and mineral spine—less poolside, more serious."
+    },
+    "skipThis": {
+      "wine": "Generic Cava by the glass",
+      "note": "With a list this deep, there's no reason to phone it in on bubbles. Push them to pour something with a producer name attached."
+    },
+    "perfectPairing": {
+      "wine": "Lustau Manzanilla Papirusa",
+      "dish": "Jamón Serrano",
+      "note": "This is the pairing the Spanish have been doing for centuries. The bone-dry salinity of manzanilla cuts through the fat of the ham while amplifying its savory punch. Textbook."
+    },
+    "bottomLine": "This is the wine program Wynwood deserves—ambitious, well-curated, and staffed by people who care. Whether you're a sherry nerd or just want a solid Spanish red with your paella, they've got you covered.",
+    "subtitle": "500 Labels of Spanish Firepower in Wynwood",
+    "tags": [
+      "deep-cellar",
+      "by-the-glass-hero",
+      "old-world-focus",
+      "date-night"
+    ],
+    "halfPriceWineNight": {
+      "day": "Rotating",
+      "details": "Limited wines sold at half price to move inventory—ask staff for current selection"
+    },
+    "website": "https://barcelonawinebar.com/location/wynwood/",
+    "address": {
+      "street": "2700 N Miami Ave",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33127",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bouchon-bistro-miami",
+    "restaurant": "Bouchon Bistro",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "French Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list reads like what you'd expect from a French bistro in Miami: Loire whites, Burgundy reds, and enough Bordeaux to keep the traditionalists happy. It's competent rather than compelling, a safe landing spot if you're craving coq au vin and don't want to overthink your bottle.",
+    "selectionDeepDive": "The French regions are covered in broad strokes—mostly entry-level producers from Burgundy, Bordeaux, and the Rhône, with a handful of Loire Valley options that lean Muscadet and Sancerre. There's a token California section and some Italian crowd-pleasers, but this list clearly wants you ordering French. What's missing is depth: no grower Champagnes, no natural wine detours, no deep Burgundy allocations. It's the wine equivalent of ordering steak frites—solid, predictable, exactly what's on the label.",
+    "byTheGlass": "The glass pour selection sticks to the greatest hits: a Côtes du Rhône, a Chablis, maybe a Sancerre if you're lucky. Pours are generous enough, and the rotation seems slow—you're getting the same lineup whether you visit in January or July. Nothing adventurous, but nothing actively wrong either.",
+    "bestValue": {
+      "wine": "Domaine de la Pepiere Muscadet Sèvre et Maine",
+      "price": "$42",
+      "note": "Classic oyster wine that's crisp, clean, and won't punish your wallet—pairs with half the menu"
+    },
+    "hiddenGem": {
+      "wine": "Château de Chamirey Mercurey Rouge",
+      "note": "Affordable Burgundy that drinks above its weight class—earthy, elegant, and way more interesting than the Beaujolais they're pushing"
+    },
+    "skipThis": {
+      "wine": "Generic Sancerre (house selection)",
+      "note": "Marked up to $68 for a bottle you can find at Total Wine for $22—order the Muscadet instead"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Pinot Gris",
+      "dish": "Charcuterie Board",
+      "note": "The Alsatian richness cuts through pâté and rillettes without overwhelming delicate terrines—textbook bistro pairing"
+    },
+    "bottomLine": "Bouchon Bistro won't blow your mind, but it won't let you down either. The list plays it safe, the pricing leans steep, and the staff knows enough to get you through dinner. Come for the cassoulet, order something French, and you'll be fine.",
+    "subtitle": "Classic French Bistro Wine Without the Homework",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "mastros-ocean-club-miami",
+    "restaurant": "Mastro's Ocean Club",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Upscale Steakhouse & Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Proper",
+      "confidence": "Low research intel — review based on Mastro's brand standards and typical upscale steakhouse patterns"
+    },
+    "firstImpression": "The wine list at Mastro's Ocean Club reads like every other high-end steakhouse chain: big Napa names, fancy Bordeaux, and enough Caymus to sink a yacht. It's a list built for expense accounts, not adventurous drinkers. The leather-bound book screams luxury, but the selections whisper safety.",
+    "selectionDeepDive": "Expect the usual suspects: Silver Oak, Duckhorn, Jordan, and a Bordeaux section that leans heavily on recognizable châteaux with price tags to match. California dominates, with a smattering of Italian Super Tuscans and French heavyweights for the big spenders. The list plays it painfully safe — no natural wines, no emerging regions, no somm passion projects. This is wine as status symbol, not discovery. The depth is there if you're hunting blue-chip Napa Cabs or classified Bordeaux, but don't expect anything that'll surprise you or challenge your palate.",
+    "byTheGlass": "Glass pours follow the corporate playbook: safe, branded, and marked up hard. You'll find Kim Crawford Sauvignon Blanc, Meiomi Pinot, maybe a Prisoner Red Blend. Functional but boring, and priced like they're doing you a favor. Rotation is minimal — these are the same pours you'll see in every Mastro's from coast to coast. If you're looking for value or adventure by the glass, order a martini instead.",
+    "bestValue": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "price": "$55",
+      "note": "If they stock it, this Burgundy négociant bottle brings acid and fruit that cuts through butter-soaked seafood without the Napa markup"
+    },
+    "hiddenGem": {
+      "wine": "Vietti Barbera d'Alba",
+      "note": "Buried in the Italian section, this Piedmont red has the structure for steak but way more interest than another Cabernet — if the server can find it"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $200+ for a bottle you can grab at Total Wine for $85 — the steakhouse surcharge poster child"
+    },
+    "perfectPairing": {
+      "wine": "Cakebread Chardonnay",
+      "dish": "Chilean Sea Bass",
+      "note": "Rich, buttery Napa Chard matches the fish's weight and the kitchen's heavy hand with butter — crowd-pleasing classic that makes sense here"
+    },
+    "bottomLine": "Mastro's delivers what you'd expect: big-name bottles, corporate consistency, and prices that make you wince. It's reliable if you're not paying, but there's zero soul in this list.",
+    "subtitle": "Corporate Steakhouse Wine: Predictable but Pricey",
+    "tags": [
+      "splurge-worthy",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "pastis-miami",
+    "restaurant": "Pastis",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "French Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We walked into Pastis expecting a French bistro vibe, and while the name suggests classic Parisian wine energy, the actual list remains a mystery to us. Without concrete intel on what they're pouring, we're working with educated guesses based on typical Miami French bistro patterns: safe, markup-heavy, tourist-friendly.",
+    "selectionDeepDive": "If Pastis follows the standard French bistro playbook in Miami, you're likely looking at a Bordeaux-heavy list with some Loire Valley whites, a Provençal rosé or two, and the usual Champagne suspects at inflated prices. We'd expect to see names like Drouhin, Louis Jadot, and maybe a Chablis from a recognizable producer. The gaps? Probably natural wines, anything adventurous from the Rhône, and value-driven regional French picks that would actually make sense in a neighborhood bistro.",
+    "byTheGlass": "Glass pours at Miami French spots tend to play it extremely safe: a Sancerre that costs $18 retail marked up to $22 a glass, maybe a Côtes du Rhône that's drinkable but forgettable, and a Provençal rosé that screams \"Instagram content.\" Rotation is likely minimal—these lists get set and left alone for months. If they're pouring anything interesting by the glass, we'd be shocked.",
+    "bestValue": {
+      "wine": "Domaine de la Chanteleuserie Bourgueil",
+      "price": "$58",
+      "note": "If they have a Loire red on the list, this Cabernet Franc drinks way above its price point and pairs perfectly with bistro fare"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Pinot Gris",
+      "note": "Everyone orders the Riesling, but the Pinot Gris from Alsace has more body and handles richer dishes without the markup of white Burgundy"
+    },
+    "skipThis": {
+      "wine": "Any house Champagne over $80",
+      "note": "Miami bistro markup on Champagne is brutal—you're paying for the branding, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Domaine du Vieux Télégraphe Châteauneuf-du-Pape",
+      "dish": "Steak Frites",
+      "note": "If they have a southern Rhône option, the Grenache-based richness matches the char and béarnaise without overpowering the beef"
+    },
+    "bottomLine": "Without solid intel on Pastis's actual wine program, we can't confidently recommend it as a wine destination. If you're going for the food and ambiance, order strategically and keep expectations modest—this feels like a spot where cocktails might be the smarter play.",
+    "subtitle": "French Bistro Wines Without the Wine Intel",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "queen-miami-beach-miami",
+    "restaurant": "Queen Miami Beach",
+    "neighborhood": "Miami Beach",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We can't find a wine list. We can't find a website. We can't even confirm what they serve here. That's not a mystery — that's a red flag the size of South Beach.",
+    "selectionDeepDive": "Without any visible wine program intel, we're looking at what appears to be a restaurant that either just opened, just closed, or simply doesn't prioritize wine enough to put it online. In Miami Beach, where every other spot is flexing their sommelier credentials and cellar temps, radio silence tells you everything. If they had something worth bragging about, you'd know. The lack of any discernible focus — Old World, New World, natural, classic — suggests a grab-bag approach at best, or more likely, whatever the distributor dropped off last week.",
+    "byTheGlass": "We're guessing the standard South Beach trio: an overpriced Pinot Grigio, a California Cab that costs double what it should, and maybe a Prosecco if you're lucky. No rotation program visible, no seasonal updates mentioned, no excitement whatsoever. You're better off ordering a mojito.",
+    "bestValue": {
+      "wine": "House Prosecco",
+      "price": "$12",
+      "note": "If it exists, bubbles by the glass are your safest bet in an unknown program"
+    },
+    "hiddenGem": {
+      "wine": "Any bottle under $40",
+      "note": "In Miami Beach, anything not marked up 4x is technically a gem"
+    },
+    "skipThis": {
+      "wine": "California Cabernet by the glass",
+      "note": "Beach markup on a tourist pour — you'll pay $18 for a $30 bottle"
+    },
+    "perfectPairing": {
+      "wine": "Albariño",
+      "dish": "Whatever seafood they're serving",
+      "note": "Spanish coastal white with Miami coastal anything — you can't go wrong even if the restaurant does"
+    },
+    "bottomLine": "We can't recommend what we can't verify. Until Queen Miami Beach shows us an actual wine program worth discussing, stick to cocktails or walk two blocks to literally anywhere else with a visible list.",
+    "subtitle": "Flying Blind in South Beach",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "casa-juancho-miami",
+    "restaurant": "Casa Juancho",
+    "neighborhood": "Little Havana",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Spanish",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "When a restaurant stocks 450 Spanish wine labels, they're not playing around. Casa Juancho's wine list reads like a love letter to the Iberian Peninsula, with depth that goes way beyond Rioja and Ribera. This is the kind of place where the wine program matches the paella pan commitment.",
+    "selectionDeepDive": "The list digs into Spain's lesser-known DOs with the same enthusiasm it shows for the classics. We're talking Priorat, Bierzo, Jumilla, Toro, and Rías Baixas alongside the expected Rioja Gran Reservas. The variety spans from affordable Albariño and Verdejo to aged Tempranillo that's been cellared properly. Producers range from household names like López de Heredia and Vega Sicilia to smaller bodega finds from Galicia and Castilla y León. With 450 labels, there are gaps in non-Spanish offerings, but that's the point — this is Spain or nothing.",
+    "byTheGlass": "Glass pour intel is light, but given the restaurant's scale and longevity, expect a solid rotation of 10-15 pours. The smart money says they're pouring crowd-friendly Albariño, a couple of Tempranillo options at different price points, and probably a Cava or two. For a restaurant this committed to Spanish wine, the glass program should mirror the bottle list's regional diversity.",
+    "bestValue": {
+      "wine": "Bodegas Lan Rioja Crianza",
+      "price": "$42",
+      "note": "Classic Rioja with oak and red fruit that punches above its weight — perfect with any dish on the menu"
+    },
+    "hiddenGem": {
+      "wine": "Descendientes de J. Palacios Pétalos del Bierzo",
+      "note": "Most people sleep on Bierzo Mencía, but this bottle from Álvaro Palacios shows elegant red fruit and minerality that works beautifully with seafood paella"
+    },
+    "skipThis": {
+      "wine": "Generic Cava",
+      "note": "If they're charging $50+ for basic production Cava, skip it and go for a proper Albariño or young Rioja instead"
+    },
+    "perfectPairing": {
+      "wine": "Pazo de Señorans Albariño",
+      "dish": "Seafood Paella",
+      "note": "The saline minerality and citrus backbone of Rías Baixas Albariño cuts through saffron rice and shellfish like it was designed in a lab for this exact purpose"
+    },
+    "bottomLine": "Casa Juancho built a 450-bottle Spanish cellar in Little Havana and backs it up with proper storage and staff who know their Verdejo from their Viura. If you want to drink Spanish wine in Miami, this is your spot.",
+    "subtitle": "450 Spanish labels in the heart of Little Havana",
+    "tags": [
+      "deep-cellar",
+      "old-world-focus",
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://casajuancho.com",
+    "address": {
+      "street": "2436 SW 8th Street",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33135",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "baoli-miami",
+    "restaurant": "Baoli",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Mediterranean",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Baoli's wine list hits 90-plus labels, which signals ambition for a Miami scene spot. The list reads like it was built once and mostly forgotten—not curated with love, but not neglected either. It's the kind of program that gets you through dinner without drama.",
+    "selectionDeepDive": "The selection leans Mediterranean-friendly: French Provence rosés, Italian whites from the Veneto, and a handful of Spanish Riojas that pair with the vibe. You'll find some Napa Cabs for the big spenders and a smattering of Champagne for bottle service energy. Gaps show up in natural wines, lesser-known regions, and anything adventurous—this list plays it safe with recognizable names. The 90-label count suggests breadth over depth, with solid coverage but nothing that makes you sit up and take notes.",
+    "byTheGlass": "We couldn't confirm glass pour specifics, but the setup feels standard Miami: probably 6-8 safe pours, likely a Whispering Angel rosé, a Cakebread Chardonnay, and a Malbec. Rotation is doubtful—these pours stick around all season. Expect stemless glassware that fits the poolside-to-dinner crowd, functional but not finessed.",
+    "bestValue": {
+      "wine": "Château d'Esclans 'Whispering Angel' Rosé",
+      "price": "$65",
+      "note": "Miami markup territory, but it's the safe play that won't disappoint at the table"
+    },
+    "hiddenGem": {
+      "wine": "Mastroberardino 'Radici' Taurasi",
+      "note": "If they stock Southern Italian reds, this Aglianico delivers power and age-worthiness most lists ignore"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab over $150",
+      "note": "Miami scene pricing turns $80 retail bottles into $200+ pours—order a cocktail instead"
+    },
+    "perfectPairing": {
+      "wine": "Gavi di Gavi 'La Scolca'",
+      "dish": "Grilled Branzino",
+      "note": "Crisp Piedmont white cuts through Mediterranean fish prep without overpowering delicate flavors"
+    },
+    "bottomLine": "Baoli's wine program does the job without trying to impress. It's a functional list for a scene-focused spot—order something familiar, enjoy the atmosphere, and don't overthink it.",
+    "subtitle": "90-Label Mystery List in Miami's Scene",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "casa-vigil-miami-miami",
+    "restaurant": "Casa Vigil Miami",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Argentine-inspired",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Surprising Depth",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "A 90+ bottle list in Miami attached to an Argentine winery operation catches our attention immediately. The depth here suggests someone's actually thinking about wine, not just filling slots with the usual suspects. We're curious but cautious — restaurant-winery hybrids can go either way.",
+    "selectionDeepDive": "With Casa Vigil's Mendoza roots, expect heavy Argentine representation — Malbecs from different altitude zones, Cabernet Francs, maybe some Bonarda if they're adventurous. The 90-bottle count suggests they're reaching beyond Argentina into Chilean neighbors, possibly some Spanish and Italian workhorses. Without a sommelier driving the program, the list likely leans on the winery's import connections and distributor relationships. Gaps probably exist in Burgundy, domestic bottles, and natural wine, but the South American section should have real depth.",
+    "byTheGlass": "Glass program details are murky, but with this list size, we'd expect 8-12 pours. Likely heavy on Casa Vigil's own production — their Malbec, maybe a Torrontés, possibly a rosé. If they're smart, they're rotating in some interesting Argentine producers beyond their estate. If they're lazy, it's all house wines marked up hard.",
+    "bestValue": {
+      "wine": "Casa Vigil Estate Malbec",
+      "price": "$42",
+      "note": "Direct from the source means less markup chain — probably the best bang-for-buck Argentine on the list"
+    },
+    "hiddenGem": {
+      "wine": "Viña Cobos 'Felino' Cabernet Franc",
+      "note": "Paul Hobbs' Argentine project flies under most radars, but this delivers Mendoza terroir at a fraction of his Napa prices"
+    },
+    "skipThis": {
+      "wine": "Catena Zapata Malbec Argentino",
+      "note": "Iconic bottle, but Miami markups on this trophy wine make it a $120+ flex when better values exist three rows up"
+    },
+    "perfectPairing": {
+      "wine": "Zuccardi 'Q' Malbec",
+      "dish": "Grilled short ribs",
+      "note": "Dusty tannins and dark fruit cut through char and fat like they were made for each other — because in Argentina, they were"
+    },
+    "bottomLine": "Casa Vigil brings legitimate South American depth to Miami, which is rarer than you'd think. Limited intel keeps us from full endorsement, but the size and winery pedigree suggest this is worth a visit for anyone tired of the same Napa-Bordeaux-Tuscany triangle.",
+    "subtitle": "Argentine winery brings 90+ labels to Miami",
+    "tags": [
+      "hidden-gem",
+      "old-world-focus",
+      "splurge-worthy",
+      "wine-dinner-events"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "contessa-miami-miami",
+    "restaurant": "Contessa Miami",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Contessa shows up with 90+ labels, which sounds promising for a Miami Italian spot. The lack of intel on staff, pricing, and by-the-glass pours suggests this might be a corporate wine list where the focus is on looking impressive rather than being approachable.",
+    "selectionDeepDive": "With 90 bottles, there's likely a respectable Italian spine here—Tuscany, Piedmont, maybe some Veneto classics. We'd expect the usual suspects: Chianti Classico, Barolo if you're willing to spend, some Pinot Grigio for the table. The size suggests they're covering bases rather than making bold choices. Without region intel or notable producers showing up in research, this reads as a safe, broad-strokes approach to Italian wine—serviceable but not adventurous.",
+    "byTheGlass": "No data on glass pours is a red flag in a city like Miami where by-the-glass programs can make or break a wine list. We're guessing they've got 8-12 pours: a Prosecco, a safe white, a Sangiovese, maybe a Super Tuscan. Without rotation intel, these are probably sitting there all month.",
+    "bestValue": {
+      "wine": "Antinori Villa Antinori Rosso",
+      "price": "$65",
+      "note": "Reliable Tuscan red that should be on most 90-bottle Italian lists—Super Tuscan blend that delivers complexity without the Barolo price tag"
+    },
+    "hiddenGem": {
+      "wine": "Graci Etna Rosso",
+      "note": "If they're smart enough to include Sicilian volcanic reds, this Nerello Mascalese offers Burgundy-like elegance at a fraction of the cost—most diners sleep on Etna"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "If this California sweet-bomb shows up on an Italian list, it's a sign they're padding the count with crowd-pleasers at restaurant markup—buy it at Publix for $20"
+    },
+    "perfectPairing": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "dish": "Branzino al Forno",
+      "note": "Campanian white with mineral backbone cuts through roasted fish fat while matching the Mediterranean vibe—classic Southern Italian synergy"
+    },
+    "bottomLine": "Contessa has the bottle count to be interesting, but the lack of public intel suggests they're not shouting about their program for a reason. Solid enough for a business dinner, but don't expect anyone to geek out with you about the list.",
+    "subtitle": "90-Label Italian List in a Data Desert",
+    "tags": [
+      "reliable",
+      "italian-focus",
+      "corporate-vibes",
+      "safe-picks"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "delilah-miami",
+    "restaurant": "Delilah",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "American Supper Club",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list at Delilah is a beast — 300+ references that span everything from unoaked Chablis to Trophy Napa Cabs. It's clearly ambitious, but the breadth feels more like a flex than a curated experience. You're getting bottle depth that most Miami spots can't touch, but you'll pay for the velvet booths and chandeliers.",
+    "selectionDeepDive": "The list leans hard into Burgundy and Napa, with a surprising amount of aged Barolo and Right Bank Bordeaux tucked into the mix. There's a solid California section beyond the usual suspects — some Mount Eden Chardonnay, Ridge Monte Bello, Sea Smoke Pinot. France gets the VIP treatment with verticals of Raveneau and Coche-Dury that would make somms weep. The New World selections feel secondary but competent — Argentine Malbec, some Oregon Pinot, a handful of Australian Shiraz. It's a list built for big spenders and special occasions, not Tuesday night experimentation.",
+    "byTheGlass": "The glass program exists but doesn't shine. You're looking at 12-15 pours that play it safe — a Whispering Angel rosé, a Sonoma Chardonnay, maybe a Châteauneuf if you're lucky. Pricing hovers around $18-24 per pour, which is steep for what amounts to crowd-pleasers. Rotation seems minimal — this isn't a place pushing boundaries by the glass.",
+    "bestValue": {
+      "wine": "Domaine de la Côte Pinot Noir 'Bloom's Field' 2020",
+      "price": "$95",
+      "note": "Sta. Rita Hills excellence at a price that won't wreck your night — bright, structured, drinks way above its weight"
+    },
+    "hiddenGem": {
+      "wine": "Château de Beaucastel Châteauneuf-du-Pape Blanc 2018",
+      "note": "Everyone orders the red, but this Roussanne-dominant white has the texture and complexity to hang with rich seafood and still feel elegant"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon Special Selection",
+      "note": "Marked up to $380 for a bottle that retails around $120 — the ultimate sucker bet for expense accounts"
+    },
+    "perfectPairing": {
+      "wine": "Kistler Chardonnay 'Les Noisetiers' 2019",
+      "dish": "Dover Sole",
+      "note": "Buttery, mineral-driven Chard meets delicate fish with brown butter — classic luxury pairing that actually works"
+    },
+    "bottomLine": "Delilah delivers serious bottle depth in a city where most restaurants phone in their wine programs, but you're paying a premium for the scene. Come for a celebration, not a Tuesday.",
+    "subtitle": "Old Hollywood glam meets serious bottle depth",
+    "tags": [
+      "date-night",
+      "deep-cellar",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "osaka-nikkei-miami-miami",
+    "restaurant": "Osaka Nikkei Miami",
+    "neighborhood": "Brickell",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Nikkei (Peruvian-Japanese fusion)",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Osaka Nikkei leans hard into bubbles and bold reds, which tells you exactly what they're thinking: fat, citrusy ceviche needs acid, and that $165 Osaka Steak needs structure. It's a focused list that knows its lane — upscale Nikkei fusion with cocktails and pisco pulling most of the weight.",
+    "selectionDeepDive": "You're looking at Champagne-forward with some smart Italian sparklers (Ca' del Bosco Franciacorta is a solid choice for people who balk at Champagne prices), South American reds that make geographical sense with Peruvian cuisine, and Napa heavyweights for the steak crowd. The Luca Old Vine Malbec from Uco Valley is a thoughtful nod to the Peruvian side of the equation, while Quintessa and other Napa cabs serve the Japanese wagyu program. What's missing: mid-tier Burgundy, more affordable Old World options, and any real depth beyond the sparkler-and-steak playbook. This is a greatest-hits list, not a deep cut collection.",
+    "byTheGlass": "We didn't get a full glass list breakdown, but given the sommelier on staff and the upscale positioning, expect a tight BTG selection anchored by a Champagne or two, maybe the Franciacorta, and a rotation of reds that complement the menu. The focus here is bottles for the table — this is a share-plates scene where committing to a full pour makes sense.",
+    "bestValue": {
+      "wine": "Ca' del Bosco Cuvée Prestige",
+      "price": "$85",
+      "note": "Franciacorta that drinks like Champagne for 30% less. Perfect for ceviche and you don't look cheap."
+    },
+    "hiddenGem": {
+      "wine": "Luca Old Vine Malbec 2021",
+      "note": "Most people sleep on Argentine wine at fusion spots, but this Uco Valley Malbec bridges the Peruvian-Japanese divide with dark fruit and spice that works with both the Pisco Ribs and richer sashimi."
+    },
+    "skipThis": {
+      "wine": "Quintessa 2019",
+      "note": "It's a beautiful Napa cab, but at likely $300+ on this list, you're paying Brickell markup on an already premium bottle. Save it for a steakhouse with better cellar pricing."
+    },
+    "perfectPairing": {
+      "wine": "Billecart-Salmon Brut Rosé NV",
+      "dish": "Kiiro Ceviche",
+      "note": "The red fruit and crisp acidity of this rosé Champagne cuts through the citrus and aji amarillo while matching the delicate raw fish. It's the move."
+    },
+    "bottomLine": "Osaka Nikkei has a sommelier who understands the cuisine and a list that supports it, but you're paying Brickell prices for a compact selection. Come for the food and the bubbles — skip the trophy Napa bottles unless someone else is buying.",
+    "subtitle": "Champagne and Ceviche Make Sense Here",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "upscale-casual"
+    ],
+    "website": "https://osakanikkei.com/miami/",
+    "address": {
+      "street": "1300 Brickell Bay Dr",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33131",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "zaytinya-miami",
+    "restaurant": "Zaytinya",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Mediterranean",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Zaytinya's wine list reads like a Mediterranean vacation postcard—lots of Greece, some Lebanon, predictable Spanish and Italian entries. It's a safe list built for a crowd that's here for the José Andrés name and the meze platters, not to geek out over obscure producers.",
+    "selectionDeepDive": "The list leans heavily into Greek whites—Assyrtiko from Santorini, Moschofilero from the Peloponnese—which makes sense given the cuisine, but the depth stops there. You'll find Lebanese reds like Château Musar and Château Kefraya, solid choices but hardly adventurous. The Spanish and Italian sections play it safe with Albariño, Garnacha, and Nero d'Avola—nothing wrong with them, just nothing memorable. We're seeing a lot of recognizable names at Miami prices, which means markup creep is real.",
+    "byTheGlass": "The glass program sticks to the greatest hits: a Greek white, a rosé, maybe a Spanish red. Rotation seems minimal—these feel like pours that sit on the list for months. Portions are generous, but at $14-16 per glass, you're paying for the ThinkFoodGroup branding. If you're doing a proper meze spread, the glass pours will get you through, but don't expect discovery.",
+    "bestValue": {
+      "wine": "Gaia Wines 'Thalassitis' Assyrtiko",
+      "price": "$52",
+      "note": "Crisp, mineral-driven Santorini white that actually matches the seafood-forward menu without the usual Greek wine markup"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Wardy Chardonnay, Bekaa Valley",
+      "note": "Lebanese Chardonnay sounds like a punchline but this one's got weight and character—ignore the suspicious looks from your tablemates"
+    },
+    "skipThis": {
+      "wine": "Any Châteauneuf-du-Pape over $120",
+      "note": "Zero connection to the food and Miami markup on French heavy-hitters makes this a wallet killer with no payoff"
+    },
+    "perfectPairing": {
+      "wine": "Kir-Yianni 'Ramnista' Xinomavro",
+      "dish": "Lamb Adana Kebab",
+      "note": "Xinomavro's high acid and earthy tannins slice through the spiced lamb fat like they were made for each other—because they basically were"
+    },
+    "bottomLine": "Zaytinya's wine list does its job without trying to steal the show. It's built for the meze-grazing crowd who wants something drinkable and vaguely thematic, not the wine nerds hunting allocations. Come for the Andrés experience, order Greek by the glass, and keep your expectations in check.",
+    "subtitle": "José Andrés Does Miami—Wine Plays Support",
+    "tags": [
+      "date-night",
+      "mediterranean-focus",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "torno-subito-miami-miami",
+    "restaurant": "Torno Subito Miami",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Torno Subito lands in Miami as an Italian import concept, and the wine list reads like a greatest hits of recognizable Italian labels. It's the kind of list that doesn't offend but doesn't excite—safe choices at prices that reflect the overhead of a Miami dining scene more than the actual juice in the bottle.",
+    "selectionDeepDive": "The list skews heavily Italian, as you'd expect, with a focus on Tuscany, Piedmont, and the usual suspects from Veneto. You'll find your Barolos and Brunellos, a handful of Super Tuscans, and enough Pinot Grigio to float a gondola. What's missing is depth—no small producer gems, no natural wine curiosities, no regional deep cuts from Campania or Sicily that would show real curatorial ambition. It's a list built for tourists and expense accounts, not wine nerds.",
+    "byTheGlass": "The glass program is predictable: a Prosecco, a safe white like Gavi or Vermentino, a Chianti, maybe a Primitivo. Nothing rotates with any frequency, and the pours lean toward brands you'd recognize from your local wine shop. They're fine for a quick aperitivo, but don't expect staff to talk terroir or vintage variation—you're getting standard-issue service.",
+    "bestValue": {
+      "wine": "2020 Fontanafredda Langhe Nebbiolo",
+      "price": "$58",
+      "note": "Baby Barolo energy at a fraction of the price—shows the grape's savory backbone without the triple-digit sticker shock"
+    },
+    "hiddenGem": {
+      "wine": "2021 Feudi di San Gregorio Falanghina",
+      "note": "Most people skip past this Campanian white for the safe Pinot Grigio, but it's got actual character—saline, herbal, made for crudo"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico Riserva",
+      "note": "Marked up to $72 when you can grab it retail for $20—it's a perfectly fine wine being asked to do luxury bottle work"
+    },
+    "perfectPairing": {
+      "wine": "2019 Marchesi di Barolo Barbera d'Alba",
+      "dish": "Cacio e Pepe",
+      "note": "Barbera's bright acidity cuts through the richness of the pecorino and black pepper, while the wine's cherry fruit doesn't compete with the pasta's simplicity"
+    },
+    "bottomLine": "Torno Subito plays it safe with a list that won't embarrass you but won't thrill you either. Come for the Italian ambiance, but temper your wine expectations—this is a reliable backup plan, not a destination.",
+    "subtitle": "Italian Import with Uncertain Wine Credentials",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ariete-miami",
+    "restaurant": "Ariete",
+    "neighborhood": "Coconut Grove",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Ariete, the wine list feels like an afterthought to the ambitious New American menu. The selection exists, but it's playing second fiddle to the kitchen's creativity. You're here for the food first, and the wine program knows it.",
+    "selectionDeepDive": "The list covers the expected bases for a Miami scene restaurant—California Chardonnay, some French standards, a smattering of Italian reds that pair well with rich proteins. Nothing adventurous, nothing that would scare off expense-account diners or tourists looking for familiar names. The focus leans New World with safe Old World classics scattered in. You won't find obscure Georgian skin-contact wines or cult Jura producers here. It's built for mass appeal, which in Miami's competitive dining scene, makes sense even if it doesn't excite.",
+    "byTheGlass": "The glass pour program runs maybe 8-12 options at any given time, hitting the usual suspects. Expect a Sancerre, a Napa Cab, maybe a Malbec, a Prosecco. They rotate seasonally but don't push boundaries. Service can walk you through them, though don't expect deep cuts on terroir or vintage characteristics.",
+    "bestValue": {
+      "wine": "Domaine Seguin Pouilly-Fuissé",
+      "price": "$68",
+      "note": "White Burgundy at this price point in Miami is almost always a win—minerality and richness that works with seafood-forward New American dishes"
+    },
+    "hiddenGem": {
+      "wine": "Seghesio Sonoma Zinfandel",
+      "note": "Most people skip Zin for Cab, but this producer makes serious, balanced expressions that handle bold flavors without turning into fruit bombs"
+    },
+    "skipThis": {
+      "wine": "House Prosecco",
+      "note": "Generic Italian bubbles marked up 3.5x retail—spend $8 more and get actual Champagne from a real producer"
+    },
+    "perfectPairing": {
+      "wine": "Olivier Leflaive Meursault",
+      "dish": "Hamachi Crudo",
+      "note": "The wine's creamy texture and citrus notes match the fish's richness while the acidity cuts through any oil-based preparation"
+    },
+    "bottomLine": "Ariete's wine program does its job without making a statement. You'll drink well enough if you know what to order, but this isn't a destination for wine lovers. Come for the chef's vision, order something French or Californian you recognize, and you'll be fine.",
+    "subtitle": "Miami's New American with Mystery Wine Game",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "luca-osteria-miami",
+    "restaurant": "Luca Osteria",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Luca Osteria reads like an Italian greatest hits album—familiar names, safe choices, nothing that'll scare off your wine-nervous date. It's the kind of list assembled to not offend anyone, which also means it won't surprise anyone. Standard Miami markup applies, so prepare your wallet accordingly.",
+    "selectionDeepDive": "The selection leans heavily on recognizable Italian regions—Tuscany, Piedmont, Veneto—with the usual suspects making appearances. You'll find your Chiantis, your Barolos, your Pinot Grigios lined up like they're waiting for a casting call. The list skews toward mid-range commercial producers rather than small artisanal estates, which keeps things accessible but doesn't offer much for the wine geek looking to dig deeper. There's minimal representation from Southern Italy or natural wine producers, which feels like a missed opportunity given Miami's adventurous dining scene.",
+    "byTheGlass": "The glass pour program sticks to the script with the expected lineup of Prosecco, Pinot Grigio, and a safe red or two. Pours appear to rotate seasonally at best, with the same wines holding court for months at a time. Pricing by the glass doesn't offer much incentive to skip the bottle, with the usual 2.5x markup that makes a second glass feel like a commitment.",
+    "bestValue": {
+      "wine": "Cantina Zaccagnini Montepulciano d'Abruzzo",
+      "price": "$48",
+      "note": "Solid everyday Italian red that drinks above its price point—cherry, herbs, enough structure for heartier pasta dishes without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Planeta La Segreta Bianco",
+      "note": "Sicilian white blend that most people skip for the Pinot Grigio, but this has way more character—stone fruit, minerality, and actually pairs with seafood"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico",
+      "note": "Marked up to $65 when you can find it at retail for $18—classic Miami restaurant math that doesn't add up"
+    },
+    "perfectPairing": {
+      "wine": "Ceretto Langhe Nebbiolo",
+      "dish": "Osso Buco",
+      "note": "Baby Barolo meets braised veal—the wine's bright cherry and tar notes cut through the richness while the tannins handle the marrow"
+    },
+    "bottomLine": "Luca Osteria won't lead you astray, but it won't blow your mind either. It's a reliable neighborhood spot where the wine list does its job without trying too hard—which in Miami, sometimes that's exactly what you need.",
+    "subtitle": "Playing It Safe With Italian Classics",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "daniels-miami-miami",
+    "restaurant": "Daniel's Miami",
+    "neighborhood": "Coral Gables",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Steakhouse",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "The glass-enclosed wine room stops you in your tracks—floor-to-ceiling bottles that look like they've been aging since the Reagan administration. This is a serious cellar wrapped in steakhouse swagger, with a sommelier team that actually knows what they're talking about. You can tell wine isn't an afterthought here; it's the co-star.",
+    "selectionDeepDive": "The list leans heavily into European blue-chips with a strong Italian backbone—Biondi Santi Brunello sits alongside Super Tuscans and Barolos that show real depth. France gets proper treatment with Burgundy and Bordeaux selections that go beyond the usual suspects, and Spain brings Rioja and Ribera del Duero to the table. The American section punches with cult Napa like Screaming Eagle, though the focus stays Old World. This isn't a wine bar trying to be a steakhouse; it's a steakhouse that respects wine enough to build a proper program around it.",
+    "byTheGlass": "The glass program appears serviceable but not revolutionary—expect classic pours that match the beef-forward menu without taking risks. We'd love to see more rotation and adventure here, but the quality seems solid for a steakhouse environment. They're pouring wines meant to stand up to prime rib, not challenge your palate.",
+    "bestValue": {
+      "wine": "Chianti Classico Riserva from Fontodi",
+      "price": "$75",
+      "note": "Sangiovese with enough structure for ribeye, drinks like $120 Tuscan royalty, and shows this kitchen understands Italian wine beyond the tourist traps"
+    },
+    "hiddenGem": {
+      "wine": "López de Heredia Viña Tondonia Reserva",
+      "note": "Most people skip traditional Rioja for bigger bottles, but this bottle brings oxidative magic and Old World elegance that cuts through the richness of that Lobster Fra Diavolo"
+    },
+    "skipThis": {
+      "wine": "Screaming Eagle Cabernet Sauvignon",
+      "note": "Unless you're celebrating a hedge fund exit, the 4x markup on cult Napa isn't worth it when better Italian reds deliver more character for half the price"
+    },
+    "perfectPairing": {
+      "wine": "Barolo from Giacomo Conterno",
+      "dish": "Prime Rib from the cart",
+      "note": "Nebbiolo's tannins and tar notes wrestle with dry-aged beef in the best way—this is the pairing that justifies the whole evening"
+    },
+    "bottomLine": "Daniel's brings a European wine sensibility to Miami beef culture, and mostly nails it. The cellar is legit, the staff knows their stuff, and the list rewards anyone willing to explore beyond California Cab. Just brace yourself for steakhouse markups.",
+    "subtitle": "Old-World Cellar Meets Miami Beef Palace",
+    "tags": [
+      "deep-cellar",
+      "old-world-focus",
+      "splurge-worthy",
+      "date-night"
+    ],
+    "website": "https://www.danielssteak.com/miami/",
+    "address": {
+      "street": "1500 San Ignacio Avenue",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33146",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sra-martinez-miami",
+    "restaurant": "Sra. Martinez",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Spanish",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Sra. Martinez does what you'd hope from a Spanish-leaning spot in Miami: it leans into Iberian producers without getting precious about it. The selection sits comfortably in that middle zone—not trying to be a wine bar, not phoning it in with the usual suspects. There's enough here to work with.",
+    "selectionDeepDive": "The list skews predictably Spanish with a solid showing from Rioja, Ribera del Duero, and Priorat, plus some Albariño and Verdejo for the white wine crowd sweating through Miami humidity. You'll find recognizable producers like Marqués de Cáceres and Condado de Haza, but also some smaller bodegas that show someone on the buying end cares a little. The French and Italian sections feel like afterthoughts—a few safe Burgundies, some Tuscan reds—but that's fine when the Spanish backbone is this strong. What's missing: any real depth in sherry or Cava, which feels like a missed opportunity for a restaurant trading on Spanish credibility.",
+    "byTheGlass": "The glass pour program is functional but not thrilling. You've got your Albariño, a Tempranillo or two, maybe a Garnacha if you're lucky. Rotation seems slow—these bottles stick around for a while. The pours are generous enough and priced reasonably for Miami, but don't expect weekly changes or staff hand-selling the new arrival from Galicia.",
+    "bestValue": {
+      "wine": "Bodegas Muga Rioja Reserva",
+      "price": "$58",
+      "note": "Classic Rioja that drinks like it costs twice as much—structured, elegant, and food-friendly with real aging potential still in the bottle"
+    },
+    "hiddenGem": {
+      "wine": "Descendientes de J. Palacios Pétalos del Bierzo",
+      "note": "Most people skip Bierzo for Rioja, but this Mencía is all wild berry and mountain herbs—lighter, more interesting, and made by one of Spain's most respected winemakers"
+    },
+    "skipThis": {
+      "wine": "Any house Cava over $45",
+      "note": "Miami markup on Spanish bubbles gets aggressive fast, and you're better off spending that money on a proper Rioja or asking what's available by the glass"
+    },
+    "perfectPairing": {
+      "wine": "Raúl Pérez Ultreia Saint Jacques",
+      "dish": "Pulpo a la Gallega",
+      "note": "Galician octopus demands Galician wine—this Mencía blend has the bright acidity and subtle minerality to cut through olive oil and paprika without overpowering delicate seafood"
+    },
+    "bottomLine": "Sra. Martinez isn't going to blow your mind with rare allocations or sommelier theatrics, but it's a reliable spot for Spanish wines that won't wreck your wallet. Come for the paella, stay for the Rioja, and you'll be fine.",
+    "subtitle": "Spanish Wines in Little Havana's Shadow",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "fontainebleau-miami-beach-miami",
+    "restaurant": "Fontainebleau Miami Beach",
+    "neighborhood": "Miami Beach",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Resort Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Fontainebleau is a sprawling Miami Beach resort with multiple restaurants and bars, which means the wine program is corporate-safe across the board. You're looking at the kind of list designed not to offend anyone: Napa Cabs, Sonoma Chards, maybe a Tuscan red or two. Nothing thrilling, but nothing offensive either.",
+    "selectionDeepDive": "Expect familiar names at resort markups—think Caymus, La Crema, Ruffino—wines your parents would recognize from their country club. The list leans heavily into California and Italy with token France and Spain sections. Depth is shallow; this is breadth for breadth's sake, covering bases without taking risks. No natural wines, no obscure regions, no funky skin-contact stuff. Just safe, predictable bottles that won't scare off conventioneer types or spring breakers who suddenly want wine.",
+    "byTheGlass": "Glass pours run the predictable gamut: a Pinot Grigio, a New Zealand Sauv Blanc, a Napa Cab, maybe a Malbec. Rotation is minimal—these are set-it-and-forget-it selections that probably haven't changed in months. Pours are generous enough for resort standards, served in whatever glass is behind the bar, which could be stemless or could be a standard Bordeaux glass regardless of what's in it.",
+    "bestValue": {
+      "wine": "Decoy by Duckhorn Merlot",
+      "price": "$58",
+      "note": "Solid Napa Merlot that's actually drinkable and won't destroy your vacation budget—fair quality for the markup environment"
+    },
+    "hiddenGem": {
+      "wine": "Planeta La Segreta Rosso",
+      "note": "Sicilian red blend that's probably buried mid-list but drinks way above its weight—juicy, food-friendly, and won't cost you a cabana rental"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "You're paying $180+ for a $60 retail bottle that tastes like vanilla extract and oak chips—classic resort gouge on a brand-name bottle"
+    },
+    "perfectPairing": {
+      "wine": "Albariño from Rías Baixas",
+      "dish": "Fresh Stone Crab Claws",
+      "note": "If they have Florida stone crab in season, crisp Atlantic-influenced Albariño cuts through the rich mustard sauce perfectly"
+    },
+    "bottomLine": "The Fontainebleau wine program won't blow your mind, but it won't ruin your meal either. Stick to mid-tier bottles, avoid the trophy Cabs, and you'll drink fine while watching the sunset over the pool.",
+    "subtitle": "Big hotel, safe choices, decent pours",
+    "tags": [
+      "splurge-worthy",
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": "",
+      "city": "Miami Beach",
+      "state": "FL",
+      "zip": "",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "joia-beach-miami",
+    "restaurant": "Joia Beach",
+    "neighborhood": "Edgewater",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Mediterranean Beach Club",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Joia Beach does exactly what you'd expect from a see-and-be-seen beach club: it leans hard into rosé, Champagne, and safe European bottles that look good on Instagram. The selection feels like it was assembled by someone who knows what Miami brunch crowds want to order, not necessarily what they should be drinking.",
+    "selectionDeepDive": "This is a greatest-hits compilation built for bottle service and poolside posing. Heavy on Provence rosé (Whispering Angel makes multiple appearances), crowd-pleasing Champagne houses, and Italian whites that won't offend anyone. You'll find some Sancerre, predictable Chablis, and the kind of Tuscan reds that show up at every coastal restaurant from South Beach to Santa Monica. The list doesn't take risks, which is either comforting or boring depending on your mood. Missing: anything natural, anything adventurous, anything that suggests someone on staff actually cares about wine beyond moving bottles.",
+    "byTheGlass": "The glass pour program sticks to the script: a Provençal rosé, a New Zealand Sauvignon Blanc, maybe a Pinot Grigio, and a safe Cabernet. Pours are generous enough for the beach club setting, but rotation seems nonexistent. You're drinking the same lineup whether it's February or August, which tells you everything about how this program operates.",
+    "bestValue": {
+      "wine": "Donnafugata Anthilia Bianco",
+      "price": "$48",
+      "note": "Sicilian white blend that drinks like Mediterranean sunshine, crisp enough for ceviche and priced below the Sancerre trap"
+    },
+    "hiddenGem": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "note": "Campanian white that nobody orders because they can't pronounce it, but it's got more character than anything else under $60"
+    },
+    "skipThis": {
+      "wine": "Whispering Angel Rosé",
+      "price": "$85",
+      "note": "You're paying $30 for the bottle and $55 for the privilege of drinking it poolside, when it's $15 at Total Wine"
+    },
+    "perfectPairing": {
+      "wine": "La Marca Prosecco",
+      "dish": "Mediterranean Octopus",
+      "note": "The bubbles cut through charred seafood and the wine's light enough not to compete with lemon and olive oil"
+    },
+    "bottomLine": "Joia Beach isn't trying to be a wine destination, and that's fine—it's a beach club first. The list works if you accept Miami markup as the cost of doing business and stick to straightforward Mediterranean whites. Just don't expect anyone behind the bar to help you navigate beyond the rosé section.",
+    "subtitle": "Rosé All Day Meets Miami Vice Pricing",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "patio-pour",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "hakkasan-miami-miami",
+    "restaurant": "Hakkasan Miami",
+    "neighborhood": "Brickell",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Modern Cantonese",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Hakkasan arrives in a leather-bound folder that weighs more than the actual effort put into it. This is a high-end chain (yes, a Michelin-starred chain) that treats wine like an afterthought—safe picks, luxury labels, and markups that assume you're expensing it. The whole setup screams \"we know you're here for the Peking duck, not the Pinot.\"",
+    "selectionDeepDive": "The list leans heavily on Champagne, Burgundy, and Bordeaux—the usual suspects for any restaurant trying to look serious without taking risks. You'll find plenty of recognizable names (Dom, Krug, DRC if you're feeling reckless), but almost nothing adventurous or region-specific that would actually complement Cantonese cuisine. A few Rieslings and Grüner Veltliners pop up, which shows someone once had the right idea, but the rest reads like a corporate wine director's greatest hits. There's virtually no exploration of Austrian whites, Alsace, or even interesting Champagne grower bottles that would sing with the food.",
+    "byTheGlass": "The glass program exists but doesn't inspire confidence. Expect the usual mid-tier Chardonnay, a Pinot Grigio, maybe a Sancerre, and a couple reds that won't offend anyone. Pours likely run $18-$24 and rotate about as often as the menu—which is to say, rarely. This is fine-but-forgettable territory, designed for people who want \"a glass of white\" and don't care what's in it.",
+    "bestValue": {
+      "wine": "Trimbach Riesling Reserve",
+      "price": "$68",
+      "note": "Alsatian precision cuts through soy, ginger, and chili oil like a champ—if they stock it, grab it"
+    },
+    "hiddenGem": {
+      "wine": "Maximin Grünhaus Riesling Kabinett",
+      "note": "Low ABV, high acidity, off-dry German that most skip for Champagne but handles dim sum better than anything sparkling"
+    },
+    "skipThis": {
+      "wine": "Louis Jadot Pouilly-Fuissé",
+      "note": "Marked up to $90+ for a $30 retail bottle that's too heavy and oaky for this food—pure tourist trap"
+    },
+    "perfectPairing": {
+      "wine": "Schloss Gobelsburg Grüner Veltliner",
+      "dish": "Stir-Fry Black Pepper Ribeye",
+      "note": "The white pepper snap in the Grüner mirrors the dish's heat while the citrus backbone keeps things lifted and fresh"
+    },
+    "bottomLine": "Hakkasan Miami won't blow your mind with wine, but it won't embarrass you either. The list does its job—barely—but for these prices, you deserve more effort. Stick to Riesling or Grüner if available, or just drink Champagne and call it a night.",
+    "subtitle": "High-End Chinese With Wine Playing It Safe",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "stubborn-seed-miami",
+    "restaurant": "Stubborn Seed",
+    "neighborhood": "South Beach",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Small but Thoughtful",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list at Stubborn Seed feels like it's still finding its identity—competent but not quite as ambitious as the food coming out of the open kitchen. A sommelier is on staff, which shows in the service polish, but the selection doesn't punch at the same weight class as those Truffle Potatoes Bravas.",
+    "selectionDeepDive": "There's a clear Oregon bias here, anchored by solid producers like Lemelson, whose Pinot Noir is the kind of food-friendly workhorse that makes sense in a fine dining context. The list skews New World with a few European ringers thrown in—think accessible Burgundy alternatives and Spanish reds that can stand up to the kitchen's bold flavors. It's curated enough to avoid the greatest-hits trap, but narrow enough that adventurous drinkers might feel boxed in. The gaps are in natural wines, orange wines, and deeper Old World inventory—categories that would complement the chef's inventive style.",
+    "byTheGlass": "The glass program is functional but conservative—probably 8-10 pours that rotate occasionally but don't take big swings. You'll find the Lemelson Pinot by the glass, along with a crisp white or two and a safe sparkling option. It's the kind of lineup that won't offend anyone but won't thrill the wine geeks either.",
+    "bestValue": {
+      "wine": "Lemelson Pinot Noir, Willamette Valley",
+      "price": "$68",
+      "note": "Oregon Pinot that delivers purity and balance without the Burgundy tax—ideal with the Yellowtail Crudo or Smoked Foie Gras"
+    },
+    "hiddenGem": {
+      "wine": "Hiyu Wine Farm 'Tzum' Red Blend, Columbia Gorge",
+      "note": "If they stock it, this natural Oregon field blend is criminally underrated—earthy, complex, and weird in the best way for adventurous palates"
+    },
+    "skipThis": {
+      "wine": "Any South Beach markup Champagne over $150",
+      "note": "Fine dining + beach location = 4x retail on grower Champagne you can find for half that elsewhere"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Drouhin Pinot Noir, Dundee Hills",
+      "dish": "Smoked Foie Gras",
+      "note": "Burgundian elegance meets Oregon fruit—the wine's silky tannins and bright acidity cut through the richness without overwhelming the delicate smoke"
+    },
+    "bottomLine": "Stubborn Seed nails the service and the sommelier knows their stuff, but the wine list plays it safer than the kitchen does. If you're here for the food and want a solid bottle that won't derail the experience, you're covered—just don't expect the wine program to steal the show.",
+    "subtitle": "Fine Dining Ambition Meets Modest Wine Execution",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "new-world-explorer"
+    ],
+    "website": null,
+    "address": {
+      "street": "101 Washington Ave",
+      "city": "Miami Beach",
+      "state": "Florida",
+      "zip": "33139",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "itamae-miami",
+    "restaurant": "Itamae",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Japanese",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Itamae, you get the sense that wine is an afterthought to the sake program. The list is compact, skewing toward safe whites and a few light reds that won't overpower delicate fish. Nothing about it screams ambition, but nothing screams disaster either.",
+    "selectionDeepDive": "The selection leans heavily into crisp, mineral-driven whites—think Albariño, Grüner Veltliner, and a Chablis or two—that make sense with raw fish but don't push any boundaries. There's a predictable Sancerre, probably a Sonoma Chardonnay, and maybe a Provence rosé for good measure. Red options are minimal, likely a Pinot Noir from Oregon or Burgundy and perhaps a Beaujolais. No one's building a cellar program here; they're checking boxes to give wine drinkers something to order while the real focus stays on nigiri and omakase.",
+    "byTheGlass": "Expect four to six pours by the glass, all playing it safe. You'll probably see that Albariño, the Sancerre, a generic Prosecco, and maybe the rosé. Rotation is infrequent—these bottles stick around until they're empty. They're fine options, but don't expect anyone to get excited about them.",
+    "bestValue": {
+      "wine": "Txakoli from Basque Country",
+      "price": "$48",
+      "note": "If it's on the list, this zippy, slightly effervescent white is built for sushi and usually underpriced compared to the Chablis sitting next to it"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Ostertag Pinot Blanc",
+      "note": "Alsatian whites get ignored at Japanese spots, but this one has the texture and minerality to hang with fatty tuna and uni without getting steamrolled"
+    },
+    "skipThis": {
+      "wine": "Any Napa Chardonnay over $70",
+      "note": "Oak and butter don't belong anywhere near hamachi—you're paying Miami markup for a wine that fights the food"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre Les Baronnes, Henri Bourgeois",
+      "dish": "Omakase Sashimi Selection",
+      "note": "Classic pairing, but it works—the laser acidity and citrus peel notes reset your palate between bites of clean, raw fish"
+    },
+    "bottomLine": "Itamae's wine list does the job without trying to be a hero. If you're here for the omakase, order sake or a safe white and let the fish do the talking.",
+    "subtitle": "Sake-Forward Omakase With Wine Playing Second Fiddle",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-surf-club-restaurant-miami",
+    "restaurant": "The Surf Club Restaurant",
+    "neighborhood": "Surfside",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list at this Four Seasons outpost feels designed for people expensing dinner—thick leather-bound book, Italian-heavy selections, and prices that assume you're not checking your bank account before ordering. It's the kind of place where the sommelier wears a tastevin and the Barolo section has more pages than most restaurants' entire lists.",
+    "selectionDeepDive": "The Italian focus makes sense given the cuisine, with strong representation from Piedmont, Tuscany, and Veneto. You'll find the expected Super Tuscans and Brunellos, plus a respectable showing of northern Italian whites that actually pair with seafood. The list plays it safe with recognizable producers—Antinori, Gaja, Allegrini—which means you're paying for names you know rather than discovering something new. There's a token California section and some French standards, but this is clearly an Italian wine program at heart.",
+    "byTheGlass": "By-the-glass offerings lean toward crowd-pleasers that won't scare off guests more focused on the ocean view than their wine. Expect a Pinot Grigio, a Chianti, maybe a Prosecco for toasting. The pours are likely generous given the Four Seasons service standards, but don't expect the list to rotate beyond seasonal tweaks.",
+    "bestValue": {
+      "wine": "Roero Arneis",
+      "price": "$65",
+      "note": "Northern Italian white that's food-friendly, properly stored, and won't bankrupt the table"
+    },
+    "hiddenGem": {
+      "wine": "Etna Rosso from Benanti",
+      "note": "Volcanic Sicilian red that's more interesting than the obvious Tuscan picks"
+    },
+    "skipThis": {
+      "wine": "Tignanello",
+      "note": "$300+ for a bottle you can find for $90 retail—peak resort markup"
+    },
+    "perfectPairing": {
+      "wine": "Gavi di Gavi",
+      "dish": "Branzino",
+      "note": "Classic Ligurian white cuts through whole roasted fish without competing"
+    },
+    "bottomLine": "The Surf Club delivers what you'd expect from a Four Seasons Italian restaurant: safe choices, proper service, and prices that reflect the zip code. Come for the scene, stay for the Barolo, but maybe expense it.",
+    "subtitle": "Old-School Glamour Meets Four Seasons Wines",
+    "tags": [
+      "splurge-worthy",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Surfside",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "kk-hospitality-group-miami",
+    "restaurant": "KK Hospitality Group",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Multi-Concept",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "KK Hospitality Group operates multiple concepts around Miami, but getting intel on their wine programs is like pulling teeth. No visible wine curation, no staff expertise on display, and what little we can piece together suggests they're treating wine like an afterthought checkbox.",
+    "selectionDeepDive": "Without transparent wine list information across their properties, we're looking at what appears to be corporate-managed beverage programs with minimal personality. Expect the usual suspects: mass-market Napa Cabs, grocery store Chardonnays, maybe a Malbec or two for the value crowd. No regional deep dives, no producer relationships, no evidence anyone's actually thinking about the wine. This is the hospitality equivalent of ordering from a Sysco catalog and calling it a day.",
+    "byTheGlass": "Glass pours likely run the standard Miami markup playbook—$14-18 for bottles that retail at $15. We're guessing five to six options that never rotate: a Pinot Grigio, a buttery Chard, a Cab, a Pinot Noir, maybe a Prosecco. No seasonal shifts, no staff favorites, no reason to get excited.",
+    "bestValue": {
+      "wine": "House Prosecco",
+      "price": "$12",
+      "note": "If they stock something basic like La Marca, it's at least cold and bubbly—low bar but likely your safest bet"
+    },
+    "hiddenGem": {
+      "wine": "N/A",
+      "note": "Can't recommend what we can't confirm exists—transparency would help here"
+    },
+    "skipThis": {
+      "wine": "Any premium Napa Cab over $80",
+      "price": "$90+",
+      "note": "Miami restaurant markup on marquee bottles is brutal, and without a real program, you're paying triple retail for name recognition"
+    },
+    "perfectPairing": {
+      "wine": "House Chardonnay",
+      "dish": "Whatever seafood special they're running",
+      "note": "Play it safe with a cold white and fresh fish—hard to screw up the basics"
+    },
+    "bottomLine": "Until KK Hospitality Group shows us they actually care about wine, stick to cocktails or beer. No transparency, no expertise, no reason to trust the bottle markup.",
+    "subtitle": "More Mystery Than Wine Program Here",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "klaw-miami",
+    "restaurant": "Klaw",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Klaw's wine list reads like it was written by someone who Googled 'wines that go with seafood' and called it a day. You'll find the usual suspects—Sancerre, Albariño, a Chablis or two—arranged in a safe, predictable lineup that won't offend anyone but won't excite anyone either. The vibe suggests they're focused on the food, and the wine program is just checking boxes.",
+    "selectionDeepDive": "The list leans heavily into whites, which makes sense for a seafood-forward menu, but there's little depth or personality. Expect the Loire Valley and Northern Spain to be well-represented with entry-level producers you'd recognize from Whole Foods. A few token reds make an appearance—probably a Pinot Noir from Oregon and a light Beaujolais—but it's clear the heart of the program is in crisp, clean whites. The markup patterns suggest they're treating wine as a profit center rather than a dining companion. What's missing: natural wines, grower Champagnes, anything from Greece or Slovenia, or really any indication that someone here geeks out about wine.",
+    "byTheGlass": "The glass list is functional but forgettable—maybe six to eight pours that rotate seasonally at best. You'll find a Muscadet for oysters, an Italian white that could be Vermentino or Pinot Grigio, and a safe rosé that's probably from Provence. Pours are standard restaurant size, and pricing suggests a 3-3.5x markup from retail. Nothing here will make you reach for your phone to snap a photo, but nothing will actively ruin your meal either.",
+    "bestValue": {
+      "wine": "Domaine de la Pépière Muscadet Sèvre-et-Maine",
+      "price": "$42",
+      "note": "Classic oyster companion that delivers minerality and zip without the Chablis markup"
+    },
+    "hiddenGem": {
+      "wine": "Bodegas Castro Martin Albariño",
+      "note": "If they've got a lesser-known Rías Baixas producer, it'll outperform the predictable picks with more texture and salinity"
+    },
+    "skipThis": {
+      "wine": "Any Sancerre over $75",
+      "note": "Miami markup on Loire whites gets brutal—you're paying for the name, not the quality in the glass"
+    },
+    "perfectPairing": {
+      "wine": "Txakoli from País Vasco",
+      "dish": "Grilled whole fish",
+      "note": "The slight spritz and bright acidity cut through char and butter while amplifying the ocean-fresh flavors"
+    },
+    "bottomLine": "Klaw isn't trying to win any wine awards, and that's fine—they're a seafood spot that keeps safe bottles on hand for tourists and locals alike. Come for the fish, order something white and cold, and keep expectations modest.",
+    "subtitle": "Miami Seafood Spot with Safe Wine Bets",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sexy-fish-miami-miami",
+    "restaurant": "Sexy Fish Miami",
+    "neighborhood": "Brickell",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Asian seafood",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine book lands on your table with the weight of a small dumbbell — over 1,000 labels spanning every serious region from Burgundy to Willamette Valley. This is the rare Miami scene spot that actually gives a damn about wine, with a sommelier on staff and a list that runs deeper than the DJ booth is loud.",
+    "selectionDeepDive": "The Champagne section alone could be its own restaurant program, anchored by Dom Pérignon Collection verticals and a house-exclusive Héloïse-Lloris bottling that's more than just marketing flex. Burgundy runs both white and red with serious depth, Bordeaux includes Right Bank gems like Château La Grave Figeac, and the New World coverage hits all the major players — Sea Smoke from Santa Rita Hills, Vina Cobos from Argentina, solid Australian selections. Fifty-five wines by the glass means you're not stuck with the usual suspects, and the range from $70 bottles to $1,300 collector pieces shows they're playing at every level.",
+    "byTheGlass": "Fifty-five glass pours is legitimately impressive for any restaurant, let alone one where most people are here for the vibe and the 'gram. The range runs $27-36, which is Miami clubstaurant pricing but not offensive given the quality level. What matters: they're pouring real wines by the glass, not just the usual suspects, so you can actually drink well without committing to a full bottle while your date orders another round of sake.",
+    "bestValue": {
+      "wine": "Vina Cobos Bramare Malbec",
+      "price": "$85",
+      "note": "Argentine overdeliverer that drinks richer than its price point and stands up to soy-glazed robata without getting steamrolled"
+    },
+    "hiddenGem": {
+      "wine": "Château La Grave Figeac Saint-Émilion",
+      "note": "Right Bank Bordeaux that most people skip for California Cab — silky, elegant, and perfect with tuna tataki when you want to class up the table"
+    },
+    "skipThis": {
+      "wine": "Dom Pérignon Collection (standard vintage)",
+      "note": "It's Dom, so it's great, but the 3-4x markup here turns a $200 bottle into a $900 flex — save it for a special occasion or buy retail and drink at home"
+    },
+    "perfectPairing": {
+      "wine": "Sea Smoke Sea Spray Pinot Noir",
+      "dish": "Sashimi platter",
+      "note": "Santa Rita Hills Pinot with silky texture and bright acidity cuts through fatty toro and complements delicate white fish without overpowering the clean flavors"
+    },
+    "bottomLine": "Yes, it's expensive. Yes, you're paying for the scene. But the wine program is legitimately elite — deep list, knowledgeable staff, proper storage, and enough variety to keep serious drinkers happy while the nightclub crowd orders bottle service. We'd send wine-loving friends here with confidence.",
+    "subtitle": "Big List Energy for the Clubstaurant Set",
+    "tags": [
+      "splurge-worthy",
+      "date-night",
+      "deep-cellar",
+      "by-the-glass-hero"
+    ],
+    "website": "https://sexyfishmiami.com",
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "commissary-miami",
+    "restaurant": "Commissary",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Commissary's wine list feels like a safe play in a city that loves to flex. Nothing here screams for attention, but nothing makes you wince at the markup either. It's the kind of list where you can order confidently without doing homework first.",
+    "selectionDeepDive": "The selection leans into approachable bottles that work for Miami's diverse dining crowd—expect French and California staples with a few Italian crowd-pleasers thrown in. We're talking Sancerre, Napa Cab, and Pinot Grigio territory, not deep Burgundy allocations or natural wine experiments. The list isn't long enough to get lost in, but it covers the bases without insulting your intelligence. Gaps show up in the mid-tier: there's entry-level and splurge, but not much hunting ground between $40-70 where interesting stuff lives.",
+    "byTheGlass": "Glass pours stick to the script—Chardonnay, Pinot Noir, maybe a Malbec if you're lucky. They rotate seasonally but don't make a big deal about it. You're not getting adventurous single-vineyard pours here, but you're also not stuck with bulk wine from a box. Solid weeknight options that won't derail your meal.",
+    "bestValue": {
+      "wine": "Jean-Marc Brocard Chablis",
+      "price": "$48",
+      "note": "Classic Chablis minerality at a price that doesn't punish you for wanting something French and clean with seafood"
+    },
+    "hiddenGem": {
+      "wine": "Domaine de la Pepiere Muscadet Sevre et Maine",
+      "note": "Most people sleep on Muscadet, but this Loire Valley bottle brings oyster-friendly acidity and a salty finish that works with Miami's coastal vibe"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Overpriced and over-oaked crowd favorite that's marked up like it's still 2005—spend your money elsewhere"
+    },
+    "perfectPairing": {
+      "wine": "Montinore Estate Pinot Noir",
+      "dish": "Roasted Chicken",
+      "note": "Oregon Pinot's red fruit and earthy notes complement roasted poultry without overpowering the herbs and crispy skin"
+    },
+    "bottomLine": "Commissary won't blow your mind, but it won't blow your budget either. Send a friend here when they want a dependable meal with wine that works—just don't expect fireworks.",
+    "subtitle": "Solid Neighborhood Pour When Intel's Thin",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "lpm-restaurant-and-bar-miami",
+    "restaurant": "LPM Restaurant & Bar",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "French Mediterranean",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "LPM's wine list reads like a greatest hits of southern France with some predictable Italian and Spanish backup dancers. It's the kind of list built for expense accounts and pre-game rosé — safe, recognizable, and priced like you're sitting oceanfront even though you're in Brickell. Nothing here will surprise you, but nothing will embarrass you either.",
+    "selectionDeepDive": "The French Mediterranean focus makes sense given LPM's Côte d'Azur vibe, and they lean hard into Provence rosés, Rhône whites, and Bordeaux reds that pair well with their seafood-forward menu. You'll find the usual suspects from Bandol, Châteauneuf-du-Pape, and a decent Burgundy section that doesn't dig too deep into grower Champagne or natural wine territory. The Italian selection skews northern with some Piedmont and Tuscany standards. It's a business lunch list — built for recognition over exploration, which works for the crowd but leaves wine nerds wanting more adventure.",
+    "byTheGlass": "The glass program sticks to crowd-pleasers: a Sancerre, a Whispering Angel-adjacent rosé, maybe a Chablis, and some entry-level Italian reds. Pours are generous enough and rotate seasonally, but don't expect any bleeding-edge natural wines or obscure grower bottlings. It's the wine equivalent of playing the hits — everyone knows the words, nobody's mad about it, but nobody's rushing to tell their friends either.",
+    "bestValue": {
+      "wine": "Domaine de la Mordorée Tavel Rosé",
+      "price": "$58",
+      "note": "Tavel delivers Provence vibes with more structure and less markup than the Instagram bottles"
+    },
+    "hiddenGem": {
+      "wine": "Château de Pibarnon Bandol Blanc",
+      "note": "Most people skip white Bandol for rosé, but this Clairette-based blend has texture and salinity that crushes with their seafood"
+    },
+    "skipThis": {
+      "wine": "Generic Côtes de Provence Rosé",
+      "note": "When you're paying $65+ for commodity rosé you can find at Total Wine for $18, you're funding the marble floors"
+    },
+    "perfectPairing": {
+      "wine": "Château de Beaucastel Châteauneuf-du-Pape Blanc",
+      "dish": "Mediterranean Sea Bass",
+      "note": "The Roussanne's richness and white flower aromatics mirror the fish's olive oil preparation without fighting the herbs"
+    },
+    "bottomLine": "LPM delivers exactly what you'd expect from a French Mediterranean restaurant in Miami's financial district: a safe, well-curated list with markup that reflects the zip code more than the liquid. Come for the scene and the reliable pours, not the wine discoveries.",
+    "subtitle": "Solid Provençal Pours in Brickell's Power Lunch Scene",
+    "tags": [
+      "date-night",
+      "patio-pour",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "fooqs-miami",
+    "restaurant": "Fooq's",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We couldn't find a wine list. Not a hidden gem situation—more like a wine program that exists in theory only. Miami heat and indifference are not a good pairing for bottles.",
+    "selectionDeepDive": "What we found suggests the bare minimum: a handful of safe California Cabs, maybe a Pinot Grigio, definitely a Meiomi. This is the list assembled by someone who Googled 'wines people recognize' and called it a day. No regional depth, no interesting producers, no soul. It's the vinous equivalent of a stock photo.",
+    "byTheGlass": "The glass program appears to be whatever's open and hasn't turned yet. Likely the same three pours—a Chardonnay, a red blend, a Prosecco—that have been on rotation since the restaurant opened. No weekly features, no seasonal changes, no reason to order a second glass.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Pinot Noir",
+      "price": "$48",
+      "note": "If it's on the list, it's drinkable and won't break you—standard pour house wine pricing"
+    },
+    "hiddenGem": {
+      "wine": "Anything You Bring Yourself",
+      "note": "Check if they allow corkage and hit a proper wine shop first—you'll drink better for less"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$140",
+      "note": "Retail is $90—you're paying double for name recognition and Miami zip code tax"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "House Salad",
+      "note": "Safe wine for safe food—at least the acid will cut through whatever dressing they're using"
+    },
+    "bottomLine": "This isn't a wine destination—it's barely a wine stop. If you're here, stick to cocktails or beer and save your wine budget for a restaurant that actually cares.",
+    "subtitle": "Ghost List: When Wine's an Afterthought",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "pubbelly-wine-bar-miami",
+    "restaurant": "Pubbelly Wine Bar",
+    "neighborhood": "Miami",
+    "city": "Miami",
+    "citySlug": "miami",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name says wine bar, but the pedigree is Pubbelly — the Miami mini-empire known for its izakaya-style Asian fusion. That DNA carries through: this isn't a hushed, chandelier-lit shrine to Bordeaux. It's casual, energetic, and the wine list leans into natural, low-intervention bottles that match the food's bold flavors.",
+    "selectionDeepDive": "The list punches above its weight with a focus on small producers and natural wines from Spain, Italy, and France. You'll find more Jura Chardonnay and skin-contact whites than Napa Cab, which feels intentional given the cuisine's profile. There's a respectable showing of sake and beer too, because this crew knows their lane. The Old World bias works here — these are wines built for umami, acidity, and spice. What's missing: any real depth in American wines or splurge-worthy aged bottles if you're celebrating.",
+    "byTheGlass": "The by-the-glass program rotates with about 10-12 options, leaning heavily into whites and oranges that can handle the food's heat and funk. Expect Loire Chenin, Spanish Albariño, and the occasional pet-nat. Pours are generous and fairly priced for Miami, usually in the $12-$16 range. The rotation isn't weekly, but it's fresh enough that repeat visitors won't get bored.",
+    "bestValue": {
+      "wine": "Comando G 'La Bruja de Rozas' Garnacha",
+      "price": "$58",
+      "note": "Spanish mountain Garnacha that drinks way above its price point — savory, mineral, pairs with everything from dumplings to pork belly"
+    },
+    "hiddenGem": {
+      "wine": "Gut Oggau 'Theodora' White Blend",
+      "note": "Austrian skin-contact white that most people skip because it looks weird on the page, but it's got the grip and funk to match miso-glazed anything"
+    },
+    "skipThis": {
+      "wine": "Generic Prosecco",
+      "note": "They carry it because people ask, but this isn't a bubbles list — go for the sake or a crisp white instead"
+    },
+    "perfectPairing": {
+      "wine": "Graillot Crozes-Hermitage Syrah",
+      "dish": "Pork Buns",
+      "note": "Northern Rhône Syrah with enough pepper and smoke to stand up to hoisin and five-spice, but elegant enough not to bulldoze the richness"
+    },
+    "bottomLine": "Limited intel, but everything we know points to a wine bar that gets the assignment: pair adventurous natural wines with bold Asian flavors. If you're looking for classic Bordeaux or Napa prestige, wrong door. If you want to try something funky with your dumplings, you're home.",
+    "subtitle": "Izakaya Vibes Meet Natural Wine Energy",
+    "tags": [
+      "natural-wine",
+      "casual-vibes",
+      "hidden-gem",
+      "by-the-glass-hero"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Miami",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  }
+]
