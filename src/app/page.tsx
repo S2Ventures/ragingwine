@@ -143,7 +143,14 @@ export default async function Home() {
           <div className="text-center mb-10">
             <h2 className="text-2xl font-bold text-brand-dark">Explore by City</h2>
             <p className="text-gray-500 text-sm mt-2">
-              Nine cities and counting. Asheville, New Orleans, and Savannah coming soon.
+              {(() => {
+                const comingSoonCities = cities.filter(c => c.comingSoon);
+                const activeCities = cities.filter(c => !c.comingSoon);
+                if (comingSoonCities.length > 0) {
+                  return `${activeCities.length} cities and counting. ${comingSoonCities.map(c => c.name).join(', ')} coming soon.`;
+                }
+                return `${cities.length} cities and counting.`;
+              })()}
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
 import './globals.css';
-import Header from '@/components/Header';
+import HeaderServer from '@/components/HeaderServer';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
@@ -21,7 +21,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body className="min-h-screen flex flex-col">
-        <Header />
+        <HeaderServer />
         <main className="flex-1">{children}</main>
         <Footer />
         <Script id="chatbase-widget" strategy="lazyOnload">

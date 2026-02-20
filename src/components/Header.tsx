@@ -3,18 +3,11 @@
 import { useState, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import Logo from './Logo';
+import type { City } from '@/lib/types';
 
-const cityItems = [
-  { label: 'Atlanta', href: '/cities/atlanta' },
-  { label: 'Blue Ridge', href: '/cities/blue-ridge' },
-  { label: 'Charleston', href: '/cities/charleston' },
-  { label: 'Clayton', href: '/cities/clayton' },
-  { label: 'Greenville', href: '/cities/greenville' },
-  { label: 'Key West', href: '/cities/key-west' },
-  { label: 'New Orleans', href: '/cities/new-orleans' },
-  { label: 'Asheville', href: '/cities/asheville', comingSoon: true },
-  { label: 'Savannah', href: '/cities/savannah', comingSoon: true },
-];
+interface HeaderProps {
+  cities?: City[];
+}
 
 const navItems = [
   { label: 'Reviews', href: '/reviews' },
@@ -28,11 +21,25 @@ const navItems = [
   { label: 'About', href: '/about' },
 ];
 
-export default function Header() {
+export default function Header({ cities = [] }: HeaderProps) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [citiesOpen, setCitiesOpen] = useState(false);
   const [mobileCitiesOpen, setMobileCitiesOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+
+  // Build city nav items from Sanity data, sorted: active cities first (alpha), then comingSoon (alpha)
+  const cityItems = cities
+    .slice()
+    .sort((a, b) => {
+      if (a.comingSoon && !b.comingSoon) return 1;
+      if (!a.comingSoon && b.comingSoon) return -1;
+      return a.name.localeCompare(b.name);
+    })
+    .map(c => ({
+      label: c.name,
+      href: `/cities/${c.slug}`,
+      comingSoon: c.comingSoon || false,
+    }));
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
