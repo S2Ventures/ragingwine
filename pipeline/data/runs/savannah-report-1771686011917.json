@@ -1,0 +1,174 @@
+{
+  "city": "Savannah",
+  "citySlug": "savannah",
+  "startedAt": "2026-02-21T14:52:49.904Z",
+  "completedAt": "2026-02-21T15:00:10.490Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 27,
+  "reviewsPublished": 27,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Common Restaurant",
+      "slug": "common-restaurant-savannah",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "1540 Room at The DeSoto",
+      "slug": "1540-room-at-the-desoto-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Elizabeth on 37th",
+      "slug": "elizabeth-on-37th-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Local 11ten Food & Wine",
+      "slug": "local-11ten-food-and-wine-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Circa 1875",
+      "slug": "circa-1875-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cha Bella",
+      "slug": "cha-bella-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Noble Fare",
+      "slug": "noble-fare-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ruth's Chris Steak House - Savannah",
+      "slug": "ruths-chris-steak-house-savannah-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Fitzroy",
+      "slug": "the-fitzroy-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Chart House Restaurant - Savannah",
+      "slug": "chart-house-restaurant-savannah-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Corleone's Trattoria",
+      "slug": "corleones-trattoria-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Emporium Kitchen & Wine Market",
+      "slug": "the-emporium-kitchen-and-wine-market-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sobremesa",
+      "slug": "sobremesa-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Alligator Soul",
+      "slug": "alligator-soul-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Husk Savannah",
+      "slug": "husk-savannah-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fleet Street Kitchen",
+      "slug": "fleet-street-kitchen-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Grey",
+      "slug": "the-grey-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Henrys",
+      "slug": "henrys-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cotton & Rye",
+      "slug": "cotton-and-rye-savannah",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "The Collins Quarter",
+      "slug": "the-collins-quarter-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bar Julian at Thompson Savannah",
+      "slug": "bar-julian-at-thompson-savannah-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Westin Savannah Harbor Golf Resort & Spa - River Concourse",
+      "slug": "westin-savannah-harbor-golf-resort-and-spa-river-concourse-savannah",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Vic's on the River",
+      "slug": "vics-on-the-river-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Pacifico Italian Steakhouse",
+      "slug": "pacifico-italian-steakhouse-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Il Tartufo",
+      "slug": "il-tartufo-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "La Dolce Vita",
+      "slug": "la-dolce-vita-savannah",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Pirates' House",
+      "slug": "the-pirates-house-savannah",
+      "badge": "lazy",
+      "published": true
+    }
+  ]
+}

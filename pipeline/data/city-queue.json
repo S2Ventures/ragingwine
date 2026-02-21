@@ -31,7 +31,9 @@
     "citySlug": "savannah",
     "state": "Georgia",
     "priority": 1,
-    "status": "failed"
+    "status": "completed",
+    "lastRunAt": "2026-02-21T15:00:10.490Z",
+    "reviewCount": 27
   },
   {
     "city": "Asheville",

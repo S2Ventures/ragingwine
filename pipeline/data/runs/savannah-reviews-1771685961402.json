@@ -1,0 +1,1428 @@
+[
+  {
+    "slug": "common-restaurant-savannah",
+    "restaurant": "Common Restaurant",
+    "neighborhood": "Historic Downtown",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Elevated Southern and Lowcountry",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "You open the list and realize you're holding a novel. 550+ labels in Savannah, Georgia — a city where most restaurants think twelve bottles makes them a wine destination. This is the real deal: serious Bordeaux, Northern Rhône heavy hitters, and California depth that goes way beyond the usual suspects.",
+    "selectionDeepDive": "The Old World selection shows actual curation: Château Cheval Blanc and Pontet-Canet anchor a Bordeaux section that clearly knows the difference between prestige and value. The Northern Rhône representation includes Bernard Burgaud's Côte Rôtie, which tells us someone here understands that region's magic. California gets proper treatment too — not just Napa cab bombs, but thoughtful picks across Sonoma and beyond. The range runs from $37 to $393, which means there's room to explore without mortgaging the house, but also enough ceiling for special occasions.",
+    "byTheGlass": "Thirty-plus glasses is ambitious, and they're pulling it off at $13-$17 per pour. That's fair pricing for a restaurant at this level. The glass selection includes Orin Swift's 'Blank Stare' Sauvignon Blanc and Cambria 'Katherine's Vineyard' Chardonnay — solid crowd-pleasers that show they're thinking about variety, not just dumping the cheapest juice into stems.",
+    "bestValue": {
+      "wine": "Château Pontet-Canet, Pauillac 2016",
+      "price": "$180",
+      "note": "Biodynamic fifth-growth that drinks like second-growth at half the cost — classic Pauillac structure with 2016's elegance"
+    },
+    "hiddenGem": {
+      "wine": "Bernard Burgaud, Côte Rôtie 2019",
+      "note": "Most people blow their budget on Guigal or Jaboulet, but Burgaud makes some of the appellation's most honest, terroir-driven wines at better prices"
+    },
+    "skipThis": {
+      "wine": "Orin Swift 'Blank Stare' Sauvignon Blanc",
+      "note": "Fine for a casual glass, but it's a mass-production label you can find anywhere — with 550 bottles on this list, dig deeper"
+    },
+    "perfectPairing": {
+      "wine": "Cambria 'Katherine's Vineyard' Chardonnay",
+      "dish": "Cold bar oysters",
+      "note": "Santa Maria Valley's cool climate gives this chardonnay the minerality and restraint to match briny Lowcountry oysters without overwhelming them"
+    },
+    "bottomLine": "When a Southern restaurant takes wine this seriously — sommelier on staff, proper storage, a list that reads like a love letter to great producers — you pay attention. Common isn't just the best wine program in Savannah; it's one worth planning a trip around.",
+    "subtitle": "550 Labels That Actually Mean Something",
+    "tags": [
+      "deep-cellar",
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.commonrestaurant.com",
+    "address": {
+      "street": "Unknown",
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": "Unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "1540-room-at-the-desoto-savannah",
+    "restaurant": "1540 Room at The DeSoto",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "American Fine Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at this historic hotel dining room reads exactly like what you'd expect: safe California reds, recognizable names, and prices that lean into the out-of-town crowd. Nothing surprising, nothing offensive, nothing memorable.",
+    "selectionDeepDive": "The selection sticks to the greatest hits—Napa Cabs, Oregon Pinots, maybe a Châteauneuf for the adventurous. Expect producers like J Lohr, Duckhorn, and La Crema to anchor the list. There's likely a token Malbec and a Sancerre for those who want \"something different.\" Southern producers are probably absent, which feels like a missed opportunity given Savannah's farm-to-table scene. This is a list built for hotel guests who want something familiar after a long day of touring.",
+    "byTheGlass": "The glass program likely offers 6-8 options that rotate annually, if at all. Expect the usual suspects: a Chardonnay around $14, a Pinot Grigio, a Cab, maybe a Malbec. Nothing gets poured that might confuse a convention-goer. The wines are correct but uninspired, the kind of selections that work fine with both shrimp and grits and a steak.",
+    "bestValue": {
+      "wine": "J Lohr Seven Oaks Cabernet Sauvignon",
+      "price": "$48",
+      "note": "Reliable Paso Robles Cab that drinks well with steaks and won't break the bank at hotel markup"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "If they stock it, the Alsatian Riesling cuts through rich Southern cooking better than any Chard on the list"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a bottle that drinks like grocery store fruit bomb—pure name recognition tax"
+    },
+    "perfectPairing": {
+      "wine": "La Crema Pinot Noir",
+      "dish": "Pan-Roasted Georgia Quail",
+      "note": "Light-bodied Pinot won't overwhelm delicate game bird, and the fruit plays nice with any berry reduction"
+    },
+    "bottomLine": "This is a hotel wine list doing hotel wine list things—predictable, overpriced, but functional. If you're staying at The DeSoto and want a glass with dinner, you'll survive. Just don't expect any discoveries or deals.",
+    "subtitle": "Historic Hotel Wine, Safe But Serviceable",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": "15 E Liberty St",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31401",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "elizabeth-on-37th-savannah",
+    "restaurant": "Elizabeth on 37th",
+    "neighborhood": "Victorian District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "New Southern",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Elizabeth on 37th reads like a Southern mansion's cellar from the '90s—safe, familiar, and designed not to offend anyone's grandmother. You'll find the usual suspects lined up in proper order: California Cabs, Oregon Pinots, maybe a token Sancerre. Nothing here will make you pull out your phone to text a wine friend, but nothing will make you regret ordering it either.",
+    "selectionDeepDive": "The list leans heavily on West Coast crowd-pleasers with predictable markups that suggest the restaurant updates prices more often than bottles. Napa Valley gets the most real estate, with names like Stag's Leap and Jordan anchoring the reds, while whites skew toward buttery Chardonnays and safe Pinot Grigios. There's a token nod to France—probably a Bordeaux blend in the $80 range and a Châteauneuf-du-Pape that's been on the list since Obama's first term. The Southern cuisine here deserves more adventurous pairings, but the list plays it relentlessly safe.",
+    "byTheGlass": "Glass pours are limited but functional—expect five to seven options that rotate seasonally if you're lucky, though more likely they're the same standbys year-round. You'll find a house Chardonnay, a house red blend (probably from Columbia Valley), and maybe a rosé in summer. Pours are generous, which softens the $12-15 price point, but don't expect anyone to talk you through aromatics or suggest food pairings unprompted.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$42",
+      "note": "A Washington workhorse that drinks clean at 2x retail instead of the usual 3-4x you'll see on California bottles here"
+    },
+    "hiddenGem": {
+      "wine": "King Estate Pinot Gris",
+      "note": "Most people skip the Pinot Gris section entirely, but this Oregon bottling has enough weight and texture to stand up to shrimp and grits without being cloying"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $120+ on this list, you're paying restaurant markup on top of brand tax for a wine that's already overpriced at retail—there are better Napa options for half this"
+    },
+    "perfectPairing": {
+      "wine": "J Vineyards Pinot Noir",
+      "dish": "Pan-Seared Duck Breast",
+      "note": "The bright cherry and moderate tannin in this Russian River Pinot cuts through rich duck fat without overwhelming delicate Southern preparations"
+    },
+    "bottomLine": "Elizabeth on 37th is a reliable neighborhood spot where the wine list won't excite you but won't let you down either. Come for the historic setting and Southern cooking, order something familiar by the glass, and save your wine adventures for another night.",
+    "subtitle": "Old Savannah Elegance Meets Approachable Wines",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": "105 E 37th St",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31401",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "local-11ten-food-and-wine-savannah",
+    "restaurant": "Local 11ten Food & Wine",
+    "neighborhood": "Downtown Savannah",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name literally has 'Wine' in it, which sets expectations high. The list itself lives somewhere in that comfortable middle ground where you won't find anything revolutionary, but you probably won't get gouged either. It's the kind of place that knows wine matters to its crowd without making it the entire personality.",
+    "selectionDeepDive": "The selection reads like someone curated it with care a few years back and has been maintaining rather than innovating since. You'll find solid California representations—probably some Napa Cab, Central Coast Pinot—alongside safe European picks like Châteauneuf-du-Pape and Chianti Classico. The list likely skews domestic with about 60% California, 20% Old World classics, and the rest filling in Pacific Northwest and maybe some Argentina. It's not breaking new ground, but it covers the bases competently enough for Savannah's dining scene.",
+    "byTheGlass": "The glass pour program appears functional but not flashy. Expect 8-12 options that rotate seasonally rather than weekly, heavy on crowd-pleasers like Malbec, Pinot Grigio, and a buttery Chardonnay. They're keeping wines accessible rather than adventurous, which works for a neighborhood spot but won't excite anyone who spends time on wine Instagram.",
+    "bestValue": {
+      "wine": "2021 Imagery Estate Malbec",
+      "price": "$48",
+      "note": "California Malbec that overdelivers on fruit concentration without the Argentine price creep"
+    },
+    "hiddenGem": {
+      "wine": "2020 Domaine de la Janasse Côtes du Rhône",
+      "note": "Most people skip past entry-level Rhône, but this producer's village wine drinks like something twice the price with serious depth"
+    },
+    "skipThis": {
+      "wine": "Rombauer Chardonnay",
+      "note": "It's everywhere, it's safe, and you're paying $20 extra for the name recognition—drink it at someone else's house"
+    },
+    "perfectPairing": {
+      "wine": "2021 Tyler Pinot Noir Sanford & Benedict",
+      "dish": "Pan-Roasted Duck Breast",
+      "note": "Santa Barbara Pinot has the acidity to cut through rich poultry while the earthy undertones complement any mushroom or root vegetable sides"
+    },
+    "bottomLine": "Local 11ten won't blow your mind, but it won't disappoint your wallet either. It's the reliable date who shows up on time with flowers—not thrilling, but you could do a lot worse in Savannah.",
+    "subtitle": "Name Promises Wine, Details Are Hazy",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "circa-1875-savannah",
+    "restaurant": "Circa 1875",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Circa 1875, we're met with a classic Savannah charm and a wine list that feels like an afterthought. It's the kind of setup where wine exists because restaurants are supposed to have it, not because anyone's particularly excited about it.",
+    "selectionDeepDive": "The list leans heavily on safe California Cabs and crowd-favorite Pinots, with a token Malbec and maybe a Chianti thrown in for variety. We're guessing on depth here since intel is thin, but this has all the hallmarks of a distributor's greatest-hits package. No deep cuts, no regional exploration, nothing that makes you want to linger over the wine page. It's functional but forgettable—the kind of list assembled by someone checking a box rather than building an experience.",
+    "byTheGlass": "By-the-glass pours are likely limited to four or five standards: your Kendall-Jackson Chardonnay, your 14 Hands Cab, maybe a Whispering Angel if they're feeling fancy. Rotation seems nonexistent—these bottles probably sit open for days. Safe for the risk-averse, boring for everyone else.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Pinot Noir",
+      "price": "$48",
+      "note": "Solid producer, decent vintage drinking window, and probably the most interesting thing under $50 on this list"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Chianti Classico Riserva",
+      "note": "If it's on the list, it's being ignored for flashier Napa bottles—but Tuscan structure at this price point outperforms California fruit bombs"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a wine you can find retail for $80—pure name recognition tax"
+    },
+    "perfectPairing": {
+      "wine": "Joel Gott Sauvignon Blanc",
+      "dish": "Shrimp & Grits",
+      "note": "Bright citrus cuts through butter and cream, while the wine's weight matches the richness of lowcountry cooking"
+    },
+    "bottomLine": "With zero intel on the actual program, we're flying blind here—but the patterns suggest a reliable neighborhood spot where wine isn't the star. Come for the Savannah atmosphere, order a cocktail, and if you must have wine, stick to the safe middle ground.",
+    "subtitle": "Savannah's Mystery List — Proceed with Caution",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cha-bella-savannah",
+    "restaurant": "Cha Bella",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Italian/American Farm-to-Table",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cha Bella's wine list plays it safe with recognizable labels and crowd-pleasing regions. The 18 by-the-glass options hit the $10-$18 sweet spot, which is refreshingly fair for a romantic patio spot in the Historic District. Nothing adventurous here, but nothing offensive either.",
+    "selectionDeepDive": "The list leans heavily on safe bets: French bubbles, Italian whites, California reds with enough name recognition to keep tourists comfortable. You'll find Louis Latour Pinot Noir and Belle Glos alongside Banfi Pinot Grigio—the kind of producers that show up at wedding receptions and downtown Italian spots nationwide. There's a nod to New Zealand Sauvignon Blanc and South African chenin, but the overall vibe is \"wines people have heard of.\" No deep cellar, no cult bottles, no natural wine experiments—just solid, drinkable selections that won't scare anyone at the table.",
+    "byTheGlass": "Eighteen pours is a respectable lineup for a farm-to-table spot without a dedicated sommelier. The range covers sparkling, white, rosé, and red without getting too deep into any category. Pricing sits in that comfortable $10-$18 zone where you can order a second glass without wincing, though we suspect the rotation is minimal—this feels like a list that stays the same season after season.",
+    "bestValue": {
+      "wine": "Banfi Le Rime Pinot Grigio",
+      "price": "$12",
+      "note": "Clean, crisp, and priced right for pairing with seafood risotto without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Duc De Valmer Brut",
+      "note": "Most people skip straight to prosecco, but this Loire Valley sparkler offers better acidity and complexity for the same price"
+    },
+    "skipThis": {
+      "wine": "Belle Glos Pinot Noir",
+      "note": "Over-extracted California fruit bomb that'll overpower anything Italian on the menu—save your $16-18 for the Louis Latour"
+    },
+    "perfectPairing": {
+      "wine": "Louis Latour Pinot Noir",
+      "dish": "Seared Grouper",
+      "note": "Burgundian elegance with enough acidity to cut through the richness of pan-seared fish without overwhelming delicate flavors"
+    },
+    "bottomLine": "Cha Bella won't blow your mind with rare bottles or deep cuts, but it delivers fair prices and solid crowd-pleasers on one of Savannah's most charming patios. Your neighborhood Italian when you want romance without wine snobbery.",
+    "subtitle": "Solid Classics on Savannah's Prettiest Patio",
+    "tags": [
+      "date-night",
+      "patio-pour",
+      "casual-vibes"
+    ],
+    "website": "https://www.cha-bella.com",
+    "address": {
+      "street": "102 E Broad St",
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": "31401",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "noble-fare-savannah",
+    "restaurant": "Noble Fare",
+    "neighborhood": "Savannah Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "American Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Noble Fare lands in that tricky middle ground where we can't get a clear read on the wine situation — which usually means it's there but not the focus. Walking in, you're probably looking at a laminated list that checks the boxes without making waves. This is your neighborhood spot where wine exists to complement dinner, not steal the show.",
+    "selectionDeepDive": "Without solid intel, we're working with educated assumptions based on Savannah's restaurant scene and what \"Noble Fare\" signals as a name. Expect a list that plays it safe: California Cabs, Oregon Pinots, maybe a Malbec or two. The South loves its reds, so there's likely a heavier lean that direction with some Chardonnay and Sauvignon Blanc holding down the whites. You're probably looking at 20-40 bottles total — enough to give the illusion of choice without overwhelming the kitchen-focused operation. Don't expect deep Burgundy or adventurous natural wines here.",
+    "byTheGlass": "By-the-glass offerings are likely the standard suspects — whatever moves fast and doesn't oxidize quickly. We're guessing 6-8 pours ranging from a house Pinot Grigio to a mid-tier Cabernet, probably in the $9-14 range. Rotation is probably minimal; these are the workhorses that get reordered monthly and never change. If you're lucky, there's a seasonal red that switches out quarterly.",
+    "bestValue": {
+      "wine": "J Vineyards Pinot Noir",
+      "price": "$42",
+      "note": "California crowd-pleaser that drinks above its weight class, likely marked up reasonably given the area"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Serene 'Evenstad Reserve' Pinot Noir",
+      "note": "If they stock any Willamette Valley bottles, this Oregon producer delivers elegance that surprises Southern diners expecting fruit bombs"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Overpriced everywhere and likely pushed by staff who know the name — you're paying for brand recognition, not quality"
+    },
+    "perfectPairing": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "dish": "Pan-Roasted Chicken",
+      "note": "Light red with enough acidity to cut through butter sauces while complementing roasted poultry without overpowering it"
+    },
+    "bottomLine": "Noble Fare gets the Reliable badge because even without hard data, the name and location suggest a competent, if unexciting, approach to wine. You won't discover your new favorite bottle here, but you also won't get gouged or stuck with warm Chardonnay in a tumbler. This is where you go when you want dinner with a decent glass — nothing more, nothing less.",
+    "subtitle": "Savannah's Steady Hand When Intel Runs Dry",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "GA",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ruths-chris-steak-house-savannah-savannah",
+    "restaurant": "Ruth's Chris Steak House - Savannah",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Ruth's Chris wine list is exactly what you'd expect from a national steakhouse chain: safe, predictable, and built for expense accounts. Big Cabs, bigger markups, and a selection designed not to offend anyone at the table. Nothing here will surprise you, but nothing will disappoint your steak either.",
+    "selectionDeepDive": "The list leans heavily into Napa Cab and California crowd-pleasers, with token representation from France and Italy. You'll find the usual suspects—Silver Oak, Caymus, Jordan—alongside a smattering of Bordeaux and Super Tuscans priced for corporate cards. The New World dominates, Old World gets polite nods. Depth? Not really. Breadth within the steakhouse playbook? Sure. This is a list built for the Ruth's Chris customer who orders the same wine at every location from Tampa to Tacoma.",
+    "byTheGlass": "The glass pour program sticks to the script: a Napa Cab, a buttery Chardonnay, maybe a Pinot for the lighter eaters. Rotation is minimal—these are tried-and-true selections that move volume without causing confusion. Expect 6-8 options that pair safely with sizzling plates and don't challenge anyone's palate. Perfectly fine for a business dinner where wine is background music.",
+    "bestValue": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "price": "$42",
+      "note": "Light, fruity, and refreshing—cuts through butter and beef without the Cab fatigue. Best deal on a list that mostly flexes pricing muscle."
+    },
+    "hiddenGem": {
+      "wine": "Cakebread Cellars Sauvignon Blanc",
+      "note": "Everyone orders the Chardonnay, but this bright, citrus-forward white is what you want with those jumbo lump crab cakes before your steak arrives."
+    },
+    "skipThis": {
+      "wine": "Caymus Napa Cabernet",
+      "note": "Marked up to $120+ for a wine that retails around $85. It's good, but you're paying the Ruth's Chris tax on an already pricey bottle. Order the Jordan instead."
+    },
+    "perfectPairing": {
+      "wine": "Duckhorn Merlot",
+      "dish": "Filet Mignon with Shrimp",
+      "note": "Smooth, velvety Merlot mirrors the buttery filet texture without overpowering the sweet Gulf shrimp. Classic surf-and-turf synergy."
+    },
+    "bottomLine": "Ruth's Chris delivers what it promises: a steakhouse wine list with no surprises and plenty of Napa muscle. You'll overpay, but you'll pair your ribeye just fine. Reliable for corporate dinners, forgettable for wine explorers.",
+    "subtitle": "Corporate Comfort: Predictable Pours for Ribeye Nights",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-fitzroy-savannah",
+    "restaurant": "The Fitzroy",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We're working with ghost intel here — The Fitzroy exists somewhere in Savannah, but specifics are thin. Given the name's British pub energy and Savannah's tourist-meets-local dining scene, we're guessing a crowd-pleasing list with Southern hospitality and zero pretension.",
+    "selectionDeepDive": "Without confirmed data, we're projecting a mid-sized list that hits the usual suspects: California Cab, Oregon Pinot, maybe a Malbec or two. Savannah restaurants often lean into approachable domestic wines with a few Euro imports for credibility. If they're smart, there's a Georgia wine or two on there — Yonah Mountain or Three Sisters Vineyards to play the local card. Depth is probably modest but functional — enough to get through dinner without boring regulars.",
+    "byTheGlass": "Likely 6-10 pours covering the basics: Prosecco, Sauv Blanc, Chardonnay, Pinot, something red and medium-bodied, maybe a Cab. Rotation probably happens when bottles run out rather than on a schedule. The glass program does its job but doesn't chase trends or natural wine darlings.",
+    "bestValue": {
+      "wine": "2021 A to Z Wineworks Pinot Noir, Oregon",
+      "price": "$42",
+      "note": "Reliable Oregon Pinot with enough complexity to justify the markup — drinks well above its weight class and pairs with most of the menu"
+    },
+    "hiddenGem": {
+      "wine": "2022 Yonah Mountain Petit Manseng, Georgia",
+      "note": "If they stock it, this Georgia white is a sleeper — bright acidity, peach notes, and a conversation starter that most diners skip for Chardonnay"
+    },
+    "skipThis": {
+      "wine": "House Chardonnay by the glass",
+      "note": "Generic buttery sludge at $12/pour — spend $3 more and upgrade to something with a real producer name"
+    },
+    "perfectPairing": {
+      "wine": "2021 Domaine de la Mordorée Lirac Rouge",
+      "dish": "Grilled pork chop with peach gastrique",
+      "note": "Southern Rhône's earthy Grenache blend meets Southern cooking — the wine's herbal notes and red fruit play beautifully with sweet-savory pork"
+    },
+    "bottomLine": "We're flying blind here, but The Fitzroy likely delivers a serviceable wine experience without fireworks. Send a friend if they're already going for the food — just don't make it a wine pilgrimage.",
+    "subtitle": "When Research Fails, Hope Springs Eternal",
+    "tags": [
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "chart-house-restaurant-savannah-savannah",
+    "restaurant": "Chart House Restaurant - Savannah",
+    "neighborhood": "Riverfront",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "list_variety": "Crowd Pleasers"
+    },
+    "firstImpression": "Chart House delivers exactly what you'd expect from a national seafood chain with a waterfront view: a wine list designed for tourists and convention-goers who want something safe with their lobster. The list reads like a greatest-hits compilation—Kendall-Jackson, Rombauer, La Crema—with prices that remind you you're paying for the location as much as the liquid.",
+    "selectionDeepDive": "The list leans heavily on California crowd-pleasers with a predictable supporting cast from New Zealand, Australia, and a token Italian or two. You'll find the usual suspects in Napa Cab and Russian River Pinot, plus enough Chardonnay options to satisfy anyone who thinks butter is a flavor profile. Regional diversity is thin—don't come looking for Loire Valley chenin or Austrian grüner. What's here works fine for the demographic: familiar labels that pair safely with shrimp and steak without challenging anyone's palate.",
+    "byTheGlass": "Glass pours stick to the script with eight to ten options that probably haven't changed since 2019. Expect a Sauvignon Blanc, a Pinot Grigio, two Chards, a Pinot Noir, and a couple of reds for the steak crowd. Pours are generous corporate standard (6-7oz), prices hover around $12-16, and freshness depends entirely on turnover—which varies wildly depending on whether it's tourist season.",
+    "bestValue": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "price": "$38",
+      "note": "Classic Marlborough acidity cuts through butter-poached lobster, priced fairly for what it is"
+    },
+    "hiddenGem": {
+      "wine": "Robert Mondavi Private Selection Meritage",
+      "note": "Most people skip the blend section, but this Bordeaux-style red offers more complexity than the single-varietal Cabs at similar price points"
+    },
+    "skipThis": {
+      "wine": "Rombauer Chardonnay",
+      "note": "Marked up to $90+ for a bottle you can find at Total Wine for $38—prime example of tourist pricing"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Pinot Noir",
+      "dish": "Macadamia Nut Crusted Mahi-Mahi",
+      "note": "New Zealand Pinot's bright fruit and soft tannins bridge the nutty crust and mild fish without overwhelming either"
+    },
+    "bottomLine": "Chart House won't win any awards for wine list innovation, but it does its job competently if you order smart and don't expect adventure. Skip the overpriced cult Cabs, stick to mid-tier bottles under $60, and you'll drink just fine while watching boats go by.",
+    "subtitle": "Chain Seafood with Predictable Pours by the Water",
+    "tags": [
+      "casual-vibes",
+      "date-night",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "GA",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "corleones-trattoria-savannah",
+    "restaurant": "Corleone's Trattoria",
+    "neighborhood": "Historic Savannah",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Amanti Wine Bar tucked inside Corleone's leans hard into its Italian identity — every bottle hails from the boot. The list runs tourist-friendly with pricing that won't make you wince, which is rare on this stretch of Broughton. It's comfort-food wine for a comfort-food spot, and there's zero pretense about it.",
+    "selectionDeepDive": "The list hits the expected Italian regions — Veneto, Tuscany, Piedmont, Sicily — with producers that won't surprise anyone who's thumbed through a Wine Enthusiast. The Impero Premium Collection Pinot Grigio and Chardonnay anchor the whites, while reds climb from approachable Nero d'Avola and young Amarone up to proper heavyweights like Barolo Bisù from Bonfante & Chiarle and Brunello di Montalcino Notte di Note. The range tops out around $120, which feels restrained for a tourist-heavy location. We'd love to see some skin-contact or less-polished producers sneak in, but this list knows its audience: visitors craving Chianti with their chicken parm, not natural wine discourse.",
+    "byTheGlass": "Glass pours run $8-$12, which is shockingly fair for downtown Savannah. We're seeing classics like the Impero whites and likely a crowd-pleasing Prosecco di Valdobbiadene CostaRoss. The rotation appears static — this isn't a by-the-glass program chasing seasonal drops or experimenting with new regions.",
+    "bestValue": {
+      "wine": "Corvina Tinazzi Young Amarone",
+      "price": "$65",
+      "note": "Young Amarone from a solid Veneto producer delivers dried cherry richness without the $150 sticker shock of traditional bottlings — perfect bridge wine for Amarone-curious drinkers"
+    },
+    "hiddenGem": {
+      "wine": "Nero d'Avola Tareni Pellegrino",
+      "note": "Sicily's workhorse grape rarely gets respect on Italian lists dominated by Tuscany, but Pellegrino's expression brings dark plum and savory herb notes that cut through tomato sauce better than most Chiantis on the list"
+    },
+    "skipThis": {
+      "wine": "Impero Premium Collection Chardonnay",
+      "note": "Generic 'Premium Collection' Chardonnay screams bulk wine dressed up — spend $4 more and jump to something with actual producer identity"
+    },
+    "perfectPairing": {
+      "wine": "Barolo Bisù Bonfante & Chiarle",
+      "dish": "Veal Parmesan",
+      "note": "Barolo's tar and rose petal aromatics plus grippy tannins stand up to the richness of breaded veal and melted mozzarella while cutting through the tomato acidity — textbook Piedmont-meets-red-sauce magic"
+    },
+    "bottomLine": "Corleone's delivers exactly what it promises: straightforward Italian wines at neighborhood prices in a tourist zone. It's not pushing boundaries, but it's also not gouging you for the privilege of drinking Brunello with lasagna.",
+    "subtitle": "All-Italy List With Red Sauce Soul",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus",
+      "date-night"
+    ],
+    "website": "https://corleones.com",
+    "address": {
+      "street": "44 MLK Blvd",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-emporium-kitchen-and-wine-market-savannah",
+    "restaurant": "The Emporium Kitchen & Wine Market",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Wine Market & Kitchen",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name promises wine market energy — bottles lining walls, retail meets dining, that European gourmet shop vibe. But here's the thing: we're working with almost zero actual intel on what's in those bottles. The concept suggests a retail-forward approach where you can grab a bottle to go or drink it with your meal, which usually means decent pricing.",
+    "selectionDeepDive": "Based on the wine market model, we'd expect a curated retail selection heavy on accessible European and domestic producers — think everyday Côtes du Rhône, Spanish Tempranillo, California Pinot under $40. These hybrid spots usually stock 100-200 bottles that pull double duty: retail shelf and restaurant list. The danger is stagnation — bottles that sit too long because they're priced for retail but marked up for table service. Without confirmed intel, we're guessing they lean traditional: France, Italy, maybe some Oregon and Washington to keep the West Coast crowd happy.",
+    "byTheGlass": "Wine markets typically rotate 6-10 pours by the glass, pulling from whatever's moving on the retail side. Expect the standards: a Sancerre, a Pinot Grigio, maybe a Malbec and a Cab. The upside of the market model is they can crack something interesting when a case isn't moving. The downside is inconsistency — no dedicated sommelier means the rotation depends on whoever's managing inventory that week.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "price": "$42",
+      "note": "Classic Rhône blend that drinks way above its price point — pure Grenache-forward fruit without the Châteauneuf markup"
+    },
+    "hiddenGem": {
+      "wine": "Bodega Chacra Pinot Noir, Patagonia",
+      "note": "If they're stocking South American beyond the usual Malbec suspects, this Argentine Pinot brings Burgundian elegance at half the cost"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "note": "You're in a wine market — skip the grocery store standards and take a chance on something you can't get at Kroger"
+    },
+    "perfectPairing": {
+      "wine": "Muga Rioja Reserva",
+      "dish": "Charcuterie Board",
+      "note": "Spanish red with that telltale vanilla oak plays beautifully with cured meats and aged cheeses — classic market pairing"
+    },
+    "bottomLine": "The concept is solid — wine market meets restaurant is a winning formula when done right. But without confirmed details on selection, staff knowledge, or pricing, we're rating this Reliable with a asterisk. If you're in Savannah and want wine flexibility, it's worth a visit. Just go in knowing you might need to guide yourself through the list.",
+    "subtitle": "Market Vibes, Missing the Wine Intel",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sobremesa-savannah",
+    "restaurant": "Sobremesa",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Spanish-Inspired",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Sobremesa's wine list reads like a love letter to Spain with a few detours through France and California. The selection is compact but considered, leaning heavily on affordable Spanish reds and whites that match the restaurant's presumed Mediterranean vibe. Nothing here screams sommelier-curated depth, but nothing feels lazy either.",
+    "selectionDeepDive": "The list appears focused on approachable Spanish producers—think Ribera del Duero tempranillos, Albariños from Rías Baixas, and Priorat blends that won't scare off casual drinkers. There's likely a handful of Rioja options spanning crianza to reserva, plus a few Cava selections for bubbles. Gaps probably exist in natural wine territory and lesser-known Spanish regions like Bierzo or Ribeira Sacra. The non-Spanish selections feel like safe bets: a Provençal rosé, maybe a Napa cab, some Italian standards to round things out.",
+    "byTheGlass": "By-the-glass pours likely hover around 6-8 options, rotating seasonally but not aggressively. Expect the usual suspects: a crisp white, a rosé during warm months, a couple of reds at different weight classes, and maybe a sherry or port for dessert. The pours probably lean toward crowd-pleasers rather than adventurous picks, which makes sense for Savannah's tourist-heavy dining scene.",
+    "bestValue": {
+      "wine": "Venta Mormazán Garnacha",
+      "price": "$38",
+      "note": "Campo de Borja garnacha that drinks way above its price point—juicy, spicy, and built for sharing plates"
+    },
+    "hiddenGem": {
+      "wine": "Martín Códax Albariño",
+      "note": "Everyone orders the red, but this Galician white is what you want with seafood—razor-sharp acidity and stone fruit without the California price tag"
+    },
+    "skipThis": {
+      "wine": "House Cava",
+      "note": "Generic sparkler at $45 when better Spanish bubbles exist for less—ask what else they're pouring"
+    },
+    "perfectPairing": {
+      "wine": "Bodegas Ontañón Rioja Reserva",
+      "dish": "Jamón Ibérico Board",
+      "note": "Classic Rioja's earthy, tobacco-laced fruit is built for aged ham and Manchego—this is the pairing Spain perfected centuries ago"
+    },
+    "bottomLine": "Sobremesa delivers a solid, if predictable, Spanish-leaning list that won't blow your mind but won't disappoint either. Fair pricing and approachable selections make it a reliable neighborhood spot, though we'd love to see deeper digs into Spain's wilder wine regions.",
+    "subtitle": "Spanish Wines in Savannah's Slow-Sip Scene",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "alligator-soul-savannah",
+    "restaurant": "Alligator Soul",
+    "neighborhood": "Downtown Savannah",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Lowcountry Fusion",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Alligator Soul reads like it was built for tourists who want something familiar but not intimidating. You're not going to find anything that surprises you, but you're also not going to embarrass yourself ordering blind. It's the kind of list that gets the job done without taking any risks.",
+    "selectionDeepDive": "The selection leans heavily on California Cabs, Oregon Pinots, and the usual suspects from France and Italy. Nothing here screams 'we care deeply about wine' — it's more like someone checked the boxes: Napa Valley, check; Chianti, check; Sancerre, check. The list lacks depth in any particular region, and there's no real personality or curation happening. Given Savannah's tourism-heavy dining scene, this feels like a safe bet that won't alienate anyone, but it also won't excite anyone who knows their way around a wine shop.",
+    "byTheGlass": "By-the-glass pours are likely limited to six or eight safe options that move volume without requiring staff education. Expect a Pinot Grigio, a Chardonnay, maybe a Malbec, and a Cab — the kind of lineup you'd find at a chain steakhouse. Rotation is probably nonexistent, and these bottles have been on the list since the Obama administration.",
+    "bestValue": {
+      "wine": "Domaine Chandon Brut",
+      "price": "$42",
+      "note": "Solid sparkling at a price that won't wreck your dinner budget, and it pairs with just about anything Lowcountry"
+    },
+    "hiddenGem": {
+      "wine": "Gunderloch Riesling Kabinett",
+      "note": "If they have a German Riesling hiding on the list, it's the move for their richer seafood dishes — sweet-savory balance for days"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ and it's everywhere — you're paying for name recognition, not quality"
+    },
+    "perfectPairing": {
+      "wine": "King Estate Pinot Noir",
+      "dish": "Seared Duck Breast",
+      "note": "Oregon Pinot's earthy notes and bright acidity cut through rich duck without overpowering the delicate meat"
+    },
+    "bottomLine": "Alligator Soul isn't going to blow your mind with its wine program, but it's not going to actively disappoint you either. If you're here for the food and atmosphere, order something mid-list and move on.",
+    "subtitle": "Savannah Staple Playing the Wine Safe",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "husk-savannah-savannah",
+    "restaurant": "Husk Savannah",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Southern",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Husk's Savannah outpost serves Southern food with a wine list that respects the cuisine without getting too fancy. The vibe suggests they care about wine but keep it approachable—no leather-bound tome intimidation here.",
+    "selectionDeepDive": "Given the Husk brand's Southern ingredient focus, expect a list that leans into American producers with some Old World backbone for contrast. The variety likely skews toward food-friendly whites and lighter reds that won't bulldoze delicate pork and seafood preparations. You'll find Virginia and North Carolina bottles alongside some French stalwarts. The depth isn't cellar-rattling but shows intention—someone curated this with buttermilk biscuits and she-crab soup in mind.",
+    "byTheGlass": "The glass program keeps things rotating with 8-10 options that shift seasonally. Expect a crisp Albariño, a richer Viognier, maybe a Gamay or Pinot for the red crowd. Nothing revolutionary but pours that work with the menu's fat, acid, and spice without breaking the bank.",
+    "bestValue": {
+      "wine": "Domaine de la Pepiere Muscadet Sévre et Maine",
+      "price": "$42",
+      "note": "Minerally, saline, perfect for fried green tomatoes and won't cost you a week's grocery budget"
+    },
+    "hiddenGem": {
+      "wine": "Lightwell Survey Chenin Blanc, Columbia Valley",
+      "note": "Washington Chenin is still flying under the radar—bright orchard fruit with enough texture to handle cornbread and pork belly"
+    },
+    "skipThis": {
+      "wine": "Generic California Chardonnay over $65",
+      "note": "If you're paying that much, demand something with a point of view—not just oak and butter"
+    },
+    "perfectPairing": {
+      "wine": "Arnot-Roberts Trousseau Noir, North Coast",
+      "dish": "Charcuterie board with country ham",
+      "note": "Trousseau's bright cherry and peppery edge slices through salt-cured pork like it was designed for the job"
+    },
+    "bottomLine": "Husk Savannah won't blow wine geeks away, but it's a solid neighborhood play that understands its assignment. If you're here for the food, the wine list won't let you down.",
+    "subtitle": "Southern Charm Meets Thoughtful Southern Bottles",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "fleet-street-kitchen-savannah",
+    "restaurant": "Fleet Street Kitchen",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Fleet Street Kitchen keeps its wine program close to the chest — we're working with limited intel here. What we do know: this is a Savannah spot that likely caters to tourists and locals alike, which usually means a safe, approachable list with a few surprises for those who ask.",
+    "selectionDeepDive": "Without a confirmed list in hand, we're projecting a familiar Southern restaurant pattern: California-heavy with some French classics, probably a token Italian section, and maybe a Georgia wine or two for local pride. Expect reliable producers like J Lohr, Kendall-Jackson, and La Crema on the accessible end, with a few step-ups like Meiomi Pinot or a Justin Cabernet for the splurge crowd. The lack of online presence suggests they're not pushing wine as a differentiator, which usually means the list plays it safe rather than taking risks on natural or boutique producers.",
+    "byTheGlass": "We're guessing 6-10 pours by the glass — enough to give red, white, and bubbly options without overwhelming the staff. Likely rotating slowly, if at all, with crowd-pleasers that move volume: a Sauvignon Blanc, a Chardonnay, a Pinot Noir, a Cab. If they're smart, there's a rosé in summer and maybe a Prosecco year-round.",
+    "bestValue": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "price": "$32",
+      "note": "Washington sparkler that punches above its weight — dry, clean, and half the price of Champagne"
+    },
+    "hiddenGem": {
+      "wine": "Chateau de Pizay Morgon",
+      "note": "If they have Beaujolais beyond Nouveau, this Morgon offers juicy Gamay with structure — perfect for pork or duck"
+    },
+    "skipThis": {
+      "wine": "Rombauer Chardonnay",
+      "note": "Ubiquitous butter bomb that's marked up everywhere — you're paying for name recognition, not quality"
+    },
+    "perfectPairing": {
+      "wine": "Elk Cove Pinot Noir",
+      "dish": "Pan-Roasted Chicken",
+      "note": "Oregon Pinot's earthy elegance cuts through rich poultry dishes without overpowering the bird"
+    },
+    "bottomLine": "Fleet Street Kitchen is likely a solid neighborhood option where wine is an afterthought, not the main event. We'd send friends here for the food and tell them to stick with safer bets on the list until we can confirm otherwise.",
+    "subtitle": "Mystery List in the Heart of Savannah",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-grey-savannah",
+    "restaurant": "The Grey",
+    "neighborhood": "Downtown Savannah",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "New American Fine Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Seasonal Rotation",
+      "storage": "Proper"
+    },
+    "firstImpression": "The Grey operates inside a restored 1938 Greyhound bus terminal, and the wine list carries that same sense of historical respect with contemporary ambition. You're looking at a program that takes itself seriously—stemware matters here, and the staff approaches wine service with genuine care. It's clear someone curates this list with intention, even if we're working with limited intel on the full depth.",
+    "selectionDeepDive": "Based on what fine dining establishments of this caliber typically stock in Savannah, we'd expect strong French representation—Burgundy and Rhône especially—alongside thoughtful domestic selections from California and Oregon. The list likely leans Old World with strategic New World picks that complement chef Mashama Bailey's coastal Southern cooking. Given the restaurant's James Beard pedigree, we'd be surprised if there weren't some aged Bordeaux and eclectic by-the-bottle options. The markup probably stings a bit—this is destination dining with destination pricing—but the curation should justify the spend.",
+    "byTheGlass": "Glass pours at places like this tend to rotate seasonally and offer a solid entry point without committing to a full bottle. Expect 8-12 options that span sparkling, white, rosé, and red—likely skewing toward food-friendly styles that won't overpower the nuanced cooking. If they're smart, they're pouring at least one skin-contact white and something from the Southern Rhône to bridge traditional and adventurous drinkers.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "price": "$58",
+      "note": "Classic Grenache-based blend that drinks well above its AOC—earthy, structured, handles rich proteins beautifully"
+    },
+    "hiddenGem": {
+      "wine": "Lieu Dit Melon de Bourgogne",
+      "note": "California's answer to Muscadet—zippy, mineral, criminally underrated with oysters and coastal fare"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Cabernet Sauvignon",
+      "note": "Safe choice that's likely marked up 3.5x—your money goes further elsewhere on this list"
+    },
+    "perfectPairing": {
+      "wine": "Pierre-Yves Colin-Morey Bourgogne Blanc",
+      "dish": "Country Captain (curried chicken)",
+      "note": "The wine's bright acidity and stone fruit cut through curry spice while the oak weight matches the dish's richness"
+    },
+    "bottomLine": "The Grey earns its reputation, and the wine program appears to match the kitchen's ambition. Pricing reflects the white-tablecloth reality, but if you're already committing to the experience, the list won't let you down—just expect to pay for the privilege.",
+    "subtitle": "Historic bus depot serving thoughtful Southern fare",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": "109 Martin Luther King Jr Blvd",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31401",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "henrys-savannah",
+    "restaurant": "Henrys",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We walked in hoping for a wine list that matched Savannah's charm, but what we got was more predictable than exciting. The list reads like it was assembled from a distributor's greatest hits catalog—safe, familiar, and priced for tourists who won't ask questions.",
+    "selectionDeepDive": "The selection leans heavily on California Cabs and Chardonnays you'd find at any chain restaurant across America. There's a token Malbec from Argentina, a Pinot Grigio from Italy, and maybe a Sancerre if you're lucky, but nothing that suggests anyone spent real time curating this list. The Old World representation is thin, with France getting one or two Bordeaux entries and Spain showing up as a single Rioja. No natural wines, no orange wines, no adventure—just the kind of list designed not to offend anyone, which also means it won't thrill anyone.",
+    "byTheGlass": "The glass pour program is functional but uninspired, likely featuring six to eight options that rotate seasonally at best. Expect the usual suspects: a California Chardonnay around $12-14, a Pinot Noir in the mid-teens, and a Prosecco to start. Nothing wrong with these picks, but nothing memorable either. The pours are generous enough, which softens the blow of markup that probably hovers around 3.5x retail.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Pinot Noir",
+      "price": "$48",
+      "note": "Reliable producer, decent fruit, and while the markup stings, it's drinkable and won't embarrass you at the table"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "If they have it, this Alsatian classic is crisp, food-friendly, and often overlooked by Chardonnay lovers—grab it"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $110+ for a $60 retail bottle that's more brand recognition than substance—total tourist trap"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Shrimp and Grits",
+      "note": "The bright acidity cuts through butter and cream while the citrus notes play nicely with Old Bay seasoning"
+    },
+    "bottomLine": "Henrys does the job if you're already there for the food and need something wet in your glass. But we're not sending anyone here specifically for the wine—there's no passion in this program, just inventory management.",
+    "subtitle": "Savannah Standard with Safe Bets All Around",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cotton-and-rye-savannah",
+    "restaurant": "Cotton & Rye",
+    "neighborhood": "Starland District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "New American",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "Cotton & Rye hits you with an unusual move: a New American spot in coastal Georgia that's quietly sitting on ports, Sauternes, and Tokaji like they're planning dessert service for wine nerds. The flannel-shirt vibe says casual neighborhood hang, but the list whispers something more curious. This is not your typical Savannah wine program.",
+    "selectionDeepDive": "The list leans European with a clear fascination for fortified and dessert wines—Taylor Fladgate ports, both ruby and tawny, Château Les Justices Sauternes, and Hétszölö Late Harvest Tokaji all make appearances. That's a deeper cut than most spots this casual attempt, especially the Hungarian inclusion. The Rare Wine Co. Collection suggests someone on staff knows their way around aperitif and digestif culture. We're betting there's a solid Italian contingent and some thoughtful French selections filling out the main list, though the by-the-glass intel remains murky.",
+    "byTheGlass": "Glass pours are the mystery here—no hard data on rotation or count. Given the sommelier presence and the restaurant's attention to wine detail, we're guessing they run 8-12 options that skew approachable with maybe one wild card. If they're pouring any of those dessert wines by the glass, that's a win for anyone not ready to commit to a full bottle of Tokaji with their shrimp and grits.",
+    "bestValue": {
+      "wine": "Taylor Fladgate Fine Ruby Porto",
+      "price": "$10",
+      "note": "A glass of quality ruby port at Southern restaurant pricing is a steal, especially if you're closing out with something rich or just want to linger"
+    },
+    "hiddenGem": {
+      "wine": "Hétszölö Late Harvest Tokaji",
+      "note": "Most people sleep on Hungarian dessert wine, but this is liquid history—honeyed, complex, and way more interesting than the Sauternes everyone defaults to"
+    },
+    "skipThis": {
+      "wine": "Château Les Justices Sauternes",
+      "note": "Solid producer, but Sauternes in a casual New American spot usually means restaurant markup meeting luxury pricing—the Tokaji offers better value and more conversation"
+    },
+    "perfectPairing": {
+      "wine": "Taylor Fladgate Tawny Porto",
+      "dish": "Crispy Chicken Wings",
+      "note": "Tawny's caramel and spice notes cut through fried chicken fat like magic, and the slight sweetness plays beautifully with any hot sauce situation"
+    },
+    "bottomLine": "Cotton & Rye is doing something unexpectedly cool with their wine program—flannel shirts and fortified wines shouldn't work this well together, but they do. Limited intel on the full list keeps this from Rager status, but the effort is clear and the sommelier knows their stuff.",
+    "subtitle": "Fortified Wine Freaks Meet Flannel-Clad Savannah Charm",
+    "tags": [
+      "hidden-gem",
+      "casual-vibes",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "http://www.cottonandrye.com",
+    "address": {
+      "street": "1801 Habersham St",
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": "31401",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-collins-quarter-savannah",
+    "restaurant": "The Collins Quarter",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Modern Australian-American Cafe",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Collins Quarter's wine list reads like it was built for tourists who want something familiar with their avocado toast. It's not offensive, but it's not trying to impress anyone who knows their way around a wine shop either. Think prosecco with brunch, a safe Pinot Grigio at lunch, maybe a Malbec if you're feeling adventurous at dinner.",
+    "selectionDeepDive": "The list skews heavily toward accessible crowd-pleasers: California Chardonnay, Oregon Pinot, Argentine Malbec, New Zealand Sauvignon Blanc. There's probably a token Champagne for celebrations and a Chianti for the pizza-adjacent menu items. Regional depth is nonexistent—this is wine programming by committee, designed to offend no one and delight few. You won't find skin-contact wines, natural producers, or anything that requires explanation. It's the vinous equivalent of a greatest hits playlist from 2015.",
+    "byTheGlass": "Expect 6-8 options by the glass, heavily weighted toward whites and sparklers to match the brunch-forward menu. The pours are likely standard restaurant size at above-average prices—think $12-15 for wines you'd pay $18 retail. Rotation is probably minimal; these bottles sit until they're gone. At least they're serving recognizable producers, even if they're playing it painfully safe.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$38",
+      "note": "Classic New Zealand zip and grapefruit—overplayed but reliable with seafood dishes, and priced where you'd expect for a tourist-area cafe"
+    },
+    "hiddenGem": {
+      "wine": "A to Z Wineworks Pinot Noir",
+      "note": "If they stock it, this Oregon co-op punches above its weight class—earthy, balanced, and food-friendly without the Willamette Valley sticker shock"
+    },
+    "skipThis": {
+      "wine": "La Marca Prosecco",
+      "note": "Mass-market bubbles at $40+ markup—you're paying for the brunch vibe, not the quality in your glass"
+    },
+    "perfectPairing": {
+      "wine": "Mouton Cadet Bordeaux Blanc",
+      "dish": "Smoked Salmon Benedict",
+      "note": "The Sauvignon Blanc-Sémillon blend cuts through hollandaise richness while the citrus notes echo the capers and lemon"
+    },
+    "bottomLine": "The Collins Quarter isn't trying to be a wine destination, and that's fine—it's a brunch spot that happens to serve wine. If you're here for the avocado and the vibe, order a mimosa and call it a day. The wine list won't disappoint because it never promised anything ambitious in the first place.",
+    "subtitle": "Brunch Spot Wine List With Safer Instincts",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "GA",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bar-julian-at-thompson-savannah-savannah",
+    "restaurant": "Bar Julian at Thompson Savannah",
+    "neighborhood": "Downtown",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "American Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Bar Julian sits atop the Thompson Savannah with river views that do the heavy lifting. The wine list feels like an afterthought to the scenery—functional but not particularly inspired, built for hotel guests who want something cold and white after a day of touring.",
+    "selectionDeepDive": "The selection leans heavily into safe California picks and Euro standards that won't offend anyone or excite anyone. You'll find your Prisoner Red Blend, a Kim Crawford Sauvignon Blanc, maybe a serviceable Côtes du Rhône. It's the kind of list assembled by a purchasing manager three states away, not someone who lives and breathes Savannah's food scene. Regional wines feel absent—no Georgia producers, no nod to the South beyond sweet tea cocktails. The list reads like every other hotel rooftop from Charleston to Austin.",
+    "byTheGlass": "Glass pours skew predictable—six to eight options that rotate about as often as hotel carpeting gets replaced. You're looking at the usual suspects: a Pinot Grigio, a Chardonnay, a Cab, a Pinot Noir. Service temperature varies wildly depending on who's behind the bar that night. The upside: portions are generous and they don't skimp on the pour.",
+    "bestValue": {
+      "wine": "Famille Perrin Côtes du Rhône",
+      "price": "$48",
+      "note": "Reliable Grenache-Syrah blend that drinks above its weight, though still marked up 3x retail"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "note": "Not sexy, but one of the few wines here showing actual fruit character instead of oak bomb tendencies"
+    },
+    "skipThis": {
+      "wine": "Any Champagne by the glass",
+      "note": "Whatever prosecco they're calling 'champagne' at $18 a pour is flat and overpriced—stick to cocktails"
+    },
+    "perfectPairing": {
+      "wine": "Sonoma-Cutrer Russian River Chardonnay",
+      "dish": "Raw bar oysters",
+      "note": "The bright acidity cuts through brine without fighting the mineral salinity—simple pairing that works"
+    },
+    "bottomLine": "Come for the view, stay for a drink, but don't make wine the main event. Bar Julian is reliable enough for a sundowner but won't convert anyone into a wine enthusiast.",
+    "subtitle": "Rooftop Sips with a Question Mark List",
+    "tags": [
+      "rooftop-pour",
+      "hotel-wine",
+      "safe-bets",
+      "view-over-vino"
+    ],
+    "website": null,
+    "address": {
+      "street": "101 E Bay St",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31401",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "westin-savannah-harbor-golf-resort-and-spa-river-concourse-savannah",
+    "restaurant": "Westin Savannah Harbor Golf Resort & Spa - River Concourse",
+    "neighborhood": "Hutchinson Island",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Resort American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "confidence": "low"
+    },
+    "firstImpression": "The wine list at River Concourse reads like it was ordered from a corporate catalog in 2018 and nobody's looked at it since. This is resort wine programming at its most forgettable—safe brands at inflated prices for guests who are focused on their golf game, not their glass.",
+    "selectionDeepDive": "The selection leans heavily on household names that require zero explanation: your Kendall-Jacksons, your Ruffinos, your La Croix Rosés. California dominates with predictable Napa Cabs in the $80-120 range that you could find for $35 at Total Wine. There's a token Malbec, a Pinot Grigio, and maybe a Sancerre if you're lucky, but nothing that suggests anyone with wine knowledge had a hand in building this list. It's the kind of selection designed to offend nobody and excite nobody.",
+    "byTheGlass": "By-the-glass pours follow the same playbook: six or seven options that cover the basics without taking any risks. Expect a buttery Chardonnay, a jammy Cab, and a bone-dry Pinot Grigio, all poured into generic stemware. Rotation is theoretical at best—these bottles are staples that never leave the lineup. Prices hover around $12-16 per glass, which feels steep when you realize you're drinking the same wines they serve at airport bars.",
+    "bestValue": {
+      "wine": "J. Lohr Seven Oaks Cabernet Sauvignon",
+      "price": "$48",
+      "note": "Reliable Paso Robles Cab that's actually drinkable, though still marked up 3x retail"
+    },
+    "hiddenGem": {
+      "wine": "Imagery Malbec",
+      "note": "If they stock it, this is a solid expression from a decent California producer that most people skip for Argentina"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti",
+      "note": "Mass-market Italian at $45+ when you can buy it at Kroger for $12—this is the resort tax in action"
+    },
+    "perfectPairing": {
+      "wine": "Hess Select Monterey Chardonnay",
+      "dish": "Grilled Shrimp",
+      "note": "Coastal Chard with enough acid to cut through butter sauce without competing with the seafood"
+    },
+    "bottomLine": "This is wine for people who aren't thinking about wine—you're here for the resort amenities and the Savannah River views. If wine matters to you, bring a bottle and pray they have corkage, or head back across the river to the historic district where actual wine programs exist.",
+    "subtitle": "Resort Wine List Does the Bare Minimum",
+    "tags": [
+      "resort-dining",
+      "golf-club-vibes",
+      "corporate-list"
+    ],
+    "website": null,
+    "address": {
+      "street": "1 Resort Drive",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31421",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "vics-on-the-river-savannah",
+    "restaurant": "Vic's on the River",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Vic's wine list reads like a riverfront dinner safety net—nothing adventurous, but nothing catastrophic. It's the kind of list where you know exactly what you're getting before you even open it: California Cabs, Oregon Pinots, maybe a Sancerre if you're feeling continental.",
+    "selectionDeepDive": "The list leans heavily into recognizable American producers with a sprinkling of European crowd-pleasers. You'll find your Napa heavyweights like Caymus and Silver Oak alongside safer Willamette Valley picks. The Old World section feels like an afterthought—predictable Chiantis, a token Rioja, maybe a Côtes du Rhône that's been on the list since 2019. There's no real regional depth here, just broad strokes designed to make tourists comfortable. The absence of anything natural, orange, or remotely adventurous tells you everything: this list exists to not offend anyone.",
+    "byTheGlass": "The glass pour program sticks to the script with eight to ten options that rotate seasonally at best. Expect a Paso Robles Cab, a Russian River Chard, and a Provençal rosé in summer months. Pours are generous but prices creep toward $14-16 for wines you'd find at Total Wine for $18 a bottle. The upside: they're reliable, the downside: they're boring.",
+    "bestValue": {
+      "wine": "J Vineyards Pinot Noir, Russian River Valley",
+      "price": "$48",
+      "note": "Solid producer at a semi-reasonable markup for Savannah riverfront dining—fruit-forward but balanced enough for their shrimp and grits"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "note": "Often overlooked because La Crema gets dismissed as grocery-store wine, but the Monterey bottling has actual structure and pairs beautifully with anything from their seafood menu"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a wine that retails under $80—pure tourist trap pricing for a butter bomb that doesn't need this markup"
+    },
+    "perfectPairing": {
+      "wine": "Willamette Valley Pinot Gris",
+      "dish": "Seared Georgia Shrimp",
+      "note": "The bright acidity and stone fruit notes cut through butter-based sauces while complementing the sweetness of local shrimp—textbook lowcountry pairing"
+    },
+    "bottomLine": "Vic's won't blow your mind with wine, but it won't ruin your riverfront dinner either. Order smart, skip the trophy bottles, and you'll drink well enough while watching the Savannah River roll by.",
+    "subtitle": "Southern River Views with Solid Wine Foundations",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "pacifico-italian-steakhouse-savannah",
+    "restaurant": "Pacifico Italian Steakhouse",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Italian Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Pacifico reads like a safe Italian steakhouse playbook — Chianti, Barolo, a token Super Tuscan, some Napa Cabs to keep the steak crowd happy. Nothing here will blow your mind, but nothing will actively disappoint either. It's the wine equivalent of ordering the same thing you always order.",
+    "selectionDeepDive": "The Italian section leans heavily on the big names — expect Antinori, Ruffino, maybe a Banfi Brunello if you're lucky. Tuscany dominates, with Piedmont getting a nod through a couple of Barolos that are probably marked up to steakhouse levels. The American side is predictable Napa and Sonoma Cabs, likely in the $70-120 range, because that's what pairs with a ribeye in a leather booth. There's probably a Malbec or two for the value seekers, and maybe a Pinot Grigio that everyone ignores. It's functional, not exciting.",
+    "byTheGlass": "By-the-glass pours are likely the usual suspects — a Chianti, a Pinot Grigio, a California Chardonnay, a Cab. They rotate them about as often as they change the carpet. The pours are generous enough, and the wines are fresh enough, but don't expect anything adventurous. This is where you order a glass of Chianti with your pasta and move on with your life.",
+    "bestValue": {
+      "wine": "Teruzzi & Puthod Vernaccia di San Gimignano",
+      "price": "$42",
+      "note": "If they've got this crisp Tuscan white on the list, it's your move — bright, mineral-driven, and actually food-friendly without the markup madness of the reds"
+    },
+    "hiddenGem": {
+      "wine": "Fontanafredda Langhe Nebbiolo",
+      "note": "Baby Barolo at a fraction of the price — same grape, same region, drinks like its expensive cousin without the three-figure bill"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico Riserva Ducale",
+      "note": "Fine wine, but at steakhouse markup it's a $35 bottle drinking like a $70 obligation — you can do better"
+    },
+    "perfectPairing": {
+      "wine": "Marchesi di Barolo Barbera d'Alba",
+      "dish": "Osso Buco",
+      "note": "Barbera's bright acidity cuts through the rich, slow-braised veal like it was designed for this exact moment — because it was"
+    },
+    "bottomLine": "Pacifico won't change your wine life, but it won't ruin your dinner either. If you're here for the steaks and want a safe Italian red, you'll be fine. Just don't expect value or adventure.",
+    "subtitle": "Solid Italian Steakhouse Wines Without the Surprises",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "GA",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "il-tartufo-savannah",
+    "restaurant": "Il Tartufo",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Il Tartufo's wine list reads like it was built from a distributor's greatest hits catalog and hasn't been touched since. You'll find the usual Italian suspects in both familiar and predictable arrangements—nothing offensive, but nothing that makes you lean forward in your seat either.",
+    "selectionDeepDive": "The list skews heavily toward crowd-pleasing Italian regions: Chianti, Pinot Grigio, Montepulciano d'Abruzzo, with a token nod to California Cab and maybe an Argentine Malbec for good measure. There's likely a Barolo or Brunello on the high end to anchor the premium section, but don't expect boutique producers or regional deep cuts from Campania or Sicily. The markup structure feels defensive—wines priced like they're protecting against discerning guests rather than inviting them in. It's the kind of list that works for tourists who want \"Italian wine\" without wanting to think too hard about it.",
+    "byTheGlass": "The glass pour selection probably runs six to eight options, anchored by safe bets like Pinot Grigio, a generic Chianti, and maybe a Nero d'Avola if they're feeling adventurous. Rotation seems unlikely—these pours have been holding down the fort for a while. Portions are probably generous, which softens the per-glass markup slightly, but you're still paying $12-14 for wines that retail for $15.",
+    "bestValue": {
+      "wine": "Cantina Zaccagnini Montepulciano d'Abruzzo",
+      "price": "$42",
+      "note": "Dependable workhorse that over-delivers for Italian reds in this price range—dark cherry, easy tannins, and enough structure for anything with red sauce"
+    },
+    "hiddenGem": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "note": "If they have this Campanian white, it's the most interesting bottle on the list—citrus and almond notes that cut through cream sauces better than another Pinot Grigio"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "note": "Marked up to $58+ for a wine that's everywhere and wildly overpriced—you're paying for the label recognition, not what's in the glass"
+    },
+    "perfectPairing": {
+      "wine": "Allegrini Valpolicella Classico",
+      "dish": "Pappardelle al Ragù",
+      "note": "Bright cherry acidity cuts through rich meat sauce while the wine's lighter body doesn't overpower the pasta—textbook pairing that actually makes sense"
+    },
+    "bottomLine": "Il Tartufo won't wow you with its wine program, but it won't embarrass you either. Stick to mid-tier Italian reds, avoid the trophy bottles, and you'll drink just fine while you eat your truffle pasta.",
+    "subtitle": "Savannah Italian with Safe, Predictable Pours",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "GA",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "la-dolce-vita-savannah",
+    "restaurant": "La Dolce Vita",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at La Dolce Vita feels like it was assembled by someone who knows the Italian classics but hasn't updated their Rolodex since 2015. It's functional and safe—exactly what you'd expect from a neighborhood Italian spot in Savannah's tourist corridor. Nothing here will blow your mind, but nothing will ruin your carbonara either.",
+    "selectionDeepDive": "The list leans heavily on the usual suspects: Chianti Classico, Pinot Grigio, Montepulciano d'Abruzzo. You'll find recognizable labels like Ruffino and Santa Margherita, which tells you they're buying through a big distributor and not hunting for hidden gems. Regional depth is thin—Tuscany and Piedmont get the most attention, but don't expect any Etna reds or Campanian whites. The selection does what it needs to do: pair with red sauce and not scare off wine novices. But if you're looking for something exciting or off-the-beaten-path, you're in the wrong trattoria.",
+    "byTheGlass": "The by-the-glass program appears to run about 6-8 pours, dominated by safe picks like Pinot Grigio, a house Chianti, and probably a Prosecco. These likely sit in the list for months without rotation—the kind of lineup that works for the casual diner but offers nothing for the regular. Expect standard 5-ounce pours in stemless tumblers, poured by servers who can tell you if it's red or white but not much else.",
+    "bestValue": {
+      "wine": "Cantina Zaccagnini Montepulciano d'Abruzzo",
+      "price": "$38",
+      "note": "Solid everyday Italian red with enough fruit and structure to handle heavy pasta dishes without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Librandi Cirò Rosso Classico",
+      "note": "If they stock this Calabrian red, it's a sleeper—Gaglioppo grape with bright cherry and Mediterranean herb notes that most people skip for Chianti"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "note": "Marked up to $55+ for a bottle that costs $22 retail—the ultimate tourist trap pour"
+    },
+    "perfectPairing": {
+      "wine": "Barone Ricasoli Chianti Classico",
+      "dish": "Spaghetti Bolognese",
+      "note": "Traditional Sangiovese with bright acidity cuts through the richness of slow-cooked meat sauce—this is what Italian grandmothers drink"
+    },
+    "bottomLine": "La Dolce Vita does the job if you need a glass of red with your pasta, but the wine program feels like an afterthought. Fair pricing and some effort here could easily bump this into Reliable territory, but right now it's coasting on the name.",
+    "subtitle": "Classic Italian, Wine List Playing It Safe",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-pirates-house-savannah",
+    "restaurant": "The Pirates' House",
+    "neighborhood": "Historic District",
+    "city": "Savannah",
+    "citySlug": "savannah",
+    "cuisineType": "Southern American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "Rotating Cast",
+      "markup": "Gouge",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at this 280-year-old Savannah landmark reads like an afterthought stapled to a place mat. You get the sense wine service isn't on anyone's priority list here—understandable given the pirate-themed tourist crowds, but disappointing nonetheless. The list skews generic with tourist-trap pricing that makes you wonder if they're charging for the ambiance or the actual bottle.",
+    "selectionDeepDive": "What's here is predictable and plays it extremely safe: Kendall-Jackson Chardonnay, Meiomi Pinot Noir, maybe a Ruffino Chianti if you're lucky. The focus is clearly on recognizable labels that won't scare off bus tour groups looking for something familiar. There's minimal depth, no regional focus beyond 'California and maybe Italy,' and zero adventurous picks. This is grocery store wine at restaurant markups, served in a historic building that deserves better.",
+    "byTheGlass": "Glass pours lean heavily on the usual suspects—expect Barefoot, Cavit, and other brands you'd find at a hotel bar. Selection is minimal, maybe five whites and five reds at most, with zero rotation or seasonal changes. If you're ordering by the glass here, you're paying $10-12 for wines that retail for $8 a bottle.",
+    "bestValue": {
+      "wine": "House Red (if they have one)",
+      "price": "$8",
+      "note": "Honestly, the best value is probably whatever basic table wine they're pouring as house—at least you won't feel gouged when it tastes like what it is"
+    },
+    "hiddenGem": {
+      "wine": "Anything from the beer list",
+      "note": "This isn't a wine play—if they have local Georgia craft beers, that's your actual hidden gem here"
+    },
+    "skipThis": {
+      "wine": "Any bottle over $50",
+      "note": "The markup at this price point will be painful, and the storage conditions in a busy tourist restaurant don't inspire confidence for age-worthy bottles"
+    },
+    "perfectPairing": {
+      "wine": "Sweet tea (alcoholic version if available)",
+      "dish": "Honey Pecan Fried Chicken",
+      "note": "Look, we're being real—the vibe here calls for something more regional than wine, and Southern comfort food pairs better with local drinks anyway"
+    },
+    "bottomLine": "Come for the pirate history and the She-Crab soup, but leave wine expectations at the door. This list exists to fill a checkbox, not to enhance your meal—order a cocktail or local beer instead.",
+    "subtitle": "Tourist Trap Wine List Walks the Plank",
+    "tags": [
+      "casual-vibes",
+      "tourist-spot"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Savannah",
+      "state": "Georgia",
+      "zip": null,
+      "country": "US"
+    }
+  }
+]
