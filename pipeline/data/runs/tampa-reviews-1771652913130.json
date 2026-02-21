@@ -1,0 +1,1598 @@
+[
+  {
+    "slug": "berns-steak-house-tampa",
+    "restaurant": "Bern's Steak House",
+    "neighborhood": "South Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Steakhouse",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list weighs more than most steakhouse cuts. 6,500 labels isn't a wine list — it's a wine library with a Victorian steakhouse attached. When you need a sommelier just to navigate the index, you're in deep.",
+    "selectionDeepDive": "This is one of the country's legendary cellars, and it shows. Champagne representation runs from grower bottles like Christophe Mignon's single-vineyard Meunier to prestige cuvées. California depth spans cult Napa Cabs to Russian River Pinots, with vertical depth on major producers. Old World coverage includes serious Burgundy, Bordeaux, and Rhône allocations. The only gap? There isn't one. This list has everything from Tuesday-night drinkers to once-in-a-lifetime bottles.",
+    "byTheGlass": "Over 150 wines by the glass is borderline absurd in the best way. The range spans $12 entry points to $24 pours that would cost $200+ by the bottle elsewhere. Quality runs deep — we're talking Billecart-Salmon Extra Brut and Pahlmeyer Napa Chardonnay on tap. The Coravin program means older vintages and serious bottles are fair game without committing to 750ml.",
+    "bestValue": {
+      "wine": "Telmont 2013 Blanc de Blancs",
+      "price": "$18",
+      "note": "Vintage Champagne by the glass for under $20 is highway robbery in your favor — this is the house's best-kept secret"
+    },
+    "hiddenGem": {
+      "wine": "Christophe Mignon 2016 ADN de Meunier",
+      "note": "Grower Champagne made entirely from Meunier is rare on any list — this funky, textured bottling gets overlooked for the big names but drinks way above its weight"
+    },
+    "skipThis": {
+      "wine": "Veuve Clicquot Yellow Label Brut",
+      "note": "Why pay full boat for grocery store Champagne when you're surrounded by grower bottles and vintage pours at similar price points?"
+    },
+    "perfectPairing": {
+      "wine": "Pahlmeyer Chardonnay 2021 Napa Valley",
+      "dish": "Dry-Aged Delmonico",
+      "note": "Big, buttery Napa Chard with enough weight to stand up to dry-aged beef char — the richness mirrors the marbling without getting steamrolled"
+    },
+    "bottomLine": "This is the wine list all other steakhouse wine lists dream about becoming. If you're serious about wine and in Tampa, this isn't optional — it's required reading.",
+    "subtitle": "6,500 Labels Deep — The Wine Cellar That Ate Tampa",
+    "tags": [
+      "deep-cellar",
+      "splurge-worthy",
+      "by-the-glass-hero",
+      "date-night"
+    ],
+    "website": "https://bernssteakhouse.com",
+    "address": {
+      "street": "1208 South Howard Avenue",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33606",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "haven-tampa",
+    "restaurant": "Haven",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Haven's wine list reads like a work in progress—competent but playing it safe. The selection hits the expected New American marks without taking many risks, and the staff seems eager but still learning the ropes.",
+    "selectionDeepDive": "The list leans California-heavy with predictable crowd-pleasers from Napa and Sonoma, plus a respectable showing of Pacific Northwest options that complement the cuisine. There's a token nod to Old World with some French Burgundy and Rhône selections, though nothing that'll make collectors sprint across town. The range covers the bases—Chardonnay, Pinot Noir, Cab—but doesn't venture into anything too adventurous. For a New American spot in Tampa, it's neither ambitious nor lazy, just competently middle-of-the-road.",
+    "byTheGlass": "The glass program appears to stick with safe, recognizable names—likely rotating through standard pours of domestic favorites. We count around 8-10 options that cover the bases without surprising anyone. Rotation seems infrequent, with the same reliable producers showing up visit after visit.",
+    "bestValue": {
+      "wine": "Antica Terra 'Botanica' Pinot Noir, Willamette Valley",
+      "price": "$68",
+      "note": "Oregon Pinot with restraint and complexity that punches above its price point—shows what the kitchen's capable of pairing with"
+    },
+    "hiddenGem": {
+      "wine": "Matthiasson 'Napa Valley' White Blend",
+      "note": "Unusual for Tampa but perfectly suited to New American cooking—aromatic, textured, and food-friendly in ways Chardonnay can't touch"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon, Napa Valley",
+      "note": "Marked up to $110+ for a wine that's everywhere and overextracted—plenty of better Cabs at this price point"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Serene 'Evenstad Reserve' Chardonnay",
+      "dish": "Seared scallops with brown butter",
+      "note": "Oregon Chard has the richness to match butter-based preparations without drowning the delicate shellfish"
+    },
+    "bottomLine": "Haven gets the fundamentals right without breaking new ground. Fair pricing and willing staff make it a solid neighborhood option, but the list could use more personality to match the kitchen's ambitions.",
+    "subtitle": "New American ambitions, wine list TBD",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "new-world-explorer"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-capital-grille-tampa",
+    "restaurant": "The Capital Grille",
+    "neighborhood": "Downtown Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Proper",
+      "listSize": "Large"
+    },
+    "firstImpression": "The Capital Grille's wine list opens like a textbook for Corporate Steakhouse 101: thick binder, lots of Napa Cabs, even more Bordeaux, and enough Silver Oak to stock a wedding. It's the kind of list designed to make expense-account diners feel like big shots without actually taking risks. You won't find natural wine or obscure producers here, but you also won't find warm Chardonnay in juice glasses.",
+    "selectionDeepDive": "The list leans heavily into what steakhouse guests expect: California Cabernets from $80 to $400, classic Bordeaux châteaux, and a respectable Burgundy section that stays in the safer appellations. The Italian selection covers the bases with Barolo, Brunello, and Super Tuscans, but doesn't venture into anything too esoteric. There's a token presence of Champagne and sparkling, plus the requisite Malbecs and Australian Shiraz for folks who want something bolder. It's a list built for ribeyes and porterhouses, not experimentation.",
+    "byTheGlass": "The glass pour program is functional but uninspired, typically running 12-15 selections that rotate seasonally but stick to familiar names. Expect a Sonoma Chardonnay around $16, a Napa Cab in the $20-24 range, and maybe a Malbec or Pinot Noir to round things out. They're pouring 6oz pours from recently opened bottles, which is better than some chains, but the selections feel like they're chosen by a regional manager in a conference room rather than someone who actually gets excited about wine.",
+    "bestValue": {
+      "wine": "Cakebread Cellars Chardonnay",
+      "price": "$72",
+      "note": "Yes, it's marked up, but for Capital Grille that's actually restrained — and it's a reliable crowd-pleaser that won't embarrass you at a business dinner"
+    },
+    "hiddenGem": {
+      "wine": "Château Gloria Saint-Julien",
+      "note": "Buried in the Bordeaux section, this unclassified growth from a stellar terroir drinks like a fourth growth at half the price — if you can find it past all the Napa"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Alexander Valley Cabernet",
+      "note": "Marked up to $180+ for a bottle you can find at Total Wine for $75 — the Capital Grille tax at its most egregious"
+    },
+    "perfectPairing": {
+      "wine": "Ridge Geyserville Zinfandel Blend",
+      "dish": "Bone-In Kona Crusted Dry Aged Sirloin",
+      "note": "The peppery crust on that steak needs a wine with structure and spice — Ridge delivers both without the Napa price premium"
+    },
+    "bottomLine": "Capital Grille delivers exactly what you'd expect: a safe, corporate-approved wine list with proper storage, decent glassware, and markups that make you wince. It's not exciting, but it won't let you down if you're entertaining clients or celebrating a promotion.",
+    "subtitle": "Corporate Steakhouse Wine Done Right, If Predictable",
+    "tags": [
+      "steakhouse",
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "flemings-prime-steakhouse-and-wine-bar-tampa",
+    "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+    "neighborhood": "Tampa Flagship",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "Fleming's walks in with the confidence of a national chain that's actually invested in wine — a 100-label list organized by varietal, proper Riedel stems on every table, and servers who at least attempt the pronunciation. The leather-bound wine menu weighs more than some restaurants' entire beverage programs, which is either impressive or intimidating depending on your tolerance for corporate steakhouse theatre.",
+    "selectionDeepDive": "The list skews heavily toward Napa Cab and big-name Bordeaux, as expected, but there's more range here than the wood-paneled walls suggest. You'll find a respectable Burgundy section with village-level producers like Louis Jadot and Bouchard, some Oregon Pinot from Willamette Valley stalwarts, and even a token nod to Rhône with Châteauneuf-du-Pape from Perrin. The Italian section leans on safe Tuscan choices — Antinori, Banfi, Ruffino — but at least they're there. What's missing: any sense of adventure, natural wines, or anything under $50 that isn't mass-produced.",
+    "byTheGlass": "Fleming's rotates 15-20 wines by the glass through their proprietary preservation system, which means fresher pours than most steakhouses manage. The selection mirrors the bottle list — lots of California Cab, some Malbec for the casual drinker, a token Sancerre. Pours are generous at 6oz, and the Tuesday discount actually makes the program viable for non-expense-account dining. Still, don't expect discovery here — it's the greatest hits album, not the deep cuts.",
+    "bestValue": {
+      "wine": "William Hill Estate Cabernet Sauvignon, Napa Valley",
+      "price": "$58",
+      "note": "On Tuesday nights this drops to $29, and suddenly you're drinking Napa Cab with your ribeye for the price of two cocktails — that's the play"
+    },
+    "hiddenGem": {
+      "wine": "Patz & Hall Sonoma Coast Chardonnay",
+      "note": "Buried mid-list but drinks well above its $72 price point — actual minerality and restraint instead of butter-bomb theater"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$145",
+      "note": "The markup here is criminal for a wine you can find at Costco for $75, and it's too sweet for serious steak anyway"
+    },
+    "perfectPairing": {
+      "wine": "Ridge Lytton Springs Zinfandel",
+      "dish": "Bone-In Ribeye with Porcini Rub",
+      "note": "The Ridge brings peppery backbone and wild berry fruit that cuts through the char and complements the earthy mushroom crust without overwhelming it"
+    },
+    "bottomLine": "Fleming's delivers exactly what a corporate steakhouse wine program should: proper storage, decent glassware, and enough range to satisfy the expense account crowd. It's not exciting, it's definitely not cheap, but it's competent and reliable — especially if you hit it on a Tuesday.",
+    "subtitle": "Corporate Wine Program That Actually Tries",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "halfPriceWineNight": {
+      "day": "Tuesday",
+      "details": "Half-price on all bottles under $150, which is where most of their decent selections live anyway"
+    },
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "donatello-tampa",
+    "restaurant": "Donatello",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Donatello's wine list reads like a classic Tampa Italian steakhouse playbook—safe, predictable, and built for people who know what they want before they sit down. You'll find the usual suspects from Tuscany and Piedmont, nothing that'll make you pull out your phone to Google a producer. It's the kind of list where you can close your eyes and point.",
+    "selectionDeepDive": "The Italian section leans heavily on mid-tier Chiantis, Barolos that command steakhouse prices, and Pinot Grigios that could be from anywhere. There's minimal regional diversity—don't expect obscure Campanian reds or natural Sicilian whites. The California side offers Napa Cabs and Russian River Pinots at markups that make you wince. What's missing: any sense of adventure, any indie importers, any wines under $50 that feel like discoveries rather than obligations.",
+    "byTheGlass": "By-the-glass pours stick to the script: a Chianti, a Pinot Grigio, maybe a Prosecco, and a handful of California standards. Rotation appears non-existent—these are the bottles that sit on the back bar until they're gone, then get replaced with the same thing. Pours are generous enough, but at $12-15 a glass for grocery store bottles, you're paying for the white tablecloth, not the wine.",
+    "bestValue": {
+      "wine": "Antinori Santa Cristina Sangiovese",
+      "price": "$42",
+      "note": "Reliable Tuscan table wine that won't embarrass you or empty your wallet—does exactly what it should with red sauce"
+    },
+    "hiddenGem": {
+      "wine": "Marchesi di Barolo Barbera d'Alba",
+      "note": "If they have it, Barbera's bright acidity cuts through cream sauces better than over-oaked Chardonnay ever will"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico Riserva",
+      "note": "Marked up to $78 when you can grab it at Total Wine for $18—that's steakhouse math at its worst"
+    },
+    "perfectPairing": {
+      "wine": "Damilano Langhe Nebbiolo",
+      "dish": "Osso Buco",
+      "note": "Baby Barolo structure at half the price—the wine's tannins love braised veal and that rich marrow"
+    },
+    "bottomLine": "Donatello delivers exactly what you'd expect from a Tampa Italian spot that's been around forever: competent wine service, zero surprises, and markups that favor the house. Come for the pasta, order a bottle you know, don't overthink it.",
+    "subtitle": "Old-School Italian With Safe Wine Choices",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "columbia-restaurant-tampa",
+    "restaurant": "Columbia Restaurant",
+    "neighborhood": "Ybor City",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Spanish-Cuban",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "You open the wine list and it's a literal book—1,056 labels spanning decades of collecting. This is Florida's oldest restaurant flexing a cellar that predates most of the state's wine programs, with everything from house-label California to dusty Spanish Riojas. It reads like someone's grandpa's collection: massive, ambitious, and definitely not curated for 2025.",
+    "selectionDeepDive": "The list leans heavily Spanish and California, which makes sense given the Spanish-Cuban roots. You'll find Torres, Jaume Serra Cristalino Cava, and their own Don Casimiro private labels sitting next to what appears to be an archive of older vintages. The depth is undeniable—this isn't a restaurant phoning it in—but navigating 1,000+ bottles without sommelier guidance feels like treasure hunting in a mansion with no map. There's real wine history here, including bottles that have probably been on the list since the Clinton administration, but it's unclear what's actually available versus what's aspirational inventory.",
+    "byTheGlass": "Glass pours aren't clearly documented, which is a red flag for a restaurant this size and age. Based on the house labels mentioned (Don Casimiro, Adela wines, Private Label Malbec-Tempranillo Blend), we suspect they lean on proprietary California wines and entry-level Spanish options for everyday service. You're probably looking at 8-12 standard pours that won't challenge anyone but also won't disappoint tourists ordering sangria with their paella.",
+    "bestValue": {
+      "wine": "Torres Sangre de Toro",
+      "price": "$32",
+      "note": "Classic Catalan blend that's built for garlic-forward Cuban food—affordable, food-friendly, and actually available"
+    },
+    "hiddenGem": {
+      "wine": "Jaume Serra Cristalino Cava Brut",
+      "note": "Everyone orders red with paella, but this sparkling cuts through the saffron and seafood richness better than any still wine on the list"
+    },
+    "skipThis": {
+      "wine": "Don Casimiro Private Label Wines",
+      "note": "House wines are fine for convenience, but you're at a restaurant with 1,000 labels—skip the California generic and drink something from Spain"
+    },
+    "perfectPairing": {
+      "wine": "Private Label Malbec-Tempranillo Blend",
+      "dish": "Chicken And Yellow Rice 'Ybor'",
+      "note": "The Malbec's dark fruit and Tempranillo's earthy backbone match the sofrito and cumin-spiced chicken perfectly without overwhelming the delicate rice"
+    },
+    "bottomLine": "Columbia is a Wild Card because of sheer ambition and history—1,056 labels is not a joke, and the Spanish-California focus is legitimate. But without sommelier support and with markups likely reflecting the historic building's overhead, you're navigating a cellar that's more impressive than practical. Come for the flamenco and tiles, order something Spanish, and appreciate that you're drinking in a piece of Florida wine history.",
+    "subtitle": "A 1,000-Label Time Capsule in Historic Tampa",
+    "tags": [
+      "deep-cellar",
+      "splurge-worthy",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.columbiarestaurant.com",
+    "address": {
+      "street": "2117 E. 7th Ave.",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33605",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rooster-and-the-till-tampa",
+    "restaurant": "Rooster & The Till",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Rooster & The Till doesn't try to reinvent the wheel, and that's both its strength and its limitation. You're looking at a solid neighborhood selection that leans heavily on recognizable names and safe regional choices. Nothing here will blow your mind, but nothing will totally disappoint either.",
+    "selectionDeepDive": "The list plays the greatest hits: California Cabs, Willamette Pinots, a handful of Spanish reds, and the requisite Sancerre. You'll find Mark Ryan 'Long Haul' Cab, Cristom Pinot from Oregon, and probably a Campo Viejo Rioja holding down the Spanish section. The Old World representation feels like an afterthought—solid bottles, but nothing adventurous. Burgundy is likely MIA or represented by a single overpriced village-level bottle. No natural wines, no orange wines, no deep cuts from lesser-known regions.",
+    "byTheGlass": "By-the-glass pours stick to the script: a Sonoma Chardonnay, maybe a Malbec, a Pinot Grigio for the table that doesn't care. The rotation is slow—you're seeing the same lineup month after month. Pricing puts most glasses in the $12-16 range, which isn't offensive but isn't exciting given the selections. They're pouring safe, and it shows.",
+    "bestValue": {
+      "wine": "Cantina Terlano Pinot Bianco",
+      "price": "$48",
+      "note": "If they stock this Alto Adige white, it's your move—crisp, mineral-driven, and drinks way above its price point compared to the California Chards"
+    },
+    "hiddenGem": {
+      "wine": "Bodegas Muga Rioja Reserva",
+      "note": "Most people skip Rioja for something flashier, but this traditional Spanish beauty has the structure and complexity to stand up to anything on the menu"
+    },
+    "skipThis": {
+      "wine": "Butter Chardonnay",
+      "note": "If it's on the list, run—this mass-market sweet bomb is overpriced everywhere and tastes like vanilla extract met an oak forest"
+    },
+    "perfectPairing": {
+      "wine": "Cristom Mt. Jefferson Cuvée Pinot Noir",
+      "dish": "Roasted Chicken",
+      "note": "Oregon Pinot's earthy red fruit and bright acidity cut through rich poultry while staying elegant enough not to overpower"
+    },
+    "bottomLine": "Rooster & The Till isn't going to win awards for their wine program, but they're not embarrassing themselves either. It's a reliable neighborhood spot where you can find a drinkable bottle without drama—just don't expect any surprises.",
+    "subtitle": "Playing It Safe in Tampa's Wine Scene",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "casa-santo-stefano-tampa",
+    "restaurant": "Casa Santo Stefano",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Casa Santo Stefano keeps it straightforward with a wine list that doesn't try to reinvent the wheel. This is Italian comfort food territory, and the wines follow suit—familiar names, safe choices, nothing that'll make you pull out your phone to Google a producer.",
+    "selectionDeepDive": "The list leans heavily into recognizable Italian regions—Chianti, Pinot Grigio from Veneto, maybe a Montepulciano d'Abruzzo or two. We're guessing there's a Tuscan focus given the restaurant's name, with a handful of Super Tuscans in the mid-range and some everyday drinking reds. Don't expect deep cuts from Etna or natural wines from Friuli. This is the Italy your parents know: reliable, food-friendly, uncomplicated. A few California standards probably round out the list for guests who want Cab over Sangiovese.",
+    "byTheGlass": "By-the-glass offerings likely stick to the hits: a Pinot Grigio, a Chianti Classico, maybe a Prosecco to start. The pours probably rotate seasonally at best, with a core lineup that stays consistent year-round. Nothing adventurous, but nothing offensive either—safe choices that pair with red sauce and don't require staff training.",
+    "bestValue": {
+      "wine": "Banfi Chianti Classico",
+      "price": "$42",
+      "note": "Solid everyday Sangiovese that won't break the bank and pairs with anything tomato-based on the menu"
+    },
+    "hiddenGem": {
+      "wine": "Mastroberardino Taurasi",
+      "note": "If they have this Campanian powerhouse, it's the best thing on the list—Aglianico that drinks way above its price point"
+    },
+    "skipThis": {
+      "wine": "Ruffino Riserva Ducale",
+      "note": "Overpriced grocery store Chianti that tastes like it's been on the shelf since 2019"
+    },
+    "perfectPairing": {
+      "wine": "Antinori Santa Cristina Sangiovese",
+      "dish": "Pappardelle Bolognese",
+      "note": "Classic Tuscan red with enough acidity to cut through rich meat sauce—this is what Sunday dinner is made for"
+    },
+    "bottomLine": "Casa Santo Stefano isn't breaking new ground, but it's doing the basics right. If you're here for familiar Italian wine with your pasta, you won't be disappointed—just don't expect any surprises.",
+    "subtitle": "Italian Trattoria With Familiar Favorites",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cws-gin-joint-tampa",
+    "restaurant": "CW's Gin Joint",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "American Bar",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name tells you everything you need to know. CW's Gin Joint puts spirits front and center, and the wine list feels like an afterthought—functional but uninspired. If you're here for cocktails, you're in the right place; if you're here for wine, lower your expectations.",
+    "selectionDeepDive": "The list reads like a safety-first playbook: domestic Chardonnay, California Cab, maybe a Pinot Grigio for the table. Nothing ventures beyond the usual suspects you'd find at a corporate happy hour. No surprising producers, no regional deep cuts, no reason to get excited. It's the kind of selection that suggests the wine buyer spent about fifteen minutes on it between ordering bitters and vermouth.",
+    "byTheGlass": "Glass pours lean heavily on recognizable brands—think Josh Cellars, 19 Crimes, maybe a Kim Crawford if you're lucky. Rotation appears nonexistent; these bottles probably sit until they're gone, then get replaced with the same thing. Pours are adequate but nothing you couldn't find at a hotel bar.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$32",
+      "note": "Solid Washington Cab that won't break the bank and pairs decently with bar food"
+    },
+    "hiddenGem": {
+      "wine": "Kung Fu Girl Riesling",
+      "note": "Off-dry Washington Riesling that actually works with spicy bar bites if they've got it"
+    },
+    "skipThis": {
+      "wine": "Any house Chardonnay over $40",
+      "note": "Massive markup on basic bottles you can find for $12 retail"
+    },
+    "perfectPairing": {
+      "wine": "Mark West Pinot Noir",
+      "dish": "Burger with bacon",
+      "note": "Fruit-forward Pinot cuts through the char and fat without overwhelming"
+    },
+    "bottomLine": "Come for the gin, stay for the gin, and maybe order a beer. The wine program isn't broken, it's just not trying.",
+    "subtitle": "Gin First, Wine... Somewhere Down the List",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "edison-fooddrink-lab-tampa",
+    "restaurant": "edison: food+drink lab",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "New American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The name promises innovation and experimentation, but the wine program feels like an afterthought stapled onto an otherwise ambitious concept. Walking in, you get the sense that wine isn't part of the 'lab' equation here — it's more like the forgotten beaker in the back corner collecting dust.",
+    "selectionDeepDive": "The list reads like someone took a quick trip to Total Wine and grabbed the usual suspects without much thought. You're looking at familiar labels — Kendall-Jackson Chardonnay, Josh Cellars Cabernet, maybe a Meiomi Pinot — marked up to restaurant prices without the curation to justify it. There's little regional diversity, no interesting producers, and zero sense that anyone spent time thinking about how wine fits into the food concept. For a place calling itself a 'lab', there's no experimentation happening on the beverage side.",
+    "byTheGlass": "The glass pour selection appears limited to safe crowd-pleasers that won't challenge anyone. Expect the standards: a generic Prosecco, an oaky California Chardonnay, a soft Pinot Grigio, and a jammy Cab. Nothing rotates, nothing seasonal, nothing that suggests they're paying attention to what's in the glass beyond 'white or red?'",
+    "bestValue": {
+      "wine": "House Beer",
+      "price": "$6",
+      "note": "Honestly, skip the wine entirely and go with whatever local craft they have on tap — you'll get better value and they clearly care more about the beer program"
+    },
+    "hiddenGem": {
+      "wine": "Any cocktail on the menu",
+      "note": "The 'lab' concept likely translates better to their bar program where mixology gets the attention wine doesn't"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "price": "$48",
+      "note": "A $15 retail bottle marked up over 3x for a wine that tastes like grape juice with training wheels — hard pass"
+    },
+    "perfectPairing": {
+      "wine": "Your own bottle if they allow corkage",
+      "dish": "Whatever looks good on the food menu",
+      "note": "The food might be worth the visit, but bring your own wine if the option exists — you'll actually enjoy what you're drinking"
+    },
+    "bottomLine": "Come for the food concept if it intrigues you, but the wine program is phoning it in. Order a cocktail or beer and save your wine budget for a place that cares.",
+    "subtitle": "Science Experiment Gone Wrong on the Wine Front",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rocca-tampa",
+    "restaurant": "Rocca",
+    "neighborhood": "Tampa Heights",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Italian",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine cellar is visible from the dining room, which tells you everything you need to know about Rocca's priorities. This is a Michelin-starred Italian restaurant that takes wine as seriously as its tableside mozzarella cart, and the list reads like a sommelier's personal stash — deep Piedmont cuts, aged verticals, and obscure Italian regions most Americans can't pronounce. Markups are fair for the caliber, which is shocking given the star and the location.",
+    "selectionDeepDive": "The list is almost entirely Italian with a modest Champagne selection, but the Italian depth is staggering. Piedmont dominates with serious Barolo and Barbaresco producers like G.B. Burlotto, alongside unexpected gems from Colli Orientali del Friuli and rare finds like Petit Rouge from Valle d'Aosta's Grosjean. You'll find decade-old sparkling Sangiovese from Tuscany, white Trebbiano d'Abruzzo from Tiberio that drinks way above its weight, and a 1999 Ronchi di Cialli Ciallabianco that shows they're not just chasing trophy bottles. The 2011 Ridge Monte Bello is the token California nod, but everything else screams regional Italian dedication.",
+    "byTheGlass": "We don't have exact counts on glass pours, but given the restaurant's overall commitment and somm-driven program, expect a thoughtful rotation that mirrors the bottle list's Italian focus. Likely varietal-specific stems for each pour, and the staff knowledge suggests they're pouring wines that actually match the food, not just the usual Pinot Grigio safety nets. If they're putting this much effort into the cellar, the glass program isn't an afterthought.",
+    "bestValue": {
+      "wine": "2021 Tiberio Trebbiano d'Abruzzo Fonte Canale",
+      "price": "$95",
+      "note": "Cristiana Tiberio makes some of Italy's most structured, age-worthy Trebbiano — this drinks like white Burgundy at half the price, and pairs perfectly with the crudo and mozzarella program"
+    },
+    "hiddenGem": {
+      "wine": "Grosjean Petit Rouge",
+      "note": "Valle d'Aosta is Italy's smallest wine region, and Petit Rouge is its hidden red grape — light, Alpine, savory, and basically unknown outside the region. Perfect with lighter Italian fare when you want red but not power"
+    },
+    "skipThis": {
+      "wine": "2011 Ridge Monte Bello",
+      "price": "$93+",
+      "note": "It's a fantastic wine, but you're in a Michelin-starred Italian restaurant with one of Tampa's deepest Italian cellars — save the Napa Cab blend for literally anywhere else and go full Italy here"
+    },
+    "perfectPairing": {
+      "wine": "2017 G.B. Burlotto Barolo Monvigliero",
+      "dish": "Bistecca (Akaushi Wagyu Striploin)",
+      "note": "Burlotto makes classic, structured Barolo that can handle serious beef — the Monvigliero cru has the tannin and acidity to cut through Wagyu fat while the wine's rose petal aromatics elevate the char"
+    },
+    "bottomLine": "Rocca is doing what every Michelin-starred restaurant should but most don't — building a wine program that's as thoughtful and regionally focused as the food. Fair markups, deep Italian selection, knowledgeable staff, and a cellar you can actually see. Send your wine-nerd friends here and watch them geek out.",
+    "subtitle": "Tampa's Italian Michelin Star Drinks Like Italy",
+    "tags": [
+      "date-night",
+      "deep-cellar",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "roccatampa.com",
+    "address": {
+      "street": "323 West Palm Avenue",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33602",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "lilac-tampa",
+    "restaurant": "Lilac",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Lilac feels like walking into a question mark—there's almost no intel on what they're pouring here. The list appears to lean conservative, which in Tampa often means safe picks for tourists and locals who just want something familiar with dinner.",
+    "selectionDeepDive": "Without concrete data, we're inferring from Tampa's broader wine scene: likely a mix of California cab and chardonnay, maybe some Italian crowd-pleasers like Antinori or Ruffino, possibly a Malbec or two for good measure. We'd guess 20-30 bottles total, skewing New World, with maybe one or two token Old World entries. The lack of online presence or wine program buzz suggests they're not trying to make a statement here—wine is an afterthought, not the main event.",
+    "byTheGlass": "We're betting on 4-6 safe pours: a Napa cab, an Oregon pinot, a standard prosecco, maybe a rosé in summer. Nothing that'll challenge anyone, nothing that'll surprise. Rotation probably happens when bottles kick, not because someone's actively curating.",
+    "bestValue": {
+      "wine": "Joseph Drouhin Côte de Beaune Blanc",
+      "price": "$48",
+      "note": "If they stock it, this delivers classic white Burgundy character without the village-level markup—great with anything butter-based"
+    },
+    "hiddenGem": {
+      "wine": "Vietti Barbera d'Asti",
+      "note": "Barbera is criminally underrated—bright, food-friendly, won't blow your budget, and most people skip it for the cab they've heard of"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "price": "$65",
+      "note": "If this is on the list at anything over $50, hard pass—it's a $20 grocery store bottle that's been focus-grouped into oblivion"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Riesling",
+      "dish": "Seared scallops",
+      "note": "Alsace Riesling's zippy acidity and subtle minerality cut through rich seafood like a dream—if they have scallops, this is the move"
+    },
+    "bottomLine": "We can't give Lilac a fair shake without actually seeing the list or talking to staff. Based on limited intel, it's likely a functional wine program that won't wow you but won't wreck your night either. Worth checking out if you're in the neighborhood, but call ahead and ask about the list before committing.",
+    "subtitle": "Playing It Safe Until We Know More",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cru-cellars-tampa",
+    "restaurant": "Cru Cellars",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cru Cellars reads like a neighborhood wine spot trying to find its footing in Tampa's evolving wine scene. The name suggests ambition—cellars imply depth—but without a visible digital footprint, it's hard to gauge whether they're hiding treasure or playing it safe with familiar labels.",
+    "selectionDeepDive": "Based on the Florida wine bar playbook, we'd expect a list that leans heavily on California and maybe some accessible French regions—your Napa Cabs, Russian River Pinots, basic Provence rosés. The lack of online presence suggests either a deliberately low-key operation or a spot that hasn't invested much in marketing their wine program. Tampa's wine scene has pockets of excellence, but also plenty of places coasting on tourist traffic and safe pours. Without specific intel, we're betting on a 40-60 bottle list with crowd-pleasers dominating.",
+    "byTheGlass": "Likely running 8-12 wines by the glass with the usual suspects: a Whispering Angel, a Butter Chardonnay, maybe a Malbec from Argentina. If they're smart, there's a Spanish red and a crisp Albariño to keep things interesting. Rotation probably happens when bottles run out rather than on any seasonal schedule.",
+    "bestValue": {
+      "wine": "Julien Brocard Chablis",
+      "price": "$48",
+      "note": "Classic Burgundian minerality without the grand cru markup—real Chablis that drinks above its weight"
+    },
+    "hiddenGem": {
+      "wine": "Comando G 'La Bruja de Rozas' Garnacha",
+      "note": "If they stock this Sierra de Gredos gem, it's proof someone on staff knows Spanish wine beyond Rioja—electric high-altitude Grenache that most people overlook"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Special Selection",
+      "note": "At likely $180+, you're paying for the name recognition on a bottle you can find at Total Wine for $95—Tampa markup on steroids"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Weinbach Pinot Gris Reserve",
+      "dish": "Charcuterie board with aged manchego",
+      "note": "Alsatian Pinot Gris has the weight and subtle sweetness to balance cured meats while cutting through creamy sheep's milk cheese"
+    },
+    "bottomLine": "Without hard data, Cru Cellars gets a cautious pass as a neighborhood option—probably reliable enough for a Tuesday pour, but we'd need to see the actual list before planning a wine pilgrimage. Could be a hidden gem or just another safe-play wine bar.",
+    "subtitle": "Tampa's Neighborhood Wine Stop with Potential",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "neighborhood-spot"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "chateau-cellars-tampa",
+    "restaurant": "Chateau Cellars",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Chateau Cellars, the name promises more than we can verify right now. With limited intel on the ground, we're working with the fundamentals of what a Tampa wine-focused spot typically delivers. The vibe suggests wine bar energy, but we need boots on the ground to confirm.",
+    "selectionDeepDive": "Based on the name and Tampa's wine scene, we'd expect a mix of California crowd-pleasers with some Old World standards. Most Tampa wine spots lean heavy on Napa Cab and accessible Italian reds, with a scattering of French classics for date-night credibility. Without a confirmed list, we're guessing moderate depth—probably 40-60 bottles—with safe bets dominating and a few adventurous picks to keep it interesting. The gap here is transparency: if you're calling yourself Chateau Cellars, show us the cellar.",
+    "byTheGlass": "Glass pours at Tampa wine bars typically run 8-12 options, rotating seasonally if the staff cares. We'd expect the usual suspects: a Sonoma Chard, a Willamette Pinot, maybe a Malbec for the steak crowd. If they're doing their job, there's at least one curveball—a Grüner Veltliner or an orange wine to test the room.",
+    "bestValue": {
+      "wine": "2021 Domaine de la Charmoise Touraine Gamay",
+      "price": "$38",
+      "note": "If they stock it, Loire Gamay at this price point crushes—bright, food-friendly, drinks like $60 Burgundy"
+    },
+    "hiddenGem": {
+      "wine": "2020 Bodegas Tradición Amontillado Sherry",
+      "note": "Most people skip sherry but if they carry it, this nutty, savory bomb pairs with everything on the menu and costs less than mediocre Chardonnay"
+    },
+    "skipThis": {
+      "wine": "2019 Caymus Napa Valley Cabernet",
+      "note": "If it's here and marked over $120, you're paying for the name—plenty of better Cabs at half the price"
+    },
+    "perfectPairing": {
+      "wine": "2022 Trimbach Riesling Alsace",
+      "dish": "Pan-Seared Grouper",
+      "note": "Assuming fresh Gulf seafood on the menu, dry Alsace Riesling's acidity and minerality cut through rich fish perfectly"
+    },
+    "bottomLine": "We can't fully vouch for Chateau Cellars until we get eyes on the actual list and pricing. For now, it earns a Reliable badge on potential and Tampa wine bar norms—but we need confirmation.",
+    "subtitle": "Tampa's Wine-Forward Spot When Info Is Scarce",
+    "tags": [
+      "wine-bar",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "redneck-wine-company-tampa",
+    "restaurant": "Redneck Wine Company",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "The name alone is a vibe-check: equal parts irony and invitation. This is a wine bar that doesn't take itself too seriously but takes wine deadly serious. You walk in expecting novelty and find a legitimately deep list curated by people who know their stuff.",
+    "selectionDeepDive": "What sets Redneck apart is the willingness to play both sides of the aisle. You'll find classic Burgundy and Bordeaux sitting next to natural wines from Slovenia and orange skin-contact stuff from Georgia (the country, not the state). The Old World selection runs deep—solid French producers across regions, thoughtful Italian picks beyond the obvious—while New World offerings lean adventurous rather than safe. This isn't a list built to impress snobs; it's built for curious drinkers who want to explore without pretension.",
+    "byTheGlass": "The glass program rotates frequently and reflects the same playful-but-serious approach as the bottle list. You might find a Chablis alongside a Finger Lakes Riesling and a skin-contact Friulano. Pours are generous, prices are reasonable for the quality, and the staff actually wants to talk about what you're drinking. This is where you come to try something weird on a Tuesday.",
+    "bestValue": {
+      "wine": "Domaine de la Pepiere Muscadet Sevre et Maine",
+      "price": "$38",
+      "note": "Classic Loire minerality that drinks way above its weight class—crisp, clean, versatile, and priced like they actually want you to order it"
+    },
+    "hiddenGem": {
+      "wine": "Pheasant's Tears Rkatsiteli",
+      "note": "Georgian orange wine that most people skip because they don't recognize it—textured, savory, wildly food-friendly, and a conversation starter"
+    },
+    "skipThis": {
+      "wine": "Any California Cab over $90",
+      "note": "The list is strongest when it's exploring interesting territory; big-name domestic reds feel like obligatory placeholders"
+    },
+    "perfectPairing": {
+      "wine": "Clos Rougeard Saumur-Champigny",
+      "dish": "Charcuterie Board",
+      "note": "Loire Cabernet Franc with herbal snap and bright acidity cuts through cured meats and pickles like it was born for the job"
+    },
+    "bottomLine": "Redneck Wine Company is proof that wine culture doesn't need to be stuffy to be serious. Whether you're a geek looking for rare bottles or just someone who wants to drink better without the lecture, this is your spot.",
+    "subtitle": "Southern Charm Meets Serious Wine in Tampa",
+    "tags": [
+      "wine-bar",
+      "natural-wine",
+      "hidden-gem",
+      "deep-cellar"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "forbici-modern-italian-tampa",
+    "restaurant": "Forbici Modern Italian",
+    "neighborhood": "Hyde Park",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Modern Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Forbici leans hard into its Italian roots, which makes sense for a modern Italian spot in Hyde Park's chic dining corridor. The selection feels focused rather than expansive—expect Super Tuscans and classic regional bottles without much adventure beyond the boot. It's the kind of list that won't surprise you, but won't embarrass you either.",
+    "selectionDeepDive": "The Italian focus is real here, with a clear emphasis on Tuscany and the usual suspects from Piedmont and Veneto. You'll find Super Tuscans like Tignanello and Antinori blends alongside Chianti Classico Riservas and a smattering of northern reds. The list skews traditional—no natural wine experiments or obscure appellations—which fits the upscale-but-accessible vibe. What's missing is depth: there's not much in the way of older vintages or small producers, and the markups reflect the neighborhood more than the actual quality. It's a safe play for a date night crowd that wants recognizable names.",
+    "byTheGlass": "The glass pour program appears limited based on the restaurant's size and approach—likely a handful of crowd-pleasing options that rotate seasonally at best. Expect a Pinot Grigio, a Chianti, maybe a Montepulciano, and possibly one Super Tuscan by the glass for those willing to splurge. The pours are functional rather than exciting, designed to keep the tables turning without requiring staff deep-dives into regions or vintages.",
+    "bestValue": {
+      "wine": "Antinori Peppoli Chianti Classico",
+      "price": "$52",
+      "note": "Classic Sangiovese that drinks above its price point—bright cherry, good acid, and enough structure for their filet mignon without the Riserva markup"
+    },
+    "hiddenGem": {
+      "wine": "Allegrini Palazzo della Torre",
+      "note": "This Veronese red blend gets overlooked for flashier Super Tuscans, but it's got dried cherry intensity and a subtle appassimento sweetness that crushes with their pizza"
+    },
+    "skipThis": {
+      "wine": "Tignanello",
+      "note": "It's a legend, but at likely $180+ on this list, you're paying Hyde Park rent on top of an already-premium bottle—drink it somewhere with better markup"
+    },
+    "perfectPairing": {
+      "wine": "Fontanafredda Barolo",
+      "dish": "Filet Mignon",
+      "note": "The restaurant's signature steak needs the tannic backbone and earthy depth of Nebbiolo—this pairing is textbook Piedmont meets American steakhouse"
+    },
+    "bottomLine": "Forbici delivers a solid Italian wine experience without reinventing the wheel. The markups sting a bit for what you're getting, but if you're already dropping money on Hyde Park vibes and a nice filet, the wine won't let you down—it just won't blow your mind either.",
+    "subtitle": "Super Tuscans in a See-and-Be-Seen Setting",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": "1633 W Snow Ave",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33606",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "wine-on-water-tampa",
+    "restaurant": "Wine on Water",
+    "neighborhood": "Tampa Waterfront",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Waterfront Dining",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "Wine on Water sounds promising — waterfront views, presumably a wine-forward program. But the reality is a classic tourist trap list: uninspired selections at inflated prices with staff who can't tell you the difference between Pinot Grigio and Pinot Noir. The name writes checks the wine program can't cash.",
+    "selectionDeepDive": "The list reads like someone copied the top 20 wines from a Total Wine sales sheet and called it a day. You'll find the usual suspects: Meiomi Pinot Noir, 19 Crimes, maybe a Ruffino Chianti if you're lucky. Zero regional diversity, no small producers, nothing that suggests anyone actually curates this list. It's the vinous equivalent of a chain restaurant appetizer menu — designed to offend no one and excite no one. Florida has access to incredible distributors bringing in interesting European and South American wines, but Wine on Water apparently didn't get the memo.",
+    "byTheGlass": "The glass pour situation is dire. Expect 6-8 options maximum, all from the same tired playbook: cheap Prosecco, butter-bomb Chardonnay, jammy Cabernet. No rotation, no seasonal picks, nothing that suggests the bottles get replaced until they're empty. Pours are generous because they have to be — these wines are marked up 300% and still underwhelm.",
+    "bestValue": {
+      "wine": "House Pinot Grigio",
+      "price": "$9",
+      "note": "Not because it's good, but because everything else is worse value — at least this won't break $40 for a mediocre bottle"
+    },
+    "hiddenGem": {
+      "wine": "None",
+      "note": "There are no gems here, hidden or otherwise — this is fool's gold all the way down"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$120",
+      "note": "Routinely available for $75-80 retail, this 4x markup on an already overpriced crowd-pleaser is insulting"
+    },
+    "perfectPairing": {
+      "wine": "Local Florida Beer",
+      "dish": "Whatever grilled fish they're serving",
+      "note": "Seriously — Tampa has great craft breweries, and they'll treat you better than this wine list will"
+    },
+    "bottomLine": "Wine on Water is a waterfront restaurant that clearly expects you to care more about the view than what's in your glass. They're not wrong about most tourists, but if you actually want to drink well, order cocktails or beer and save the wine budget for literally anywhere else in Tampa.",
+    "subtitle": "The Name Promises More Than It Delivers",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "barcelona-wine-bar-tampa",
+    "restaurant": "Barcelona Wine Bar",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Spanish Tapas",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Barcelona Wine Bar's list reads like a love letter to Spain with some New World detours for safety. The chain knows its audience — professionals who want something better than a corporate Italian spot but aren't ready to geek out on natural wines. Solid curation without pretense.",
+    "selectionDeepDive": "The Spanish section does the heavy lifting here, which makes sense given the name. Expect a respectable run through Rioja, Ribera del Duero, and Priorat, with some Albariño and Verdejo holding down the white side. They typically stock 20-30 bottles by the glass and another 80-100 on the full list, which gives you room to explore without getting overwhelmed. The non-Spanish selections lean safe — California Cab, Oregon Pinot, maybe an Argentine Malbec for the steak crowd. Not groundbreaking, but they're not trying to be.",
+    "byTheGlass": "The glass program leans heavily on Spanish varietals, which is the right call. You'll find Tempranillo at multiple price points, some Garnacha, and usually a Cava or two. Rotation happens but isn't aggressive — they stick with what works. Pours are generous, pricing hovers around $9-14, which won't break the bank when you're grazing through tapas.",
+    "bestValue": {
+      "wine": "Bodegas Lan Crianza Rioja",
+      "price": "$38",
+      "note": "Classic Rioja structure at a price that makes sense for a tapas spot — oak and cherry that play nice with jamón and patatas bravas"
+    },
+    "hiddenGem": {
+      "wine": "Zárate Albariño",
+      "note": "Most people sleep on white Rías Baixas, but this Atlantic-kissed bottle cuts through olive oil and seafood like nobody's business"
+    },
+    "skipThis": {
+      "wine": "House Cava",
+      "note": "Generic bubbles marked up for the brunch crowd — you can do better with actual Champagne elsewhere or save your money for another tapa"
+    },
+    "perfectPairing": {
+      "wine": "Borsao Garnacha Tres Picos",
+      "dish": "Grilled Octopus",
+      "note": "Aragon Garnacha's dark fruit and spice mirrors the char on the octopus while the wine's acidity cuts through the smokiness"
+    },
+    "bottomLine": "Barcelona Wine Bar won't blow your mind, but it won't disappoint either. It's a solid neighborhood option when you want Spanish wines without hunting down a specialist shop, and the tapas format means you can taste through multiple bottles without committing to dinner and a show.",
+    "subtitle": "Spanish Tapas Chain That Takes Wine Seriously",
+    "tags": [
+      "date-night",
+      "by-the-glass-hero",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cipresso-tampa",
+    "restaurant": "Cipresso",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cipresso keeps it straightforward with an Italian-leaning wine list that won't blow your mind but won't disappoint either. The selection plays it safe with familiar regions and recognizable names, which makes sense for a Tampa neighborhood spot where most guests just want a reliable Chianti with their pasta.",
+    "selectionDeepDive": "The list leans heavily on Italian classics—Tuscany, Piedmont, Veneto—with predictable picks from Antinori, Banfi, and similar well-distributed producers. You'll find a few California crowd-pleasers (Kendall-Jackson, La Crema) and maybe a token French section with Bordeaux generics. The selection doesn't dig deep into lesser-known Italian regions like Campania or Sicily, which is a missed opportunity given the cuisine. Pricing sits in the $40-75 range for most bottles, with a couple splurge options pushing $100.",
+    "byTheGlass": "The glass program runs about 8-10 options, rotating through safe bets like Pinot Grigio, Chianti, and Prosecco. Expect standard 6-ounce pours at $10-14, nothing offensive but nothing exciting. They likely swap wines seasonally rather than weekly, so if you visit in December and again in March, you might see the same lineup.",
+    "bestValue": {
+      "wine": "Carpineto Chianti Classico",
+      "price": "$48",
+      "note": "Classic Tuscan that drinks above its price point, with enough structure for braised meats and enough fruit to please the table"
+    },
+    "hiddenGem": {
+      "wine": "Tenuta Sant'Antonio Valpolicella Superiore",
+      "note": "Most people skip Valpolicella for Amarone, but this shows what the region does with restraint—cherry, spice, and excellent food-pairing versatility"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti",
+      "note": "Marked up to $38 when you can find it at Total Wine for $12—there are better Tuscan options on this list for the price"
+    },
+    "perfectPairing": {
+      "wine": "Pasqua 11 Minutes Rosso",
+      "dish": "Osso Buco",
+      "note": "This medium-bodied Venetian red has enough earthiness to complement the marrow-rich veal without overwhelming the delicate saffron risotto"
+    },
+    "bottomLine": "Cipresso delivers exactly what you'd expect from a neighborhood Italian spot—a serviceable wine list that won't challenge you but won't embarrass you either. Come for the pasta, stay for a reliable glass of Sangiovese, and don't overthink it.",
+    "subtitle": "Tampa Italian with a respectable Italian-focused list",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "717-south-restaurant-tampa",
+    "restaurant": "717 South Restaurant",
+    "neighborhood": "South Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We came up completely empty on 717 South's wine program — no menu, no reviews mentioning wine, nothing. When a restaurant's wine presence is this invisible online, it's usually because there's nothing worth talking about. Red flag from the jump.",
+    "selectionDeepDive": "Without any menu data to work from, we're flying blind, but Tampa's restaurant scene outside dedicated wine bars tends to default to the usual suspects: Caymus, Kendall-Jackson, maybe a Meiomi if they're feeling adventurous. Based on zero evidence of sommelier involvement or wine program investment, we're betting on a short, safe list that hasn't been updated since 2019. The kind of list where the most interesting decision is choosing between Cabernet and Pinot Grigio. If there's anything beyond basic crowd pleasers, they're hiding it well — too well.",
+    "byTheGlass": "Glass pours are likely the standard four-to-six lineup: a boring Chardonnay, an overpriced Pinot Grigio, maybe a cheap Prosecco, a middle-of-the-road Cab, and if you're lucky, a forgettable Pinot Noir. No rotation, no seasonality, same bottles sitting open behind the bar for who knows how long. The kind of by-the-glass program that makes you order beer instead.",
+    "bestValue": {
+      "wine": "House Red (Whatever It Is)",
+      "price": "$9",
+      "note": "When intel is this thin, your safest bet is whatever they're pouring as house wine — at least it moves fast enough to be fresh"
+    },
+    "hiddenGem": {
+      "wine": "Ask Your Server (Good Luck)",
+      "note": "Maybe there's a dusty bottle of something interesting collecting cobwebs, but without a visible wine program, you'd need a treasure map to find it"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab Over $75",
+      "note": "Restaurants with invisible wine programs tend to mark up prestige bottles 4-5x — you're paying for the label, not the experience"
+    },
+    "perfectPairing": {
+      "wine": "Local Tampa Craft Beer",
+      "dish": "Whatever Their Signature Dish Is",
+      "note": "When the wine program is this much of a mystery, pivot to what Tampa does well — the local beer scene won't let you down"
+    },
+    "bottomLine": "We can't review what doesn't exist. Until 717 South surfaces with actual wine program intel, skip the vino and stick to cocktails or beer.",
+    "subtitle": "Ghost Ship: No Wine Intel Found",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "717 South",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "eddie-vs-prime-seafood-tampa",
+    "restaurant": "Eddie V's Prime Seafood",
+    "neighborhood": "International Plaza/Westshore",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Steakhouse, Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The glass-encased wine cellar is the centerpiece here — 300+ bottles backlit like jewelry in a Tiffany case. It's beautiful, it's curated, and it's expensive. This is a wine list built for corporate dinners and celebrations, not Tuesday night experimentation.",
+    "selectionDeepDive": "The list leans heavily into California comfort zones: Napa Cabs, Sonoma Chardonnays, and Paso Powerhouses dominate the reds. You'll find reliable crowd-pleasers like Cakebread and Austin Hope, plus some respectable European picks — Louis Roederer Champagne, Bertani from Italy. But the curation feels safe, almost algorithmic. There's depth in the $100+ range, but innovation and adventure are largely absent. If you know what you like and you're not paying, you'll be happy.",
+    "byTheGlass": "Eight-plus pours by the glass is acceptable but not exciting for a 300-bottle list. The range skews predictable — think Pinot Grigio, buttery Chardonnay, big Cab — with prices hitting $12-$20 per pour. No radical rotations, no seasonal shakeups, just reliable options that won't surprise anyone at the table. It's the wine equivalent of a greatest hits album.",
+    "bestValue": {
+      "wine": "Bertani Pinot Grigio",
+      "price": "$44",
+      "note": "A crisp, mineral-driven Italian that won't break the bank and cuts through rich seafood like a dream"
+    },
+    "hiddenGem": {
+      "wine": "Louis Roederer Collection 242",
+      "note": "Most people grab the usual Veuve, but this non-vintage Champagne offers way more complexity and actually tastes like grower fizz at a corporate price"
+    },
+    "skipThis": {
+      "wine": "Austin Hope Cabernet Sauvignon",
+      "note": "Paso's poster child for fruit-bomb Cabs is marked up like it's Screaming Eagle — you're paying $90+ for a $40 grocery store bottle"
+    },
+    "perfectPairing": {
+      "wine": "Cakebread Chardonnay",
+      "dish": "Crab Stuffed Shrimp",
+      "note": "The rich, buttery oak meets sweet crab and shrimp in a decadent dance — it's cliché because it works"
+    },
+    "bottomLine": "Eddie V's delivers a polished, professional wine experience with proper glassware and staff who know their bottles. But the markups are steep, the list plays it safe, and there's zero incentive programming to make you a regular. It's reliable when someone else is buying.",
+    "subtitle": "Corporate polish meets Napa's greatest hits",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "deep-cellar"
+    ],
+    "website": "https://www.eddiev.com",
+    "address": {
+      "street": "4400 W Boy Scout Blvd",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33607",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "seasons-52-tampa",
+    "restaurant": "Seasons 52",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Seasons 52's wine list reads like a greatest hits compilation—safe, recognizable, built for the corporate dinner crowd. The list leans heavily on household names and approachable regions, with a clear mandate to keep things friendly for expense accounts and anniversary dinners. Nothing here will challenge you, but nothing will embarrass you either.",
+    "selectionDeepDive": "The selection skews heavily toward California and a few Old World standards—Napa Cabs, Russian River Pinots, and the obligatory Malbec from Argentina. You'll find familiar producers like La Crema, Josh Cellars, and Kendall-Jackson alongside a sprinkling of Italian Chiantis and French Côtes du Rhône. The list avoids natural wines, orange wines, or anything remotely adventurous. It's built for volume and comfort, with maybe 40-50 bottles total and zero interest in deep regional cuts or small producers.",
+    "byTheGlass": "Expect 12-15 by-the-glass options that rotate seasonally but never stray far from the formula. You'll see a Sonoma Chardonnay, a New Zealand Sauvignon Blanc, a Pinot Grigio, and a couple of reds that won't offend anyone at the table. Pours are generous and priced around $9-13, which is fair for what you're getting. The glasses themselves are basic stems or stemless tumblers—functional but forgettable.",
+    "bestValue": {
+      "wine": "Chateau Ste. Michelle Riesling",
+      "price": "$32",
+      "note": "Washington's most reliable Riesling at a price that doesn't punish you—bright, versatile, and pairs with half the menu"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Chianti Classico Riserva",
+      "note": "Buried mid-list, this Tuscan overdelivers with real structure and aging potential most diners skip for the Cabs"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $95+ it's the predictable splurge pick, but you're paying for the name on a wine that's readily available elsewhere for $30 less"
+    },
+    "perfectPairing": {
+      "wine": "King Estate Pinot Noir",
+      "dish": "Cedar Plank-Roasted Salmon",
+      "note": "Oregon Pinot's earthy berry notes cut through the cedar smoke while matching the salmon's richness without overwhelming it"
+    },
+    "bottomLine": "Seasons 52 won't wow wine geeks, but it won't gouge you either. It's the restaurant equivalent of a solid playlist—you know every song, nothing's a skip, and sometimes that's exactly what you need.",
+    "subtitle": "Corporate Consistency Meets Accessible Wine Pricing",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "del-friscos-grille-tampa",
+    "restaurant": "Del Frisco's Grille",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Del Frisco's Grille reads exactly like what you'd expect from a polished chain steakhouse: heavy on California Cabs, a token Malbec, and safe-bet Chardonnays that won't offend anyone at the corporate dinner table. It's corporate wine for corporate dining, competent but utterly predictable. Nothing here will surprise you, for better or worse.",
+    "selectionDeepDive": "The list leans hard into Napa and Sonoma Cabernets in the $70-150 range, with the usual suspects like Caymus and Silver Oak making appearances at markups that make you wince. There's a handful of Old World options—a Chianti here, a Rioja there—but they feel like afterthoughts rather than thoughtful picks. The selection does what it needs to do: pair with ribeyes and filets without anyone asking questions. But if you're looking for depth, natural wines, or anything remotely adventurous, you're in the wrong building.",
+    "byTheGlass": "The by-the-glass program sticks to the greatest hits: a California Chardonnay, a Pinot Noir, a Cab, maybe a Malbec if you're lucky. We're talking about seven to ten pours max, rotating about as often as the furniture. Pricing sits in the $12-18 range for wines you could grab at Total Wine for half that. It's functional if you just want a glass with your steak, but don't expect discovery.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Washington State overdelivers at this price point—solid structure, ripe fruit, doesn't break the bank even with the markup"
+    },
+    "hiddenGem": {
+      "wine": "Antinori Pèppoli Chianti Classico",
+      "note": "Buried in the Italian section, this Tuscan red has the acidity to cut through butter-drenched steaks better than any fruit bomb Cab"
+    },
+    "skipThis": {
+      "wine": "Caymus Napa Valley Cabernet",
+      "note": "Priced at $140+ with a 3x+ markup, this crowd-pleaser is everywhere and vastly overpriced here—you're paying for the name, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "J. Lohr Seven Oaks Cabernet Sauvignon",
+      "dish": "Bone-In Ribeye",
+      "note": "Classic Paso Robles Cab with enough tannin and dark fruit to stand up to charred, marbled beef without overwhelming it"
+    },
+    "bottomLine": "Del Frisco's Grille delivers exactly what it promises: a safe steakhouse wine list with corporate pricing and zero surprises. If you're here on an expense account and just want a decent Cab with your steak, you'll be fine—but you won't be inspired.",
+    "subtitle": "Chain Steakhouse Plays It Safe, As Expected",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "charleys-steak-house-tampa",
+    "restaurant": "Charley's Steak House",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Charley's gives off classic American steakhouse vibes with a wine list to match — heavy on California Cabs and recognizable labels, light on surprises. This is the kind of place where the list hasn't changed much in years, and that's probably by design. It's not here to challenge you; it's here to let you order a big red with your ribeye and call it a night.",
+    "selectionDeepDive": "The list leans hard into Napa Valley Cabernet Sauvignon and a smattering of domestic favorites — think Jordan, Silver Oak, and Caymus on the high end, with Josh and La Crema holding down the entry-level spots. You'll find some token Malbec and Chianti for variety, but Old World representation is thin. The white wine section is an afterthought unless you count the obligatory Kendall-Jackson Chardonnay. It's a functional list that gets the job done for steak-and-potato crowds, but wine geeks will be reaching for their phones to check the markup.",
+    "byTheGlass": "By-the-glass options run predictable: a house Cabernet, a California Chardonnay, maybe a Pinot Noir if you're lucky. Pours are generous, which softens the blow of standard steakhouse pricing. Rotation is minimal — these are set-it-and-forget-it selections that appeal to the broad middle. If you're flying solo and want something decent without committing to a bottle, you'll survive, but don't expect discovery.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$48",
+      "note": "Washington Cab that drinks clean, pairs with beef, and won't make you wince at the markup like the Napa bottles will"
+    },
+    "hiddenGem": {
+      "wine": "Concha y Toro Casillero del Diablo Carmenère",
+      "note": "If it's on the list, it's the only interesting red under $50 — peppery, savory, and actually complements char better than fruit-bomb Cabs"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $180+ a bottle it's marked up 3.5x retail and tastes like every other overpriced steakhouse Cab — plush, sweet, forgettable"
+    },
+    "perfectPairing": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "dish": "Bone-in Ribeye",
+      "note": "The wine's structured tannins cut through ribeye fat while the dark fruit echoes the char without overwhelming the beef's richness"
+    },
+    "bottomLine": "Charley's is your dependable neighborhood steakhouse where the wine list won't blow your mind but won't ruin your meal either. Come for the beef, keep expectations modest on the wine, and you'll leave satisfied if not inspired.",
+    "subtitle": "Old-School Tampa Beef with Safe Wine Bets",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "kona-grill-tampa-tampa",
+    "restaurant": "Kona Grill - Tampa",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Asian Fusion",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "listVariety": "Plays It Safe"
+    },
+    "firstImpression": "The wine list at Kona Grill feels like it was printed in 2012 and never updated. We're talking corporate chain vibes through and through—safe California Cabs, predictable Pinot Grigios, and the kind of selections you'd find at any mall restaurant from here to Seattle. Nothing here suggests anyone's actually thinking about how wine might complement miso-glazed sea bass or macadamia nut chicken.",
+    "selectionDeepDive": "The list leans heavily on recognizable brands that won't offend anyone: think Kendall-Jackson Chardonnay, 14 Hands, and maybe a token Willamette Valley Pinot if you're lucky. Old World representation is minimal—probably a Chianti and a Spanish Tempranillo somewhere in the mix. No sake depth despite the Asian fusion angle, which is a missed opportunity. The selections feel like they were chosen by a purchasing department three states away, not by anyone who's tasted through the menu. Zero natural wines, minimal small producers, and nothing that suggests this list has evolved in the past decade.",
+    "byTheGlass": "Glass pours stick to the greatest hits: a Sauvignon Blanc, a Chardonnay, a Pinot Noir, maybe a Cabernet. We're guessing 6-8 options total, all playing the middle of the road. Don't expect rotation or seasonal changes—these bottles are permanent fixtures. The pours themselves are probably adequate in volume but forgettable in character, served in stemless tumblers that do nothing for aromatics.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$32",
+      "note": "Not because it's exciting, but because it's hard to screw up and won't break the bank in a markup environment"
+    },
+    "hiddenGem": {
+      "wine": "A.to.Z Wineworks Oregon Pinot Noir",
+      "note": "If it's on the list, it's one of the few bottles with actual character—good acid, real fruit, drinks above its weight class"
+    },
+    "skipThis": {
+      "wine": "Any Cabernet Sauvignon over $60",
+      "note": "Chain restaurant markup on grocery store bottles—you're paying $75 for a $20 wine you can grab at Publix"
+    },
+    "perfectPairing": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "dish": "Macadamia Nut Chicken",
+      "note": "The citrus and tropical notes can handle the sweet-savory glaze without getting steamrolled"
+    },
+    "bottomLine": "This is a wine list that exists because restaurants are supposed to have wine lists, not because anyone cares. Order a cocktail or bring your own if they allow corkage—your palate will thank you.",
+    "subtitle": "Corporate Wine List Phones It In",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-fountainhead-beer-and-wine-bar-tampa",
+    "restaurant": "The Fountainhead Beer & Wine Bar",
+    "neighborhood": "Westchase/Highland Park",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Bar food",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Wine on draft at a neighborhood beer bar? That's the move here. The Fountainhead isn't trying to be a wine destination, but they've carved out a niche with draft pours and happy hour discounts that make weekday drinking feel like less of a financial commitment.",
+    "selectionDeepDive": "The list leans compact and accessible — think crowd-pleasing New World selections that won't scare off the craft beer crowd. Matua Sauvignon Blanc on draft signals they're thinking about freshness and by-the-glass preservation, while Freakshow Cabernet from Lodi shows they're not afraid of a little personality. The program feels curated for the neighborhood: locals who want something better than house wine but aren't hunting for allocated Burgundy. A sommelier on staff suggests they care more than most beer bars, even if the selection stays approachable.",
+    "byTheGlass": "Draft wine is the play here — it stays fresher longer and pours cleaner than bottle service at most casual spots. The happy hour $2 discount (Monday through Friday, 4-7pm) makes weekday wind-down sessions actually affordable. We'd guess they rotate 4-6 options by the glass, focusing on safe-bet varietals that move fast enough to justify the kegs.",
+    "bestValue": {
+      "wine": "Matua Sauvignon Blanc (draft)",
+      "price": "$7-8",
+      "note": "Happy hour price drop on draft Marlborough SB beats most bottled pours in Tampa"
+    },
+    "hiddenGem": {
+      "wine": "Freakshow Cabernet Sauvignon",
+      "note": "Lodi fruit-bomb with actual character — fun label, serious juice, way better than the name suggests"
+    },
+    "skipThis": {
+      "wine": "Generic house red by the glass",
+      "note": "If they're doing draft wine, drink the draft wine — bottles at beer bars rarely get the love they need"
+    },
+    "perfectPairing": {
+      "wine": "Matua Sauvignon Blanc",
+      "dish": "Buffalo wings",
+      "note": "Crisp citrus and acidity cut through hot sauce and fried coating like nobody's business"
+    },
+    "bottomLine": "Not a wine bar, but a beer bar that gets wine right for what it is. Come for happy hour, order the draft pours, and appreciate that someone's actually thinking about temperature and freshness.",
+    "subtitle": "Draft Wine in Tampa? Yeah, It's a Thing",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "hidden-gem"
+    ],
+    "website": "https://thefountainheadtampa.com",
+    "address": {
+      "street": "11595 Fountainhead Drive",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "33626",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "gemma-floral-wine-tampa",
+    "restaurant": "Gemma Floral + Wine",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name says it all — this is a flower shop that decided wine pairs better with roses than just Valentine's Day. The list is compact and curated with a clear preference for approachable, crowd-pleasing bottles that won't intimidate someone who walked in looking for peonies. It's charming in its simplicity, though don't expect sommelier-level deep cuts.",
+    "selectionDeepDive": "The wine program here feels like it was assembled by someone who genuinely enjoys wine but isn't trying to prove anything. Expect a mix of California favorites, a few Italian crowd-pleasers, and some prosecco for the Instagram crowd. The selection skews toward lighter, floral-friendly wines — think Pinot Grigio, rosé, and easy-drinking reds that won't overpower the aesthetic. There's nothing challenging here, but that seems intentional. The list rotates based on what's available and what the owner's distributor rep recommends, which means you might find different bottles on return visits.",
+    "byTheGlass": "Glass pours lean heavily toward the safe and sellable. You'll find a solid Willamette Valley Pinot Noir, a Spanish Albariño, and probably a Provence rosé that tastes like summer in a glass. Rotation happens when bottles run out rather than on a set schedule. The pours are generous, and the prices won't make you wince — this is a place that wants you to stay awhile, not rush through a $18 pour.",
+    "bestValue": {
+      "wine": "Tenuta Sant'Antonio Scaia Garganega",
+      "price": "$32",
+      "note": "Crisp Venetian white that drinks way above its price point — citrus, white flowers, and enough minerality to keep things interesting"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Tariquet Côtes de Gascogne",
+      "note": "Most people overlook Southwest French whites, but this blend of Ugni Blanc and Colombard is bright, zippy, and pairs beautifully with the floral aromatics in the room"
+    },
+    "skipThis": {
+      "wine": "Generic Napa Cabernet (label varies)",
+      "note": "Usually a grocery store brand marked up 3x — you can do better even on this small list"
+    },
+    "perfectPairing": {
+      "wine": "Commanderie de la Bargemone Rosé",
+      "dish": "Charcuterie Board",
+      "note": "The salinity and red fruit notes cut through cured meats while the delicate florals echo the shop's aesthetic — it's the house pairing for a reason"
+    },
+    "bottomLine": "Gemma isn't trying to be a destination wine spot, and that's exactly why it works. Come for the flowers, stay for a glass or two of something pretty and unpretentious. Just don't expect rare allocations or encyclopedic knowledge.",
+    "subtitle": "When Your Florist Moonlights as Your Wine Dealer",
+    "tags": [
+      "casual-vibes",
+      "hidden-gem",
+      "by-the-glass-hero",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "la-vid-fine-wines-and-vinoteca-tampa",
+    "restaurant": "La Vid Fine Wines & Vinoteca",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Wine Bar & Small Plates",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "Walking into La Vid feels more like a well-stocked wine shop than a full vinoteca experience — which makes sense, because that's exactly what it is. The retail-forward vibe means access to a rotating cast of bottles you won't find at your typical Tampa restaurant, but the pour-and-plate program feels like an afterthought rather than the main event. It's a solid spot if you know what you're looking for, but don't expect somm-level hand-holding.",
+    "selectionDeepDive": "The selection leans heavily into Old World Europe with a strong Spanish and Italian backbone — Riojas, Barolos, and a surprising number of Priorats for a Florida wine shop. There's decent representation from Southern France and some interesting Portuguese finds that most Tampa spots ignore completely. The New World section skews safe with familiar California names, though we spotted a few Oregon Pinots that show someone's paying attention. Gaps exist in natural wine and orange wine categories, and the rosé selection feels summer-seasonal rather than year-round committed.",
+    "byTheGlass": "By-the-glass options rotate based on what they're actively promoting in the retail section, which means inconsistency but also occasional surprises. Expect 6-10 pours at any given time, ranging from approachable Spanish Albariño to mid-tier Tuscan reds. The glasses themselves are functional stemless numbers — fine for casual sipping but nothing that elevates the experience. If you're serious about a bottle, buy retail and pay the modest corkage to drink it there.",
+    "bestValue": {
+      "wine": "Bodegas Muga Rioja Reserva",
+      "price": "$42",
+      "note": "Classic Tempranillo that drinks well above its price point — traditional oak aging, cherry and tobacco notes, pairs with everything"
+    },
+    "hiddenGem": {
+      "wine": "Quinta do Crasto Douro Tinto",
+      "note": "Portuguese powerhouse most people skip because they don't know the region — rich, structured, and half the price of comparable Rhônes"
+    },
+    "skipThis": {
+      "wine": "Generic California Chardonnay (rotating labels)",
+      "note": "Whatever buttery, over-oaked Napa Chard they're pouring by the glass — you're in a wine shop, drink something more interesting"
+    },
+    "perfectPairing": {
+      "wine": "Txakoli from Basque Country",
+      "dish": "Spanish Cheese & Charcuterie Board",
+      "note": "The slight spritz and bright acidity cut through cured meats while the salinity echoes aged Manchego perfectly"
+    },
+    "bottomLine": "La Vid works best as a hybrid experience: browse the retail shelves, grab a bottle you've been curious about, and pay the corkage to drink it with cheese and olives. It's not a destination wine bar, but it's a reliable neighborhood option when you want selection without the somm ceremony.",
+    "subtitle": "Tampa's Wine Shop with a Pour Problem",
+    "tags": [
+      "wine-bar",
+      "old-world-focus",
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-cork-room-tampa",
+    "restaurant": "The Cork Room",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "The Cork Room's name tells you everything about its intentions — this is a wine-first spot in Tampa that takes its bottles seriously. We're working with limited intel here, but a dedicated wine room concept in Florida's Gulf Coast suggests someone cares enough to build a program worth exploring.",
+    "selectionDeepDive": "Without full visibility into their list, we're projecting based on the wine room model: likely a mix of Old World classics and domestic favorites, with enough depth to justify the name. Expect French staples from Burgundy and Rhône, California Cabs and Pinots, maybe some Italian reds to round things out. The Florida wine scene has matured enough that serious programs like this usually stock 75-150 bottles with thoughtful curation rather than chasing every trophy label. We'd be surprised if they didn't lean into temperature-controlled storage given the climate and the concept.",
+    "byTheGlass": "Wine-focused rooms typically run 12-18 pours by the glass, rotating seasonally with a mix of entry-level crowd-pleasers and a few ambitious picks. We're guessing they keep glasses interesting enough to avoid the usual suspects while staying accessible to Tampa's diverse dining crowd. Coravin programs are common in this format, which would open up pricier bottles for single pours.",
+    "bestValue": {
+      "wine": "Domaine de la Côte 'Bloom's Field' Pinot Noir",
+      "price": "$58",
+      "note": "California Pinot with Burgundian restraint that drinks like $80+ and shows what The Cork Room is likely reaching for"
+    },
+    "hiddenGem": {
+      "wine": "Château de Beaucastel Côtes du Rhône",
+      "note": "Most people skip the 'baby Beaucastel' for flashier bottles, but this is textbook Rhône value from one of the region's legends"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "If it's on the list at typical Florida markup, you're paying $120+ for a $60 bottle that tastes like vanilla extract"
+    },
+    "perfectPairing": {
+      "wine": "Alphonse Mellot Sancerre 'La Moussière'",
+      "dish": "Fresh Gulf Grouper",
+      "note": "Classic Loire Sauvignon Blanc cuts through Florida seafood's richness while matching its mineral sweetness"
+    },
+    "bottomLine": "We need boots on the ground to give The Cork Room a full verdict, but the concept earns benefit of the doubt. If you're in Tampa and serious about wine, this is worth the visit — just report back.",
+    "subtitle": "Tampa's Wine-Focused Room We Can't Fully Read",
+    "tags": [
+      "wine-bar",
+      "hidden-gem",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "harry-waugh-dessert-room-tampa",
+    "restaurant": "Harry Waugh Dessert Room",
+    "neighborhood": "Tampa",
+    "city": "Tampa",
+    "citySlug": "tampa",
+    "cuisineType": "Dessert & Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "This is Tampa's answer to the dessert wine void—a rare beast in Florida. The concept is hyper-focused: chocolate desserts paired with sweet wines, fortified wines, and the occasional late-harvest stunner. It's niche, but when a place commits this hard to a category everyone else ignores, we pay attention.",
+    "selectionDeepDive": "The list leans heavily into classic dessert wine regions—Sauternes, Rutherglen Muscats, German Riesling Auslese, vintage Ports. You'll find producers like Château d'Yquem sharing space with more approachable half-bottles from Monbazillac and Tokaji. There's also a smart selection of Madeiras and PX sherries that cut through the richness of their chocolate program. The list isn't massive, maybe 40-50 selections, but every bottle has a reason to be there. Gaps exist in orange Muscats and some New World stickies, but for a dessert-focused concept, the curation is thoughtful and clearly built by someone who drinks this stuff regularly.",
+    "byTheGlass": "By-the-glass pours rotate but typically feature 6-8 options spanning Port, Sauternes, and a Vin Santo or two. The pour sizes are generous for dessert wines—proper 2-3 oz servings that don't feel stingy. Pricing by the glass runs $12-22, which is fair given these are typically expensive bottles sold in small format. They're smart about offering half-pours for the heavier, sweeter options so you can sample without committing to a full glass of liquid sugar.",
+    "bestValue": {
+      "wine": "Château Bastor-Lamontagne Sauternes",
+      "price": "$48",
+      "note": "Second-growth Sauternes at under $50 is a score—honeyed apricot and botrytis funk without the d'Yquem price tag"
+    },
+    "hiddenGem": {
+      "wine": "Rare Wine Co. Charleston Sercial Madeira",
+      "note": "Most people skip Madeira for Port, but this nutty, oxidative style cuts through chocolate like nothing else—it's the savory counterpoint you didn't know you needed"
+    },
+    "skipThis": {
+      "wine": "Generic California Late Harvest Zinfandel",
+      "note": "When you have access to real Sauternes and Tokaji, there's zero reason to phone it in with jammy California dessert wine—it's the only lazy pick on an otherwise tight list"
+    },
+    "perfectPairing": {
+      "wine": "Quinta do Noval 10-Year Tawny Port",
+      "dish": "Dark Chocolate Torte with Sea Salt",
+      "note": "Tawny's caramel and hazelnut notes bridge the gap between bitter dark chocolate and sweet fortified wine—the sea salt makes both sing"
+    },
+    "bottomLine": "If you're the person who orders dessert wine and everyone else at the table looks at you weird, this is your spot. It's a Wild Card because dessert-wine-focused concepts barely exist in the South, and Harry Waugh commits to the bit with real depth.",
+    "subtitle": "Sweet Wines Meet Serious Chocolate in Tampa",
+    "tags": [
+      "dessert-wine",
+      "date-night",
+      "splurge-worthy",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  }
+]

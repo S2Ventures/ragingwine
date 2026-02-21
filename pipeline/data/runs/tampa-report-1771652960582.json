@@ -1,0 +1,192 @@
+{
+  "city": "Tampa",
+  "citySlug": "tampa",
+  "startedAt": "2026-02-21T05:41:38.961Z",
+  "completedAt": "2026-02-21T05:49:20.420Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 30,
+  "reviewsPublished": 30,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Bern's Steak House",
+      "slug": "berns-steak-house-tampa",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Haven",
+      "slug": "haven-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Capital Grille",
+      "slug": "the-capital-grille-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+      "slug": "flemings-prime-steakhouse-and-wine-bar-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Donatello",
+      "slug": "donatello-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Columbia Restaurant",
+      "slug": "columbia-restaurant-tampa",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Rooster & The Till",
+      "slug": "rooster-and-the-till-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Casa Santo Stefano",
+      "slug": "casa-santo-stefano-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "CW's Gin Joint",
+      "slug": "cws-gin-joint-tampa",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "edison: food+drink lab",
+      "slug": "edison-fooddrink-lab-tampa",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Rocca",
+      "slug": "rocca-tampa",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Lilac",
+      "slug": "lilac-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cru Cellars",
+      "slug": "cru-cellars-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Chateau Cellars",
+      "slug": "chateau-cellars-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Redneck Wine Company",
+      "slug": "redneck-wine-company-tampa",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Forbici Modern Italian",
+      "slug": "forbici-modern-italian-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Wine on Water",
+      "slug": "wine-on-water-tampa",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Barcelona Wine Bar",
+      "slug": "barcelona-wine-bar-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cipresso",
+      "slug": "cipresso-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "717 South Restaurant",
+      "slug": "717-south-restaurant-tampa",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Eddie V's Prime Seafood",
+      "slug": "eddie-vs-prime-seafood-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Seasons 52",
+      "slug": "seasons-52-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Del Frisco's Grille",
+      "slug": "del-friscos-grille-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Charley's Steak House",
+      "slug": "charleys-steak-house-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Kona Grill - Tampa",
+      "slug": "kona-grill-tampa-tampa",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Fountainhead Beer & Wine Bar",
+      "slug": "the-fountainhead-beer-and-wine-bar-tampa",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Gemma Floral + Wine",
+      "slug": "gemma-floral-wine-tampa",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "La Vid Fine Wines & Vinoteca",
+      "slug": "la-vid-fine-wines-and-vinoteca-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Cork Room",
+      "slug": "the-cork-room-tampa",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Harry Waugh Dessert Room",
+      "slug": "harry-waugh-dessert-room-tampa",
+      "badge": "wildcard",
+      "published": true
+    }
+  ]
+}

@@ -65,7 +65,9 @@
     "citySlug": "tampa",
     "state": "Florida",
     "priority": 5,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-21T05:49:20.419Z",
+    "reviewCount": 30
   },
   {
     "city": "St. Petersburg",
