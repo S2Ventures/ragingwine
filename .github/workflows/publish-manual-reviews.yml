@@ -1,0 +1,41 @@
+name: Publish Manual Reviews
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'pipeline/data/manual-reviews/**.json'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install @sanity/client tsx
+
+      - name: Find new/changed review files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'pipeline/data/manual-reviews/*.json' | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+          echo "Found changed files: $FILES"
+
+      - name: Publish reviews
+        if: steps.changed.outputs.files != ''
+        env:
+          SANITY_WRITE_TOKEN: ${{ secrets.SANITY_WRITE_TOKEN }}
+        run: |
+          for file in ${{ steps.changed.outputs.files }}; do
+            echo "Publishing: $file"
+            npx tsx pipeline/scripts/publish-manual-review.ts "$file"
+          done

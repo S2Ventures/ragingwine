@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "publish-review": "npx tsx pipeline/scripts/publish-manual-review.ts"
   },
   "dependencies": {
     "@sanity/client": "^7.15.0",

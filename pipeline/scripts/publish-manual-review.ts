@@ -1,11 +1,27 @@
 #!/usr/bin/env npx tsx
 // ---------------------------------------------------------------------------
 // Publish a manually-written review JSON to Sanity
-// Usage: npx tsx pipeline/scripts/publish-manual-review.ts pipeline/data/manual-reviews/langdons-mount-pleasant.json
+// Usage: npm run publish-review langdons-mount-pleasant
 // ---------------------------------------------------------------------------
 
 import { createClient } from '@sanity/client';
-import { readFileSync } from 'fs';
+import { readFileSync, existsSync, readdirSync } from 'fs';
+import { resolve, join, basename } from 'path';
+
+// Load .env.local if present (for local runs without dotenv dependency)
+const envPath = resolve(process.cwd(), '.env.local');
+if (existsSync(envPath)) {
+  const envContent = readFileSync(envPath, 'utf-8');
+  for (const line of envContent.split('\n')) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith('#')) continue;
+    const eqIdx = trimmed.indexOf('=');
+    if (eqIdx === -1) continue;
+    const key = trimmed.slice(0, eqIdx).trim();
+    const val = trimmed.slice(eqIdx + 1).trim();
+    if (!process.env[key]) process.env[key] = val;
+  }
+}
 
 const sanity = createClient({
   projectId: 'qyap5sez',
@@ -67,25 +83,12 @@ async function resolveCityRef(citySlug: string, cityName: string, state: string)
   return created._id;
 }
 
-async function main() {
-  const filePath = process.argv[2];
-  if (!filePath) {
-    console.error('Usage: npx tsx pipeline/scripts/publish-manual-review.ts <review.json>');
-    process.exit(1);
-  }
-
-  if (!process.env.SANITY_WRITE_TOKEN) {
-    console.error('SANITY_WRITE_TOKEN environment variable required');
-    process.exit(1);
-  }
-
+async function publishOne(filePath: string): Promise<void> {
   const review: ReviewJSON = JSON.parse(readFileSync(filePath, 'utf-8'));
-  console.log(`Publishing: ${review.restaurant} (${review.citySlug})`);
+  console.log(`\nPublishing: ${review.restaurant} (${review.citySlug})`);
 
-  // Resolve city reference
-  const cityRefId = await resolveCityRef(review.citySlug, review.city, review.address?.state || 'SC');
+  const cityRefId = await resolveCityRef(review.citySlug, review.city, review.address?.state || 'US');
 
-  // Check if review already exists
   const existing = await sanity.fetch<{ _id: string } | null>(
     `*[_type == "review" && slug.current == $slug][0]{ _id }`,
     { slug: review.slug }
@@ -118,13 +121,53 @@ async function main() {
 
   if (existing) {
     await sanity.patch(existing._id).set(doc).commit();
-    console.log(`Updated existing review: ${existing._id}`);
+    console.log(`  Updated: ${existing._id}`);
   } else {
     const created = await sanity.create(doc);
-    console.log(`Created review: ${created._id}`);
+    console.log(`  Created: ${created._id}`);
   }
 
-  console.log(`Done! ${review.restaurant} is live.`);
+  console.log(`  Done! ${review.restaurant} is live.`);
+}
+
+const REVIEWS_DIR = resolve(process.cwd(), 'pipeline/data/manual-reviews');
+
+async function main() {
+  if (!process.env.SANITY_WRITE_TOKEN) {
+    console.error('SANITY_WRITE_TOKEN not found. Add it to .env.local or set it as an env var.');
+    process.exit(1);
+  }
+
+  const arg = process.argv[2];
+
+  if (!arg) {
+    console.error('Usage:');
+    console.error('  npm run publish-review <name>     Publish one review (e.g. langdons-mount-pleasant)');
+    console.error('  npm run publish-review --all       Publish all reviews in manual-reviews/');
+    process.exit(1);
+  }
+
+  if (arg === '--all') {
+    const files = readdirSync(REVIEWS_DIR).filter(f => f.endsWith('.json'));
+    console.log(`Publishing ${files.length} reviews...`);
+    for (const file of files) {
+      await publishOne(join(REVIEWS_DIR, file));
+    }
+    console.log(`\nAll ${files.length} reviews published.`);
+  } else {
+    // Accept either full path or just the name (with or without .json)
+    let filePath = arg;
+    if (!existsSync(filePath)) {
+      const name = arg.replace(/\.json$/, '');
+      filePath = join(REVIEWS_DIR, `${name}.json`);
+    }
+    if (!existsSync(filePath)) {
+      console.error(`Review file not found: ${arg}`);
+      console.error(`Looked in: ${REVIEWS_DIR}`);
+      process.exit(1);
+    }
+    await publishOne(filePath);
+  }
 }
 
 main().catch(err => {
