@@ -1,0 +1,55 @@
+{
+  "slug": "common-restaurant-savannah",
+  "restaurant": "Common Restaurant",
+  "neighborhood": "Historic District",
+  "city": "Savannah",
+  "citySlug": "savannah",
+  "cuisineType": "Southern American",
+  "badge": "rager",
+  "metrics": {
+    "glassware": "Varietal Specific",
+    "staff": "Sommelier Team",
+    "markup": "Fair",
+    "variety": "Encyclopedic",
+    "specials": "Rotating",
+    "storage": "Cellar Proper"
+  },
+  "firstImpression": "710 selections. 3,500 bottles in inventory. 30+ wines by the glass. Wine Spectator Best of Award of Excellence every year since 2022. This isn't a restaurant with a good wine list — this is a wine program that happens to serve dinner. Common is the undisputed wine king of Savannah and one of the strongest programs between Atlanta and Charleston.",
+  "selectionDeepDive": "Wine Director Shawn Crowley runs a three-sommelier team (Alexis Canfield and Wade Coleman) that has built something genuinely staggering for a Savannah restaurant. The stated strengths are California, France, and Italy, but the global reach goes much deeper — Greek (Alpha Estate Xinomavro, Skouras), South African (Capensis, Ken Forrester), Chilean (Roberto Henriquez Pais), Australian (Yangarra High Sands Grenache, Leeuwin Estate Art Series), Argentine (Catena Zapata Argentino Malbec), Portuguese, German, and Austrian wines all get meaningful representation. The Bordeaux depth alone is staggering: Chateau Haut-Brion 2010, Mouton-Rothschild 2015, Cheval Blanc 2016, with large formats up to 6L Ornellaia and Haut-Brion magnums across multiple vintages. Burgundy runs from village-level through Corton-Charlemagne Grand Cru and Charmes-Chambertin Grand Cru. Napa heavyweights include Hundred Acre Kayli Morgan 2018 at $998, Silver Oak, Cardinale, and Orin Swift Mercury Head.",
+  "byTheGlass": "30+ rotating pours that actually tour the list's range. Sparkling runs from Cremant de Limoux through Nicolas Feuillatte Champagne. Whites span Villa Sandi Pinot Grigio to Mason Cellars Napa Sauvignon Blanc to Moillard Macon-Villages Chardonnay. Reds go from Siduri Pinot Noir through Alpha Estate Xinomavro (Greece on a by-the-glass program — that's commitment) to Stags' Leap Winery Napa Cabernet at $32. The glass program alone would be a respectable full wine list at most Savannah restaurants.",
+  "bestValue": {
+    "wine": "Moillard Bourgogne Rouge (By the Glass)",
+    "price": "$16",
+    "note": "Real Burgundy by the glass at a fair price. When a restaurant has this much inventory, the glass pours move fast and stay fresh."
+  },
+  "hiddenGem": {
+    "wine": "Alpha Estate Xinomavro (By the Glass)",
+    "price": "$15",
+    "note": "Greek Xinomavro on a by-the-glass program in Savannah. If you've never tried Greece's answer to Nebbiolo, this is a zero-risk entry point — structured, earthy, completely different from everything else on the list."
+  },
+  "skipThis": {
+    "wine": "Hundred Acre Kayli Morgan 2018",
+    "note": "At $998, this is a collectors' trophy bottle. Spectacular wine, but the $146 Stag's Leap Artemis or $191 Orin Swift Mercury Head deliver 90% of the Napa experience at a fraction of the damage."
+  },
+  "perfectPairing": {
+    "wine": "Stags' Leap Winery Napa Cabernet (By the Glass)",
+    "dish": "Any Red Meat Entree",
+    "note": "The $32 glass pour of Stags' Leap Cab with Chef Sean Freeman's elevated Southern cooking is the sweet spot — serious wine, serious food, reasonable spend."
+  },
+  "bottomLine": "Common isn't just the best wine program in Savannah — it's one of the best in the Southeast. 710 selections including first-growth Bordeaux verticals, Grand Cru Burgundy, and Napa trophy wines, backed by a three-sommelier team. The $25 corkage fee is fair if you bring something the list doesn't cover, but good luck finding a gap. Plan a trip around this one.",
+  "subtitle": "710 Labels Deep: Savannah's Wine Cathedral",
+  "tags": [
+    "destination-worthy",
+    "cellar-depth",
+    "sommelier-team",
+    "special-occasion"
+  ],
+  "website": "https://www.commonrestaurant.com",
+  "address": {
+    "street": "118 E Broughton St",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31401",
+    "country": "US"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "common-thread-savannah",
+  "restaurant": "Common Thread",
+  "neighborhood": "Thomas Square",
+  "city": "Savannah",
+  "citySlug": "savannah",
+  "cuisineType": "Southern",
+  "badge": "solid",
+  "metrics": {
+    "glassware": "Proper",
+    "staff": "Sommelier Led",
+    "markup": "Fair",
+    "variety": "Adventurous",
+    "specials": "Wine Club & Events",
+    "storage": "Proper"
+  },
+  "firstImpression": "Common Thread is where Savannah's wine-curious locals go when they're ready to graduate from Cabernet and Pinot Grigio. Wine Director Libby Burk — a 2024 StarChefs Rising Star and one of three sommeliers nationally profiled by Wine Enthusiast for 'getting us to drink different' — hand-selects and personally tastes every bottle on the list. This is a sommelier's passion project disguised as a neighborhood restaurant.",
+  "selectionDeepDive": "Burk's philosophy centers on indigenous varietals, organic and biodynamic growing, and sustainable practices. She started as a maitre d' at The Grey, where legendary wine director Scott Waldrup mentored her. When Waldrup passed away in 2017, Burk inherited his wine books and notes — that legacy shows in every bottle she selects. Expect Basque whites (Hondarrabi Zuri), natural wines, pet-nats, and producers you've genuinely never encountered. The specific list loads as image-based slides on their site, but a StarChefs pairing noted Hondarrabi Zuri/Chardonnay with flounder — if a Basque white grape is making the pairings list, this program is serious about discovery.",
+  "byTheGlass": "The glass pour program is the gateway drug for Burk's indigenous varietal mission. She's not trying to sell you the most expensive bottle — she's trying to change what you think wine can be. The team runs wine events including 'People, Pets, and Pet-Nat' where guests taste petillant naturel wines while dogs from One Love Pet Rescue are available for adoption. Three dogs found homes at the first event. This is a wine program with a soul.",
+  "bestValue": {
+    "wine": "Whatever Libby Recommends Under $15/Glass",
+    "price": "$12-15",
+    "note": "Tell the team your usual go-to and ask them to pick something different at the same price point. The whole point of this program is the pivot — and it works because the staff knows the list cold."
+  },
+  "hiddenGem": {
+    "wine": "Common Thread Wine Club (via Table22)",
+    "price": "Monthly subscription",
+    "note": "Burk curates monthly wine selections with tasting notes, a free monthly drink token, and priority reservations for wine dinners. If you live in Savannah, this is how you build your palate without the homework."
+  },
+  "skipThis": {
+    "wine": "Anything You Already Know",
+    "note": "You can drink Caymus anywhere. Common Thread exists to show you what else is out there. Ordering your usual here is like going to a jazz club and requesting top 40."
+  },
+  "perfectPairing": {
+    "wine": "Ask for the Tasting Menu Wine Pairing",
+    "dish": "Chef Brandon Carter's Seasonal Menu",
+    "note": "Chef Carter (formerly of Palmetto Bluff) runs elevated Southern cooking that Burk matches with wines most Savannah diners have never seen. The pairing is where this restaurant comes together."
+  },
+  "bottomLine": "Common Thread is Savannah's rising wine sleeper. Libby Burk is building one of the most interesting sommelier-driven programs in the Southeast — indigenous varietals, natural wines, and a genuine passion for making wine accessible and fun. Not as deep as Common's 710-bottle cathedral, not as famous as The Grey's James Beard pedigree, but arguably the most exciting wine program in town for anyone who wants to learn something new every visit.",
+  "subtitle": "Rising Star Sommelier's Discovery Lab",
+  "tags": [
+    "sommelier-driven",
+    "natural-wine",
+    "neighborhood-gem",
+    "wine-club"
+  ],
+  "website": "https://www.commonthreadsavannah.com",
+  "address": {
+    "street": "122 E 37th St",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31401",
+    "country": "US"
+  }
+}

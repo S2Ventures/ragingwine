@@ -1,0 +1,55 @@
+{
+  "slug": "the-grey-savannah",
+  "restaurant": "The Grey",
+  "neighborhood": "Historic District",
+  "city": "Savannah",
+  "citySlug": "savannah",
+  "cuisineType": "Port City Southern",
+  "badge": "rager",
+  "metrics": {
+    "glassware": "Varietal Specific",
+    "staff": "Sommelier Led",
+    "markup": "Worth It",
+    "variety": "Adventurous & Curated",
+    "specials": "Seasonal Rotation",
+    "storage": "Proper"
+  },
+  "firstImpression": "A restored 1938 Art Deco Greyhound Bus Terminal. A James Beard Outstanding Chef. Foradori Teroldego and Clos Erasmus Priorat by the glass. The Grey doesn't collect wine — it curates experiences. This is the opposite of a 700-bottle encyclopedia. Every selection on this list earned its spot through a sommelier team that actively pushes guests toward discovery.",
+  "selectionDeepDive": "The late Scott Waldrup built the original program around obscure regions and indigenous varietals, and that DNA still runs through every vintage on this list. The current by-the-glass lineup tells you everything: 23 wines across 8 categories including an orange wine section and a Tavel rose (not pale Provence pink — actual Tavel). You'll find Hondarrabi Zuri from the Basque Country, Kloof Street Chenin Blanc from Swartland South Africa, and Isabel Ferrando Clairette from the Southern Rhone alongside more familiar Burgundy Chardonnay and Willamette Valley Pinot Noir. The team actively introduces Turkish wines, Lebanese wines, and Montepulciano d'Abruzzo to guests who came in planning to order Cabernet. Old World-forward, discovery-driven, deliberately adventurous.",
+  "byTheGlass": "23 wines in a 6oz pour/bottle format that's genuinely generous. The range runs from Dr. Loosen Deutscher Sekt Riesling at $12 to Veuve Clicquot La Grande Dame 2015 at $60 per glass ($240 bottle) — a prestige Champagne by the glass that signals this team's confidence. Most glasses land $14-18, which is fair for the quality. The Foradori Teroldego and San Polo Brunello di Montalcino by the glass are the kind of pours that change what people think about wine.",
+  "bestValue": {
+    "wine": "Ercole Barbera or Bruna Grimaldi Nebbiolo (By the Glass)",
+    "price": "$14-16",
+    "note": "Italian reds by the glass from producers most Savannah diners have never heard of, at prices that make exploration painless. The Nebbiolo especially — Barolo's grape without Barolo's price tag."
+  },
+  "hiddenGem": {
+    "wine": "Clos Erasmus Laurel Priorat Garnacha (By the Glass)",
+    "price": "$36",
+    "note": "Spanish Priorat by the glass at a restaurant in Savannah. This is a $140 bottle poured at $36 for a 6oz glass — not cheap, but try finding Priorat by the glass anywhere else in Georgia. Worth every cent for the experience."
+  },
+  "skipThis": {
+    "wine": "Don't Skip Anything — Ask the Sommelier",
+    "note": "This is a list where skipping the safe choice IS the point. Tell the sommelier what you usually drink and ask them to take you somewhere new. That's what this program was built for."
+  },
+  "perfectPairing": {
+    "wine": "Wine Pairing with the Five-Course Tasting Menu",
+    "dish": "Chef Mashama Bailey's Prix Fixe ($125)",
+    "note": "The tasting menu pairings are where The Grey's wine program comes alive — Chenin Blanc with tuna crudo, Nebbiolo with grilled mushrooms, Rioja with stuffed quail. Let the sommelier drive. This is the point."
+  },
+  "bottomLine": "The Grey proves that a curated, adventurous wine list can be just as impressive as a 700-bottle cellar. James Beard Outstanding Chef Mashama Bailey's food demands a wine program that matches its ambition, and the sommelier team delivers — with indigenous varietals, natural wines, and by-the-glass pours you won't find anywhere else in the Southeast. Come for the food, stay for the wine education you didn't know you needed.",
+  "subtitle": "James Beard Kitchen Meets Sommelier's Playground",
+  "tags": [
+    "destination-worthy",
+    "sommelier-driven",
+    "tasting-menu",
+    "adventurous-list"
+  ],
+  "website": "https://thegreyrestaurant.com",
+  "address": {
+    "street": "109 Martin Luther King Jr Blvd",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31401",
+    "country": "US"
+  }
+}
