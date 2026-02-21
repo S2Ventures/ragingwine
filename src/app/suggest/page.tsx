@@ -46,6 +46,7 @@ export default function SuggestPage() {
   const [form, setForm] = useState({
     restaurantName: '',
     city: '',
+    website: '',
     reason: '',
     submitterName: '',
     submitterEmail: '',
@@ -116,7 +117,7 @@ export default function SuggestPage() {
             onClick={() => {
               setStatus('idle');
               setForm({
-                restaurantName: '', city: '', reason: '', submitterName: '',
+                restaurantName: '', city: '', website: '', reason: '', submitterName: '',
                 submitterEmail: '', listVariety: '', markupFairness: '',
                 glasswareGrade: '', staffConfidence: '', specialsDeals: '', storageTemp: '',
               });
@@ -177,6 +178,20 @@ export default function SuggestPage() {
             onChange={e => handleChange('city', e.target.value)}
             className="w-full border border-gray-300 rounded-lg px-4 py-3 text-gray-800 focus:ring-2 focus:ring-wine-500 focus:border-wine-500 outline-none"
             placeholder="e.g., Atlanta"
+          />
+        </div>
+
+        <div>
+          <label htmlFor="website" className="block text-sm font-semibold text-brand-dark mb-1">
+            Restaurant Website
+          </label>
+          <input
+            id="website"
+            type="url"
+            value={form.website}
+            onChange={e => handleChange('website', e.target.value)}
+            className="w-full border border-gray-300 rounded-lg px-4 py-3 text-gray-800 focus:ring-2 focus:ring-wine-500 focus:border-wine-500 outline-none"
+            placeholder="https://therestaurant.com"
           />
         </div>
 

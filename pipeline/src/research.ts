@@ -195,7 +195,7 @@ For EACH restaurant, return a JSON object with these fields:
   "name": "Official restaurant name",
   "neighborhood": "Neighborhood/area",
   "cuisineType": "Primary cuisine",
-  "website": "URL or null",
+  "website": "Restaurant's official website URL — try the format https://restaurantname.com or https://www.restaurantname.com. Most restaurants have a website. Only return null if you are confident the restaurant has no website.",
   "address": { "street": "123 Main St", "city": "${city}", "state": "${state}", "zip": "30301" },
   "wineListSize": "Approximate number of wines, e.g. '150 labels'",
   "byTheGlassCount": "Number of by-the-glass options, e.g. '18 options'",

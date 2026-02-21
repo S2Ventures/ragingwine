@@ -7,6 +7,7 @@ export default function SubmitRestaurantPage() {
   const [form, setForm] = useState({
     restaurantName: '',
     city: '',
+    website: '',
     reason: '',
     contactName: '',
     contactEmail: '',
@@ -158,6 +159,20 @@ export default function SubmitRestaurantPage() {
             onChange={e => handleChange('city', e.target.value)}
             className="w-full border border-gray-300 rounded-lg px-4 py-3 text-gray-800 focus:ring-2 focus:ring-wine-500 focus:border-wine-500 outline-none"
             placeholder="e.g., Atlanta, Charleston, Greenville"
+          />
+        </div>
+
+        <div>
+          <label htmlFor="website" className="block text-sm font-semibold text-brand-dark mb-1">
+            Website
+          </label>
+          <input
+            id="website"
+            type="url"
+            value={form.website}
+            onChange={e => handleChange('website', e.target.value)}
+            className="w-full border border-gray-300 rounded-lg px-4 py-3 text-gray-800 focus:ring-2 focus:ring-wine-500 focus:border-wine-500 outline-none"
+            placeholder="https://yourrestaurant.com"
           />
         </div>
 

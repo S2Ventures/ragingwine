@@ -26,6 +26,7 @@ CREATE TABLE IF NOT EXISTS restaurant_submissions (
   id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
   restaurant_name TEXT NOT NULL,
   city TEXT NOT NULL,
+  website TEXT,
   reason TEXT NOT NULL,
   contact_name TEXT NOT NULL,
   contact_email TEXT NOT NULL,
@@ -33,6 +34,9 @@ CREATE TABLE IF NOT EXISTS restaurant_submissions (
   notes TEXT,
   created_at TIMESTAMPTZ DEFAULT now()
 );
+
+-- Migration: Add website column to existing restaurant_submissions table
+-- ALTER TABLE restaurant_submissions ADD COLUMN IF NOT EXISTS website TEXT;
 
 -- Enable Row Level Security
 ALTER TABLE restaurant_suggestions ENABLE ROW LEVEL SECURITY;

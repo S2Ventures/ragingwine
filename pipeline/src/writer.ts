@@ -98,7 +98,7 @@ Return a SINGLE JSON object (no markdown fencing) with this exact structure:
   "bottomLine": "1-2 sentence verdict",
   "tags": ["tag1", "tag2"],
   "halfPriceWineNight": { "day": "Tuesday", "details": "Details" } or null,
-  "website": "URL or null",
+  "website": "Restaurant's official website URL. Most restaurants have one. Only use null if truly none exists.",
   "address": { "street": "...", "city": "...", "state": "...", "zip": "...", "country": "US" } or null
 }
 

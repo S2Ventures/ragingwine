@@ -5,7 +5,7 @@ export async function POST(request: Request) {
   try {
     const body = await request.json();
     const {
-      restaurantName, city, reason, submitterName, submitterEmail,
+      restaurantName, city, website, reason, submitterName, submitterEmail,
       listVariety, markupFairness, glasswareGrade, staffConfidence,
       specialsDeals, storageTemp,
     } = body;
@@ -30,6 +30,7 @@ export async function POST(request: Request) {
     const { error } = await supabase.from('restaurant_suggestions').insert({
       restaurant_name: restaurantName.trim(),
       city: city.trim(),
+      website: website?.trim() || null,
       reason: reason.trim(),
       submitter_name: submitterName.trim(),
       submitter_email: submitterEmail.trim().toLowerCase(),
@@ -76,6 +77,7 @@ export async function POST(request: Request) {
               <h2>New Restaurant Suggestion</h2>
               <p><strong>Restaurant:</strong> ${restaurantName}</p>
               <p><strong>City:</strong> ${city}</p>
+              ${website ? `<p><strong>Website:</strong> <a href="${website}">${website}</a></p>` : ''}
               <p><strong>Why:</strong> ${reason}</p>
               ${metricsHtml ? `<h3>Wingman Metrics Observations</h3>${metricsHtml}` : ''}
               <hr />

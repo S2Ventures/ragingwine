@@ -76,6 +76,19 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
         )}
         <p className="text-gray-500">
           {review.neighborhood} &middot; {review.city} &middot; {review.cuisineType}
+          {review.website && (
+            <>
+              {' '}&middot;{' '}
+              <a
+                href={review.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-wine-600 hover:text-wine-800 transition-colors"
+              >
+                Visit Website &#x2197;
+              </a>
+            </>
+          )}
         </p>
         {review.tags && review.tags.length > 0 && (
           <div className="flex flex-wrap gap-2 mt-3">
