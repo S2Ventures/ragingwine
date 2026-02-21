@@ -248,6 +248,135 @@ Return a JSON array of these objects. ONLY the JSON array, no markdown fencing.`
 }
 
 // ---------------------------------------------------------------------------
+// Pass 3 — Website URL verification & discovery
+// ---------------------------------------------------------------------------
+// For each restaurant:
+//   - If URL exists: HEAD-check it (keep if 2xx/3xx, clear if dead)
+//   - If URL is missing: try common patterns and keep the first that resolves
+// ---------------------------------------------------------------------------
+
+/** Check if a URL responds with a success/redirect status */
+async function urlResolves(url: string): Promise<boolean> {
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 5000);
+    const res = await fetch(url, {
+      method: 'HEAD',
+      redirect: 'follow',
+      signal: controller.signal,
+      headers: { 'User-Agent': 'RagingWineBot/1.0 (wine review site; website verification)' },
+    });
+    clearTimeout(timeout);
+    return res.ok || (res.status >= 300 && res.status < 400);
+  } catch {
+    // HEAD may be blocked — try GET with minimal download
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 5000);
+      const res = await fetch(url, {
+        method: 'GET',
+        redirect: 'follow',
+        signal: controller.signal,
+        headers: { 'User-Agent': 'RagingWineBot/1.0 (wine review site; website verification)' },
+      });
+      clearTimeout(timeout);
+      // Consume and discard body to avoid memory leak
+      try { await res.text(); } catch { /* ignore */ }
+      return res.ok;
+    } catch {
+      return false;
+    }
+  }
+}
+
+/** Generate common URL patterns from a restaurant name */
+function guessUrls(name: string): string[] {
+  // Strip common suffixes and normalize
+  const cleaned = name
+    .toLowerCase()
+    .replace(/\s*[-–—]\s*.*$/, '')           // "Chart House - Savannah" → "Chart House"
+    .replace(/\b(restaurant|bar|grill|bistro|cafe|kitchen)\b/gi, '')
+    .trim()
+    .replace(/['']/g, '')                      // apostrophes
+    .replace(/[&+]/g, 'and')
+    .replace(/[^a-z0-9\s]/g, '')               // non-alphanumeric
+    .replace(/\s+/g, '');                       // collapse spaces
+
+  // Also try with dashes instead of collapsed
+  const dashed = name
+    .toLowerCase()
+    .replace(/['']/g, '')
+    .replace(/[&+]/g, 'and')
+    .replace(/[^a-z0-9\s]/g, '')
+    .replace(/\s+/g, '-');
+
+  const candidates = new Set<string>();
+  // Most common patterns
+  candidates.add(`https://www.${cleaned}.com`);
+  candidates.add(`https://${cleaned}.com`);
+  candidates.add(`https://www.${dashed}.com`);
+  candidates.add(`https://${dashed}.com`);
+
+  return Array.from(candidates);
+}
+
+async function verifyAndDiscoverWebsites(
+  restaurants: ResearchedRestaurant[]
+): Promise<ResearchedRestaurant[]> {
+  log.info(`Pass 3: Verifying/discovering website URLs for ${restaurants.length} restaurants`);
+
+  let verified = 0;
+  let discovered = 0;
+  let cleared = 0;
+
+  // Process in parallel batches of 5 to avoid hammering servers
+  const batchSize = 5;
+  for (let i = 0; i < restaurants.length; i += batchSize) {
+    const batch = restaurants.slice(i, i + batchSize);
+
+    await Promise.all(batch.map(async (r) => {
+      if (r.website) {
+        // Verify existing URL
+        const ok = await urlResolves(r.website);
+        if (ok) {
+          verified++;
+          log.info(`✓ Verified: ${r.name} → ${r.website}`);
+        } else {
+          log.warn(`✗ Dead URL for ${r.name}: ${r.website} — clearing`);
+          r.website = undefined;
+          cleared++;
+        }
+      }
+
+      if (!r.website) {
+        // Try to discover URL from common patterns
+        const guesses = guessUrls(r.name);
+        for (const url of guesses) {
+          const ok = await urlResolves(url);
+          if (ok) {
+            r.website = url;
+            discovered++;
+            log.info(`🔍 Discovered: ${r.name} → ${url}`);
+            break;
+          }
+        }
+        if (!r.website) {
+          log.info(`⚠ No website found for: ${r.name}`);
+        }
+      }
+    }));
+
+    // Small delay between batches
+    if (i + batchSize < restaurants.length) {
+      await new Promise(resolve => setTimeout(resolve, 500));
+    }
+  }
+
+  log.info(`Website results: ${verified} verified, ${discovered} discovered, ${cleared} dead URLs cleared`);
+  return restaurants;
+}
+
+// ---------------------------------------------------------------------------
 // Public API
 // ---------------------------------------------------------------------------
 export async function researchCity(
@@ -259,21 +388,24 @@ export async function researchCity(
   const target = count ?? config.restaurantsPerCity;
   log.info(`Starting research for ${city}, ${state} — targeting ${target} restaurants`);
 
-  // Pass 1
+  // Pass 1 — Discover restaurant names
   const discoveredNames = await discoverRestaurants(city, state, target);
 
-  // Pass 2
+  // Pass 2 — Deep dive each restaurant
   const restaurants = await deepDiveRestaurants(discoveredNames, city, state);
+
+  // Pass 3 — Verify & discover website URLs
+  const enriched = await verifyAndDiscoverWebsites(restaurants);
 
   const result: CityResearch = {
     city,
     citySlug,
     state,
     researchedAt: new Date().toISOString(),
-    restaurants,
+    restaurants: enriched,
   };
 
-  log.info(`Research complete: ${restaurants.length} restaurants profiled`);
+  log.info(`Research complete: ${enriched.length} restaurants profiled`);
   return result;
 }
 
