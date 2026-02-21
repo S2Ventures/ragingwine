@@ -96,7 +96,7 @@
       "casual-vibes",
       "date-night"
     ],
-    "website": null,
+    "website": "https://posanarestaurant.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -150,7 +150,7 @@
       "by-the-glass-hero",
       "date-night"
     ],
-    "website": null,
+    "website": "https://batteryparkbookexchange.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -204,7 +204,7 @@
       "patio-pour",
       "by-the-glass-hero"
     ],
-    "website": null,
+    "website": "https://www.5walnut.com/",
     "address": {
       "street": "5 W Walnut St",
       "city": "Asheville",
@@ -256,7 +256,7 @@
       "date-night",
       "casual-vibes"
     ],
-    "website": null,
+    "website": "https://bargelloavl.com/",
     "address": {
       "street": "unknown",
       "city": "Asheville",
@@ -310,7 +310,7 @@
       "wine-bar",
       "hidden-gem"
     ],
-    "website": null,
+    "website": "https://www.bottleriot.com/",
     "address": {
       "street": "unknown",
       "city": "Asheville",
@@ -363,7 +363,7 @@
       "splurge-worthy",
       "patio-pour"
     ],
-    "website": null,
+    "website": "https://www.omnihotels.com/hotels/asheville-grove-park/dining/sunset-terrace",
     "address": {
       "street": "290 Macon Avenue",
       "city": "Asheville",
@@ -417,7 +417,7 @@
       "local-producers",
       "natural-wine"
     ],
-    "website": null,
+    "website": "https://metrowinesasheville.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -527,7 +527,8 @@
       "state": "NC",
       "zip": "28801",
       "country": "US"
-    }
+    },
+    "website": "https://grovearcade.com/"
   },
   {
     "slug": "5-walnut-cheese-bar-asheville",
@@ -573,7 +574,8 @@
       "by-the-glass-hero",
       "old-world-focus",
       "hidden-gem"
-    ]
+    ],
+    "website": "https://www.5walnut.com/"
   },
   {
     "slug": "biltmore-winery-wine-bar-asheville",
@@ -626,7 +628,8 @@
       "state": "NC",
       "zip": "28803",
       "country": "US"
-    }
+    },
+    "website": "https://www.biltmore.com/visit/winery/"
   },
   {
     "slug": "carrabbas-italian-grill-asheville",
@@ -670,7 +673,8 @@
     "subtitle": "Corporate Wine List Does Bare Minimum",
     "tags": [
       "casual-vibes"
-    ]
+    ],
+    "website": "https://www.carrabbas.com/"
   },
   {
     "slug": "the-market-place-restaurant-asheville",
@@ -769,7 +773,7 @@
       "casual-vibes",
       "old-world-focus"
     ],
-    "website": null,
+    "website": "https://curatetapasbar.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -821,7 +825,7 @@
       "casual-vibes",
       "splurge-worthy"
     ],
-    "website": null,
+    "website": "https://www.redstaggrill.com/",
     "address": {
       "street": "unknown",
       "city": "Asheville",
@@ -874,7 +878,7 @@
       "casual-vibes",
       "local-producers"
     ],
-    "website": null,
+    "website": "https://thecornerkitchen.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -1032,7 +1036,7 @@
       "by-the-glass-hero",
       "hidden-gem"
     ],
-    "website": null,
+    "website": "https://whiteducktacoshop.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -1085,7 +1089,7 @@
       "casual-vibes",
       "coastal-wines"
     ],
-    "website": null,
+    "website": "https://www.theadmiralasheville.com/",
     "address": {
       "street": "unknown",
       "city": "Asheville",
@@ -1139,7 +1143,7 @@
       "old-world-focus",
       "patio-pour"
     ],
-    "website": null,
+    "website": "https://zambratapas.com/",
     "address": {
       "street": "unknown",
       "city": "Asheville",
@@ -1191,7 +1195,7 @@
       "casual-vibes",
       "patio-pour"
     ],
-    "website": null,
+    "website": "https://www.buxtonhall.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -1297,7 +1301,7 @@
       "local-producers",
       "date-night"
     ],
-    "website": null,
+    "website": "https://rhubarbasheville.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -1402,7 +1406,7 @@
       "southern-cooking",
       "date-night"
     ],
-    "website": null,
+    "website": "https://huskrestaurant.com/",
     "address": {
       "street": null,
       "city": "Asheville",
@@ -1455,7 +1459,7 @@
       "casual-vibes",
       "skip-the-wine"
     ],
-    "website": null,
+    "website": "https://jerusalemgardencafe.com/",
     "address": {
       "street": null,
       "city": "Asheville",

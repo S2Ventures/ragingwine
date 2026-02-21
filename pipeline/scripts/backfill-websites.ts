@@ -8,9 +8,13 @@
 
 import { createClient } from '@sanity/client';
 import * as dotenv from 'dotenv';
-import * as path from 'path';
+import { fileURLToPath } from 'url';
+import { dirname, resolve } from 'path';
 
-dotenv.config({ path: path.resolve(__dirname, '../../.env.local') });
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+dotenv.config({ path: resolve(__dirname, '../../.env.local') });
 
 const client = createClient({
   projectId: 'qyap5sez',
@@ -182,9 +186,11 @@ async function main() {
   // Also update the local pipeline JSON files so future publishes don't overwrite
   console.log(`\n📁 Updating local pipeline JSON files...`);
   const fs = await import('fs');
-  const glob = await import('glob');
+  const pathMod = await import('path');
 
-  const reviewFiles = glob.sync('pipeline/data/runs/*-reviews-*.json');
+  const runsDir = pathMod.resolve(__dirname, '../../pipeline/data/runs');
+  const allFiles = fs.readdirSync(runsDir).filter((f: string) => f.includes('-reviews-') && f.endsWith('.json'));
+  const reviewFiles = allFiles.map((f: string) => pathMod.join(runsDir, f));
   let filesUpdated = 0;
 
   for (const file of reviewFiles) {
