@@ -1,0 +1,180 @@
+{
+  "city": "Asheville",
+  "citySlug": "asheville",
+  "startedAt": "2026-02-21T14:33:31.182Z",
+  "completedAt": "2026-02-21T14:41:00.642Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 28,
+  "reviewsPublished": 28,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Quench! Wine Bistro",
+      "slug": "quench-wine-bistro-asheville",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Posana",
+      "slug": "posana-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Battery Park Book Exchange and Champagne Bar",
+      "slug": "battery-park-book-exchange-and-champagne-bar-asheville",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "5 Walnut Wine Bar",
+      "slug": "5-walnut-wine-bar-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bargello",
+      "slug": "bargello-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bottle Riot",
+      "slug": "bottle-riot-asheville",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Sunset Terrace at Omni Grove Park Inn",
+      "slug": "sunset-terrace-at-omni-grove-park-inn-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Metro Wines",
+      "slug": "metro-wines-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Asheville Guitar Bar",
+      "slug": "asheville-guitar-bar-asheville",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Grove Arcade Wine Bars",
+      "slug": "grove-arcade-wine-bars-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "5 Walnut Cheese Bar",
+      "slug": "5-walnut-cheese-bar-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Biltmore Winery Wine Bar",
+      "slug": "biltmore-winery-wine-bar-asheville",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Carrabba's Italian Grill",
+      "slug": "carrabbas-italian-grill-asheville",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Market Place Restaurant",
+      "slug": "the-market-place-restaurant-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cúrate",
+      "slug": "crate-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Red Stag Grill",
+      "slug": "red-stag-grill-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Corner Kitchen",
+      "slug": "corner-kitchen-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sous Chef CTK",
+      "slug": "sous-chef-ctk-asheville",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Modesto Trattoria",
+      "slug": "modesto-trattoria-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "White Duck Taco Shop",
+      "slug": "white-duck-taco-shop-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Admiral",
+      "slug": "the-admiral-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Zambra",
+      "slug": "zambra-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Buxton Hall Barbecue",
+      "slug": "buxton-hall-barbecue-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Benne on Eagle",
+      "slug": "benne-on-eagle-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Rhubarb",
+      "slug": "rhubarb-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Asbury",
+      "slug": "the-asbury-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Husk Asheville",
+      "slug": "husk-asheville-asheville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Jerusalem Garden Cafe",
+      "slug": "jerusalem-garden-cafe-asheville",
+      "badge": "lazy",
+      "published": true
+    }
+  ]
+}

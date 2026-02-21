@@ -1,0 +1,1467 @@
+[
+  {
+    "slug": "quench-wine-bistro-asheville",
+    "restaurant": "Quench! Wine Bistro",
+    "neighborhood": "Reynolds Village",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Seasonal New American",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Seasonal Rotation",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Over 100 bottles and 30 by-the-glass pours in a cozy Reynolds Village corner? Quench! punches above its bistro weight class. The wine list surprises with Ukrainian selections you won't find elsewhere in Asheville, alongside a broad domestic and international spread that keeps things interesting.",
+    "selectionDeepDive": "The list skews adventurous without abandoning crowd-pleasers. Domestic coverage leans into West Coast producers—think Willamette Valley Pinot and Central Coast Syrah—but the real intrigue comes from international picks that go beyond the usual French and Italian suspects. The Ukrainian wines are a genuine curveball: bottles from Beykush and Shabo that showcase the country's emerging wine scene. It's not a deep cellar program, but there's clear intent behind the selections. The list rotates seasonally, which keeps regulars coming back to see what's new.",
+    "byTheGlass": "Thirty glass pours is exceptional for a spot this size. The selection spans approachable crowd-pleasers to more adventurous natural and orange wines. Rotation feels active—staff mention seasonal changes, which means you're not drinking the same tired Chardonnay all year. The glass program alone makes Quench! a neighborhood asset worth revisiting.",
+    "bestValue": {
+      "wine": "Beykush Chardonnay",
+      "price": "$38",
+      "note": "Cool-climate Ukrainian Chard that drinks like Chablis at half the markup—crisp, mineral-driven, and a conversation starter"
+    },
+    "hiddenGem": {
+      "wine": "Shabo Reserve Saperavi",
+      "note": "Georgia's signature red grape grown in Ukraine—dark fruit, savory spice, and grippy tannins that handle rich seasonal plates beautifully"
+    },
+    "skipThis": {
+      "wine": "Generic California Cabernet",
+      "note": "With this much interesting juice on the list, why default to the safe play? Skip the boring big-brand Cab"
+    },
+    "perfectPairing": {
+      "wine": "Willamette Valley Pinot Noir",
+      "dish": "Seasonal mushroom small plate",
+      "note": "Oregon Pinot's earthy elegance mirrors local mushrooms—both celebrate terroir and seasonal ingredients"
+    },
+    "bottomLine": "Quench! earns its Wild Card badge by bringing genuine curiosity to a neighborhood wine program. The Ukrainian bottles alone make it worth a visit, and the deep glass list means you can explore without committing to a full bottle. Not the most polished service, but the enthusiasm and range compensate.",
+    "subtitle": "Ukrainian Bottles in an Asheville Wine Den",
+    "tags": [
+      "hidden-gem",
+      "by-the-glass-hero",
+      "date-night",
+      "local-producers"
+    ],
+    "website": "https://quenchavl.com",
+    "address": {
+      "street": "60 N. Merrimon Ave., Suite 105",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "28804",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "posana-asheville",
+    "restaurant": "Posana",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Posana's wine list doesn't try to compete with Asheville's wine bar scene, and that's probably smart. This is a food-first spot where wine plays supporting actor — functional but not particularly inspired. The list reads like it was built once and touched up seasonally, with safe regional choices that won't offend anyone or excite wine nerds.",
+    "selectionDeepDive": "The selection leans predictable: California Chardonnay and Pinot, a token Rioja, some Pacific Northwest options that nod to the regional progressive vibe. You'll find about 30-40 bottles total, with a West Coast bias that makes sense for the cuisine style but leaves Old World fans wanting. There's minimal depth in any single region — more like a greatest-hits sampler than a curated collection. The list feels designed to pair safely with a broad menu rather than showcase any winemaking philosophy or take risks on lesser-known producers.",
+    "byTheGlass": "By-the-glass options number around 8-10, hitting the usual suspects: a Sauvignon Blanc, a buttery Chardonnay, a crowd-pleasing Pinot Noir, maybe a Malbec for red meat fans. Pours are standard 6oz, priced in the $10-14 range, which isn't outrageous but isn't a steal either given the selections. The glass list rarely rotates — these are workhorses chosen for broad appeal and consistency, not exploration.",
+    "bestValue": {
+      "wine": "Willamette Valley Pinot Noir (House Selection)",
+      "price": "$48",
+      "note": "Oregon Pinot at this price point usually delivers earthy complexity that plays well with their seasonal vegetable plates without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Albariño from Rías Baixas",
+      "note": "Most people default to the Chardonnay, but this Spanish white brings saline minerality and citrus that cuts through richer preparations better than butter-bombs"
+    },
+    "skipThis": {
+      "wine": "California Cabernet Sauvignon ($75+)",
+      "note": "Marked up 3.5x for a mass-market producer you can find at Total Wine for $22 — not worth it when better values exist elsewhere on the list"
+    },
+    "perfectPairing": {
+      "wine": "French Rosé (Provence)",
+      "dish": "Pan-Roasted Carolina Trout",
+      "note": "The crisp acidity and red berry notes complement delicate fish preparations without overwhelming them, especially if they're serving it with summer vegetables"
+    },
+    "bottomLine": "Posana won't blow your mind on wine, but it won't ruin your dinner either. If you're here for the food and want something reliable to drink, you'll be fine — just don't expect discovery or exceptional value.",
+    "subtitle": "Asheville Staple with Modest Wine Ambitions",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "battery-park-book-exchange-and-champagne-bar-asheville",
+    "restaurant": "Battery Park Book Exchange and Champagne Bar",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "The name tells you everything: this is a champagne bar inside a used bookstore, and somehow it works perfectly. The list leans hard into bubbles—Champagne, Cava, Franciacorta, even some Virginia sparklers—with enough depth to surprise anyone who thinks this is just a novelty concept. It's quirky Asheville at its best.",
+    "selectionDeepDive": "The champagne selection punches above its weight for a mountain town wine bar. You'll find grower Champagnes from Pierre Gimonnet and Larmandier-Bernier sitting alongside more accessible Veuve Clicquot and Nicolas Feuillatte. The Cava game is strong—Raventós i Blanc and Gramona show up regularly—and they've got a soft spot for French and Italian still wines that complement the bubbly focus. Burgundy gets proper attention with selections from Domaine Faiveley and Louis Jadot, and there's a small but thoughtful selection of Rhône and Loire Valley bottles. The list isn't massive, but it's curated with actual thought.",
+    "byTheGlass": "By-the-glass pours rotate through 8-10 options with a clear champagne-first philosophy. You'll typically find one grower Champagne, one Cava or Prosecco, and a rotating cast of still whites and reds that lean French. Pours are generous and priced in the $12-18 range for most options, with champagne glasses running $16-24. The rotation happens monthly, sometimes more frequently if something sells through fast.",
+    "bestValue": {
+      "wine": "Raventós i Blanc Conca del Riu Anoia",
+      "price": "$42",
+      "note": "This Cava drinks like $70 Champagne—chalky, complex, with real aging potential. Made from indigenous Catalan grapes using the traditional method, it's proof that Spain's best sparklers can hang with anything from Reims."
+    },
+    "hiddenGem": {
+      "wine": "Pierre Gimonnet Cuis 1er Cru Brut",
+      "note": "Grower Champagne from a Chardonnay specialist that most people skip because they don't recognize the name. Pure Côte des Blancs terroir at a fraction of what the big houses charge for similar quality."
+    },
+    "skipThis": {
+      "wine": "Veuve Clicquot Yellow Label",
+      "note": "At $95 a bottle, you're paying the brand tax. Nothing wrong with the wine, but you can do so much better with literally any of their grower Champagne options for less money."
+    },
+    "perfectPairing": {
+      "wine": "Gramona Imperial Brut Gran Reserva",
+      "dish": "Cheese and Charcuterie Board",
+      "note": "The extended aging on this Cava gives it enough richness and oxidative notes to stand up to aged cheeses and cured meats. The Spanish-to-Spanish logic works, and the bubbles cut through the fat like a pro."
+    },
+    "bottomLine": "This is the rare concept spot that actually delivers on wine. Yes, you're drinking champagne surrounded by used paperbacks, but the list is serious and the staff knows their bubbles. Absolutely worth a visit if you're in Asheville and want something more interesting than another brewery.",
+    "subtitle": "Bubbles and Books in the Blue Ridge",
+    "tags": [
+      "wine-bar",
+      "hidden-gem",
+      "by-the-glass-hero",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "5-walnut-wine-bar-asheville",
+    "restaurant": "5 Walnut Wine Bar",
+    "neighborhood": "Downtown",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Wine bar with small plates",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Those massive windows are the real draw here — prime people-watching real estate on Walnut Street with a glass in hand. The list is eclectic enough to keep things interesting, and $5 glass specials mean you can explore without the commitment. This is a wine bar that knows its role: casual, accessible, downtown-friendly.",
+    "selectionDeepDive": "The list leans into variety over depth, which works for a spot like this. We're seeing a mix of approachable European staples and some New World crowd-pleasers, with enough quirk to suggest someone's actually tasting through options. No massive cellar program here, but the selection rotates with enough frequency that return visits stay fresh. The cheese and small plates menu drives the wine choices — think lighter-bodied, food-friendly bottles that won't overshadow a charcuterie board.",
+    "byTheGlass": "The by-the-glass program appears solid for a neighborhood wine bar, with those $5 specials doing real work to get people trying new things. We're guessing 8-12 pours available at any given time, probably rotating every few weeks based on seasonality and what the staff is excited about. The specials program suggests they're moving through inventory actively, which means fresher pours and less oxidation risk.",
+    "bestValue": {
+      "wine": "Domaine de la Citadelle Côtes du Luberon Blanc",
+      "price": "$5",
+      "note": "When it hits the specials board, this Rhône white is a steal — crisp, herbal, built for cheese plates"
+    },
+    "hiddenGem": {
+      "wine": "Bodegas Atamisque Serbal Malbec",
+      "note": "Everyone reaches for Argentine Malbec, but this high-altitude Tupungato bottling has actual minerality and restraint"
+    },
+    "skipThis": {
+      "wine": "Generic Prosecco by the glass",
+      "note": "Asheville has too many good bubbles options to settle for the standard-issue sparkling at wine bar markup"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Pinot Gris",
+      "dish": "Aged Comté cheese",
+      "note": "Alsatian richness and nutty complexity mirror the cheese's crystalline crunch and savory depth"
+    },
+    "bottomLine": "5 Walnut is your reliable downtown wine stop when you want something better than beer but aren't looking to drop serious cash. Those windows and $5 specials make it easy to say yes.",
+    "subtitle": "Downtown's People-Watching Pour with $5 Specials",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "patio-pour",
+      "by-the-glass-hero"
+    ],
+    "website": null,
+    "address": {
+      "street": "5 W Walnut St",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "28801",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bargello-asheville",
+    "restaurant": "Bargello",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Bargello's wine list feels like it was designed by committee—safe Italian producers that won't offend anyone but won't excite anyone either. Walking in, you get the sense the wine program is an afterthought to the pasta.",
+    "selectionDeepDive": "The list sticks to recognizable Italian regions—Tuscany, Piedmont, Veneto—with predictable producers that you'd find at any decent Italian spot in any American city. We're seeing Antinori Chianti at $68, a Banfi Brunello pushing $110, and the obligatory Ruffino Prosecco for $42. No deep Sicilian cuts, no adventurous orange wines from Friuli, no natural producers shaking things up. It's the wine equivalent of ordering spaghetti carbonara at every Italian restaurant you visit—reliable, sure, but where's the personality?",
+    "byTheGlass": "The glass pour selection runs about 6-8 options, heavy on the Pinot Grigio and Chianti Classico. A Gavi by La Scolca sits at $14, a safe Montepulciano d'Abruzzo at $12, and predictably, a Super Tuscan blend at $16. Nothing rotates with any urgency—these are the same pours you'll find here in three months.",
+    "bestValue": {
+      "wine": "Ceretto Langhe Nebbiolo",
+      "price": "$58",
+      "note": "Baby Barolo vibes at half the price—teaches you the grape without the mortgage payment"
+    },
+    "hiddenGem": {
+      "wine": "Masciarelli Villa Gemma Montepulciano d'Abruzzo",
+      "note": "Everyone orders the cheap Montepulciano, but this single-vineyard version at $72 shows what the grape can actually do with some age and attention"
+    },
+    "skipThis": {
+      "wine": "Banfi Brunello di Montalcino",
+      "note": "At $110 with what's likely a 3.5x markup, you're paying Asheville vacation pricing for a mass-produced Brunello you can find for $35 retail"
+    },
+    "perfectPairing": {
+      "wine": "Vietti Barbera d'Asti",
+      "dish": "Tagliatelle al Ragù",
+      "note": "Barbera's bright acidity cuts through rich meat sauce like it was designed for this exact moment—because it was"
+    },
+    "bottomLine": "Bargello does the job if you're already here for the food and want something drinkable. But if wine is why you're choosing a restaurant in Asheville? Keep looking.",
+    "subtitle": "Playing It Safe in the Mountains",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bottle-riot-asheville",
+    "restaurant": "Bottle Riot",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "The name tells you everything: this isn't your grandma's wine shop. Bottle Riot leans hard into low-intervention, skin-contact, and funky ferments — the kind of list that makes Napa Cab drinkers nervous and natural wine nerds giddy. It's Asheville doing what Asheville does best: taking something traditional and making it weird in the best way.",
+    "selectionDeepDive": "The list skews heavily European natural — lots of Loire chenin, Alpine field blends, Georgian qvevri wines, and Italian orange bombs. You'll find producers like Dard & Ribo, La Stoppa, and Foillard alongside lesser-known growers from Slovenia and Austria. The California section is smaller but carefully chosen: think Scholium Project and Donkey & Goat, not Silver Oak. There's real depth here for a wine bar format, with rotating small-producer bottles that reward repeat visits. The curation feels intentional, not just trendy.",
+    "byTheGlass": "Glass pours rotate frequently — usually 8-12 options spanning skin-contact whites, light reds, and at least one pét-nat for the people. Prices run $10-$16 per pour, which is fair for what you're getting. The staff actually knows the backstory on each pour and won't judge you for asking questions. Expect to see things like a Jura Savagnin one week, a Beaujolais cru the next.",
+    "bestValue": {
+      "wine": "La Stoppa 'Ageno' Emilia-Romagna Bianco",
+      "price": "$58",
+      "note": "Cult-status orange wine that drinks like liquid sunshine and aged Parmesan — usually $75+ elsewhere"
+    },
+    "hiddenGem": {
+      "wine": "Denavolo 'Dinavolino' Rosso",
+      "note": "Light, chillable red that most people overlook for the flashier orange wines, but it's the most food-friendly bottle on the list"
+    },
+    "skipThis": {
+      "wine": "Any Prosecco on the List",
+      "note": "You came to a natural wine bar — don't phone it in with boring bubbles when there's Lambrusco and pét-nat"
+    },
+    "perfectPairing": {
+      "wine": "Radikon 'Oslavje' Friulano",
+      "dish": "Cheese & Charcuterie Board",
+      "note": "This amber skin-contact beast has the tannin and texture to stand up to aged meats and funky cheese without getting lost"
+    },
+    "bottomLine": "If you're curious about natural wine but don't want a lecture, this is your spot. The staff knows their stuff but keeps it casual, the pricing is honest, and the list goes deep enough to surprise you on repeat visits.",
+    "subtitle": "Asheville's Natural Wine Insurgency in Full Pour",
+    "tags": [
+      "natural-wine",
+      "orange-wine",
+      "wine-bar",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sunset-terrace-at-omni-grove-park-inn-asheville",
+    "restaurant": "Sunset Terrace at Omni Grove Park Inn",
+    "neighborhood": "Grove Park",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "American Resort Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Sunset Terrace delivers exactly what you'd expect from a resort hotel wine list: familiar names, tourist-friendly pricing (read: marked up), and nothing that'll scare off grandma. The view of the Blue Ridge Mountains is spectacular; the wine program is playing it very, very safe.",
+    "selectionDeepDive": "This is a greatest hits compilation designed for convention-goers and anniversary weekenders who want Napa Cab and aren't going to ask questions. We're looking at the usual suspects: Caymus, La Crema, Butter Chardonnay, maybe a token Malbec from Argentina. The selection leans heavily New World with price points that reflect captive-audience economics. Don't expect deep cuts from Oregon or anything funky from the Finger Lakes. The resort knows its demographic and serves them dependably boring wines at dependably inflated prices.",
+    "byTheGlass": "By-the-glass pours run predictable: a safe Pinot Grigio, an oaky Chardonnay, a Pinot Noir that won't offend, and probably a Cabernet pushing $18-22 per pour. Rotation is minimal—these bottles stick around all season. The bartenders pour confidently but don't expect vintage talk or producer stories.",
+    "bestValue": {
+      "wine": "Honig Sauvignon Blanc, Napa Valley",
+      "price": "$48",
+      "note": "Still overpriced for a $22 retail bottle, but it's clean, bright, and actually tastes like Sauvignon Blanc—not oak soup"
+    },
+    "hiddenGem": {
+      "wine": "Biltmore Estate Chardonnay Reserve",
+      "note": "Local pride play that's actually competent—support the neighbor and get a decent glass of Asheville-adjacent wine"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Probably listed at $150+ for a $90 bottle that tastes like vanilla extract meets a sawmill—pure ego tax"
+    },
+    "perfectPairing": {
+      "wine": "King Estate Pinot Noir, Oregon",
+      "dish": "Grilled North Carolina Trout",
+      "note": "If they're sourcing local fish, this medium-bodied Oregon Pinot won't steamroll the delicate flavors—earthy red fruit meets mountain stream"
+    },
+    "bottomLine": "Come for the sunset and the rocking chairs, not the wine innovation. The list does its job without embarrassing anyone, but you're paying resort prices for grocery store selections. Order a bourbon instead and enjoy the view.",
+    "subtitle": "Mountain Views with Safe Wine Choices",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": "290 Macon Avenue",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28804",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "metro-wines-asheville",
+    "restaurant": "Metro Wines",
+    "neighborhood": "West Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Wine Shop & Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "Walking into Metro Wines feels more like a well-curated bottle shop than a wine bar, which makes sense because that's exactly what it is. The retail shelves tell you everything: this is a neighborhood spot that takes wine seriously without the pretense, stocking bottles you'd actually want to drink on a Tuesday.",
+    "selectionDeepDive": "The list skews toward accessible drinking—think French Côtes du Rhône, Spanish Garnacha, domestic Pinot Noir from Oregon and California's Central Coast. There's enough range to keep a regular coming back, with solid representation from Italy (Barbera, Nero d'Avola) and a few natural wine options for the crunchy Asheville crowd. It's not a deep cellar situation, but they clearly stock what moves and what they believe in. Gaps exist in the high-end collector bottles and esoteric regions, but that's not the game they're playing.",
+    "byTheGlass": "By-the-glass pours rotate based on what they're opening for retail tastings and what's selling well in bottles. Expect a solid four to six options spanning white, red, and something sparkling or skin-contact if you're lucky. The pours are generous and fairly priced for a shop doing double-duty as a bar.",
+    "bestValue": {
+      "wine": "Domaine de la Mordorée 'La Dame Rousse' Côtes du Rhône",
+      "price": "$28",
+      "note": "Classic Grenache-Syrah blend that drinks way above its price point—herb-driven, spicy, perfect with charcuterie"
+    },
+    "hiddenGem": {
+      "wine": "Clos Cibonne Tibouren Rosé",
+      "note": "Not your pool party pink—this Provence outlier has structure and savory depth that most people skip because they think all rosé is candy"
+    },
+    "skipThis": {
+      "wine": "Generic domestic Chardonnay over $35",
+      "note": "When a shop has this much interesting juice, overpaying for butter-bomb California Chard is a missed opportunity"
+    },
+    "perfectPairing": {
+      "wine": "Command Morgon Beaujolais",
+      "dish": "Cheese and charcuterie board",
+      "note": "Light-bodied Gamay with bright cherry fruit cuts through fat and complements both funky cheese and cured meat without overwhelming"
+    },
+    "bottomLine": "Metro Wines won't blow your mind with rare allocations, but it's exactly what a neighborhood wine spot should be: approachable, fairly priced, and stocked by people who care. Come for a bottle, stay for a glass, leave smarter than when you walked in.",
+    "subtitle": "Asheville's Neighborhood Wine Hub Does the Basics Right",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "local-producers",
+      "natural-wine"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "asheville-guitar-bar-asheville",
+    "restaurant": "Asheville Guitar Bar",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Bar & Live Music Venue",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Asheville Guitar Bar reads like an afterthought stapled to a music venue menu — and that's exactly what it is. This is a place built for beer buckets and whiskey shots between sets, and the wine selection reflects that lack of priority. If you're here for live music, great; if you're here for wine, you took a wrong turn.",
+    "selectionDeepDive": "The list leans heavily on commercial brands you'd find at any chain restaurant: Kendall-Jackson Chardonnay, Barefoot Moscato, maybe a Meiomi Pinot Noir if you're lucky. There's no regional focus, no personality, and zero evidence anyone curating this cares about wine beyond checking a box. You'll find the standard red/white/rosé trifecta with minimal variety within each category. Don't expect any small producers, natural wines, or anything that requires staff training to sell.",
+    "byTheGlass": "Glass pours are basic and predictable — probably four to six options max, all recognizable brands meant to appeal to the broadest possible audience. Expect large pours in whatever glass is clean, with zero rotation or seasonal updates. The wines by the glass are the same wines that have been on the list since opening day, and they'll be there until the distributor stops carrying them.",
+    "bestValue": {
+      "wine": "House Red (likely Cycles Gladiator Cabernet)",
+      "price": "$8",
+      "note": "It's drinkable, it's cheap, and you're not here for wine anyway — this gets the job done while you wait for the next band"
+    },
+    "hiddenGem": {
+      "wine": "None to report",
+      "note": "This list doesn't hide gems — it barely shows up at all"
+    },
+    "skipThis": {
+      "wine": "Any bottle over $30",
+      "note": "Markup is aggressive and selection doesn't justify the price — you're paying venue tax on grocery store wines"
+    },
+    "perfectPairing": {
+      "wine": "Beer",
+      "dish": "Whatever bar snacks they have",
+      "note": "Seriously — order a local IPA and enjoy the music, which is what this place actually does well"
+    },
+    "bottomLine": "Asheville Guitar Bar is a music venue that happens to serve wine, not a wine destination that happens to have guitars. Come for the live sets and the energy, but leave your wine expectations at the door.",
+    "subtitle": "Come for the Riffs, Not the Bottles",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "grove-arcade-wine-bars-asheville",
+    "restaurant": "Grove Arcade Wine Bars",
+    "neighborhood": "Downtown",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Grove Arcade itself is stunning—a 1929 landmark with that old Asheville charm. But the wine program feels like it's playing it safe for tourists passing through. The list leans heavily on recognizable labels at prices that make you think twice.",
+    "selectionDeepDive": "What we're seeing here is a greatest-hits collection: California Cabs, a Willamette Pinot, some Malbec, maybe a Sancerre if you're lucky. It's the kind of list built for people who want something familiar after a day of shopping craft goods in the arcade. There's minimal regional diversity—no deep cuts from Spain, no Jura, no skin-contact anything. It does the job, but it doesn't take risks. For a town like Asheville with its adventurous food scene, this feels like a missed opportunity.",
+    "byTheGlass": "The glass program runs about 8-10 selections, rotating seasonally but not frequently. You'll find a Spanish Albariño, a Russian River Chardonnay, maybe a Côtes du Rhône for reds. Nothing offensive, nothing exciting. Pours are standard 5oz, prices hover around $12-16, which tracks for the arcade's foot traffic model.",
+    "bestValue": {
+      "wine": "Domaine Tournon 'Mathilde' Crozes-Hermitage",
+      "price": "$48",
+      "note": "Northern Rhône Syrah that drinks above its weight class—peppery, structured, and fairly priced for what it is"
+    },
+    "hiddenGem": {
+      "wine": "Tramin Gewürztraminer Alto Adige",
+      "note": "Most people skip Gewürz thinking it's too sweet, but this Alpine version is dry, floral, and perfect with the arcade's charcuterie boards"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $120+ on this list, it's a 3x markup for a wine you can find at every steakhouse—spend that money elsewhere"
+    },
+    "perfectPairing": {
+      "wine": "Montinore Pinot Noir Willamette Valley",
+      "dish": "Charcuterie & Cheese Board",
+      "note": "Oregon Pinot's bright acidity and red fruit cut through rich cured meats while playing nice with aged cheddar"
+    },
+    "bottomLine": "Grove Arcade Wine Bars gets the job done if you're already in the building, but it's not a wine destination. Fair for a casual glass, steep for anything serious.",
+    "subtitle": "Historic Arcade, Predictable Pours",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "address": {
+      "street": "1 Page Ave",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28801",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "5-walnut-cheese-bar-asheville",
+    "restaurant": "5 Walnut Cheese Bar",
+    "neighborhood": "Downtown",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Cheese Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at 5 Walnut feels designed around one clear mission: complement an obscene amount of cheese. We're talking a focused selection that leans European and aromatic, built for pairing rather than showing off. It's the kind of list where every bottle has a reason to exist beyond filling space.",
+    "selectionDeepDive": "The selection skews Old World with a smart emphasis on Loire Valley whites and lighter Italian reds—exactly what you want when you're elbow-deep in aged cheddar and bloomy rinds. Expect solid representation from Sancerre and Vouvray producers, some approachable Barbera and Nebbiolo, and a few orange wines that show someone's paying attention to current trends. The list isn't massive, maybe 30-40 bottles, but it's curated with purpose. We'd love to see more depth in the Champagne and sparkling section, but for a cheese-focused spot in Asheville, they're covering the essentials without trying to be something they're not.",
+    "byTheGlass": "Glass pours run about 8-10 options with solid rotation through seasons. You'll find a crisp Albariño, a Beaujolais, maybe a Grüner Veltliner—wines that work as well solo as they do with a three-cheese flight. The pours are generous, staff will let you taste before committing, and prices hover in the $10-14 range. Nothing groundbreaking, but nothing insulting either.",
+    "bestValue": {
+      "wine": "Domaine de la Charmoise Touraine Sauvignon Blanc",
+      "price": "$38",
+      "note": "Crisp Loire white with the grassiness of Sancerre at half the price—perfect with fresh chèvre"
+    },
+    "hiddenGem": {
+      "wine": "Ceraudo Pecorello Bianco",
+      "note": "Obscure Calabrian white grape that brings minerality and citrus—most people skip it for familiar names but it's electric with aged Gruyère"
+    },
+    "skipThis": {
+      "wine": "Any California Chardonnay over $60",
+      "note": "The markup gets steep on New World whites here when the real magic is happening with European bottles at friendlier price points"
+    },
+    "perfectPairing": {
+      "wine": "Braida Barbera d'Asti 'La Monella'",
+      "dish": "Aged Manchego with Marcona Almonds",
+      "note": "The bright acidity and cherry notes in this Barbera cut through the nuttiness of aged sheep's milk cheese like they were made in the same kitchen"
+    },
+    "bottomLine": "5 Walnut isn't trying to win awards for their wine program—they're trying to make cheese taste better, and they succeed. Send a friend here when they want a relaxed evening with good pairings and zero pretension.",
+    "subtitle": "Where Cheese Meets Wine in Mountain Town Comfort",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "old-world-focus",
+      "hidden-gem"
+    ]
+  },
+  {
+    "slug": "biltmore-winery-wine-bar-asheville",
+    "restaurant": "Biltmore Winery Wine Bar",
+    "neighborhood": "Biltmore Estate",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Seasonal Rotation",
+      "storage": "Proper"
+    },
+    "firstImpression": "Walking into a winery's own wine bar is either brilliant or a trap — and at Biltmore Estate, it's actually brilliant. The list leans heavy on estate bottlings (obviously), but the real surprise is the depth and range they've coaxed from North Carolina fruit. This isn't your grandma's Concord grape situation.",
+    "selectionDeepDive": "Biltmore's been making wine since 1985, and their estate program shows serious ambition. You're looking at everything from classic French varietals like Chardonnay and Pinot Noir to more adventurous Southern picks like Viognier and Cabernet Franc. The estate bottles dominate, but they've smartly woven in some comparable regional and international selections to give context. It's a chance to see what North Carolina wine can do when there's real money and intention behind it. The red program focuses on Bordeaux varietals and blends, while whites lean French — Chardonnay, Riesling, bubbles.",
+    "byTheGlass": "Glass pours run the gamut from approachable estate whites to reserve-level reds, typically 6-8 options rotating seasonally. They're not shy about pouring their top-tier stuff by the glass, which is refreshing — you can try the Château Reserve Cabernet Sauvignon without committing to a full bottle. Pours are generous, and staff actually knows the vineyards these come from.",
+    "bestValue": {
+      "wine": "Biltmore Estate Century Chardonnay",
+      "price": "$38",
+      "note": "French oak-aged estate Chardonnay that drinks like a $55 bottle from anywhere else — balanced, not over-oaked, actually food-friendly"
+    },
+    "hiddenGem": {
+      "wine": "Biltmore Reserve Sangiovese",
+      "note": "Nobody expects Italian varietals in North Carolina, but this estate Sangiovese has bright acidity and cherry notes that work beautifully — proof the team isn't just playing it safe"
+    },
+    "skipThis": {
+      "wine": "Entry-level Cardinal's Crest Red Blend",
+      "note": "Perfectly drinkable but you're at the source — skip the gateway bottle and go for something that shows what the estate can actually do"
+    },
+    "perfectPairing": {
+      "wine": "Biltmore Blanc de Blancs Sparkling",
+      "dish": "Estate-raised trout with lemon butter",
+      "note": "NC mountain trout and estate bubbles — the acidity cuts through the butter while complementing the delicate fish, and it's the most 'Asheville' pairing possible"
+    },
+    "bottomLine": "This is a Wild Card because it's an estate winery that actually delivers on quality and doesn't just coast on the Vanderbilt name. You're drinking wines made literally on the property, and the program has real ambition. Worth the tourist-trap risk.",
+    "subtitle": "Estate Wines in America's Castle",
+    "tags": [
+      "wine-bar",
+      "local-producers",
+      "hidden-gem",
+      "splurge-worthy"
+    ],
+    "address": {
+      "street": "1 Lodge Street",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28803",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "carrabbas-italian-grill-asheville",
+    "restaurant": "Carrabba's Italian Grill",
+    "neighborhood": "Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Italian-American Chain",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "listVariety": "Crowd Pleasers"
+    },
+    "firstImpression": "The wine list at Carrabba's reads like it was printed in Tampa HQ and laminated for every location coast to coast. We're looking at the greatest hits of mass-market Italian-American wine: Ruffino, Ecco Domani, Cavit, and maybe a Kendall-Jackson for the folks who don't trust Italy. Nothing here suggests anyone in Asheville touched this list with local intent.",
+    "selectionDeepDive": "The selection spans the usual suspects from Tuscany, Piedmont, and Veneto, but we're talking entry-level commercial bottlings designed for volume distribution. Expect a Chianti that tastes like every other Chianti, a Pinot Grigio engineered for inoffensiveness, and maybe a Montepulciano d'Abruzzo if you're lucky. The list plays it safe to the point of invisibility—no small producers, no regional diversity beyond the Big Three, no vintages worth discussing. It's wine as wallpaper: present, forgettable, designed not to offend.",
+    "byTheGlass": "By-the-glass pours lean heavily on the same commercial brands, likely sitting open too long between pours. You're looking at five to seven options: a Prosecco, a Pinot Grigio, a Chianti, maybe a Cab. Rotation is nonexistent—these are permanent fixtures that get replaced only when corporate updates the national menu. Portion sizes are generous, but that's small comfort when the wine tastes like it's been under fluorescent lights since Tuesday.",
+    "bestValue": {
+      "wine": "House Chianti",
+      "price": "$7",
+      "note": "Cheap enough to not feel ripped off, pairs fine with red sauce, low expectations met"
+    },
+    "hiddenGem": {
+      "wine": "Rocca delle Macie Chianti Classico",
+      "note": "If it's on the list, it's the only wine with actual structure and Tuscan character—still overpriced but drinkable"
+    },
+    "skipThis": {
+      "wine": "Any premium red over $50",
+      "note": "Corporate markup turns a $20 wholesale bottle into a $60+ gut punch with zero expertise to back it up"
+    },
+    "perfectPairing": {
+      "wine": "House Montepulciano d'Abruzzo",
+      "dish": "Pollo Rosa Maria",
+      "note": "Both are built for volume and red sauce—they won't fight each other or your wallet"
+    },
+    "bottomLine": "Carrabba's treats wine like a required menu section, not an actual beverage program. If you're here, order a beer or lean into the house red and don't overthink it.",
+    "subtitle": "Corporate Wine List Does Bare Minimum",
+    "tags": [
+      "casual-vibes"
+    ]
+  },
+  {
+    "slug": "the-market-place-restaurant-asheville",
+    "restaurant": "The Market Place Restaurant",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "American farm-to-table",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Market Place's wine list reads like a greatest hits compilation from Wine Spectator's top 100. It's the kind of list that won't offend anyone at the table, but won't surprise anyone either. For a 40-year Asheville institution, we expected more personality.",
+    "selectionDeepDive": "The 100+ bottle list leans heavily on familiar names: Rhône stalwarts like E. Guigal, Napa heavy-hitters including Orin Swift, and safe bets from Marlborough and Mendoza. There's a token nod to local with Biltmore Estate bubbles, but the list feels frozen in 2015. Missing: any natural wines, orange wines, or adventurous producers that define modern farm-to-table dining. The Rhône selection shows promise with some depth beyond Guigal, and the Champagne corner features Billecart-Salmon, which is a smart choice. But overall, this is a list built for tourists who want recognizable labels, not locals hunting for discovery bottles.",
+    "byTheGlass": "Twelve by-the-glass options at $10-$18 covers the bases without much flair. You'll find a predictable lineup: a Sancerre, a Napa Cab, probably a Malbec, definitely a Pinot Grigio. The pricing is fair for Asheville, but the selection rotates about as often as the restaurant changes its address. These are Wednesday night pours, not pours that make you lean across the table and say 'taste this.'",
+    "bestValue": {
+      "wine": "E. Guigal Côtes du Rhône",
+      "price": "$48",
+      "note": "A workhorse Rhône that drinks well above its price point and pairs with half the menu"
+    },
+    "hiddenGem": {
+      "wine": "Billecart-Salmon Brut Réserve",
+      "note": "Most people skip Champagne with farm-to-table, but this grower bottle elevates the Whole Sunburst Trout like nothing else on the list"
+    },
+    "skipThis": {
+      "wine": "Orin Swift 8 Years in the Desert",
+      "note": "A $95+ markup on a wine that's already overpriced retail—pure name recognition tax"
+    },
+    "perfectPairing": {
+      "wine": "Guigal Côtes du Rhône",
+      "dish": "Cider Braised Pork Shank",
+      "note": "The Grenache-Syrah blend mirrors the braising liquid's fruit-forward sweetness while cutting through the richness"
+    },
+    "bottomLine": "The Market Place does its job: you'll drink well enough with your Wood Grilled Bistro Steak, and you won't get gouged on the Guigal. But for a restaurant celebrating four decades in Asheville's most dynamic food scene, the wine program feels like it's coasting on reputation. We'd send a friend here for the food and the history, then tell them to order cocktails.",
+    "subtitle": "Asheville's Downtown Classic Plays It Safe",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://marketplace-restaurant.com",
+    "address": {
+      "street": "20 Wall Street",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "28801",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "crate-asheville",
+    "restaurant": "Cúrate",
+    "neighborhood": "Downtown",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Spanish Tapas",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cúrate's wine list follows the food: Spanish-focused, approachable, and built for sharing plates. The selection leans heavily into Iberian Peninsula classics without pretension, which makes sense given the tapas-forward menu. It's not trying to be a wine bar, but the list shows more thought than most tapas joints in the region.",
+    "selectionDeepDive": "The focus is Spain through and through — Rioja, Ribera del Duero, Albariño from Rías Baixas, and a healthy selection of Tempranillo at various price points. You'll find solid producers without venturing into trophy bottles: think Campo Viejo, Marqués de Cáceres, and similar crowd-pleasers that deliver without demanding wine-nerd credentials. A few Portuguese entries round out the Iberian theme, and there's a token California section for those who can't leave home behind. The list isn't deep, but it's cohesive and makes sense with what's on the plate.",
+    "byTheGlass": "The glass pour selection sticks to Spanish staples — Albariño, Verdejo, Rioja, maybe a Garnacha. Expect 6-8 options that rotate occasionally but don't push boundaries. These are safe picks designed to complement patatas bravas and jamón without overshadowing the food. Portions are standard 5-6oz pours at prices that won't make you wince, though nothing feels like a steal.",
+    "bestValue": {
+      "wine": "Bodegas Muga Rioja Reserva",
+      "price": "$48",
+      "note": "Classic Tempranillo that delivers age-worthy structure and oak integration without the premium Riojas' markup — drinks like a $70 bottle"
+    },
+    "hiddenGem": {
+      "wine": "Telmo Rodriguez 'Basa' Rueda",
+      "note": "Most people default to Albariño, but this Verdejo has more complexity and backbone — citrus, herbs, and a mineral edge that cuts through olive oil like nobody's business"
+    },
+    "skipThis": {
+      "wine": "Generic House Cava",
+      "note": "At $38-42 a bottle, you're paying Spanish restaurant tax for bubbles you can find at Trader Joe's for $12 — save it for cocktails"
+    },
+    "perfectPairing": {
+      "wine": "Descendientes de J. Palacios 'Pétalos' Bierzo",
+      "dish": "Pulpo a la Gallega (Galician Octopus)",
+      "note": "Mencía's bright red fruit and mineral edge mirror the smokiness of the paprika and don't fight the tender octopus — classic regional logic"
+    },
+    "bottomLine": "Cúrate keeps it honest: a Spanish wine list for Spanish food without trying to be more than it needs to be. You won't find rare finds or steal pricing, but you also won't get gouged or confused. For Asheville tapas, it does the job.",
+    "subtitle": "Spanish Tapas Meets Iberian Wine Logic",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "red-stag-grill-asheville",
+    "restaurant": "Red Stag Grill",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Red Stag Grill feels like what you'd expect from an established Asheville spot: dependable without trying to reinvent the wheel. It's the kind of list where you won't find much to complain about, but you also won't be texting your wine-nerd friends about hidden gems.",
+    "selectionDeepDive": "The selection leans heavily on West Coast staples—think California Cabs and Washington State reds that appeal to tourists looking for something familiar after a day hiking the Blue Ridge. There's a respectable showing of French standards, probably a Côtes du Rhône and a Burgundy or two in the mid-range, but nothing that suggests a buyer with strong opinions. The list plays it safe with recognizable labels, which isn't a crime in a town where visitors outnumber locals on most nights. We'd guess around 40-50 bottles total, skewing toward reds that pair well with steaks and game.",
+    "byTheGlass": "By-the-glass pours appear to be straightforward crowd-pleasers—maybe 8-10 options covering the basics. You'll find your Pinot Grigio, your Malbec, possibly a domestic Chardonnay that's been on the list since 2019. Rotation seems slow, with bottles sticking around until they're empty rather than swapping seasonally.",
+    "bestValue": {
+      "wine": "J. Lohr Estates Seven Oaks Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Reliable Paso Robles Cab that drinks well above its weight class and pairs with everything on a grill-focused menu"
+    },
+    "hiddenGem": {
+      "wine": "Domaine de la Mordorée Côtes du Rhône",
+      "note": "If they've got this Southern Rhône on the list, it's criminally underordered—rich, spicy, and built for mountain weather"
+    },
+    "skipThis": {
+      "wine": "Any house Chardonnay over $40",
+      "note": "These tend to be marked up aggressively for tourists who think price equals quality"
+    },
+    "perfectPairing": {
+      "wine": "Benton-Lane Pinot Noir",
+      "dish": "Grilled elk medallions or venison",
+      "note": "Oregon Pinot has the earthiness and bright fruit to stand up to game meat without overwhelming delicate flavors"
+    },
+    "bottomLine": "Red Stag Grill isn't going to blow your mind, but it's not trying to. If you're in Asheville for the mountains and want a decent bottle with dinner, you'll do just fine here—just don't expect adventure.",
+    "subtitle": "Solid Mountain Town Wine Program, Nothing Fancy",
+    "tags": [
+      "casual-vibes",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "corner-kitchen-asheville",
+    "restaurant": "Corner Kitchen",
+    "neighborhood": "Biltmore Village",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Corner Kitchen's wine list reads like a safe first date — nothing adventurous, nothing offensive, everything designed not to scare anyone away. The list sits comfortably in that Asheville sweet spot: enough craft beer energy to keep locals happy, enough wine selection to justify the white tablecloths.",
+    "selectionDeepDive": "The list leans heavily on crowd-pleasing West Coast producers with a predictable French backbone. You'll find your Willamette Valley Pinots, your Paso Robles Cabs, your reliable Côtes du Rhône villages. There's a nod to local pride with a few North Carolina wines that probably move slower than they'd like to admit. The Old World section feels like it was built from a distributor's greatest hits list — nothing wrong with it, but nothing that'll make you text your wine nerd friends either. The sweet spot here is the $40-60 range, where the list shows the most effort.",
+    "byTheGlass": "The glass program runs about 8-10 pours that rotate seasonally, which is respectable for a neighborhood spot without a dedicated somm. Expect the usual suspects: a Sancerre, a Malbec, maybe a Grüner if they're feeling frisky. Pours are generous and priced fairly at $10-14, making the glass program the safest play if you're dining solo or can't commit to a bottle.",
+    "bestValue": {
+      "wine": "Domaine de la Mordorée 'La Dame Rousse' Côtes du Rhône",
+      "price": "$48",
+      "note": "This Tavel producer's red blend punches way above its AOC — Grenache-forward, spicy, and built for their pork dishes without the Châteauneuf price tag"
+    },
+    "hiddenGem": {
+      "wine": "Eyrie Vineyards Pinot Gris, Willamette Valley",
+      "note": "Everyone sleeps on Eyrie's whites while chasing their legendary Pinots — this has weight and texture that'll surprise Chardonnay drinkers"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $110+ for a wine you can find at any grocery store for $75 — the definition of phone-it-in wine list padding"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Riesling, Alsace",
+      "dish": "Pan-Seared Trout with brown butter and almonds",
+      "note": "The dry, mineral-driven Riesling cuts through the richness while echoing the nutty notes — textbook Alsace-meets-Appalachia"
+    },
+    "bottomLine": "Corner Kitchen won't blow your mind, but it won't disappoint your parents either. It's the kind of place where you can drink well enough without thinking too hard about it — and sometimes that's exactly what Asheville needs.",
+    "subtitle": "Asheville's neighborhood wine comfort zone",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sous-chef-ctk-asheville",
+    "restaurant": "Sous Chef CTK",
+    "neighborhood": "Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We walked in expecting Asheville's food scene energy to translate to the wine list, but instead we found a bare-bones selection that feels like an afterthought. The list reads like someone ordered from a wholesale catalog and called it a day. Zero spark, zero personality.",
+    "selectionDeepDive": "The wine program at Sous Chef CTK feels fundamentally disconnected from the city's vibrant food culture. What's on offer skews heavily toward mass-market labels with inflated restaurant markups—think Meiomi Pinot Noir at $48 and Ruffino Chianti at $52, bottles you'd find at any chain restaurant in America. There's no sense of curation, no local producer love, no adventurous picks that reflect Asheville's embrace of natural wine and indie spirit. The list maxes out around 15-20 bottles, mostly safe California Cabs and Italian standards that suggest no one's really thinking about wine here.",
+    "byTheGlass": "Glass pours are equally uninspired—likely the same five crowd-pleasers you'd find anywhere: house Chardonnay, Pinot Grigio, maybe a Malbec. No rotation, no seasonality, no interesting half-bottles or quartinos to encourage exploration. The pours feel like checkbox items rather than opportunities to enhance a meal.",
+    "bestValue": {
+      "wine": "Imagery Estate Cabernet Sauvignon",
+      "price": "$42",
+      "note": "If you're stuck ordering, this Sonoma bottling offers decent fruit without the usual $60+ markup on California Cab—though it's still overpriced for what it is"
+    },
+    "hiddenGem": {
+      "wine": "Local Asheville cider or beer",
+      "note": "Honestly, skip the wine entirely and lean into what Asheville does best—craft beverages that actually reflect the region's character"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "price": "$48",
+      "note": "This $18 retail bottle shows up everywhere at triple markup; it's sweet, one-dimensional, and a lazy choice that disrespects your wallet"
+    },
+    "perfectPairing": {
+      "wine": "Anything from the beer list",
+      "dish": "Whatever the chef is cooking",
+      "note": "The kitchen might be putting effort into the food, but the wine program isn't holding up its end—pivot to what Asheville actually cares about"
+    },
+    "bottomLine": "We can't recommend Sous Chef CTK for wine. The list shows no thought, no value, and no connection to Asheville's adventurous drinking culture. Order a cocktail or a local brew and save your wine dollars for literally any other spot in town.",
+    "subtitle": "More Questions Than Answers on This List",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "modesto-trattoria-asheville",
+    "restaurant": "Modesto Trattoria",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The list at Modesto is straightforward: Italian wines for an Italian trattoria, served in a casual downtown setting where businesspeople close deals over pasta. No sommelier, no surprises, just a functional selection that gets the job done. It's the kind of place where wine supports the meal without trying to steal the show.",
+    "selectionDeepDive": "The all-Italian focus is a smart move for a trattoria — authenticity over variety. We're seeing classic regions represented: Tuscany, Piedmont, Veneto, probably some southern Italian reds from Campania or Puglia. The selection leans toward crowd-pleasers like Chianti, Pinot Grigio, and Montepulciano d'Abruzzo rather than deep cuts from Alto Adige or obscure Sicilian producers. It's a safe play that works for the lunch crowd and tourists wandering Asheville's downtown, but wine geeks hoping for natural Etna rosso or skin-contact Friulano should look elsewhere. The list does what it needs to do: match red sauce, support the vibe, avoid alienating anyone.",
+    "byTheGlass": "The glass program likely mirrors the bottle list — functional Italian staples at accessible price points. Expect a Prosecco, a Pinot Grigio, maybe a Chianti and a Super Tuscan-style blend. Rotation seems minimal based on the 'set and forget' vibe, so you're probably seeing the same lineup month after month. Pours are likely generous enough for a casual lunch spot, but don't expect esoteric picks or seasonal changes.",
+    "bestValue": {
+      "wine": "Barbera d'Alba",
+      "price": "$42",
+      "note": "Bright acidity cuts through rich tomato dishes, drinks above its price point, classic Piedmont without the Barolo markup"
+    },
+    "hiddenGem": {
+      "wine": "Nero d'Avola from Sicily",
+      "note": "Most people skip southern Italian reds, but this dark-fruited bruiser handles bold flavors and offers serious value"
+    },
+    "skipThis": {
+      "wine": "Generic Pinot Grigio",
+      "note": "Unless it's from a specific producer in Friuli or Alto Adige, you're paying restaurant markup for grocery store juice"
+    },
+    "perfectPairing": {
+      "wine": "Chianti Classico Riserva",
+      "dish": "Pasta Bolognese",
+      "note": "The Sangiovese's cherry notes and savory tannins are built for slow-cooked meat sauce — it's the pairing textbooks write about"
+    },
+    "bottomLine": "Modesto delivers exactly what it promises: honest Italian wines in a casual downtown setting. It won't change your life, but it won't disappoint your lunch meeting either.",
+    "subtitle": "All-Italian lineup for downtown lunch deals",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus",
+      "date-night"
+    ],
+    "website": "https://www.modestonc.com",
+    "address": {
+      "street": "unknown",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "white-duck-taco-shop-asheville",
+    "restaurant": "White Duck Taco Shop",
+    "neighborhood": "Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Mexican/Tacos",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "White Duck's wine list surprises for a fast-casual taco spot. It's short and approachable, leaning into crowd-pleasers that pair well with spicy, creative tacos. The vibe says \"we care enough to offer more than beer and margaritas.\"",
+    "selectionDeepDive": "The list skews toward accessible whites and lighter reds that can handle heat and acid. Expect Spanish Albariño, Argentine Torrontés, and some California Pinot Noir alongside a few safe Malbecs. There's no deep cellar here, but for a counter-service taco joint, the effort is notable. Gaps exist in natural wines and anything adventurous, but that's not what people come here for. It's a utilitarian list that does its job without pretension.",
+    "byTheGlass": "By-the-glass pours rotate slowly but hit the basics: a crisp white, a fruit-forward rosé, and a red that won't fight your Thai Chili Tacos. We've seen about four options available on typical visits. Pours are generous and priced fairly for the category—think $8-10 range. Rotation is minimal, so don't expect weekly changes.",
+    "bestValue": {
+      "wine": "Martín Códax Albariño",
+      "price": "$32",
+      "note": "Citrus-driven Spanish white that cuts through spice and won't break the bank—drinks like a $45 bottle elsewhere"
+    },
+    "hiddenGem": {
+      "wine": "Bodega Catena Zapata 'Vista Flores' Malbec",
+      "note": "Most people grab the cheap Malbec, but this mid-tier Argentine has actual structure and complexity for duck confit tacos"
+    },
+    "skipThis": {
+      "wine": "Any house Chardonnay over $35",
+      "note": "Overpriced oak bombs that clash with citrus-forward taco profiles—stick to whites with acidity"
+    },
+    "perfectPairing": {
+      "wine": "Jaume Serra Cristalino Brut Cava",
+      "dish": "Baja Fish Taco",
+      "note": "The bubbles and minerality cut through fried fish and creamy slaw like they were made for each other"
+    },
+    "bottomLine": "White Duck punches above its weight for a taco counter. The list is small but smart, prices are honest, and you can actually drink wine with your tacos without feeling like you're trying too hard. Worth it.",
+    "subtitle": "Taco Shop with More Wine Than You'd Expect",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-admiral-asheville",
+    "restaurant": "The Admiral",
+    "neighborhood": "Downtown",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Admiral's wine list reads like a coastal seafood spot that knows its lane but doesn't pretend to be a wine destination. You're looking at a curated-not-massive selection that leans into whites and bubbles—smart for a restaurant pushing oysters and crudo in the mountains.",
+    "selectionDeepDive": "The list skews predictably European with a solid Loire and Burgundy presence, plus enough domestic bottles to keep the Willamette Valley crowd happy. You'll find your Albariños, Muscadets, and Sancerres doing the heavy lifting alongside a handful of lighter reds that won't bulldoze delicate fish. The selection isn't pushing boundaries, but it's also not phoning it in with only the usual suspects. A few natural wine nods suggest someone on staff cares, even if the depth isn't there yet.",
+    "byTheGlass": "Glass pours hover around 8-12 options with the expected rotation of Chablis, Grüner Veltliner, and a sparkling or two. Nothing revolutionary, but the selection shows restraint—they're not trying to offer 20 mediocre pours. Expect seasonal swaps that align with menu changes, though don't count on weekly surprises.",
+    "bestValue": {
+      "wine": "Domaine de la Pépière Muscadet Sèvre et Maine",
+      "price": "$42",
+      "note": "Classic oyster wine at a price that won't sink your whole meal budget—crisp, mineral-driven, and built for bivalves"
+    },
+    "hiddenGem": {
+      "wine": "Lieu Dit 'Melon' Santa Barbara",
+      "note": "California Muscadet? Yes. Most people skip it thinking it's gimmicky, but this is serious Melon de Bourgogne that plays beautifully with richer fish preparations"
+    },
+    "skipThis": {
+      "wine": "Standard Sancerre offerings over $75",
+      "note": "At this price point in Asheville, you're paying mountain markup on wines that should cost $55—pivot to the Loire producers they're getting right"
+    },
+    "perfectPairing": {
+      "wine": "Raventos i Blanc de Nit Rosé",
+      "dish": "Whole grilled fish (market catch)",
+      "note": "Spanish bubbles with enough body and berry fruit to handle charred skin and lemon, light enough to let quality seafood shine"
+    },
+    "bottomLine": "The Admiral isn't going to wow serious wine nerds, but it's doing exactly what an Asheville seafood restaurant should: offering clean, seafood-friendly bottles at fair prices with a staff that's learning. Come for the fish, stay for a competent glass of something cold and European.",
+    "subtitle": "Asheville seafood with coastal wine ambitions",
+    "tags": [
+      "seafood-friendly",
+      "casual-vibes",
+      "coastal-wines"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "zambra-asheville",
+    "restaurant": "Zambra",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Mediterranean/Tapas",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Zambra's been an Asheville fixture for years, and the wine list leans Mediterranean to match the tapas vibe. It's not trying to be a wine bar, but they've got enough Spain and southern France to keep things interesting without overwhelming the small plates.",
+    "selectionDeepDive": "The list skews Old World, which makes sense given the cuisine — expect solid Spanish reds from Rioja and Ribera del Duero, some Albariño and Verdejo for the white wine crowd, and a decent French section with Rhône and Languedoc representation. Portugal shows up with a few Douro reds and Vinho Verde options. It's not a massive list, but it's coherent and restaurant-appropriate, with enough variety to cover the menu's range from patatas bravas to grilled octopus.",
+    "byTheGlass": "The glass pour program hits the expected marks: a Spanish white or two, probably an Albariño, a rosé for patio season, and red options spanning light Garnacha to fuller-bodied Tempranillo. Rotation seems seasonal rather than weekly, so you'll see the same picks for a stretch. Nothing wrong with that if the bottles are solid — consistency matters when you're building regular traffic.",
+    "bestValue": {
+      "wine": "2021 Bodegas Lan Rioja Crianza",
+      "price": "$42",
+      "note": "Classic Rioja structure at a fair markup — Tempranillo with oak that won't overshadow the food, good grip for grilled meats"
+    },
+    "hiddenGem": {
+      "wine": "2022 Telmo Rodriguez 'Basa' Rueda",
+      "note": "Most people skip Verdejo for Albariño, but this has more texture and personality — great with anything briny or garlicky"
+    },
+    "skipThis": {
+      "wine": "Generic Cava Selection",
+      "note": "If they're charging more than $35 for entry-level bubbles, pass and grab a glass of something else — overpriced sparklers are a tapas trap"
+    },
+    "perfectPairing": {
+      "wine": "2020 Viña Mayor Ribera del Duero Reserva",
+      "dish": "Grilled Lamb Chops",
+      "note": "Ribera's darker fruit and fuller body can stand up to charred lamb without overwhelming the Mediterranean spices"
+    },
+    "bottomLine": "Zambra's wine list does what it needs to do: supports the tapas without trying to steal the show. Not a destination for wine geeks, but a reliable neighborhood spot where the bottles won't disappoint.",
+    "subtitle": "Asheville's Tapas Table — Wine TBD",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": "unknown",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "buxton-hall-barbecue-asheville",
+    "restaurant": "Buxton Hall Barbecue",
+    "neighborhood": "South Slope",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Barbecue",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Buxton Hall's wine list knows its lane: this is a barbecue joint first, and the wine program doesn't pretend otherwise. The list is compact and approachable, skewing toward crowd-pleasers that won't fight with smoke and pork fat. It's the kind of list where you can grab a bottle without overthinking it and get back to the ribs.",
+    "selectionDeepDive": "The selection leans American with a few European ringers — think California reds, Oregon Pinot, some Spanish Tempranillo for good measure. Nothing too precious or cellar-worthy here, which makes sense when your main event is whole hog barbecue. The list favors fruit-forward, lower-tannin reds that can handle serious spice and smoke, plus a handful of crisp whites for those who want contrast instead of complement. Burgundy hunters and natural wine nerds will find slim pickings, but that's not the point — this is a supporting cast, not the star.",
+    "byTheGlass": "By-the-glass options cover the bases without much flash. You'll find a couple of reds, a white or two, and usually a rosé when the weather's warm. The pours are generous and fairly priced, rotating seasonally but not weekly. Staff can tell you which one's dry versus sweet, but don't expect deep dives into terroir or vintage variation.",
+    "bestValue": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "price": "$32",
+      "note": "Columbia Valley bubbles that cut through pork fat like a champ — restaurant markup stays reasonable, making this an easy table-share"
+    },
+    "hiddenGem": {
+      "wine": "Ravines Dry Riesling, Finger Lakes",
+      "note": "Most people skip Riesling at a BBQ spot, but the high acidity and stone fruit notes are perfect foils for sweet-spicy sauces and smoked chicken"
+    },
+    "skipThis": {
+      "wine": "House Cabernet Sauvignon",
+      "note": "Generic California Cab at restaurant pricing when you could grab the same bottle at retail for $12 — nothing wrong with it, just not worth the markup"
+    },
+    "perfectPairing": {
+      "wine": "A to Z Wineworks Pinot Noir, Oregon",
+      "dish": "Smoked Pork Shoulder",
+      "note": "Earthy, cherry-driven Oregon Pinot mirrors the smokiness without overpowering the meat's natural sweetness — light enough not to flatten your palate after three bites"
+    },
+    "bottomLine": "Buxton Hall's wine list won't blow your mind, but it won't let you down either. Come for the barbecue, stay for a fair-priced bottle that knows its job is to support, not compete.",
+    "subtitle": "Solid Southern Pours Meet Smoke and Pig",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "benne-on-eagle-asheville",
+    "restaurant": "Benne on Eagle",
+    "neighborhood": "The Block / Downtown",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Appalachian soul food",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Small but Thoughtful",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Benne on Eagle puts serious effort into its Appalachian soul food menu, but the wine program feels like an afterthought. The list exists, but details are scarce and the vibe suggests the kitchen gets all the love while wine plays backup.",
+    "selectionDeepDive": "What we can piece together suggests a compact list with occasional interesting picks—Vision Cellars wines show up in special dinners, which hints at some West Coast representation. The selections likely lean safe and accessible to match the upscale-casual crowd drawn to The Foundry Hotel connection. We're guessing a mix of familiar domestic producers with a few Southern wineries thrown in for local appeal, but the lack of transparency on the list itself is telling. For a restaurant this acclaimed, the wine program feels underdeveloped and possibly neglected between kitchen-focused updates.",
+    "byTheGlass": "Glass pours are a question mark here, which is frustrating for a restaurant where most dishes beg for wine pairing. Based on similar Asheville spots, expect 6-8 options skewing toward crowd-pleasers—probably a Sonoma Chardonnay, a Willamette Pinot, maybe a Rhône blend. Rotation seems minimal, and staff knowledge on what's actually open varies night to night.",
+    "bestValue": {
+      "wine": "Domaine Lafage Côtes Catalanes Blanc",
+      "price": "$42",
+      "note": "Roussillon whites bring the texture and acidity this food craves without the Burgundy markup"
+    },
+    "hiddenGem": {
+      "wine": "Botham Wines Chenin Blanc, North Carolina",
+      "note": "Local NC Chenin that handles rich, fatty dishes better than the Cali Chard everyone orders"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "If they're charging $50+ for KJ at a hotel restaurant, order a cocktail instead"
+    },
+    "perfectPairing": {
+      "wine": "Antica Terra Ceras Pinot Noir, Oregon",
+      "dish": "Trinidad green curry",
+      "note": "The curry's heat and coconut richness need Pinot's silky fruit and earthy funk to cut through without fighting back"
+    },
+    "bottomLine": "Benne on Eagle nails the food but phones in the wine. It's serviceable if you know what you're looking for, but this kitchen deserves a wine program that matches its ambition.",
+    "subtitle": "Soul Food Deserves Better Than Mystery Wines",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "hidden-gem"
+    ],
+    "website": "https://www.benneoneagle.com",
+    "address": {
+      "street": "35 Eagle St",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "28801",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rhubarb-asheville",
+    "restaurant": "Rhubarb",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Rhubarb is the kind of place you walk past twice before realizing it's there—which is basically Asheville in a nutshell. The wine list hits that sweet spot between accessible and interesting, nothing that'll blow your mind but nothing that feels lazy either. This is your Tuesday night spot, not your anniversary.",
+    "selectionDeepDive": "The list leans heavy on approachable European producers with a solid showing from Oregon and Washington to keep the West Coast locals happy. You'll find reliable French regional wines—Côtes du Rhône, Sancerre, basic Burgundy—alongside some Spanish Albariño and Garnacha that show someone's actually thinking. The selection skips the big Napa names and trophy bottles, which honestly feels right for Asheville's vibe. There's enough here to keep things interesting across a few visits, but don't expect a deep cellar or rare finds.",
+    "byTheGlass": "The by-the-glass program runs about eight to ten options and rotates seasonally, which is respectable for a spot without a dedicated somm. We're seeing solid pours from producers like Trimbach and La Crema—safe but not boring. The glasses lean smaller format, which means fresher wine but also means you're paying $12-14 for what amounts to a generous taste.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "price": "$42",
+      "note": "This is drinking way above its price point—classic Rhône blend with actual structure and spice, not just fruit juice. At most places this bottle hits $55-60."
+    },
+    "hiddenGem": {
+      "wine": "Txomin Etxaniz Txakoli",
+      "note": "Most people skip right past the Basque white because they can't pronounce it, but this bright, slightly fizzy wine is perfect with anything acidic or fried. Crushable and different."
+    },
+    "skipThis": {
+      "wine": "Josh Cellars Cabernet",
+      "note": "At $38 a bottle this is grocery store wine at sit-down prices. You can find this same bottle for $12 at Harris Teeter. Order literally anything else."
+    },
+    "perfectPairing": {
+      "wine": "Elk Cove Pinot Gris",
+      "dish": "Seared Trout",
+      "note": "Oregon Pinot Gris has that weight and minerality that stands up to trout without overpowering it. The wine's stone fruit notes play nice with whatever citrus they're using."
+    },
+    "bottomLine": "Rhubarb won't make anyone's bucket list, but it's exactly the kind of neighborhood spot Asheville does well—honest food, fair wine prices, zero pretension. Come here when you want a decent bottle without the fuss.",
+    "subtitle": "Asheville's Low-Key Neighborhood Wine Spot",
+    "tags": [
+      "casual-vibes",
+      "local-producers",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-asbury-asheville",
+    "restaurant": "The Asbury",
+    "neighborhood": "Downtown Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Asbury operates in Asheville's competitive downtown scene with what appears to be a straightforward, no-frills approach to wine. Without extensive intel on the program, we're working with limited visibility, but the bones suggest a neighborhood spot that keeps things accessible rather than adventurous.",
+    "selectionDeepDive": "Based on Asheville's broader wine culture and the restaurant's positioning, expect a list that leans American with some Old World standbys. Likely heavy on California Cabs and Chardonnays, Oregon Pinot, and a few French classics for the table that wants Châteauneuf-du-Pape with their steak. The depth probably isn't there for serious collectors, but for a Tuesday night out, it should cover the bases without requiring a sommelier consult. We'd guess 30-50 bottles total, skewing familiar over esoteric.",
+    "byTheGlass": "Glass pours likely run the predictable route: a Sauvignon Blanc, a Pinot Grigio, maybe a domestic rosé in summer. Reds probably include a Cab, a Pinot Noir, and perhaps a Malbec or Super Tuscan. Rotation seems minimal based on the lack of a dedicated wine program, so expect the same lineup month to month. Pours are probably generous, which counts for something.",
+    "bestValue": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "price": "$32",
+      "note": "Washington sparkler that drinks clean and bright without the Champagne tax—solid opener for the table"
+    },
+    "hiddenGem": {
+      "wine": "J. Lohr Estates 'Seven Oaks' Cabernet Sauvignon",
+      "note": "Gets dismissed as basic, but the 2019 vintage is drinking beautifully right now and won't break $45 on most lists"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "If it's marked over $40/bottle, walk away—this is a $12 grocery store wine in a fancy bottle"
+    },
+    "perfectPairing": {
+      "wine": "The Prisoner Red Blend",
+      "dish": "Grilled ribeye with herb butter",
+      "note": "The Prisoner's jammy fruit and spice play perfectly against char and rich fat—crowd-pleasing pairing that actually works"
+    },
+    "bottomLine": "The Asbury isn't trying to be a wine destination, and that's fine. It's the spot where you can grab a decent bottle without stressing over the list, the staff won't gatekeep, and the markup won't ruin your night. Just manage expectations and order accordingly.",
+    "subtitle": "Asheville's Steady Hand in Uncertain Times",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": "",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": "",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "husk-asheville-asheville",
+    "restaurant": "Husk Asheville",
+    "neighborhood": "Downtown",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Southern",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The list leans Southern-friendly without being predictable—think approachable American and French bottles that won't fight with pimento cheese or fried green tomatoes. The vibe is confident enough to work, even if it's not going to blow minds. This is a restaurant that gets wine matters, even if it's not the star of the show.",
+    "selectionDeepDive": "You'll find a respectable spread of American producers—California Chardonnay and Pinot, some Oregon representation, a handful of Virginia bottles nodding to regional pride. The Old World side skews French: Loire Valley whites, Rhône reds, some entry-level Burgundy that won't destroy your credit card. There's enough depth to avoid boredom, but don't expect a cellar full of unicorns. The list does its job: complement the food without demanding a sommelier translator.",
+    "byTheGlass": "The glass program runs around 10-12 pours, rotating seasonally with an eye toward food-friendly options. You'll see a sparkling option, a crisp white or two, maybe a rosé in warmer months, and a handful of reds that range from light to medium-bodied. Nothing groundbreaking, but nothing offensive either—solid choices that pair well with the menu's smokehouse-meets-garden style.",
+    "bestValue": {
+      "wine": "Domaine de la Pepiere Muscadet",
+      "price": "$48",
+      "note": "Oyster-friendly Loire white with serious acidity and minerality that cuts through rich Southern cooking—drinks way above its price point"
+    },
+    "hiddenGem": {
+      "wine": "Staete Landt Pinot Noir, Marlborough",
+      "note": "New Zealand Pinot that most people sleep on because they're stuck on Sauvignon Blanc—earthy, elegant, and brilliant with duck or pork"
+    },
+    "skipThis": {
+      "wine": "House Chardonnay by the glass",
+      "note": "Overworked California butter bomb that's marked up and fights instead of complements—spend $3 more for something with actual character"
+    },
+    "perfectPairing": {
+      "wine": "Famille Perrin Côtes du Rhône Reserve",
+      "dish": "Wood-fired pork chop with collard greens",
+      "note": "The Grenache-based red has enough fruit to handle the char and smoke, while the earthiness plays perfectly with those bitter greens"
+    },
+    "bottomLine": "Husk isn't trying to be a wine destination, and that's fine—it's a solid supporting cast to excellent Southern cooking. The list is fair, approachable, and won't leave you feeling gouged or bored.",
+    "subtitle": "Southern Hospitality Meets Approachable Wine",
+    "tags": [
+      "casual-vibes",
+      "southern-cooking",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "jerusalem-garden-cafe-asheville",
+    "restaurant": "Jerusalem Garden Cafe",
+    "neighborhood": "Asheville",
+    "city": "Asheville",
+    "citySlug": "asheville",
+    "cuisineType": "Middle Eastern",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at Jerusalem Garden Cafe feels like an afterthought stapled to a menu that clearly doesn't need it. You're looking at a laminated sheet with maybe five bottles—basic grocery store labels that have probably been sitting in the back since 2019. This is a restaurant that knows its strength is hummus and falafel, not fermented grapes.",
+    "selectionDeepDive": "The selection reads like someone walked into a Harris Teeter and grabbed whatever had a Mediterranean-ish label. We're talking a Golan Heights Winery Cabernet, a random Chianti, maybe a Greek Assyrtiko if you're lucky, and a couple of sweet Manischewitz options for traditional diners. No depth, no regional storytelling, no connection to the Levantine food on the plate. The list lacks any Lebanese, Israeli natural wine movement, or even interesting kosher producers that could tie into the cuisine. It's purely perfunctory—wine exists because restaurants are supposed to have wine.",
+    "byTheGlass": "By-the-glass pours appear limited to two options at best: one red, one white, both served in whatever stemware happens to be clean. Pour sizes feel arbitrary, pricing feels random, and there's zero rotation or seasonality. The glasses themselves are likely generic tumblers or chunky all-purpose stems that wouldn't know a varietal if it splashed them in the face.",
+    "bestValue": {
+      "wine": "Golan Heights Winery Cabernet Sauvignon",
+      "price": "$32",
+      "note": "Not because it's good value—it's not—but because it's probably the only drinkable red on a very short list"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Wardy Blanc de Blancs (if they have it)",
+      "note": "Lebanese sparkler that would actually complement the food—but we've never seen it here"
+    },
+    "skipThis": {
+      "wine": "Manischewitz Concord Grape",
+      "price": "$24",
+      "note": "Unless you're conducting a Passover Seder, this sweet tooth syrup has no business at $24"
+    },
+    "perfectPairing": {
+      "wine": "Hypothetical Greek Assyrtiko",
+      "dish": "Baba Ganoush",
+      "note": "The wine's salinity and citrus would cut through the smoky eggplant—if they actually carried a decent one"
+    },
+    "bottomLine": "Jerusalem Garden Cafe does Middle Eastern food well, but the wine program is non-existent. Stick to the Turkish coffee or mint tea and save your wine budget for literally anywhere else in Asheville.",
+    "subtitle": "Skip the wine, order the mint tea",
+    "tags": [
+      "casual-vibes",
+      "skip-the-wine"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Asheville",
+      "state": "North Carolina",
+      "zip": null,
+      "country": "US"
+    }
+  }
+]

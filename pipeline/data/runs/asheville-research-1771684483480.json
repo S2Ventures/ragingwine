@@ -1,0 +1,749 @@
+{
+  "city": "Asheville",
+  "citySlug": "asheville",
+  "state": "North Carolina",
+  "researchedAt": "2026-02-21T14:34:43.480Z",
+  "restaurants": [
+    {
+      "name": "Quench! Wine Bistro",
+      "neighborhood": "Reynolds Village",
+      "cuisineType": "Seasonal New American",
+      "website": "https://quenchavl.com",
+      "address": {
+        "street": "60 N. Merrimon Ave., Suite 105",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28804"
+      },
+      "wineListSize": "over 100 labels",
+      "byTheGlassCount": "at least 30 options",
+      "priceRange": "unknown",
+      "notableWines": [
+        "Wines from Ukraine"
+      ],
+      "wineRegionFocus": [
+        "Domestic",
+        "International"
+      ],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Cozy and intimate wine bistro with a rustic charm, perfect for date nights or casual gatherings.",
+      "popularDishes": [
+        "Seasonal small plates",
+        "Local ingredient entrees"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 7,
+      "confidenceLevel": "medium"
+    },
+    {
+      "name": "Posana",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Battery Park Book Exchange and Champagne Bar",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "5 Walnut Wine Bar",
+      "neighborhood": "Downtown",
+      "cuisineType": "Wine bar with small plates",
+      "website": null,
+      "address": {
+        "street": "5 W Walnut St",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28801"
+      },
+      "wineListSize": "eclectic list",
+      "byTheGlassCount": "unknown",
+      "priceRange": "$5/glass specials",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Rustic, pastel, and brick-walled space with massive windows ideal for people-watching.",
+      "popularDishes": [
+        "Cheese and small bites"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 1,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Bargello",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Plēb Urban Winery",
+      "neighborhood": "River Arts District",
+      "cuisineType": "Winery/Taproom",
+      "website": "https://www.pleburbanwinery.com",
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "15 wines",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [
+        "Piquette (2021)",
+        "True Player (2021)",
+        "Roaming Lands Redwood",
+        "Shuffle Sparkling"
+      ],
+      "wineRegionFocus": [
+        "Appalachian/Western North Carolina"
+      ],
+      "sommelierOnStaff": "unknown",
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Urban winery taproom in downtown industrial building with visible fermenting tanks and street art-style murals.",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "N/A - Winery/Taproom",
+      "sourcesFound": 8,
+      "confidenceLevel": "high"
+    },
+    {
+      "name": "Bottle Riot",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": "unknown",
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": "unknown",
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Sunset Terrace at Omni Grove Park Inn",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": "unknown",
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": "unknown",
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Metro Wines",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": "unknown",
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": "unknown",
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Asheville Guitar Bar",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": "unknown",
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": "unknown",
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Dragonz Fyre",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Grove Arcade Wine Bars",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "5 Walnut Cheese Bar",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Biltmore Winery Wine Bar",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Carrabba's Italian Grill",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "The Market Place Restaurant",
+      "neighborhood": "Downtown Asheville",
+      "cuisineType": "American farm-to-table",
+      "website": "https://marketplace-restaurant.com",
+      "address": {
+        "street": "20 Wall Street",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28801"
+      },
+      "wineListSize": "100+ labels",
+      "byTheGlassCount": "12 options",
+      "priceRange": "$10-$18/glass, $40-$125/bottle",
+      "notableWines": [
+        "E. Guigal Cotes du Rhone",
+        "Billecart-Salmon Brut Reserve",
+        "Orin Swift 8 Years in the Desert",
+        "Biltmore Estate Blanc de Blanc"
+      ],
+      "wineRegionFocus": [
+        "Rhône Valley",
+        "Napa Valley",
+        "Sonoma",
+        "Marlborough",
+        "Mendoza"
+      ],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Classic American lounge with handcrafted cocktails and seasonal farm-to-table dishes in a newly renovated downtown space.",
+      "popularDishes": [
+        "Wood Grilled Bistro Steak",
+        "Cider Braised Pork Shank",
+        "Whole Sunburst Farm Trout"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$35-$50",
+      "sourcesFound": 7,
+      "confidenceLevel": "high"
+    },
+    {
+      "name": "Cúrate",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Red Stag Grill",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Corner Kitchen",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Sous Chef CTK",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Modesto Trattoria",
+      "neighborhood": "Downtown Asheville",
+      "cuisineType": "Italian",
+      "website": "https://www.modestonc.com",
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [
+        "All Italian wines"
+      ],
+      "wineRegionFocus": [
+        "Italy"
+      ],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Casual spot where bosses meet for lunch with full bar.",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 2,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "White Duck Taco Shop",
+      "neighborhood": "unknown",
+      "cuisineType": "Mexican/Tacos",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "The Admiral",
+      "neighborhood": "unknown",
+      "cuisineType": "Seafood",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Zambra",
+      "neighborhood": "unknown",
+      "cuisineType": "Mediterranean/Tapas",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Buxton Hall Barbecue",
+      "neighborhood": "unknown",
+      "cuisineType": "Barbecue",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Benne on Eagle",
+      "neighborhood": "The Block / Downtown",
+      "cuisineType": "Appalachian soul food",
+      "website": "https://www.benneoneagle.com",
+      "address": {
+        "street": "35 Eagle St",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "28801"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [
+        "Vision Cellars wines (featured in wine dinner)"
+      ],
+      "wineRegionFocus": [
+        "unknown"
+      ],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Historic neighborhood spot with glam-industrial decor connected to The Foundry Hotel, offering soulful Southern flavors.",
+      "popularDishes": [
+        "Deviled egg spread with homemade saltines and watermelon radish",
+        "Trinidad green curry",
+        "Benne seed vinaigrette salad"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 6,
+      "confidenceLevel": "medium"
+    },
+    {
+      "name": "Rhubarb",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 1,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "The Asbury",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Husk Asheville",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    },
+    {
+      "name": "Jerusalem Garden Cafe",
+      "neighborhood": "unknown",
+      "cuisineType": "unknown",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": false,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "unknown",
+      "popularDishes": [],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "sourcesFound": 0,
+      "confidenceLevel": "low"
+    }
+  ]
+}
