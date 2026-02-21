@@ -1,0 +1,50 @@
+{
+  "slug": "langdons-mount-pleasant",
+  "restaurant": "Langdon's Restaurant & Wine Bar",
+  "neighborhood": "Mount Pleasant",
+  "city": "Charleston",
+  "citySlug": "charleston",
+  "cuisineType": "Lowcountry Fine Dining",
+  "badge": "wildcard",
+  "subtitle": "18 Wine Spectator Years and an Open Question",
+  "tags": ["deep-cellar", "corkage-friendly", "wine-bar", "splurge-worthy"],
+  "metrics": {
+    "glassware": "Varietal Specific",
+    "staff": "Knowledgeable & Friendly",
+    "markup": "Steep",
+    "variety": "Solid Range",
+    "specials": "Seasonal Rotation",
+    "storage": "Proper"
+  },
+  "firstImpression": "The list arrives with weight behind it. Not the 200-selection behemoth it reportedly was during the 18-year Wine Spectator Award run, but substantial enough to signal that someone here still takes wine seriously. Organized cleanly with both 5-ounce and 8-ounce glass pours, which is a format that tells you the program was designed by someone who actually drinks wine at dinner, not someone who copies a distributor sheet.",
+  "selectionDeepDive": "The bones of a great wine program are still here. French presence is solid, with Burgundy and Rhône doing the heavy lifting alongside a predictable but competent Napa Cabernet section that the steak program demands. Italian representation is better than most Charleston-area steakhouses, which tracks given Chef Owens' stated love for Italian food. The gap is in the adventurous middle: you won't find the funky Georgian amber wine or the obscure Jura Savagnin that a current Wine Spectator winner might stock. This is a list that plays the classics well and leaves the experimentation to someone else. The 18-year Award of Excellence streak ended in 2020, and the list hasn't quite climbed back to that standard, but it's headed in the right direction.",
+  "byTheGlass": "Around two dozen pours offered in both 5-ounce and 8-ounce formats, which is genuinely useful if you want to taste across courses without committing to bottles. The 8-ounce pour is the sweet spot. Quality varies from safe crowd-pleasers to a few genuine finds that rotate seasonally. The wine bar near the entrance is where the glass program shines brightest.",
+  "bestValue": {
+    "wine": "Clos du Bois Sonoma Reserve Chardonnay",
+    "price": "$14/glass",
+    "note": "In a restaurant where entrées push $60+, a $14 glass of competent Sonoma Chardonnay that actually pairs with the seafood starters is a small mercy. The 8-ounce pour makes it even more reasonable per sip."
+  },
+  "hiddenGem": {
+    "wine": "Crozes-Hermitage (Rhône Syrah)",
+    "note": "The Colorado Lamb entrée comes with a Syrah reduction, and there's a Northern Rhône Syrah on the list that mirrors the sauce grape-for-grape. Most people will order the Cabernet with their steak and miss this. Don't be most people."
+  },
+  "skipThis": {
+    "wine": "Entry-level Napa Cabernet by the glass",
+    "note": "At Langdon's markup, you're paying $18-22 for a glass of wine you can buy at Total Wine for $12 a bottle. If you're going red by the glass, look at the Rhône or Italian options where the markup math is less insulting."
+  },
+  "perfectPairing": {
+    "wine": "Champagne or Crémant by the glass",
+    "dish": "Seared Foie Gras with Orange-Habanero Marmalade",
+    "note": "The foie gras is $28 as an add-on and it needs bubbles. The acidity cuts through the richness while the orange-habanero plays against the toast notes. This is the kind of pairing that makes you forget you're in a shopping center. Insider tip: sit at the wine bar and tell them Captain Bob sent you."
+  },
+  "bottomLine": "Langdon's is a 22-year-old fine dining institution with the kitchen chops of a restaurant twice its hype and a wine program rebuilding from an 18-year Wine Spectator streak that stalled during COVID. The food deserves the wine program this restaurant used to have, and it's getting closer. Come for the 45-day dry-aged ribeye, stay for the wine bar, and bring a bottle of your own at $25 corkage if the list doesn't thrill you.",
+  "halfPriceWineNight": null,
+  "website": "https://owensdininggroup.com/langdons/",
+  "address": {
+    "street": "778 South Shelmore Blvd, Suite 105",
+    "city": "Mount Pleasant",
+    "state": "SC",
+    "zip": "29464",
+    "country": "US"
+  }
+}
