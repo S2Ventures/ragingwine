@@ -5,7 +5,7 @@
   "city": "Tampa",
   "citySlug": "tampa",
   "cuisineType": "American",
-  "badge": "solid",
+  "badge": "reliable",
   "metrics": {
     "glassware": "Polished",
     "staff": "Knowledgeable",
@@ -14,17 +14,17 @@
     "specials": "Rotating",
     "storage": "Proper"
   },
-  "firstImpression": "717 South flew completely under the wine radar online, which nearly earned them an undeserved burial. Then we saw the actual list. This is a well-curated, no-nonsense wine program that does exactly what a South Tampa neighborhood restaurant should — gives you real options across every category without pretending to be a wine bar. Sparkling, whites, reds, glass and bottle, all at prices that won't require a second mortgage.",
-  "selectionDeepDive": "The list covers its bases with intention. Sparkling options go beyond the obligatory Prosecco, whites span from crisp Sauvignon Blanc through Pinot Grigio to properly rich Chardonnay, and the reds run from lighter Pinot Noir through Malbec to full-bodied Cabernet. Nothing here screams 'we ordered from the Sysco catalog.' Somebody is actually thinking about what pairs with the menu and what their regulars want to drink. The variety-to-size ratio is smart — enough options to keep it interesting without overwhelming a casual diner or padding the list with filler.",
-  "byTheGlass": "Solid glass pour lineup that actually gives you a real tour of what's on offer. You can work your way from bubbles through whites to reds without committing to a bottle — and the pours are priced to encourage exploration rather than punish it. This is a program built for the Tuesday night regular and the Saturday date night alike.",
+  "firstImpression": "717 South flew completely under the wine radar online, which nearly earned them an undeserved burial. Then we saw the actual list. This is a well-curated, no-nonsense wine program that does exactly what a South Tampa neighborhood restaurant should \u2014 gives you real options across every category without pretending to be a wine bar. Sparkling, whites, reds, glass and bottle, all at prices that won't require a second mortgage.",
+  "selectionDeepDive": "The list covers its bases with intention. Sparkling options go beyond the obligatory Prosecco, whites span from crisp Sauvignon Blanc through Pinot Grigio to properly rich Chardonnay, and the reds run from lighter Pinot Noir through Malbec to full-bodied Cabernet. Nothing here screams 'we ordered from the Sysco catalog.' Somebody is actually thinking about what pairs with the menu and what their regulars want to drink. The variety-to-size ratio is smart \u2014 enough options to keep it interesting without overwhelming a casual diner or padding the list with filler.",
+  "byTheGlass": "Solid glass pour lineup that actually gives you a real tour of what's on offer. You can work your way from bubbles through whites to reds without committing to a bottle \u2014 and the pours are priced to encourage exploration rather than punish it. This is a program built for the Tuesday night regular and the Saturday date night alike.",
   "bestValue": {
     "wine": "Glass Pour Malbec",
     "price": "$13-15",
-    "note": "The Malbec by the glass delivers the best bang for the buck — enough weight for South Tampa steaks without the Cab markup. Crowd-pleasing and fairly priced."
+    "note": "The Malbec by the glass delivers the best bang for the buck \u2014 enough weight for South Tampa steaks without the Cab markup. Crowd-pleasing and fairly priced."
   },
   "hiddenGem": {
     "wine": "Ask About Off-Menu Bottles",
-    "note": "A restaurant this dialed in almost certainly has a few bottles not on the printed list. The staff knows the regulars' preferences — ask what they'd drink themselves and you'll likely find something interesting."
+    "note": "A restaurant this dialed in almost certainly has a few bottles not on the printed list. The staff knows the regulars' preferences \u2014 ask what they'd drink themselves and you'll likely find something interesting."
   },
   "skipThis": {
     "wine": "Don't Default to the Most Expensive Cab",
@@ -32,8 +32,8 @@
   },
   "perfectPairing": {
     "wine": "Chardonnay (By the Glass)",
-    "dish": "Seafood Entrée",
-    "note": "South Tampa plus seafood plus a properly selected Chardonnay is the play. The list's Chardonnay options are chosen to complement rather than overpower — this kitchen knows what it's doing."
+    "dish": "Seafood Entr\u00e9e",
+    "note": "South Tampa plus seafood plus a properly selected Chardonnay is the play. The list's Chardonnay options are chosen to complement rather than overpower \u2014 this kitchen knows what it's doing."
   },
   "bottomLine": "717 South is the South Tampa neighborhood gem that doesn't need to shout about its wine program because the regulars already know. A tight, thoughtful list with fair pricing and real variety. Skip the chains on Dale Mabry and drink here instead.",
   "subtitle": "South Tampa's Quiet Overachiever",
