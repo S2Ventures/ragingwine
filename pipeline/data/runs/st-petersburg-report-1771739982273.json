@@ -1,0 +1,192 @@
+{
+  "city": "St. Petersburg",
+  "citySlug": "st-petersburg",
+  "startedAt": "2026-02-22T05:51:19.916Z",
+  "completedAt": "2026-02-22T05:59:41.770Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 30,
+  "reviewsPublished": 30,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "TRY WINE® Collective",
+      "slug": "try-wine-collective-st.-petersburg",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Birch & Vine",
+      "slug": "birch-and-vine-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Allelo",
+      "slug": "allelo-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Parkshore Grill",
+      "slug": "parkshore-grill-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bin6South",
+      "slug": "bin6south-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "HELYX Restaurant",
+      "slug": "helyx-restaurant-st.-petersburg",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Rococo Steak House",
+      "slug": "rococo-steak-house-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bacchus Wine Bistro",
+      "slug": "bacchus-wine-bistro-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Da Sesto",
+      "slug": "da-sesto-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Renzo's",
+      "slug": "renzos-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Gratzzi Italian Grille",
+      "slug": "gratzzi-italian-grille-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Malios Beach House",
+      "slug": "malios-beach-house-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bavaro's Pizza Napoletana & Pastaria",
+      "slug": "bavaros-pizza-napoletana-and-pastaria-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Juno & The Peacock",
+      "slug": "juno-and-the-peacock-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Don CeSar",
+      "slug": "the-don-cesar-st.-petersburg",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Il Ritorno",
+      "slug": "il-ritorno-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Library Restaurant",
+      "slug": "the-library-restaurant-st.-petersburg",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Cassis St. Pete",
+      "slug": "cassis-st-pete-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bodega",
+      "slug": "bodega-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Hangar Restaurant & Flight Lounge",
+      "slug": "the-hangar-restaurant-and-flight-lounge-st.-petersburg",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Crisp Kitchen + Bar",
+      "slug": "crisp-kitchen-bar-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sea Critters Cafe",
+      "slug": "sea-critters-cafe-st.-petersburg",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Tryst Gastropub",
+      "slug": "tryst-gastropub-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Mill Restaurant",
+      "slug": "the-mill-restaurant-st.-petersburg",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Lola's Bistro",
+      "slug": "lolas-bistro-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "East Coast Ale House",
+      "slug": "east-coast-ale-house-st.-petersburg",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Avenue Eat + Drink",
+      "slug": "the-avenue-eat-drink-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Red Mesa Cantina",
+      "slug": "red-mesa-cantina-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Mandarin Hide",
+      "slug": "the-mandarin-hide-st.-petersburg",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Osteria 617",
+      "slug": "osteria-617-st.-petersburg",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}

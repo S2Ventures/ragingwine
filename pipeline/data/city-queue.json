@@ -76,7 +76,9 @@
     "citySlug": "st-petersburg",
     "state": "Florida",
     "priority": 6,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-22T05:59:41.770Z",
+    "reviewCount": 30
   },
   {
     "city": "Palm Beach",

@@ -1,0 +1,1578 @@
+[
+  {
+    "slug": "try-wine-collective-st.-petersburg",
+    "restaurant": "TRY WINE® Collective",
+    "neighborhood": "Downtown",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Sourdough restaurant, bakery, wine bar, provisions",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "Eighty wines on tap. Let that sink in. This isn't a gimmick—it's a self-serve wonderland where you pour your own flights, explore at your own pace, and never feel pressured by a hovering server. Behind the taps sits a 1000-bottle cellar that swings from $20 pizza crushers to $5000 grail bottles, all in a sourdough-scented space on Beach Drive.",
+    "selectionDeepDive": "The list is shockingly deep for a bakery-adjacent wine bar. We're talking clean natural wines from Loire vignerons, vintage Champagnes tucked into the cellar, and a worldwide range that doesn't just check boxes—it digs into regions most places ignore. You'll find Slovenian orange wines next to Finger Lakes Riesling, Spanish Garnacha next to California Pinot. The daily-drinker section under $20 is legitimately thoughtful, not just commodity plonk. This is a list built by someone who actually drinks wine, not someone who downloaded a distributor's greatest hits.",
+    "byTheGlass": "Eighty taps. Eighty. That's more by-the-glass options than most restaurants have total bottles. The self-pour system means you can taste 2-ounce pours of everything from Muscadet to Bandol without committing to a full glass. Happy hour drops glasses to $5-7, which is absurd value for this kind of selection. Rotation seems active based on the natural wine focus—these aren't taps gathering dust.",
+    "bestValue": {
+      "wine": "Any tap pour during happy hour",
+      "price": "$5-7",
+      "note": "Self-pour French Chenin Blanc or Spanish Garnacha for the price of a craft beer—plus you can taste before committing. The entire tap system is a value hack."
+    },
+    "hiddenGem": {
+      "wine": "Slovenian orange wine from the tap selection",
+      "note": "Most people skip orange wines thinking they're weird. Here you can pour a 2oz taste risk-free and discover skin-contact magic that pairs perfectly with tinned fish and sourdough."
+    },
+    "skipThis": {
+      "wine": "The $5000 trophy bottles in the cellar",
+      "note": "Unless you're popping grails with your sourdough, save the splurge for a restaurant with white tablecloths. The real magic here is in the taps and mid-tier bottles."
+    },
+    "perfectPairing": {
+      "wine": "Loire Valley Chenin Blanc from tap",
+      "dish": "House sourdough with cultured butter",
+      "note": "High-acid Chenin cuts through butter like a laser and amplifies the tang of proper sourdough fermentation. Classic French pairing executed perfectly in a casual Florida setting."
+    },
+    "bottomLine": "This is what wine bars should be: approachable, deep, fair-priced, and fun. The self-pour taps eliminate pretense while the cellar proves serious credentials. Send every friend here.",
+    "subtitle": "Self-Pour Paradise with 1000-Bottle Deep Bench",
+    "tags": [
+      "wine-bar",
+      "by-the-glass-hero",
+      "natural-wine",
+      "casual-vibes"
+    ],
+    "halfPriceWineNight": {
+      "day": "Tuesday-Friday",
+      "details": "$7 glass | $25 bottle (3-6pm); $5 glass with $20 food purchase"
+    },
+    "website": "https://trywinecompany.com",
+    "address": {
+      "street": "1 Beach Drive Southeast, Suite 101",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": "33701",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "birch-and-vine-st.-petersburg",
+    "restaurant": "Birch & Vine",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Birch & Vine reads like a greatest hits compilation designed not to scare anyone away. It's the kind of selection that makes you feel comfortable but doesn't make your pulse quicken. Florida coastal dining with training wheels still on.",
+    "selectionDeepDive": "The list leans heavily on recognizable names and safe regions—California Chardonnay, Napa Cab, Marlborough Sauvignon Blanc, the usual suspects. There's likely some Italian representation (Chianti, Pinot Grigio) and maybe a token Rioja or two. What's missing is any real depth or adventure—no natural wines, no obscure appellations, no producers that would make a wine geek lean forward. It's a list built for tourists and first dates who just want \"something crisp\" or \"something red.\"",
+    "byTheGlass": "The glass pour program appears to stick to the script: probably six to eight options covering the basics. Expect a Prosecco, a Sauvignon Blanc, a domestic Chardonnay, maybe a Pinot Noir and a Cab. Rotation seems minimal—these are pours that move reliably rather than excite. Pricing by the glass likely hovers around $12-15, which in St. Pete feels a touch high for what you're getting.",
+    "bestValue": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "price": "$42",
+      "note": "Reliable California fruit at a somewhat reasonable markup—if this is on the list, it's your safest play for under $50"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "note": "If they've got Washington sparkling on the list, it's always overlooked but drinks way better than its price suggests—crisp, clean, and half the cost of entry-level Champagne"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Probably marked up to $120+ and it's not worth it—big fruit bomb that tastes like every corporate steakhouse in America"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Grilled Local Grouper",
+      "note": "If they're serving Florida seafood, this New Zealand crowd-pleaser has the acidity to cut through butter sauces without overwhelming delicate fish"
+    },
+    "bottomLine": "Birch & Vine is your neighborhood reliable when you want wine but don't want to think too hard about it. The list won't blow your mind, but it won't ruin your meal either—just expect to pay a little more than you'd like for bottles you've seen everywhere else.",
+    "subtitle": "Sunshine City Spot Playing It Safe",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.birchandvine.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "allelo-st.-petersburg",
+    "restaurant": "Allelo",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Allelo feels like showing up to a dinner party where the host forgot to mention the wine situation. The list exists — we think — but details are scarce enough that we're flying on vibes and educated guesses here.",
+    "selectionDeepDive": "Without hard data, we're projecting a St. Pete neighborhood spot with a safe, approachable list. Likely leaning on Florida-friendly whites, some recognizable reds, and maybe a sparkling or two for the tourists. We'd expect to see California staples, perhaps some Spanish Albariño for the heat, and crowd-pleasing Italian reds. This feels like a place that wants you comfortable, not challenged. No sommelier on staff means you're navigating solo or relying on servers who care but might not geek out on terroir.",
+    "byTheGlass": "We're guessing a modest pour selection — maybe six to eight glasses covering the basics. Probably a Sauvignon Blanc, a Pinot Grigio, a Chardonnay, and reds like Malbec or Cab. Rotation likely happens when bottles run out, not because someone's chasing seasonality.",
+    "bestValue": {
+      "wine": "2021 Honoro Vera Garnacha",
+      "price": "$32",
+      "note": "Spanish red that drinks above its price point, juicy and food-friendly without the California markup"
+    },
+    "hiddenGem": {
+      "wine": "2022 Trimbach Riesling",
+      "note": "If it's hiding on the list, this Alsatian classic brings precision and versatility most people associate with pricier bottles"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Overpriced grocery store staple that delivers sweetness over substance — you can do better"
+    },
+    "perfectPairing": {
+      "wine": "2022 Domaine Lafage Côtes Catalanes Blanc",
+      "dish": "Grilled Gulf Fish Special",
+      "note": "Roussillon white with stone fruit and salinity plays beautifully with Florida seafood and warm-weather dining"
+    },
+    "bottomLine": "Allelo gets the Reliable badge by default — we're working with thin intel, but nothing screams red flags. It's likely a safe neighborhood spot where wine won't blow your mind but won't wreck your wallet either. Come for the food, order something crisp and white, and you'll be fine.",
+    "subtitle": "When the list is a mystery box",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "parkshore-grill-st.-petersburg",
+    "restaurant": "Parkshore Grill",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "American Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Parkshore Grill plays it safe with familiar labels you'd recognize from any upscale chain restaurant. It's the kind of list built for consensus — nothing challenging, nothing adventurous, just dependable crowd-pleasers at prices that remind you this is a waterfront location. The vibe says 'we won't embarrass you, but we won't blow your mind either.'",
+    "selectionDeepDive": "The list leans heavily on California Chardonnays and Cabernets with a smattering of Italian and French standards. You'll find your La Cremas, your Kendall-Jacksons, your Ruffinos — all fine wines, but the kind that make sommelier nerds yawn into their Riedel stems. The Florida Gulf Coast seafood deserves some coastal whites from Spain or Loire Valley Muscadets, but those are notably absent. What's here works, it's just not particularly inspired for a waterfront restaurant sitting on some of the best seafood in the state.",
+    "byTheGlass": "The glass pour selection sticks to the greatest hits — a Pinot Grigio, a buttery Chardonnay, a Cabernet, maybe a Malbec if you're lucky. Portions are generous and the wines are fresh enough, suggesting decent turnover even if the selection doesn't rotate seasonally. You're looking at $12-15 pours for wines that retail around $15-20, which is standard markup territory but nothing to write home about.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$38",
+      "note": "Crowd-pleaser that actually pairs well with Gulf grouper and won't break the bank at typical 3x markup"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Chianti Classico Riserva",
+      "note": "If it's on the list, it's probably the most food-friendly option and underappreciated next to the California heavy-hitters"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Waterfront seafood restaurant markup on a $90+ bottle that doesn't match the menu — order this literally anywhere else"
+    },
+    "perfectPairing": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "dish": "Grouper Piccata",
+      "note": "Classic Italian white cuts through the lemon-caper butter and complements delicate Gulf fish without overpowering"
+    },
+    "bottomLine": "Parkshore Grill won't win awards for wine creativity, but it's a reliable spot where you know exactly what you're getting. The list serves its purpose for tourists and date nights who want familiar names with their sunset views — just don't expect any wine-geek thrills.",
+    "subtitle": "Waterfront Dining with Steady Wine Fundamentals",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.parkshore.com",
+    "address": {
+      "street": "300 Beach Drive NE",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": "33701",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bin6south-st.-petersburg",
+    "restaurant": "Bin6South",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Wine Bar & Small Plates",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name drops a wine bar hint and St. Pete's downtown wine scene delivers exactly what you'd expect: accessible, casual, leaning into the Gulf Coast vibe without pretension. This feels like a spot where locals post up for a Tuesday evening pour, not weekend wine tourism.",
+    "selectionDeepDive": "The list reads like a coastal wine bar template done competently—French standards alongside California crowd-pleasers, likely some Spanish reds and Italian whites to keep things interesting. We're betting on a Provençal rosé section that gets heavy rotation during Florida's eternal summer, plus enough Napa Cab to satisfy the button-down business dinner crowd. No deep cellar stunts here, but the range covers what most drinkers actually want: reliable producers at approachable price points with maybe one or two wildcards for the adventurous.",
+    "byTheGlass": "Glass pours likely clock in around 8-12 options, rotating seasonally but not aggressively. Expect the usual suspects—a Sancerre or New Zealand Sauv Blanc, a Pinot from Oregon or Burgundy, something bubbly, something red and fruit-forward. The rotation happens when bottles kick, not when sommeliers get inspired.",
+    "bestValue": {
+      "wine": "Domaine de la Mordorée Côtes du Rhône 'La Dame Rousse'",
+      "price": "$42",
+      "note": "Southern Rhône punch at a price that doesn't hurt—grenache-forward, drinks above its weight, pairs with everything"
+    },
+    "hiddenGem": {
+      "wine": "Txakoli from Getariako Txakolina",
+      "note": "Basque coastal white that most people skip for Albariño—brighter, zippier, criminally refreshing with Gulf seafood"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab over $90",
+      "note": "Restaurant markup on big Cali reds rarely makes sense unless you're celebrating something—buy retail and pay corkage elsewhere"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre 'Les Romains' Pascal Jolivet",
+      "dish": "Grilled Gulf Grouper",
+      "note": "Classic Florida seafood needs classic Loire minerality—the wine's citrus cut and stony backbone won't get buried by lemon and herbs"
+    },
+    "bottomLine": "Bin6South does the neighborhood wine bar thing without drama—solid selection, fair pricing, nothing that'll blow your mind but nothing that'll piss you off either. Send a friend here when they want wine without the wine-bar attitude.",
+    "subtitle": "St. Pete's Neighborhood Wine Pour",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "date-night"
+    ],
+    "website": "https://www.bin6south.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "helyx-restaurant-st.-petersburg",
+    "restaurant": "HELYX Restaurant",
+    "neighborhood": "Downtown St. Petersburg (Beach Drive)",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Sourdough pasta, pizza, and scratch kitchen",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "Walking into HELYX feels like stumbling onto a VIP lounge you weren't supposed to find. It's literally inside TRY WINE, a bottle shop with 1000+ selections, which means you're sitting in the middle of a world-class cellar. The chef-driven multi-course tasting menu concept paired with rotating Enomatic pours is the kind of ambitious move that either crushes or crashes — this one soars.",
+    "selectionDeepDive": "With access to the full TRY WINE inventory, HELYX offers the kind of depth most restaurants can only dream about. The global span is legit: Austrian Grüner, New Zealand Sauvignon Blanc, Italian red blends, Portuguese Madeira and Porto. We're talking premier producers across old and new world regions, not just the usual suspects. The list skews toward food-friendly Europeans with enough adventure to keep wine geeks engaged. No boring corporate portfolios here — just thoughtful selections that actually complement the sourdough-forward menu.",
+    "byTheGlass": "The Enomatic system is a game-changer. At least 10+ rotating options means freshness and variety without the usual by-the-glass compromises. Glasses run $8-$22, which is shockingly fair for this level of quality and the Beach Drive location. The rotation keeps things interesting — you could visit weekly and never hit the same lineup twice.",
+    "bestValue": {
+      "wine": "Elemental Pinot Grigio",
+      "price": "$10",
+      "note": "Northern Italian precision at a price that feels like a typo — bright, clean, and exactly what sourdough pasta needs"
+    },
+    "hiddenGem": {
+      "wine": "Rare Wine Co. 'Chief Justice' Madeira",
+      "note": "Most people skip fortified wines with dinner, but this Historic Series bottling brings nutty, caramelized complexity that demolishes with the Lapsang Souchong rubbed wild boar"
+    },
+    "skipThis": {
+      "wine": "Sandeman Ruby Porto",
+      "note": "Fine Porto but basic grocery-store tier — with 1000 bottles in this shop, there are way more interesting dessert wine moves to make"
+    },
+    "perfectPairing": {
+      "wine": "Antiche Terre Solo Passione Italian Red Blend 2019",
+      "dish": "Sourdough Pizza",
+      "note": "Italian red meeting Italian dough is the obvious play, but this Veneto blend has the acidity to cut through cheese and the rustic backbone to match the char"
+    },
+    "bottomLine": "This is the Wild Card badge in its purest form — a tasting menu hideaway inside a wine shop with Enomatic pours and 1000-bottle access. If you're looking for a standard dinner out, this might feel precious. If you want to geek out over food and wine without the stuffiness, you just found your spot.",
+    "subtitle": "Secret tasting room hiding in a wine shop",
+    "tags": [
+      "wine-bar",
+      "hidden-gem",
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://helyxrestaurant.com",
+    "address": {
+      "street": "1 Beach Drive Southeast, Suite 101",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": "33701",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rococo-steak-house-st.-petersburg",
+    "restaurant": "Rococo Steak House",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Rococo's wine list reads like a steakhouse playbook from 2008—California Cabs, a few French heavyweights, and the requisite Caymus sitting pretty at triple retail. Nothing here screams ambition, but nothing's actively broken either. It's the wine equivalent of ordering a ribeye medium-rare: safe, predictable, gets the job done.",
+    "selectionDeepDive": "The list leans heavy on Napa Valley Cabernet and mid-tier Australian Shiraz, with a handful of Bordeaux thrown in to pad the prestige section. We're talking Silver Oak, Duckhorn, Penfolds—brands you'd find at any Total Wine with a «Premium» endcap. There's virtually no exploration of Old World producers beyond the usual suspects, and the Italian section stops at Chianti Classico without venturing into Piedmont or anywhere interesting. For a steakhouse in Florida, it's adequate but uninspired—the kind of list assembled from a distributor's greatest hits catalog rather than any real curation.",
+    "byTheGlass": "The glass pour selection runs about eight bottles, mostly the safest possible choices: a Joel Gott Cab, a butter-bomb Napa Chard, maybe a Malbec for the «adventurous» table. Pours are generous enough, but rotation seems nonexistent—these bottles have been on the menu since the Obama administration. Pricing hovers around $14-18 per glass, which tracks for the steakhouse category but doesn't exactly inspire repeat orders.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Washington Cab that punches above its weight with dark fruit and structure, marked up reasonably for once"
+    },
+    "hiddenGem": {
+      "wine": "Château Ste. Michelle & Dr. Loosen Eroica Riesling",
+      "note": "If it's on the list, this Columbia Valley Riesling cuts through steak fat better than another Cab, and most tables ignore it completely"
+    },
+    "skipThis": {
+      "wine": "Caymus Vineyards Cabernet Sauvignon",
+      "note": "Priced at $140+ for a wine that retails at $85—pure steakhouse tax on a brand-name bottle"
+    },
+    "perfectPairing": {
+      "wine": "Finca Decero Malbec",
+      "dish": "Bone-in Ribeye",
+      "note": "Argentine Malbec's grippy tannins and black fruit complement the char and marbling without overwhelming the beef"
+    },
+    "bottomLine": "Rococo does what every neighborhood steakhouse does—offers familiar names at familiar markups with zero surprises. If you're here for the steak and need a bottle of Cab, you'll be fine. If you care about wine, order a cocktail and save your budget for a bottle shop on the way home.",
+    "subtitle": "Classic Steakhouse Wines Without the Fuss",
+    "tags": [
+      "casual-vibes",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bacchus-wine-bistro-st.-petersburg",
+    "restaurant": "Bacchus Wine Bistro",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Wine Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name screams wine commitment, but the lack of digital footprint makes us wonder if this is a hidden gem or a relic from pre-Instagram St. Pete. Walking in, you get the sense this place has been pouring Chardonnay since flip phones were cool. The list exists, but good luck finding it online.",
+    "selectionDeepDive": "Based on the bistro positioning and Florida wine bar ecosystem, we're likely looking at a crowd-pleasing lineup heavy on California and safe European picks. Expect your Napa Cabs, some French standards (think Côtes du Rhône, basic Bordeaux), maybe a token Italian section with Chianti and Pinot Grigio. Given the lack of sommelier staff, this isn't a deep-cut natural wine destination or an adventurous importer showcase. It's comfort-zone wine for snowbirds and date nights, which isn't a crime if the prices don't punish you for it.",
+    "byTheGlass": "Glass pours at this type of spot usually clock in around 6-8 options—whites, reds, maybe a sparkling and rosé when it's hot. Rotation is probably quarterly at best, with the same reliable players holding court most of the year. Don't expect weekly drops or staff pouring samples to convert you to Georgian orange wine.",
+    "bestValue": {
+      "wine": "Louis Jadot Côtes du Rhône",
+      "price": "$38",
+      "note": "Classic bistro move—drinkable French red that won't break you and pairs with half the menu"
+    },
+    "hiddenGem": {
+      "wine": "Albariño from Rías Baixas",
+      "note": "If they've got a Spanish white hiding on the list, it'll cut through Florida humidity better than another Pinot Grigio"
+    },
+    "skipThis": {
+      "wine": "House Cabernet Sauvignon",
+      "price": "$45",
+      "note": "Generic California Cab at bistro markup—you're paying for the name 'Bacchus' more than the bottle"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre (any producer they stock)",
+      "dish": "Pan-seared scallops or any seafood special",
+      "note": "St. Pete location means fresh Gulf seafood, and Loire Valley Sauvignon Blanc is the no-brainer pairing"
+    },
+    "bottomLine": "Without confirmed intel, we're flying blind here. If you're local and curious, stop in—but temper expectations. This feels like a neighborhood spot that does wine okay, not a destination list.",
+    "subtitle": "Old Florida wine spot with mysterious credentials",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "da-sesto-st.-petersburg",
+    "restaurant": "Da Sesto",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We'll be honest: we couldn't get much intel on Da Sesto's wine program, which usually means it's not the main attraction. The name suggests Italian focus, and the website exists but doesn't shout about their cellar. That's either humble or nonexistent—we're guessing somewhere in between.",
+    "selectionDeepDive": "Without concrete data, we're working with educated assumptions based on similarly positioned Italian spots in Florida beach towns. Expect a safe Italian-heavy list: some Chianti, Pinot Grigio, maybe a Barolo if they're feeling ambitious. The selection likely skews toward recognizable names rather than deep regional cuts from Campania or Friuli. We'd be surprised to find much beyond Tuscany, Piedmont, and the Veneto comfort zone. If there's an American section, it's probably California Cab and Napa Chard doing the heavy lifting.",
+    "byTheGlass": "Glass pours are likely the standard suspects: a Prosecco, a safe Pinot Grigio, a Montepulciano d'Abruzzo, maybe a Super Tuscan blend. We'd estimate 6-8 options, rotated seasonally if at all. The good news: Italian wines by the glass are hard to screw up completely, even when playing it safe.",
+    "bestValue": {
+      "wine": "Antinori Villa Antinori Rosso",
+      "price": "$45",
+      "note": "Classic Super Tuscan blend that drinks well above its price point and pairs with nearly everything on an Italian menu"
+    },
+    "hiddenGem": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "note": "If they stock anything from Campania, this white is criminally underrated—citrus, minerality, and it makes red sauce sing"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti",
+      "note": "Mass-market bottle that's fine at a grocery store for $12 but insulting at restaurant markup"
+    },
+    "perfectPairing": {
+      "wine": "Allegrini Valpolicella Classico",
+      "dish": "Osso Buco",
+      "note": "Bright cherry and herbal notes cut through rich braised veal without overwhelming delicate marrow"
+    },
+    "bottomLine": "Limited research means limited confidence, but Da Sesto likely offers a functional Italian wine experience without fireworks. If the food's good, the wine won't wreck your night—just don't expect discovery.",
+    "subtitle": "When Research Fails, Assumptions Fill the Gaps",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://dasesto.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "renzos-st.-petersburg",
+    "restaurant": "Renzo's",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Renzo's plays it safe with a wine list that won't offend anyone or surprise anyone. The list leans heavily into familiar Italian names and California staples—the kind of selections that make sense when you're focusing on pasta and pizza, not pushing boundaries.",
+    "selectionDeepDive": "The Italian section hits the expected notes: Chianti, Pinot Grigio, maybe a Montepulciano d'Abruzzo. There's likely a Tuscan red or two at the higher end, but don't expect deep regional dives into Etna or Alta Langa. California rounds out the rest with a Napa Cab and some Central Coast crowd-pleasers. It's functional for a neighborhood spot, but the list feels like it was built five years ago and hasn't evolved much since.",
+    "byTheGlass": "The glass program sticks to the basics—probably six to eight pours that rotate seasonally if you're lucky. Expect a Prosecco, a Pinot Grigio, a Chianti, and a Napa Cab as anchors. Pricing is likely neighborhood-appropriate but not exciting, hovering in the $10-14 range for standard pours.",
+    "bestValue": {
+      "wine": "Antinori Santa Cristina Sangiovese",
+      "price": "$38",
+      "note": "Reliable Tuscan producer at a fair price point, drinks clean with red sauce"
+    },
+    "hiddenGem": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "note": "If they've got this Campanian white, it's a crisp departure from the Pinot Grigio parade"
+    },
+    "skipThis": {
+      "wine": "House Chianti",
+      "note": "Generic bulk pour that tastes like it came from a box, even if it didn't"
+    },
+    "perfectPairing": {
+      "wine": "Masciarelli Montepulciano d'Abruzzo",
+      "dish": "Rigatoni Bolognese",
+      "note": "The wine's dark cherry and rustic edge cuts through rich meat sauce without fighting it"
+    },
+    "bottomLine": "Renzo's won't blow your mind, but it won't let you down either. Come for the pasta, order something Italian, and you'll be fine.",
+    "subtitle": "Neighborhood Italian with safe wine choices",
+    "tags": [
+      "casual-vibes",
+      "neighborhood-spot"
+    ],
+    "website": "https://www.renzos.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "gratzzi-italian-grille-st.-petersburg",
+    "restaurant": "Gratzzi Italian Grille",
+    "neighborhood": "Downtown",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Plays It Safe",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Gratzzi reads like it was assembled by someone who's been to Italy once and really liked it. It's the expected regional tour—Tuscany, Piedmont, maybe a Veneto sparkler—with prices that won't make you wince but won't make you jump either. Monday's half-price bottle deal is the real headliner here.",
+    "selectionDeepDive": "We're looking at a standard Italian trattoria playbook: Chianti Classico, Montepulciano d'Abruzzo, maybe a Barbera d'Asti for the red drinkers, and the obligatory Pinot Grigio and Gavi lineup for the white wine crowd. The presence of Riunite Lambrusco signals they're not afraid of the frizzante life, which is actually a smart move for a place slinging pasta. The list doesn't dig deep into lesser-known regions like Campania or Sicily, and you won't find any natural wine experiments or garage producers. It's safe, it's familiar, and it pairs just fine with the veal saltimbocca without demanding much brain power.",
+    "byTheGlass": "The by-the-glass program is likely limited to four or five standards—your Chianti, your Pinot Grigio, maybe a Prosecco if you're celebrating making it through traffic on 2nd Street. Don't expect weekly rotations or adventurous pours. The glasses probably stay static for months, which is fine if they're decent bottles, less fine if they're grabbing the bottom shelf.",
+    "bestValue": {
+      "wine": "Fontanafredda Barbera d'Alba",
+      "price": "$42",
+      "note": "On Mondays this drops to $21, and Barbera's bright acidity cuts through the Cavatelli Bada Bing like it was designed for it"
+    },
+    "hiddenGem": {
+      "wine": "Cleto Chiarli Lambrusco di Sorbara",
+      "note": "If they stock a proper dry Lambrusco instead of just Riunite, it's criminally underused with rich Italian-American fare—fizzy, tart, and cuts cream sauce like a dream"
+    },
+    "skipThis": {
+      "wine": "Any Pinot Grigio over $40",
+      "note": "Unless it's from Alto Adige or a serious producer, you're paying for the word 'Italian' on a wine that's probably flatter than Tampa Bay"
+    },
+    "perfectPairing": {
+      "wine": "Planeta La Segreta Rosso",
+      "dish": "Veal Saltimbocca",
+      "note": "Sicilian red blend with enough weight for veal and sage but not so much oak that it fights the prosciutto—this is what the dish wants"
+    },
+    "bottomLine": "Gratzzi isn't breaking new ground, but it's doing the basics competently and that Monday deal is legitimately useful. Come for the red sauce comfort, order a bottle at half-price, and you'll leave happy enough.",
+    "subtitle": "Monday Night Red Sauce Relief Fund",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "halfPriceWineNight": {
+      "day": "Monday",
+      "details": "50% off bottles of wine under $100"
+    },
+    "website": "https://gratzzigrille.com",
+    "address": {
+      "street": "211 2nd St. South",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": "33701",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "malios-beach-house-st.-petersburg",
+    "restaurant": "Malios Beach House",
+    "neighborhood": "St. Petersburg Beach",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Coastal Mediterranean",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list reads like a Florida beach house menu should: familiar, safe, and built for tourists who want a glass of something cold while watching the sunset. Nothing here screams expertise, but nothing suggests disaster either.",
+    "selectionDeepDive": "We're looking at a crowd-pleaser lineup heavy on California Chardonnay and Pinot Grigio, with a few Napa Cabs and Malbecs thrown in for the red wine drinkers. The European representation leans toward entry-level Prosecco and Chianti—wines that won't confuse anyone ordering by the pool. There's no deep cellar action here, no adventurous producers, and certainly no orange wine experiments. It's the kind of list assembled by a distributor's greatest hits catalog rather than someone with strong opinions about terroir.",
+    "byTheGlass": "The glass pour program appears functional but uninspired—think brands you'd recognize from a Publix endcap. Rotation seems minimal, with the same six to eight pours likely sitting there season after season. For a beachfront spot, we'd love to see more coastal whites, Greek varieties, or Spanish rosés that actually taste like the Mediterranean they're supposedly channeling.",
+    "bestValue": {
+      "wine": "Família Torres 'Viña Sol' Blanco",
+      "price": "$38",
+      "note": "If they stock it, this Catalan white drinks above its price point and actually pairs with seafood instead of fighting it"
+    },
+    "hiddenGem": {
+      "wine": "Boutari Moschofilero",
+      "note": "A Greek white that would fit the coastal Mediterranean vibe perfectly—crisp, aromatic, and pairs brilliantly with grilled octopus if it's on their menu"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Beachfront markup on a wine that's already overpriced at retail—you're paying $60+ for a $20 bottle with zero sense of place"
+    },
+    "perfectPairing": {
+      "wine": "Gavi di Gavi, La Scolca",
+      "dish": "Grilled Branzino",
+      "note": "If they're doing whole Mediterranean fish, this Piedmont white has the precision and minerality to let the seafood shine without competing"
+    },
+    "bottomLine": "Malios Beach House won't win awards for wine ambition, but if you're there for the view and the vibe, stick to something crisp and white by the glass and you'll be fine. Just don't expect your server to guide you anywhere interesting.",
+    "subtitle": "Beachside ease without the wine program depth",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.maliosbeachhouse.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bavaros-pizza-napoletana-and-pastaria-st.-petersburg",
+    "restaurant": "Bavaro's Pizza Napoletana & Pastaria",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Bavaro's reads like a greatest hits compilation of Italian-American dining: Chianti, Pinot Grigio, Montepulciano. Nothing surprising, nothing offensive. It's the wine equivalent of their menu — familiar, safe, and designed not to scare anyone away from ordering a second bottle.",
+    "selectionDeepDive": "The selection leans heavily into crowd-friendly Italian reds and whites, with the occasional nod to California standards for those who don't want to commit to the Old World. You'll find the usual suspects from Tuscany and Veneto, a Lambrusco or two if you're lucky, and probably a Super Tuscan at the top end for anniversary dinners. The list doesn't venture into natural wine territory or explore lesser-known Italian regions like Campania or Sicily with any depth. It's built for volume and familiarity, not discovery.",
+    "byTheGlass": "Glass pours likely stick to the safest bets — a Pinot Grigio, a Chianti Classico, maybe a Prosecco to start. We're guessing four to six options that rotate about as often as the pizza oven gets replaced. The staff can tell you if it's red or white, but don't expect granular details on vintage or producer philosophy.",
+    "bestValue": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "price": "$38",
+      "note": "If they stock this Campanian white, it's the move — crisp, mineral-driven, and pairs beautifully with their margherita without the Pinot Grigio snooze factor"
+    },
+    "hiddenGem": {
+      "wine": "Tommasi Ripasso Valpolicella",
+      "note": "Often overlooked for its flashier Amarone sibling, this delivers dried cherry depth and works with everything from sausage pizza to pasta pomodoro"
+    },
+    "skipThis": {
+      "wine": "Any Super Tuscan over $80",
+      "note": "Restaurant markups on these bottles tend to be aggressive, and you're paying for name recognition more than actual quality at this price point"
+    },
+    "perfectPairing": {
+      "wine": "Terredora Greco di Tufo",
+      "dish": "Linguine alle Vongole",
+      "note": "The wine's citrus acidity and saline finish mirror the briny clams and garlic — a classic Southern Italian combination that works every time"
+    },
+    "bottomLine": "Bavaro's won't blow your mind with adventurous selections or sommelier-level service, but it won't steer you wrong either. Order something Italian, keep it under $50, and focus on the pizza.",
+    "subtitle": "Neapolitan Pizza Meets Predictable Italian Pours",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.bavaros.com",
+    "address": {
+      "street": "277 1st Ave N",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": "33701",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "juno-and-the-peacock-st.-petersburg",
+    "restaurant": "Juno & The Peacock",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We're going in blind here—Juno & The Peacock keeps its wine program close to the vest online. No public list, no intel on what they're pouring, just a name that sounds like it should have something interesting happening. That could mean hidden gem or total afterthought.",
+    "selectionDeepDive": "Without a visible list, we're reading tea leaves, but St. Pete's food scene has grown up fast in recent years, and newer spots tend to play it safe with approachable domestic and Old World standards. Expect California Cabs and Chards to anchor the reds and whites, probably some Pinot Noir for the lighter protein crowd, and maybe a Prosecco or two if they're feeling fancy. The question is whether they've dug deeper into regional Italian, Spanish coastal whites, or anything that shows they're actually thinking about the program beyond checking boxes.",
+    "byTheGlass": "Glass pours are likely the standard six to eight options—a white, a red, maybe a rosé when it's warm, and a sparkling to start. Rotation probably happens when bottles kick, not on any deliberate schedule. We'd guess they're priced in the $10-14 range based on St. Pete norms, but whether they're interesting or just crowd-pleasing is anyone's call right now.",
+    "bestValue": {
+      "wine": "2021 Domaine de la Charmoise Touraine Sauvignon Blanc",
+      "price": "$42",
+      "note": "Loire Sauvignon with actual structure and minerality, not the New Zealand fruit bomb—worth the spend if they stock it"
+    },
+    "hiddenGem": {
+      "wine": "2020 Matthiasson Napa Valley Red Blend",
+      "note": "If they're smart enough to carry this, it's the wine nerds know but casual diners skip—elegant, balanced, not trying to impress with oak bombs"
+    },
+    "skipThis": {
+      "wine": "Standard Napa Cab over $80",
+      "note": "Unless it's a specific producer with real pedigree, you're paying St. Pete markup on wine you can find cheaper in Tampa or online"
+    },
+    "perfectPairing": {
+      "wine": "2022 Albariño from Rías Baixas",
+      "dish": "Fresh Gulf Seafood (if on menu)",
+      "note": "Coastal Florida plus coastal Spain—the salinity and citrus in Albariño are built for whatever's coming out of the Gulf that day"
+    },
+    "bottomLine": "Juno & The Peacock needs to show us the list before we can make the call. Right now it's a solid bet for neighborhood dining, but whether the wine program deserves your attention is still TBD.",
+    "subtitle": "St. Pete Spot With Questions Still Unanswered",
+    "tags": [
+      "casual-vibes",
+      "hidden-gem"
+    ],
+    "website": "https://www.junoandthepeacock.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-don-cesar-st.-petersburg",
+    "restaurant": "The Don CeSar",
+    "neighborhood": "St. Pete Beach",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Resort Dining",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Gouge",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Don CeSar is a 1920s beachfront icon with chandelier-lit dining rooms and rooftop views that deserve a wine program to match. Instead, you get the classic resort list: big California names, predictable French regions, and prices that assume you're not checking your phone under the table. This is a wine list designed for people who don't care about wine lists.",
+    "selectionDeepDive": "The selection reads like a corporate wine buyer's greatest hits from 2015. Heavy California presence—Caymus, Duckhorn, Jordan—alongside safe Bordeaux and Burgundy picks at steep markups. There's token Italy (Chianti Classico, Pinot Grigio) and a lonely Spanish section that probably hasn't been updated since the Obama administration. No natural wines, no adventurous producers, no sense that anyone's actually tasting these bottles or thinking about how they pair with Gulf Coast seafood. It's a list built for expense accounts and guests who just want \"a nice Cab.\"",
+    "byTheGlass": "Glass pours lean heavily on the familiar: a couple Napa Cabs, a Malbec, maybe a Sancerre if you're lucky. Rotation appears nonexistent—these are anchor pours that sit on the list month after month. Prices hit the $18-$24 range for wines you'd find at Total Wine for $15 retail. We'd bet the bartenders pour more Tito's sodas than Chardonnay on any given night.",
+    "bestValue": {
+      "wine": "Louis Jadot Pouilly-Fuissé",
+      "price": "$68",
+      "note": "Still overpriced, but at least it's real Burgundy with actual minerality—your best bet for white wine with stone crab"
+    },
+    "hiddenGem": {
+      "wine": "Albariño (any Spanish selection if available)",
+      "note": "If they stock any Rías Baixas, grab it—crisp, saline, built for beachside dining, and probably the only wine on the list actually suited to Florida"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$140+",
+      "note": "A $90 retail bottle marked up to fund the chandelier budget—rich, oaky, and totally wrong for humid coastal dining"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre (house selection)",
+      "dish": "Grouper or Snapper (grilled preparation)",
+      "note": "Sauvignon Blanc's citrus snap cuts through buttery fish without overwhelming delicate Gulf flavors—assuming they have a decent Loire option"
+    },
+    "bottomLine": "The Don CeSar is a stunning property where the wine program feels like an obligation rather than an attraction. Come for the history and the views, but order a cocktail or stick to bubbles. If you must have wine, keep it simple and French—and maybe bring your own bottle if they allow corkage.",
+    "subtitle": "Pink Palace Charm, Wine List Afterthought",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.loewshotels.com/don-cesar",
+    "address": {
+      "street": "3400 Gulf Blvd",
+      "city": "St. Pete Beach",
+      "state": "FL",
+      "zip": "33706",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "il-ritorno-st.-petersburg",
+    "restaurant": "Il Ritorno",
+    "neighborhood": "Central Arts District",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Contemporary Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Il Ritorno commits to the bit with an all-Italian wine list, which sounds great until you realize it's the same regional suspects you've seen at every other Italian spot in town. The rustic-industrial space has energy, but the wine program feels like it was assembled from a distributor's greatest hits folder.",
+    "selectionDeepDive": "The list leans heavily on Tuscany and Piedmont — your Chiantis, your Barolos, your safe Pinot Grigios from Alto Adige. There's likely some Southern Italian representation (Campania, Sicily) but nothing that suggests anyone's hunting down small growers or taking risks on natural producers. At the $30-70 entrée price point, expect bottles starting around $50 and climbing quickly into triple digits for the big Tuscan names. What's missing: skin-contact wines, lesser-known regions like Basilicata or Friuli's orange wines, anything that shows curiosity beyond the textbook.",
+    "byTheGlass": "By-the-glass pours are probably standard-issue: a Pinot Grigio, a Chianti, maybe a Prosecco to start and a Super Tuscan for the big spenders. They rotate seasonally at best, and you're looking at $12-16 for the basics. Nothing wrong with the selections, but nothing that makes you want to try three glasses before committing to a bottle either.",
+    "bestValue": {
+      "wine": "Cantina del Taburno Falanghina",
+      "price": "$48",
+      "note": "Campanian white that brings citrus and minerality without the Pinot Grigio markup — pairs with everything from crudo to gnocchi"
+    },
+    "hiddenGem": {
+      "wine": "Nervi Gattinara",
+      "note": "Nebbiolo from Gattinara instead of Barolo means you get the same grape's structure and rose-petal aromatics for half the price — criminally overlooked"
+    },
+    "skipThis": {
+      "wine": "Any Super Tuscan over $120",
+      "note": "Restaurant markups on big Tuscan reds are brutal, and you're paying for the name more than the wine — buy retail and bring your own"
+    },
+    "perfectPairing": {
+      "wine": "Mastroberardino Taurasi",
+      "dish": "Short Rib Mezzaluna",
+      "note": "Southern Italian Aglianico has the tannin and dark fruit to stand up to braised short rib, and the acidity cuts through the pasta richness"
+    },
+    "bottomLine": "Il Ritorno plays it safe with an Italy-only list that covers the bases but doesn't push boundaries. Solid neighborhood spot for handmade pasta and a bottle of something familiar, but don't expect wine discoveries.",
+    "subtitle": "Italy-Only Focus in Downtown St. Pete",
+    "tags": [
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.ilritornodowntown.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-library-restaurant-st.-petersburg",
+    "restaurant": "The Library Restaurant",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We wanted to love a place called The Library — the name practically begs for a thoughtful wine program. Instead, the list reads like someone grabbed a case from a gas station and called it a day. Zero effort, zero soul.",
+    "selectionDeepDive": "The selection is what happens when a restaurant treats wine as an afterthought checkbox item. Think big commercial brands at restaurant markup with no regional focus, no depth, no curiosity. It's the same Kendall-Jackson Chardonnay and Josh Cellars Cabernet you'll find at a chain steakhouse in an airport terminal. No Old World options worth mentioning, no local Florida exploration, no natural wine experiments — just the safest possible corporate picks gathering dust.",
+    "byTheGlass": "By-the-glass options are minimal and predictable. You're looking at maybe four whites and four reds, all from the same producers dominating the bottle list. No rotation, no seasonal changes, no reason to order a second glass when the first one disappoints.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Pinot Noir",
+      "price": "$48",
+      "note": "It's drinkable and widely available — the least disappointing option in a sea of overpriced mediocrity"
+    },
+    "hiddenGem": {
+      "wine": "House White Whatever's Open",
+      "note": "At this point, just ask for the cheapest cold white wine and save your money for literally anywhere else"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "price": "$62",
+      "note": "Four-times markup on a $15 grocery store bottle that tastes like grape soda — insulting even by lazy standards"
+    },
+    "perfectPairing": {
+      "wine": "Whatever Beer They Have",
+      "dish": "Anything on the Menu",
+      "note": "Seriously, skip the wine list entirely and order a local craft beer or a cocktail instead"
+    },
+    "bottomLine": "The Library needs to check out some better wine books. Until they care enough to build an actual program, your drinking dollars are better spent elsewhere in St. Pete's thriving food scene.",
+    "subtitle": "When the Book is Closed on Wine",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cassis-st-pete-st.-petersburg",
+    "restaurant": "Cassis St. Pete",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "French Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We walked into Cassis with high hopes based on the French-leaning name, but immediately hit a wall of missing information. The list exists, but we're flying blind on depth and pricing without seeing it firsthand. This review leans heavily on educated guesses about what a French bistro in St. Pete likely pours.",
+    "selectionDeepDive": "Given the name and French bistro positioning, we're assuming a wine list that leans Old World—probably a solid lineup of Loire Valley whites, some entry-level Burgundy, and crowd-pleasing Côtes du Rhône reds. St. Pete isn't known as a wine destination, so we'd expect safe, recognizable labels over deep cellar cuts. The list probably skews French-forward with some California and maybe Italian support players to round things out. Without hard data, we're guessing 40-60 bottles with more breadth than depth.",
+    "byTheGlass": "By-the-glass programs at French bistros in beach towns usually play it safe—a Sancerre or Muscadet for whites, maybe a Chinon or Beaujolais for reds. We'd expect 8-12 pours, rotated seasonally if the staff cares, set-and-forget if they don't. Given the lack of intel on sommelier presence, our money's on a static lineup that doesn't challenge diners but gets the job done.",
+    "bestValue": {
+      "wine": "Domaine de la Pepiere Muscadet Sevre-et-Maine",
+      "price": "$38",
+      "note": "Classic Loire oyster wine that won't break the bank on a Florida markup"
+    },
+    "hiddenGem": {
+      "wine": "Domaine du Salvard Cheverny Blanc",
+      "note": "If they stock it, this Sauvignon Blanc/Chardonnay blend from the Loire is criminally underrated and food-friendly"
+    },
+    "skipThis": {
+      "wine": "Generic Provence Rosé",
+      "note": "Beach town bistros love to charge $50+ for watery pink wine that costs $12 retail"
+    },
+    "perfectPairing": {
+      "wine": "Domaine du Pegau Côtes du Rhône",
+      "dish": "Steak Frites",
+      "note": "Grenache-based southern Rhône has the herbal backbone and red fruit to cut through butter and beef"
+    },
+    "bottomLine": "We can't give Cassis a fair shake without seeing the actual list, but the French bistro formula usually delivers reliable, if predictable, wine. If you're in St. Pete and craving a glass with your moules frites, you'll probably be fine—just don't expect adventure.",
+    "subtitle": "French Wines in Florida Sun, Data Unknown",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.cassisstpete.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bodega-st.-petersburg",
+    "restaurant": "Bodega",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We're operating on minimal intel here, so consider this a preliminary scout report. What we can tell you: Bodega exists, it's in St. Pete, and there's wine involved. The list appears to hit the marks you'd expect from a neighborhood spot — not trying to be a wine destination, just keeping bottles on hand for people who want them.",
+    "selectionDeepDive": "Without a confirmed list in hand, we're projecting based on the St. Petersburg restaurant landscape and the name itself. Most spots like this run 30-50 bottles: California standards, some Spanish reds nodding to the bodega name, maybe a Rioja or Priorat for the adventurous. Expect the usual suspects from Napa and Sonoma, a token Sancerre, and whatever the distributor rep pushed hardest last month. The gaps are probably predictable — limited natural wine, minimal half-bottle options, nothing too weird or wonderful.",
+    "byTheGlass": "Glass pours at places like this typically run 6-10 options, rotated when the bottle kicks or the season changes. You'll likely find a Pinot Grigio, a Chardonnay, a Malbec, maybe a Spanish Garnacha if they're leaning into the name. Pours are probably 6-8 oz at $10-14 per glass. Nothing revolutionary, but functional if you're solo or just want one glass with dinner.",
+    "bestValue": {
+      "wine": "La Montesa Rioja Crianza",
+      "price": "$42",
+      "note": "Classic Rioja structure with American oak aging — drinks like $60+ and pairs with everything from tapas to steak"
+    },
+    "hiddenGem": {
+      "wine": "Comando G 'La Bruja de Rozas' Garnacha",
+      "note": "If they stock this, it's the sleeper — high-altitude Spanish Garnacha that shows restraint and complexity, not the jammy fruit bomb most people expect"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "note": "It's fine, but you're paying restaurant markup for something that's $12 at Publix — order literally anything else"
+    },
+    "perfectPairing": {
+      "wine": "Albariño from Rías Baixas",
+      "dish": "Grilled Fish or Seafood Paella",
+      "note": "Coastal Spanish wine with coastal Spanish food — the salinity and citrus cut through rich seafood preparations perfectly"
+    },
+    "bottomLine": "We need boots on the ground here to give you the full picture. Until then, Bodega gets a provisional pass as a neighborhood reliable — probably won't blow your mind, probably won't disappoint if you order smart.",
+    "subtitle": "When the Intel's Thin But the Glass Isn't Empty",
+    "tags": [
+      "casual-vibes",
+      "neighborhood-spot"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-hangar-restaurant-and-flight-lounge-st.-petersburg",
+    "restaurant": "The Hangar Restaurant & Flight Lounge",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name promises aviation vibes and 'flight lounge' suggests a serious wine program, but the list reads like an afterthought. This is a spot where people come for waterfront views and the vibe, not to geek out over terroir.",
+    "selectionDeepDive": "The wine list leans heavily on safe California labels and mass-market Italian reds that you'd find at any chain restaurant in America. There's minimal regional diversity—mostly Napa Cabs, Sonoma Chards, and the usual Chianti suspects. Nothing adventurous, nothing that suggests anyone's tasting or curating with intention. The selection feels frozen in 2012, back when people still thought Rombauer was exciting.",
+    "byTheGlass": "The glass program is predictable: probably six to eight pours that rotate about as often as Florida gets snow. Expect the standard lineup of Pinot Grigio, house Prosecco, maybe a Malbec for the steak crowd. Nothing rotates seasonally, nothing takes risks. If you're lucky, there's a rosé in summer that isn't from the Hamptons.",
+    "bestValue": {
+      "wine": "Imagery Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Benziger's second label delivers solid Sonoma fruit without the prestige tax—best you'll do here"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "note": "Most skip it for the Russian River bottling, but Monterey offers brighter acid and better food-friendliness at this price point"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a wine that retails at $85—pure prestige pricing with zero justification"
+    },
+    "perfectPairing": {
+      "wine": "Sonoma-Cutrer Russian River Chardonnay",
+      "dish": "Grilled Local Grouper",
+      "note": "Classic Florida pairing—buttery Chard with fresh Gulf fish is why this combo exists"
+    },
+    "bottomLine": "Come for the sunset and the location, but don't expect the wine list to elevate your meal. Order a cocktail instead, or stick to something simple by the glass and save your wine budget for a spot that actually cares.",
+    "subtitle": "Where Wine Takes a Backseat to the View",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "crisp-kitchen-bar-st.-petersburg",
+    "restaurant": "Crisp Kitchen + Bar",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking in with zero research intel, we're keeping expectations calibrated. The wine list likely leans safe—crowd-pleasing California, a token Prosecco, maybe a Malbec for the red wine comfort seekers. This feels like a kitchen-first operation where wine supports the meal but doesn't steal the show.",
+    "selectionDeepDive": "Without confirmed data, we're banking on Florida casual dining standards: a short list heavy on domestic producers, some approachable Italian and Spanish options, and pricing that won't scare off the waterfront crowd. Expect big names like Kendall-Jackson, La Crema, maybe a Josh Cellars for the budget-conscious. Regional depth is unlikely—this isn't a Burgundy deep-dive destination. The list probably rotates slowly, sticking with what moves rather than what excites.",
+    "byTheGlass": "By-the-glass pours are probably the safer bet here—figure six to eight options covering the basics. A Sonoma Chardonnay, a Paso Robles red blend, perhaps a Pinot Grigio from Alto Adige if they're trying. Rotation is probably quarterly at best, with the same reliable pours anchoring the menu through multiple seasons.",
+    "bestValue": {
+      "wine": "Bogle Vineyards Chardonnay",
+      "price": "$32",
+      "note": "California workhorse that overdelivers at this price point—clean fruit, decent oak balance, and universally likable"
+    },
+    "hiddenGem": {
+      "wine": "Marqués de Riscal Rioja Reserva",
+      "note": "If it's on the list, this Spanish classic offers Old World structure most Americans overlook for jammy domestic reds"
+    },
+    "skipThis": {
+      "wine": "Any Caymus Cabernet over $90",
+      "note": "Markup on this brand is always aggressive, and you're paying for name recognition rather than bottle quality"
+    },
+    "perfectPairing": {
+      "wine": "La Crema Pinot Noir",
+      "dish": "Pan-Seared Salmon",
+      "note": "Lighter-bodied red with enough acidity to cut through rich fish without overwhelming delicate flavors"
+    },
+    "bottomLine": "With limited intel, this reads as a reliable neighborhood option where wine won't disappoint but won't wow. Order a glass, enjoy your meal, and save the wine exploration for another night.",
+    "subtitle": "Solid neighborhood spot when intel runs thin",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.crispkitchenbar.com",
+    "address": {
+      "street": "401 Central Ave",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": "33701",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sea-critters-cafe-st.-petersburg",
+    "restaurant": "Sea Critters Cafe",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Sea Critters Cafe feels like an afterthought — the kind of single-page laminated menu that hasn't been updated since the Obama administration. We're talking Florida seafood cafe defaults: overly familiar labels, restaurant-supply pricing, zero staff engagement.",
+    "selectionDeepDive": "This is textbook grocery-store territory. Expect the usual suspects: Kendall-Jackson Chardonnay, 14 Hands, maybe a token Pinot Grigio from Italy that could be from anywhere. No regional focus, no producer stories, no signs anyone curating this list has tasted a single bottle. It's the kind of selection designed not to offend anyone, which means it excites no one. Florida Gulf Coast seafood deserves better than this paint-by-numbers approach.",
+    "byTheGlass": "The glass pour situation is likely four to six options max, probably pulled from the same big brands on the bottle list. Expect standard 6-oz pours at $10-14, with wines that retail for $12 going out at restaurant markup that would make a sommelier wince. No rotation, no seasonal thinking, just the same lineup month after month.",
+    "bestValue": {
+      "wine": "House White Wine",
+      "price": "$8",
+      "note": "If they offer a generic house pour, take it — you're paying for cold and wet, not craftsmanship"
+    },
+    "hiddenGem": {
+      "wine": "Vinho Verde (if they have it)",
+      "note": "Crisp Portuguese white is perfect with seafood and usually the most interesting thing on lazy coastal lists"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "price": "$48",
+      "note": "Retails for $12, marked up 4x for a wine you can grab at Publix on the way home"
+    },
+    "perfectPairing": {
+      "wine": "Albariño (Spanish white, if available)",
+      "dish": "Grilled Grouper",
+      "note": "Coastal Spain meets Gulf Coast Florida — citrus and salinity work magic with fresh fish"
+    },
+    "bottomLine": "Sea Critters Cafe is here for the seafood, not the wine. Stick to beer or a cocktail, or bring your own if they allow corkage — this list isn't worth the markup.",
+    "subtitle": "When the Wine List Is Swimming Upstream",
+    "tags": [
+      "casual-vibes",
+      "corkage-friendly"
+    ],
+    "website": "https://www.seacritters.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "tryst-gastropub-st.-petersburg",
+    "restaurant": "Tryst Gastropub",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Gastropub",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Tryst reads like an afterthought to the beer and cocktail program—short, safe, and clearly not the star of the show. You're looking at the kind of crowd-pleasers you'd find at any neighborhood gastropub: a few California cabs, maybe a Malbec, standard issue Pinot Grigio. Nothing offensive, nothing exciting.",
+    "selectionDeepDive": "The list skews heavily New World with California doing most of the heavy lifting alongside some Argentine and Australian entries. You'll find workhorses like J Lohr Cabernet and 14 Hands Hot to Trot Red Blend—reliable names that move volume but won't make anyone's Instagram. Old World presence is minimal, maybe a Chianti or a Spanish Rioja if you're lucky. The selection suggests someone ordered from a distributor's greatest hits list and called it a day. No deep cuts, no regional exploration, no producer stories worth telling.",
+    "byTheGlass": "Glass pours lean predictable: a Sauvignon Blanc, a Chardonnay, a Pinot Noir, a Cabernet. They're rotated about as often as the menu changes, which is to say rarely. Expect 6-8 options that stay put for months, poured into stemless tumblers that work fine for casual drinking but don't do the wine any favors. Portions are generous, at least, usually a solid 6-ounce pour.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Pinot Noir",
+      "price": "$42",
+      "note": "Solid California producer at a price that won't sting too badly for a gastropub markup—fruit-forward enough to handle their burgers"
+    },
+    "hiddenGem": {
+      "wine": "Marqués de Cáceres Rioja Crianza",
+      "note": "If they stock it, this Spanish workhorse offers Old World structure and food-friendliness that stands out on a New World-heavy list"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "Grocery store staple marked up to $38—you can buy the whole bottle at Publix for $12 and have change left over"
+    },
+    "perfectPairing": {
+      "wine": "Educated Guess Napa Cabernet",
+      "dish": "Gastropub Burger with Bacon Jam",
+      "note": "Big, fruit-forward Cab stands up to umami-rich bacon and char without getting trampled—classic American pairing done right"
+    },
+    "bottomLine": "Tryst is a beer-and-burger spot that happens to sell wine, not a wine destination. Come for the gastropub vibes, order a craft beer, and save your wine budget for somewhere that actually cares about the list.",
+    "subtitle": "Neighborhood Spot Where Wine Takes a Backseat",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-mill-restaurant-st.-petersburg",
+    "restaurant": "The Mill Restaurant",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Mill's wine program is a black box — even their website doesn't give you a peek at what they're pouring. That's never a good sign when a restaurant can't be bothered to post their list online or give any indication they care about wine beyond having bottles on hand.",
+    "selectionDeepDive": "Without access to an actual wine list, we're working with educated guesses based on St. Pete's broader restaurant scene. Expect the usual suspects: California Cabs in the $45-65 range, a Malbec or two, maybe a Pinot Grigio and a New Zealand Sauvignon Blanc. The lack of transparency suggests a list that doesn't evolve much — probably the same core lineup they opened with, ordered through a distributor's generic portfolio. No regional deep dives, no small producers, nothing that would require actual curation or care.",
+    "byTheGlass": "Glass pours are likely the standard four or five options — a red, a white, maybe a rosé in summer. Expect markup in the $12-16 range for wines that retail around $15. Nothing rotates, nothing seasonal, nothing adventurous. The kind of by-the-glass program that exists purely to check a box.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$38",
+      "note": "If they stock it, this Washington Cab delivers dark fruit and structure without breaking $40 — your safest bet in the blind"
+    },
+    "hiddenGem": {
+      "wine": "Commanderie de la Bargemone Rosé",
+      "note": "A Provence rosé with actual minerality and structure, but only if they venture beyond the usual Whispering Angel trap"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "price": "$48",
+      "note": "A $15 grocery store bottle marked up 3x+ — the exact kind of lazy list filler we're betting on here"
+    },
+    "perfectPairing": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "dish": "Grilled Grouper",
+      "note": "Classic Florida safe play — citrus-driven SB with local fish, assuming they have either on hand"
+    },
+    "bottomLine": "Until The Mill shows us an actual wine list, there's no reason to trust their program. Order a beer or a cocktail and save your wine budget for a restaurant that cares enough to let you know what they're pouring.",
+    "subtitle": "When the Website's All You Get",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": "https://www.themill.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "lolas-bistro-st.-petersburg",
+    "restaurant": "Lola's Bistro",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Lola's wine list reads like a bistro that knows it needs wine on the menu but hasn't made it a priority. The selection skews toward safe, recognizable labels that won't scare off the white zinfandel crowd. It's the kind of list you glance at, then immediately start wondering if the cocktails are better.",
+    "selectionDeepDive": "The focus is squarely on California and a handful of French crowd-pleasers—think Kendall-Jackson Chardonnay and La Crema Pinot Noir territory. There's probably a token Argentinian Malbec and maybe a Prosecco for brunch. No one's hunting down small producers or taking risks on natural wine. The list feels like it was built from a distributor's greatest hits catalog and hasn't evolved much since. Depth is minimal—maybe 20-30 bottles total, with predictable markups that suggest the restaurant views wine as a margin play rather than an experience enhancer.",
+    "byTheGlass": "The glass selection is likely limited to six or eight options: a house red, a house white, and a few mid-tier pours that rotate about as often as Florida gets snow. Expect the usual suspects—maybe a Decoy Cabernet, a Meiomi Pinot, a Kim Crawford Sauvignon Blanc. Nothing wrong with these wines in a vacuum, but at bistro markup, you're paying $12-15 for something that costs $15 retail.",
+    "bestValue": {
+      "wine": "French Rosé (Provence AOC)",
+      "price": "$38",
+      "note": "If they've got a basic Côtes de Provence on the list, it's your best bet—hard to mess up, refreshing, and relatively fair value in the bistro context"
+    },
+    "hiddenGem": {
+      "wine": "Albariño from Rías Baixas",
+      "note": "If there's a Spanish white hiding on this list, it's likely underordered and could be a crisp alternative to the Sauvignon Blanc everyone defaults to"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Marked up to $55+ for a $20 bottle you can grab at Publix—save your money and order a beer"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre",
+      "dish": "Pan-Seared Scallops",
+      "note": "If they're doing any seafood apps, a Loire Valley Sauvignon Blanc cuts through richness and brings out sweetness—assuming they stock one"
+    },
+    "bottomLine": "Lola's is the kind of neighborhood spot where you go for the food and atmosphere, not the wine program. The list isn't offensive, just uninspired—order a glass if you need one, but don't expect any discoveries.",
+    "subtitle": "Neighborhood Bistro Playing It Safe on Wine",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.lolas-bistro.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "east-coast-ale-house-st.-petersburg",
+    "restaurant": "East Coast Ale House",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "American Pub",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name says it all: this is an ale house, and the wine list reads like someone grabbed the first page of a distributor catalog and called it a day. You're here for craft beer and pub fare, and the wines feel like an obligatory checkbox rather than a curated selection.",
+    "selectionDeepDive": "The list leans heavily on safe California labels you'd find at any chain restaurant—think Kendall-Jackson Chardonnay, Josh Cellars Cabernet, and maybe a Ruffino Chianti for the \"adventurous\" drinker. There's no regional focus, no depth in any category, and zero personality. It's the wine equivalent of elevator music: functional, forgettable, and designed to offend no one. If they have any bottle over $50, it's likely a dusty Caymus marked up to oblivion.",
+    "byTheGlass": "Expect four to six generic pours that haven't changed since the Obama administration. The Chardonnay is probably oaky and heavy, the Pinot Grigio is watery, and the house red is mystery juice from a box. Rotation? What rotation? These bottles are permanent fixtures, and the staff can't tell you much beyond \"red or white.\"",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$28",
+      "note": "Drinkable Washington Cab that won't break the bank, even with the markup—stick to this if you must order wine"
+    },
+    "hiddenGem": {
+      "wine": "La Marca Prosecco",
+      "note": "Not a gem by any stretch, but bubbles hide mediocrity better than still wine, and at least it's fresh and cold"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Overpriced everywhere, but especially here—this $20 retail bottle will run you $45+ for syrupy fruit bomb nonsense"
+    },
+    "perfectPairing": {
+      "wine": "House Lager",
+      "dish": "Buffalo Wings",
+      "note": "Seriously, skip the wine list entirely and lean into what this place does well—cold beer and fried food"
+    },
+    "bottomLine": "East Coast Ale House is exactly what it sounds like: a beer-focused pub where wine is an afterthought. Order a craft IPA, enjoy the wings, and save your wine drinking for literally anywhere else.",
+    "subtitle": "Beer Hall First, Wine List Afterthought",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-avenue-eat-drink-st.-petersburg",
+    "restaurant": "The Avenue Eat + Drink",
+    "neighborhood": "Downtown St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "American Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Avenue's wine list reads like a Florida beach town restaurant playing it safe—familiar labels, approachable pricing, nothing that'll scare off tourists or sunburned locals looking for a cold Pinot Grigio. This isn't the spot for esoteric gems, but it's not trying to be.",
+    "selectionDeepDive": "The list leans heavily into California and Italian staples with a predictable Florida beach-town mix: Sonoma Chardonnays, Willamette Pinot Noirs, and plenty of Prosecco. You'll find solid mid-tier producers like La Crema and Decoy alongside some safer Italian options—think Ruffino Chianti and Santa Margherita Pinot Grigio. No deep cellar cuts here, no natural wine experiments, just the hits. The geographic spread is limited but functional, with enough Old World vs. New World balance to keep most tables happy.",
+    "byTheGlass": "By-the-glass pours appear to cover the basics—a handful of whites, a few reds, and probably a sparkling option or two. Rotation seems slow rather than dynamic, with selections that stick around for months rather than weeks. Nothing offensive, but don't expect staff to get excited about what's currently open—these are workhorses, not conversation starters.",
+    "bestValue": {
+      "wine": "Decoy Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Duckhorn's second label delivers Napa concentration without the triple-digit sticker shock—fair restaurant markup on an already smart buy"
+    },
+    "hiddenGem": {
+      "wine": "Château de Campuget Costières de Nîmes Rosé",
+      "note": "Most people reach for the Provence pink, but this southern Rhône rosé brings more body and complexity for the same price point"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "note": "The most marked-up wine on any Florida list—you're paying $50+ for name recognition on a $15 retail bottle"
+    },
+    "perfectPairing": {
+      "wine": "La Crema Sonoma Coast Chardonnay",
+      "dish": "Pan-Seared Grouper",
+      "note": "Rich Florida grouper needs a wine with enough butter and weight to match—this creamy California Chard won't get bullied by the fish"
+    },
+    "bottomLine": "The Avenue won't blow your mind, but it won't gouge your wallet either. Come for the Florida vibes and Gulf seafood, order something mid-priced, and you'll walk out satisfied—just don't expect the staff to steer you anywhere interesting.",
+    "subtitle": "Coastal Florida crowd-pleasers without the markup shock",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "red-mesa-cantina-st.-petersburg",
+    "restaurant": "Red Mesa Cantina",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Mexican",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Red Mesa's wine list reads like they asked a distributor for 'something to go with tacos' and accepted the first pitch. It's there, it exists, but you can tell wine isn't the main character in this coastal cantina story. Still, for a beach town Mexican spot, they're making an effort beyond the margarita menu.",
+    "selectionDeepDive": "The list leans heavily on California and Spain—safe territory for a Mexican restaurant. You'll find the usual suspects: a Rioja or two, an Albariño, some central coast Chardonnay, and probably a rosé that's been there since spring. The New World selections stick to recognizable labels that won't scare off sunburned tourists. Missing: anything adventurous, any Mexican wines (a missed opportunity), natural options, or real depth. This is a list designed not to offend, which means it rarely excites.",
+    "byTheGlass": "Expect four to six pours—likely a Sauvignon Blanc, a rosé, a Tempranillo, and maybe a Malbec. They rotate seasonally if you're lucky, but more likely these are the same pours from last year. The glasses are stemless and generous, which fits the vibe even if it doesn't do the wine any favors.",
+    "bestValue": {
+      "wine": "Bodegas Muga Rioja Reserva",
+      "price": "$48",
+      "note": "Classic Tempranillo with age and structure that stands up to mole and carnitas without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Txakoli from Getariako",
+      "note": "If they stock this Basque white, it's criminally underordered—lightly fizzy, bracingly acidic, perfect with ceviche"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "note": "Marked up to $42 for a $12 grocery store bottle that tastes like butter and regret"
+    },
+    "perfectPairing": {
+      "wine": "Albariño from Rías Baixas",
+      "dish": "Fish Tacos",
+      "note": "Coastal wine meets coastal fish—the salinity and citrus cut through the crispy batter and crema like they were made for each other"
+    },
+    "bottomLine": "Red Mesa won't blow your mind with wine, but they're not actively sabotaging your meal either. Order something Spanish, keep expectations modest, and save room in the budget for that second round of guac.",
+    "subtitle": "Beach Town Mexican With Wine That Tries",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.redmesacantina.com",
+    "address": {
+      "street": "unknown",
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-mandarin-hide-st.-petersburg",
+    "restaurant": "The Mandarin Hide",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Asian Fusion",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We're struggling here. The Mandarin Hide exists in St. Pete's restaurant ether — no visible wine list, no online presence, no verifiable intel. When a restaurant makes it this hard to find basic information, that's usually a red flag for the wine program too.",
+    "selectionDeepDive": "Without access to an actual list or even a menu, we're flying blind. Based on the name and Florida market patterns, we'd guess a small selection leaning on safe California Cabs and maybe a Kung Fu Girl Riesling if you're lucky. Asian-inspired spots in beach markets often phone in their wine programs, treating the list as an afterthought to beer and cocktails. If there's any depth here, they're hiding it well — which defeats the purpose.",
+    "byTheGlass": "Impossible to verify what's available by the glass, but low-intel restaurants in this category typically offer 4-6 pours: a house white, a house red, maybe a Pinot Grigio and a Malbec. Rotation? Doubtful. These lists get set once and forgotten until a distributor changes packaging.",
+    "bestValue": {
+      "wine": "House Pour (Red or White)",
+      "price": "$8-10",
+      "note": "When you can't verify the list, stick to whatever house wine they're pouring — it's probably your safest bet price-wise"
+    },
+    "hiddenGem": {
+      "wine": "Unknown — Bring Your Own",
+      "note": "Without a visible list, your best move is to call ahead and ask about corkage; you might find better wine in your own cellar"
+    },
+    "skipThis": {
+      "wine": "Any Overpriced California Cab",
+      "price": "$60+",
+      "note": "Restaurants with invisible wine programs often hide inflated markups; avoid anything expensive you can't research beforehand"
+    },
+    "perfectPairing": {
+      "wine": "Off-Dry Riesling",
+      "dish": "Spicy Asian Appetizers",
+      "note": "If they have any heat on the menu, a semi-sweet German or Washington Riesling cuts through spice better than whatever Chardonnay they're likely pouring"
+    },
+    "bottomLine": "We can't recommend what we can't find. Until The Mandarin Hide surfaces with an actual wine list or online presence, order a beer and save your wine budget for a restaurant that cares enough to show you their selection.",
+    "subtitle": "Mystery List We Can't Actually Find",
+    "tags": [
+      "hidden-gem",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "osteria-617-st.-petersburg",
+    "restaurant": "Osteria 617",
+    "neighborhood": "St. Petersburg",
+    "city": "St. Petersburg",
+    "citySlug": "st-petersburg",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at this St. Pete Italian spot feels like it was built for people who want something drinkable without the ceremony. It's approachable, Italian-leaning as you'd expect, and nothing here is trying to impress the somm crowd—which is fine for a neighborhood osteria.",
+    "selectionDeepDive": "The list leans heavily on Italian standards—Chianti, Pinot Grigio, a Montepulciano or two—with some California backups for guests who need something familiar. You're looking at 20-30 bottles max, mostly mid-tier producers that show up on a hundred other Italian restaurant lists across Florida. There's nothing wrong with the picks, but there's nothing adventurous either. No deep cuts from Campania, no skin-contact whites, no Super Tuscans worth talking about. It's the wine equivalent of red sauce comfort food.",
+    "byTheGlass": "Expect 6-8 pours by the glass, split between red and white, anchored by the usual suspects. You'll find a Prosecco, a Pinot Grigio from Alto Adige or Friuli, maybe a Chianti Classico, possibly a Barbera. Pours are generous and priced to move—probably $8-12 range. They rotate seasonally but don't expect weekly surprises.",
+    "bestValue": {
+      "wine": "Marchesi de' Frescobaldi Nipozzano Riserva",
+      "price": "$48",
+      "note": "Classic Chianti Riserva that punches above its price point—structured, age-worthy, and pairs with everything from pasta to veal"
+    },
+    "hiddenGem": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "note": "If they stock this Campanian white, grab it—minerally, citrus-driven, and way more interesting than the Pinot Grigio everyone else orders"
+    },
+    "skipThis": {
+      "wine": "House Chianti",
+      "note": "Generic bulk pour that tastes like it came from a box labeled 'Tuscan Red'—spend $3 more for something with actual character"
+    },
+    "perfectPairing": {
+      "wine": "Allegrini Valpolicella Classico",
+      "dish": "Osso Buco",
+      "note": "Bright cherry fruit and zippy acidity cut through the richness of braised veal shanks while echoing the tomato in the sauce"
+    },
+    "bottomLine": "Osteria 617 isn't going to blow your mind, but it won't let you down either. It's the kind of place where you can get a solid Italian red with your pasta and not overthink it—and sometimes that's exactly what you need.",
+    "subtitle": "Neighborhood Italian with Dependable Wine Pours",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  }
+]
