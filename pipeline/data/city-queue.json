@@ -85,7 +85,9 @@
     "citySlug": "palm-beach",
     "state": "Florida",
     "priority": 7,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-23T06:13:54.273Z",
+    "reviewCount": 28
   },
   {
     "city": "Naples",

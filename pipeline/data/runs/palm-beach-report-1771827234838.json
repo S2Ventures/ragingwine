@@ -1,0 +1,180 @@
+{
+  "city": "Palm Beach",
+  "citySlug": "palm-beach",
+  "startedAt": "2026-02-23T06:04:58.362Z",
+  "completedAt": "2026-02-23T06:13:54.274Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 28,
+  "reviewsPublished": 28,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Nomad at Sean Rush",
+      "slug": "nomad-at-sean-rush-palm-beach",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "The Cheese Shoppe",
+      "slug": "the-cheese-shoppe-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Rhythm Cafe",
+      "slug": "rhythm-cafe-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sexy Kitchen",
+      "slug": "sexy-kitchen-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "City Cellar Wine Bar & Grill",
+      "slug": "city-cellar-wine-bar-and-grill-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cooper's Hawk Winery & Restaurant",
+      "slug": "coopers-hawk-winery-and-restaurant-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Carrabba's Italian Grill",
+      "slug": "carrabbas-italian-grill-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Galley",
+      "slug": "galley-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Eataly",
+      "slug": "eataly-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Warren - American.Whiskey.Kitchen",
+      "slug": "warren-americanwhiskeykitchen-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Maggiano's Little Italy",
+      "slug": "maggianos-little-italy-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Buccan",
+      "slug": "buccan-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Café Boulud",
+      "slug": "caf-boulud-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Leopard Lounge & Restaurant",
+      "slug": "the-leopard-lounge-and-restaurant-palm-beach",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Echo",
+      "slug": "echo-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Ta-Boo",
+      "slug": "ta-boo-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Surfside Diner",
+      "slug": "surfside-diner-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Palm Beach Grill",
+      "slug": "palm-beach-grill-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Bistro Zinc",
+      "slug": "bistro-zinc-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Grato",
+      "slug": "grato-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Aioli",
+      "slug": "aioli-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Blind Monk",
+      "slug": "the-blind-monk-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Kapow Noodle Bar",
+      "slug": "kapow-noodle-bar-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Blackbird Restaurant",
+      "slug": "the-blackbird-restaurant-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Tucci's Fire n' Coal Pizza",
+      "slug": "tuccis-fire-n-coal-pizza-palm-beach",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Rebel House",
+      "slug": "the-rebel-house-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Steel Vegan",
+      "slug": "steel-vegan-palm-beach",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Avocado Grill",
+      "slug": "avocado-grill-palm-beach",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}

@@ -1,0 +1,1476 @@
+[
+  {
+    "slug": "nomad-at-sean-rush-palm-beach",
+    "restaurant": "Nomad at Sean Rush",
+    "neighborhood": "Antique Row",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "International",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Surprising Depth",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Nomad feels more like entering a contemporary art gallery than a wine bar—digital media installations, eclectic design, museum-quality curation. The wine list mirrors that aesthetic: unexpectedly serious selections tucked into a lounge setting where you'd expect cocktails to dominate. They're leaning hard into wine flights and pairing experiences, which immediately signals ambition beyond the typical Florida beach-adjacent scene.",
+    "selectionDeepDive": "The list punches above its weight for a spot in this market. You've got Vignoble Kennel Dominique Rosé Reserve from Provence alongside Châteauneuf-du-Pape, Ramspec Pinot from Napa, and Planeta Chardonnay from Sicily—not groundbreaking, but showing effort to span Old and New World with recognizable quality producers. The inclusion of both Marlborough Sauvignon Blanc and Chilean Undurraga suggests they're building a range that covers various price points. What's missing is depth within regions—this feels like a greatest-hits compilation rather than a cellar with rabbit holes to explore.",
+    "byTheGlass": "Over 15 glasses is solid for a lounge-first concept, and the structured wine flight program (reds or whites) shows they want guests to compare and learn. The by-the-glass lineup spans enough diversity to work with their globally-inspired small plates. Rotation appears seasonal based on their active pairing programs, though without confirmed staff expertise, we'd bet these pours lean toward safer, crowd-pleasing profiles rather than adventurous producers.",
+    "bestValue": {
+      "wine": "Undurraga Sauvignon Blanc",
+      "price": "$12",
+      "note": "Central Valley Chile delivers crisp, citrus-driven white at entry price—perfect for their cheese boards without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Planeta Chardonnay",
+      "note": "Sicilian Chardonnay gets slept on, but Planeta brings Mediterranean minerality and restraint that pairs beautifully with their globally-inspired small plates"
+    },
+    "skipThis": {
+      "wine": "Ramspec Pinot Noir",
+      "note": "Napa Pinot at what's likely a steep markup—this region rarely justifies the premium when Burgundian-style options exist elsewhere on the list"
+    },
+    "perfectPairing": {
+      "wine": "Vignoble Kennel Dominique Rosé Reserve",
+      "dish": "NOMAD Gourmet Board",
+      "note": "Provence rosé's herbal notes and bright acidity cut through rich cheeses while complementing charcuterie's saltiness—textbook pairing in an art gallery setting"
+    },
+    "bottomLine": "Nomad surprises with legitimate wine ambition in a space that could coast on cocktails and atmosphere alone. Pricing likely skews tourist-market steep, but the flight program and pairing focus make this a solid pick when you want wine with your art-viewing.",
+    "subtitle": "Art Gallery Vibes Meet Serious Wine Flights",
+    "tags": [
+      "wine-bar",
+      "date-night",
+      "hidden-gem",
+      "patio-pour"
+    ],
+    "website": "https://www.nomadbeachbar.com",
+    "address": {
+      "street": "3700 S Dixie Hwy #5",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33405",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-cheese-shoppe-palm-beach",
+    "restaurant": "The Cheese Shoppe",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Cheese Shop & Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walk into The Cheese Shoppe and you immediately understand the hierarchy: cheese is king, wine is the loyal subject. The list leans heavily toward safe Euro bottles designed to complement whatever's in the case, which makes sense but doesn't exactly inspire adventure. It's a cheese shop first, and the wine program reflects that supportive role.",
+    "selectionDeepDive": "The selection skews French and Italian with predictable crowd-pleasers—think Sancerre, Chablis, Chianti Classico, and a handful of Spanish Albariños for the Palm Beach set. You'll find maybe 20-30 bottles total, with a clear preference for whites and lighter reds that won't overpower delicate cheeses. There's virtually no New World presence beyond a token California Chardonnay, and don't expect any natural wine or orange wine experiments. The list does what it needs to do: provide clean, food-friendly wines that pair with aged Gruyère and triple-crème brie without causing arguments.",
+    "byTheGlass": "By-the-glass offerings are limited but functional—probably 4-6 pours that rotate based on whatever's open for tastings. Expect the usual suspects: a Prosecco, a Provençal rosé, maybe a Pinot Grigio, and a light French red. Nothing mind-blowing, but also nothing offensive. The pours are generous enough for a cheese shop setting, where the wine is really playing second fiddle to the fromage.",
+    "bestValue": {
+      "wine": "Domaine Vacheron Sancerre",
+      "price": "$48",
+      "note": "Classic Loire Sauvignon Blanc with bright citrus and minerality that cuts through rich cheeses without breaking the bank for Palm Beach pricing"
+    },
+    "hiddenGem": {
+      "wine": "Ceretto Langhe Arneis",
+      "note": "Most people overlook this Piedmontese white in favor of the Pinot Grigio, but its almond and pear notes work magic with soft cheeses and aged varieties alike"
+    },
+    "skipThis": {
+      "wine": "Generic Chianti in the $35 range",
+      "note": "Whatever mass-market Chianti they're pouring is marked up too high for what's essentially grocery store juice—spend $10 more for a Classico"
+    },
+    "perfectPairing": {
+      "wine": "Pierre Sparr Crémant d'Alsace Brut",
+      "dish": "Triple-Crème Brie with Fig Jam",
+      "note": "The bubbles and acidity slice through the butterfat while the slight sweetness echoes the fig—textbook pairing that always works"
+    },
+    "bottomLine": "The Cheese Shoppe knows its lane: this is about building the perfect cheese board, and the wine list exists to support that mission. If you're looking for vinous thrills, go elsewhere—but if you want a safe bottle to pair with excellent fromage, they've got you covered.",
+    "subtitle": "More Cheese Than Wine, But That's The Point",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.the-cheese-shoppe.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rhythm-cafe-palm-beach",
+    "restaurant": "Rhythm Cafe",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Rhythm Cafe feels like stepping into a local Palm Beach secret—intimate, casual, unpretentious. The wine list exists, but we're operating on limited intel here, so expect a straightforward selection without fireworks. This is the kind of spot where the focus is likely on the food and vibe, not a deep cellar.",
+    "selectionDeepDive": "Based on the casual Palm Beach neighborhood positioning, we're expecting a safe, crowd-pleasing list—think California standards, maybe some French and Italian crowd favorites. Nothing suggests a sommelier-driven program, so you're probably looking at accessible producers like J Lohr, Kendall-Jackson, maybe a Meiomi Pinot if you're unlucky. The list likely skews New World with enough Chianti and Sancerre to keep traditionalists from rioting. Without concrete data, we're guessing this is a 20-30 bottle list that does the job without taking risks.",
+    "byTheGlass": "Glass pours are probably limited to 4-6 options—a Chardonnay, a Pinot Grigio, maybe a Cab and a Pinot Noir. Rotation is likely minimal; these are set-it-and-forget-it staples. If you're lucky, there's a sparkling option that isn't just Prosecco, but we wouldn't bet the mortgage on it.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Chardonnay",
+      "price": "$42",
+      "note": "Reliable California Chard that drinks clean and pairs with most seafood on the menu—if it's here, it's probably fairly marked up but serviceable"
+    },
+    "hiddenGem": {
+      "wine": "Château de Pizay Morgon",
+      "note": "If they stock any Beaujolais, it's criminally overlooked—light, versatile, and food-friendly without the Pinot Noir price tag"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "If this appears at $120+, run—it's overpriced everywhere and tastes like a focus group designed it"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre Blanc, Pascal Jolivet",
+      "dish": "Grilled Local Fish",
+      "note": "Classic Florida move—crisp Loire Valley Sauvignon Blanc cuts through butter and citrus, highlights fresh catch without competing"
+    },
+    "bottomLine": "Rhythm Cafe is likely a solid neighborhood spot where wine takes a backseat to the overall experience. Come for the atmosphere, order something familiar, and don't expect a vinous adventure—just a pleasant evening in old Palm Beach.",
+    "subtitle": "Old Florida Charm, Wine List Status Unknown",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sexy-kitchen-palm-beach",
+    "restaurant": "Sexy Kitchen",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Sexy Kitchen, we're immediately skeptical about the wine program. The name suggests ambition, but without visible wine intel or staff engagement, this feels like a resort-adjacent spot where wine is an afterthought. The list, if there is one, isn't doing the talking.",
+    "selectionDeepDive": "Based on Palm Beach's tourist-driven restaurant scene and the complete absence of wine program details, we're looking at what's likely a safe, corporate-approved selection. Expect the usual suspects: mass-market California Chardonnay, predictable Napa Cab, maybe a Meiomi Pinot Noir or La Crema something-or-other. No regional focus, no sommelier curating, no story being told. This is wine as checkbox, not wine as craft. The gaps? Everything interesting.",
+    "byTheGlass": "The glass program probably exists in the most minimal sense—four whites, four reds, maybe a Prosecco. Likely poured from bottles that have been open since the weekend rush, served in whatever stemware came with the restaurant supply order. Rotation means replacing empties with the same SKUs. If you're lucky, there's a rosé in summer.",
+    "bestValue": {
+      "wine": "House White Wine",
+      "price": "$12",
+      "note": "In a markup environment like this, the cheapest option is usually the least offensive financially"
+    },
+    "hiddenGem": {
+      "wine": "Any Beer on the Menu",
+      "note": "Seriously—when wine intel is this thin and the program this neglected, switch categories"
+    },
+    "skipThis": {
+      "wine": "Any Bottle Over $60",
+      "note": "Resort town pricing without resort-quality curation means you're paying vacation premiums for grocery store selections"
+    },
+    "perfectPairing": {
+      "wine": "Whispering Angel Rosé",
+      "dish": "Whatever's Fresh and Light",
+      "note": "If they have it, this crowd-pleaser pairs with Palm Beach vibes better than trying to force a wine program that doesn't exist"
+    },
+    "bottomLine": "Without visible wine intelligence, knowledgeable staff, or any program details, Sexy Kitchen reads like a place where wine is purely transactional. Order a cocktail, enjoy the scene, and save your wine drinking for a restaurant that actually cares.",
+    "subtitle": "Mystery List in a Vacation Town",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "city-cellar-wine-bar-and-grill-palm-beach",
+    "restaurant": "City Cellar Wine Bar & Grill",
+    "neighborhood": "CityPlace, Downtown West Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "That glass-enclosed wine cellar behind the bar isn't just for show — 600+ bottles stacked floor-to-ceiling says they're serious about wine, even if the suburban wine bar vibe keeps things approachable. With 80 by-the-glass options, this is a place that wants you to explore, not just order the house cab.",
+    "selectionDeepDive": "The list goes wide rather than deep, which works for a crowd-pleasing downtown spot. You'll find solid representation from California, France, Italy, and enough Southern Hemisphere selections to keep things interesting. The breadth is impressive — Napa heavyweights sit next to Oregon Pinots and Spanish Tempranillos — but the curation lacks the editorial voice of a true wine destination. It's built for variety over specialty, which means there's something for everyone but nothing that'll blow away a serious wine geek.",
+    "byTheGlass": "Eighty by-the-glass options is borderline excessive, but we're not complaining when it means you can bounce from a crisp Sancerre to a nervy Priorat without committing to a full bottle. The pours rotate enough to keep regulars interested, and the range spans from safe crowd-pleasers to a few more adventurous picks. With that many options, some bottles sit longer than they should, so stick with the faster-moving crowd favorites or ask what's fresh.",
+    "bestValue": {
+      "wine": "Domaine Vacheron Sancerre",
+      "price": "$68",
+      "note": "Classic Loire Sauvignon Blanc from a legendary producer. On Wednesday's half-price special, this $34 bottle is a steal for a wine that normally commands $15-18/glass elsewhere."
+    },
+    "hiddenGem": {
+      "wine": "Gonzalez Byass 'Tio Pepe' Fino Sherry",
+      "note": "Most people skip over the sherry section, but this bone-dry, saline beauty is the perfect opener with their raw bar or as a palate cleanser between courses. Criminally underordered."
+    },
+    "skipThis": {
+      "wine": "Generic California Chardonnay (house selection)",
+      "note": "With 80 glasses available, there's zero reason to default to the safe, buttery house pour. You're literally surrounded by better options."
+    },
+    "perfectPairing": {
+      "wine": "Zenato Ripassa Valpolicella Superiore",
+      "dish": "Rigatoni Bolognese",
+      "note": "This concentrated, slightly dried-grape style from Veneto has the weight and dried cherry notes to stand up to rich tomato and beef without overwhelming the pasta. The slight sweetness plays perfectly with caramelized meat."
+    },
+    "bottomLine": "City Cellar is exactly what downtown West Palm Beach needs: a reliable wine spot with enough depth to keep you interested and prices that don't punish curiosity. Come on Wednesdays, order something you've never tried, and appreciate that someone's actually rotating 80 glasses without letting them oxidize into vinegar.",
+    "subtitle": "600 Bottles and a Wednesday Worth Clearing Your Schedule",
+    "tags": [
+      "by-the-glass-hero",
+      "date-night",
+      "deep-cellar",
+      "casual-vibes"
+    ],
+    "halfPriceWineNight": {
+      "day": "Wednesday",
+      "details": "50% off bottles under $99 from the Wine Shop selection"
+    },
+    "website": "https://www.citycellarwpb.com",
+    "address": {
+      "street": "700 S Rosemary Ave",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33401",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "coopers-hawk-winery-and-restaurant-palm-beach",
+    "restaurant": "Cooper's Hawk Winery & Restaurant",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list is dominated by Cooper's Hawk's own label — a corporate winery pushing proprietary bottles through their restaurant chain. It's the Cheesecake Factory model applied to wine, which means you're paying restaurant markup on wines they produce and control at every level.",
+    "selectionDeepDive": "The list reads like a captive audience situation: Cooper's Hawk Lux Chardonnay, Cooper's Hawk Red Blend, Cooper's Hawk Reserve Cabernet. There are token third-party producers scattered throughout, but the focus is clearly on moving their own inventory. The proprietary wines aren't bad — they're contract-crush from California fruit — but the pricing structure feels engineered to make their house bottles look like the smart choice. What's missing: any real regional diversity, small producers, or wines with actual terroir expression. This is industrialized wine retail dressed up as a dining experience.",
+    "byTheGlass": "By-the-glass pours lean heavily on Cooper's Hawk labels, which means consistency but zero adventure. You'll find the usual suspects — a Chardonnay, a Pinot, a Cab — all bearing the house brand. Prices sit in the $10-14 range per glass, which isn't outrageous until you realize you're paying restaurant margins on wines the company produces. Rotation is minimal because the model doesn't reward it.",
+    "bestValue": {
+      "wine": "Cooper's Hawk Pinot Grigio",
+      "price": "$28",
+      "note": "If you're stuck here, this is the safest bet — crisp, clean, and priced where their model doesn't completely sting you"
+    },
+    "hiddenGem": {
+      "wine": "Any third-party Oregon Pinot Noir (if available)",
+      "note": "Look for the one or two outside producers they stock — they're trying to compete with the house label, which means better value"
+    },
+    "skipThis": {
+      "wine": "Cooper's Hawk Lux Reserve Cabernet",
+      "price": "$65",
+      "note": "This is where the markup gets absurd — you're paying Napa-level prices for a Central Coast contract wine with a fancy label"
+    },
+    "perfectPairing": {
+      "wine": "Cooper's Hawk White Sangria",
+      "dish": "Wood-Fired Flatbread",
+      "note": "Embrace the chain energy — the sweet, fruity sangria actually works with their pizza-adjacent flatbreads"
+    },
+    "bottomLine": "Cooper's Hawk is a wine club masquerading as a restaurant, and the list reflects that vertical integration. If you're already a member or love the predictability, fine. If you're looking for an actual wine experience, go literally anywhere else.",
+    "subtitle": "Winery Chain Playing Dress-Up With House Wines",
+    "tags": [
+      "casual-vibes",
+      "wine-dinner-events"
+    ],
+    "website": "https://www.chwinery.com",
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "carrabbas-italian-grill-palm-beach",
+    "restaurant": "Carrabba's Italian Grill",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Italian",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "byTheGlass": "Crowd Pleasers"
+    },
+    "firstImpression": "The wine list at Carrabba's reads like corporate approved it in 2014 and nobody's touched it since. You're looking at the usual suspects—Kendall-Jackson Chardonnay, Ruffino Chianti, maybe a Meiomi Pinot if you're lucky. This is a list designed not to offend anyone, which means it excites nobody.",
+    "selectionDeepDive": "The selection skews heavily toward mass-market California and safe Italian entries that you'd find at any suburban chain. Expect maybe 20-25 bottles total, with the Italian section leaning on Tuscany basics and Veneto crowd-pleasers. No small producers, no regional deep cuts from Campania or Sicily, no adventure. The markup structure follows chain restaurant math: bottles that retail for $12 show up at $36-42. You're paying rent on that patio seating and endless breadsticks, not wine curation.",
+    "byTheGlass": "The by-the-glass program runs about 6-8 options, all predictable. We're talking Woodbridge, maybe a Ecco Domani Pinot Grigio, a Castello Banfi Chianti. Pours are generous but uninspired, served in those thick, all-purpose stems that work for anything from Cab to Pinot. Rotation happens when the distributor changes the contract, not because anyone's thinking about seasonality or food pairing.",
+    "bestValue": {
+      "wine": "House Chianti (likely Ruffino or Banfi)",
+      "price": "$28",
+      "note": "Not because it's good, but because everything else is marked up worse. At least Chianti has acidity for the red sauce."
+    },
+    "hiddenGem": {
+      "wine": "Bring your own bottle",
+      "note": "Many Carrabba's locations allow corkage for around $10-15. Your Tuesday night Barolo from Total Wine will drink better than anything on this list."
+    },
+    "skipThis": {
+      "wine": "Any California Cab over $50",
+      "price": "$60+",
+      "note": "You're paying $60 for a $15 bottle that tastes like oak chips and regret. Order a beer."
+    },
+    "perfectPairing": {
+      "wine": "House Pinot Grigio",
+      "dish": "Chicken Bryan",
+      "note": "The lemon butter sauce actually works with crisp, neutral white wine. Low bar, but it clears it."
+    },
+    "bottomLine": "This is a wine list that exists because restaurants are supposed to have one, not because anyone cares. If you're here for the comfort food and family vibes, fine—but check their corkage policy first and bring something from home.",
+    "subtitle": "Chain Wine List Does Bare Minimum",
+    "tags": [
+      "casual-vibes",
+      "corkage-friendly"
+    ],
+    "website": "https://www.carrabbas.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "galley-palm-beach",
+    "restaurant": "Galley",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Coastal American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Galley reads like a Palm Beach resort playbook: safe, polished, and designed not to offend anyone's yacht club sensibilities. We're looking at a list that prioritizes recognizable labels over depth, which tracks for the location but doesn't exactly inspire adventurous drinking.",
+    "selectionDeepDive": "The selection leans heavily into California Cabs and Chardonnays with a predictable splash of Italian and French classics. We're seeing the usual suspects—Napa big names, some Sancerre, probably a Whispering Angel rosé situation. There's little regional curiosity here and virtually no natural wine or smaller producer representation. The list feels like it was assembled from a distributor's greatest hits catalog rather than someone's personal passion project. For Palm Beach, this is par for the course, but it doesn't make it less boring.",
+    "byTheGlass": "Glass pours appear to stick to the script: a Sauvignon Blanc, a buttery Chardonnay, a Pinot Noir, and a Cabernet. We'd estimate 6-8 options total, rotated seasonally at best. The pours are likely generous given the clientele, but you're paying resort pricing for grocery store availability. Nothing here screams \"must try,\" but nothing will actively disappoint your grandmother either.",
+    "bestValue": {
+      "wine": "Domaine Chandon Brut Rosé",
+      "price": "$48",
+      "note": "California sparkler that drinks clean and bright—solid for starting a waterfront meal without the Champagne tax"
+    },
+    "hiddenGem": {
+      "wine": "Txomin Etxaniz Txakoli",
+      "note": "If they stock this Basque white, it's the most interesting bottle on the list—zippy, saline, perfect with seafood and totally underappreciated by the rosé crowd"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $180+ for a wine you can find at Costco for $85—classic resort gouging on a brand-name bottle"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre, Pascal Jolivet",
+      "dish": "Grilled Local Snapper",
+      "note": "Clean Loire Valley Sauvignon Blanc cuts through butter and brings out the sweetness in fresh Florida fish"
+    },
+    "bottomLine": "Galley does exactly what Palm Beach expects: inoffensive, expensive, and reliably comfortable. Come for the views and the service, but temper your wine expectations—this is a list built for consensus, not discovery.",
+    "subtitle": "Playing It Safe in Paradise",
+    "tags": [
+      "date-night",
+      "patio-pour",
+      "splurge-worthy"
+    ],
+    "website": "https://www.galley.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "eataly-palm-beach",
+    "restaurant": "Eataly",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Surprising Depth",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Eataly's wine section hits you like walking into a gourmet Italian market—because that's exactly what it is. The list is all-Italy, all the time, which makes perfect sense for a place that's basically an edible love letter to the boot. It's casual browsing territory with a retail shop vibe that bleeds into the dining experience.",
+    "selectionDeepDive": "The wine program leans heavily into regional Italian bottles you'd expect from a market-restaurant hybrid: Tuscan Chianti, Piedmont Barbera, Veneto Soave, and plenty of Prosecco for the spritz crowd. The depth is actually better than most Italian chains—they stock producers like Allegrini, Antinori, and Banfi alongside smaller regional names that show someone's putting in effort. Gaps exist in the natural wine department and anything too obscure, but for a Palm Beach location inside a shopping complex, the range punches above its weight. Markups follow the usual restaurant math, leaning steep on the mid-tier bottles where they know tourists won't push back.",
+    "byTheGlass": "Glass pours rotate through safe crowd-pleasers: a Pinot Grigio, a Montepulciano, maybe a Barbera if you're lucky. The selection doesn't challenge anyone but keeps the Aperol spritz crowd happy. Expect 6-8 options that change seasonally but never veer too far from the comfort zone.",
+    "bestValue": {
+      "wine": "Montepulciano d'Abruzzo, Masciarelli",
+      "price": "$38",
+      "note": "Solid everyday Italian red that drinks like it costs more—juicy, balanced, and built for pasta"
+    },
+    "hiddenGem": {
+      "wine": "Greco di Tufo, Feudi di San Gregorio",
+      "note": "Southern Italian white that most people sleep on—mineral-driven, citrusy, and way more interesting than another Pinot Grigio"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico",
+      "note": "Marked up to $52 for a grocery store bottle you can grab for $18 at Publix—total tourist tax"
+    },
+    "perfectPairing": {
+      "wine": "Barbera d'Alba, Michele Chiarlo",
+      "dish": "Fresh Pappardelle al Ragù",
+      "note": "High-acid Barbera cuts through the rich meat sauce while the wine's cherry notes echo the tomato sweetness—textbook Italian pairing"
+    },
+    "bottomLine": "Eataly does what it promises: decent Italian wine in a casual market setting. It's not a destination wine experience, but if you're already there for burrata and fresh pasta, the list won't disappoint—just watch those markups.",
+    "subtitle": "Italian Market Vibes with All-Italy Wine Game",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus",
+      "local-producers"
+    ],
+    "website": "https://www.eataly.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "warren-americanwhiskeykitchen-palm-beach",
+    "restaurant": "Warren - American.Whiskey.Kitchen",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name tells you where their heart is: whiskey first, wine second. The list exists more as an obligation than a passion project, with safe selections that won't scare off the bourbon crowd. Everything feels designed not to distract from the main attraction.",
+    "selectionDeepDive": "Expect the usual suspects: California Cabs that everyone recognizes, a few Napa heavy-hitters for spenders, and token international selections that check boxes without taking risks. The list leans heavily American, which makes sense given the restaurant's identity, but it plays it so safe you could set your watch by it. No deep cuts, no emerging regions, no somm showing off—just the wines that move reliably in steakhouse-adjacent spaces. The Palm Beach location probably means markup reflects the zip code more than the juice.",
+    "byTheGlass": "Glass pours likely stick to the greatest hits: a Napa Cab, a buttery Chardonnay, maybe a Malbec for the red blend crowd. Rotation is probably minimal—these are bottles that sell themselves while the bartenders focus on Old Fashioneds. Portions are generous enough, but don't expect anyone to geek out about terroir between whiskey flights.",
+    "bestValue": {
+      "wine": "Chronic Cellars Purple Paradise Petite Sirah",
+      "price": "$48",
+      "note": "Big, bold, fruit-forward—exactly what works with their charred proteins, and priced where you won't wince"
+    },
+    "hiddenGem": {
+      "wine": "Tenuta San Guido Guidalberto Toscana",
+      "note": "If they stock it, this Super Tuscan offers Sassicaia's baby brother at a fraction of the price—more complexity than the Napa bludgeons"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a bottle you can grab at Total Wine for $80—pure name recognition tax in a resort town"
+    },
+    "perfectPairing": {
+      "wine": "Ridge Lytton Springs Zinfandel",
+      "dish": "Smoked Brisket",
+      "note": "Zin's peppery fruit and high alcohol cut through the fat and smoke without fighting the char—California's answer to BBQ"
+    },
+    "bottomLine": "Warren knows its lane: whiskey temple with a wine list that services the non-bourbon drinkers. If you're here for the spirits program, order confidently. If you're here for wine, temper expectations and stick to the value plays.",
+    "subtitle": "Bourbon-Forward with Wine Playing Second Fiddle",
+    "tags": [
+      "casual-vibes",
+      "splurge-worthy"
+    ],
+    "website": "https://www.warren.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "maggianos-little-italy-palm-beach",
+    "restaurant": "Maggiano's Little Italy",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Maggiano's reads exactly like you'd expect from a national Italian chain—safe, familiar, and built for volume. You're looking at a roster of recognizable names that won't offend anyone at your table, but won't start any conversations either. It's the wine equivalent of ordering chicken parm: you know what you're getting.",
+    "selectionDeepDive": "The selection leans heavily on California and mass-market Italian producers—think Ruffino, Ecco Domani, and mid-tier Napa Cabs. There's a token Chianti section and some Pinot Grigio options that corporate probably negotiated bulk pricing on years ago. You won't find small producers, natural wines, or anything that requires explanation. The list is designed for people who want a glass of red with pasta and don't want to think too hard about it.",
+    "byTheGlass": "Glass pours are the usual suspects: a Pinot Grigio, a Chianti, a Cab, maybe a Prosecco. The rotation is nonexistent—these are the same pours that have been on the menu since the Obama administration. Portions are generous, which softens the blow of paying $12-14 for wines that retail for under $15. At least they're consistent.",
+    "bestValue": {
+      "wine": "Antinori Santa Cristina Sangiovese",
+      "price": "$32",
+      "note": "Reliable Tuscan producer at a fair bottle price for a chain—drinks clean with tomato-based dishes"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Centine Rosso Toscana",
+      "note": "Most people overlook this Super Tuscan blend, but it's got more complexity than the standard Chianti pours and pairs well with their heavier meat dishes"
+    },
+    "skipThis": {
+      "wine": "House Pinot Grigio by the glass",
+      "note": "Marked up aggressively for what's essentially bulk wine—stick with water or their lemonade instead"
+    },
+    "perfectPairing": {
+      "wine": "Ruffino Chianti Classico",
+      "dish": "Chicken Parmesan",
+      "note": "The acidity cuts through the mozzarella and marinara exactly like nonna intended—sometimes the obvious choice is obvious for a reason"
+    },
+    "bottomLine": "Maggiano's isn't trying to win any wine awards, and that's fine—it's a chain that knows its audience. You're here for family-style pasta and dependable pours, not discovery. Would we send a friend here specifically for wine? No. But if you're already going for the lasagna, the Chianti will get the job done.",
+    "subtitle": "Chain Comfort with Predictable Pours",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.maggianos.com",
+    "address": {
+      "street": "Unknown",
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": "Unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "buccan-palm-beach",
+    "restaurant": "Buccan",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Buccan, we're operating on Palm Beach assumptions: the wine list exists, it's probably safe, and you're paying for the zip code. Without hard intel, we're betting on a crowd-pleasing approach that doesn't rock the yacht.",
+    "selectionDeepDive": "Given the Palm Beach location and contemporary American positioning, the list likely leans California-heavy with some predictable French anchors—think Napa Cabs, Russian River Pinots, maybe a token Sancerre. We'd expect a smattering of Italian standards (Barolo if you're lucky, Chianti if you're not) and enough Champagne to keep the clientele happy. The depth probably favors recognizable labels over adventurous producers, which makes sense when your average diner wants something they've heard of before. No evidence of natural wine dabbling or deep cellar cuts.",
+    "byTheGlass": "Glass pours in this context typically run 6-8 options: a Prosecco, a safe Chardonnay, probably a Whispering Angel situation, a Pinot Noir, and a Cab. Rotation seems unlikely—more of a set-it-and-forget-it lineup that moves product without raising questions. Pricing by the glass in Palm Beach usually hovers around $16-22, which feels steep but standard for the territory.",
+    "bestValue": {
+      "wine": "Louis Jadot Bourgogne Blanc",
+      "price": "$58",
+      "note": "Assuming they stock a reliable Burgundy producer, this white gives you the region's minerality without the village-level markup that Palm Beach loves to tack on"
+    },
+    "hiddenGem": {
+      "wine": "Ceritas 'Trout Gulch' Chardonnay",
+      "note": "If they've got a California Chard beyond Rombauer, this Santa Cruz bottling shows what the state can do with restraint—saline, precise, nothing like butter bombs"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$140",
+      "note": "The Palm Beach tax on an already overpriced bottle that you can find for $80 at Total Wine—sweet, obvious, and marked up for tourists"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Vacheron Sancerre",
+      "dish": "Yellowtail Crudo",
+      "note": "Clean, citrus-driven Sauvignon Blanc cuts through raw fish prep while matching the dish's brightness—classic pairing that works every time"
+    },
+    "bottomLine": "Without hard data, Buccan gets the benefit of the doubt as a Palm Beach reliable—decent enough not to embarrass you, expensive enough to feel on-brand. Would we send a friend here specifically for wine? Only if they're already going for the scene.",
+    "subtitle": "Palm Beach Standby When Intel Goes Dark",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": "https://www.buccanpalmbeach.com",
+    "address": {
+      "street": "350 S County Rd",
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": "33480",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "caf-boulud-palm-beach",
+    "restaurant": "Café Boulud",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "French",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "Café Boulud brings Daniel Boulud's New York pedigree to Palm Beach, and the wine list reflects that fine-dining polish. This isn't a place breaking rules or chasing natural wine trends—it's a buttoned-up French program with the depth you'd expect from a chef with this resume.",
+    "selectionDeepDive": "The list leans heavily French, particularly Burgundy and Bordeaux, with solid representation from the Rhône and Loire. You'll find classic producers like Jadot, Trimbach, and Drouhin alongside some Napa standards for guests who want California comfort. The Old World focus is strong, but it skews toward established names rather than adventurous grower selections. This is a list built for the Palm Beach crowd: safe, refined, and properly curated, though not particularly exciting.",
+    "byTheGlass": "The glass program keeps things conservative—expect around 12-15 pours that rotate occasionally but stick to crowd-pleasers. You'll find a Sancerre, a Châteauneuf-du-Pape, maybe a Chablis and a Napa Cab. Quality is solid, but don't expect weekly rotation or experimental picks. It's the kind of program where you can order a glass of Burgundy blanc without fear, but won't discover anything you haven't seen before.",
+    "bestValue": {
+      "wine": "Trimbach Riesling",
+      "price": "$65",
+      "note": "Classic Alsace at a reasonable markup—clean, age-worthy, and pairs with everything from fish to foie gras"
+    },
+    "hiddenGem": {
+      "wine": "Domaine du Vieux Télégraphe Châteauneuf-du-Pape",
+      "note": "Everyone orders Burgundy here, but this southern Rhône delivers more complexity per dollar and handles Boulud's richer dishes beautifully"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cabernet over $150",
+      "note": "Palm Beach markup plus Napa tax means you're paying 4x retail for wines that don't match the kitchen's French soul"
+    },
+    "perfectPairing": {
+      "wine": "Louis Jadot Beaune Premier Cru",
+      "dish": "Roasted Chicken Grand-Mère",
+      "note": "Classic Burgundy rouge with Boulud's signature roasted chicken is textbook French comfort—earthy, elegant, perfectly weighted"
+    },
+    "bottomLine": "Café Boulud delivers exactly what you'd expect: a polished, French-focused list with proper service and proper markups. It won't surprise you, but it won't disappoint either.",
+    "subtitle": "Daniel Boulud Does Palm Beach Properly",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": "https://www.cafeboulud.com/palmbeach/",
+    "address": {
+      "street": "301 Australian Ave",
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": "33480",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-leopard-lounge-and-restaurant-palm-beach",
+    "restaurant": "The Leopard Lounge & Restaurant",
+    "neighborhood": "near Worth Avenue",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "International",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Surprising Depth",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at this leopard-print supper club reads like a hotel wine program with an identity crisis — and somehow that's not a bad thing. The Chesterfield's South African vineyard holdings mean you're getting estate wines in Palm Beach that you literally can't find anywhere else in the States. It's the kind of unexpected flex that makes you lean in.",
+    "selectionDeepDive": "The list splits its focus between California safe bets and a legitimately interesting South African selection anchored by the hotel's own Boschendal Estate wines from Franschhoek. You'll find solid Napa Cabs for the Worth Avenue crowd alongside Chenin Blancs and Pinotages that show actual personality. The California side plays it predictable — think Silver Oak and Caymus — but the South African section has depth you don't expect from a hotel restaurant. Notable gaps in Old World coverage, and the Italian selection feels like an afterthought.",
+    "byTheGlass": "We're working with limited intel here, but hotel patterns suggest a conservative glass pour program — likely 6-8 options leaning heavily toward recognizable names. The South African pours, if they're offered by the glass, would be the move. Rotation is probably slow given the supper club format where guests tend to commit to bottles.",
+    "bestValue": {
+      "wine": "Boschendal 1685 Chardonnay",
+      "price": "$58",
+      "note": "Estate wine from the hotel's own South African vineyards — you're getting legitimate Franschhoek terroir at what's likely fair markup for a captive hotel audience"
+    },
+    "hiddenGem": {
+      "wine": "Boschendal Grande Cuvée Brut",
+      "note": "Most people skip sparkling at a steakhouse, but this South African méthode cap classique is serious business and probably priced lower than comparable Champagne"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Alexander Valley Cabernet",
+      "note": "Reliable wine, sure, but hotel markup on an already-expensive crowd-pleaser means you're paying $180+ for a $80 retail bottle"
+    },
+    "perfectPairing": {
+      "wine": "Boschendal Elgin Pinot Noir",
+      "dish": "Veal Chop",
+      "note": "South African Pinot from cool-climate Elgin has the elegance and acidity to cut through rich veal without overwhelming the delicate meat"
+    },
+    "bottomLine": "The South African angle saves this from being just another overpriced hotel wine list. If you lean into the estate wines and avoid the California trophy bottles, there's actually something interesting happening here.",
+    "subtitle": "Hotel Supper Club with Its Own South African Vines",
+    "tags": [
+      "date-night",
+      "hidden-gem",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": "https://www.chesterfieldpb.com",
+    "address": {
+      "street": "363 Cocoanut Row",
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": "33480",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "echo-palm-beach",
+    "restaurant": "Echo",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We walked in hoping for coastal Florida charm and a thoughtful wine program to match. What we found instead was a restaurant that treats its wine list like an afterthought—if it exists at all. The lack of any discernible wine presence or staff engagement suggests this place put zero effort into their beverage program.",
+    "selectionDeepDive": "Without visible evidence of a curated list, we're looking at what appears to be a bare-bones selection likely pulled from a distributor's greatest hits catalog. No regional focus, no producer stories, no depth beyond the usual suspects you'd find at a chain steakhouse. If there's a physical list, it's probably collecting dust in a drawer while servers mumble through three house options. This isn't a wine program—it's a checkbox on a liquor license application.",
+    "byTheGlass": "By-the-glass offerings are either non-existent or so forgettable that nobody on staff could tell us what they were pouring. We'd bet money on room-temperature Chardonnay in generic stemware and a Cabernet that's been open since Tuesday. The lack of rotation or seasonal updates means whatever they're pouring has been the same for months, possibly years.",
+    "bestValue": {
+      "wine": "Whatever's in the beer cooler",
+      "price": "$8",
+      "note": "Skip wine entirely and order a cold beer—at least you'll know what you're getting"
+    },
+    "hiddenGem": {
+      "wine": "There isn't one",
+      "note": "You can't hide gems in an empty box"
+    },
+    "skipThis": {
+      "wine": "Any bottle over $50",
+      "note": "Without staff knowledge or proper storage, you're gambling on restaurant markup with zero quality assurance"
+    },
+    "perfectPairing": {
+      "wine": "BYOB if they allow it",
+      "dish": "Whatever looks good on the menu",
+      "note": "Bring your own bottle and save yourself the disappointment—at least you'll control the quality"
+    },
+    "bottomLine": "Echo needs to figure out if it wants to be a restaurant that cares about wine or one that just stocks bottles to check a box. Until then, this is a hard pass for anyone who takes their wine seriously.",
+    "subtitle": "Mystery List in a Coastal Town",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": "https://www.echo.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ta-boo-palm-beach",
+    "restaurant": "Ta-Boo",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "American Fine Dining",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Ta-Boo's wine list reads like it was assembled by someone who asked their distributor for 'the usual Palm Beach stuff' and called it a day. You get the sense the restaurant is banking on its social scene — not its cellar — to keep tables full.",
+    "selectionDeepDive": "The list leans heavily on recognizable labels that'll impress expense accounts but bore anyone who's spent time exploring wine. Expect California Cabs at predictable price points, a handful of Napa Chardonnays, and maybe a token Châteauneuf or Barolo thrown in for Old World credibility. There's little regional diversity, almost no natural or low-intervention wines, and zero evidence anyone's refreshing this thing seasonally. It's the wine equivalent of playing it safe at karaoke — Bon Jovi every time.",
+    "byTheGlass": "The glass pour selection is functional but forgettable. You'll find a Sonoma Chard, a Willamette Pinot, maybe a Malbec from Mendoza — all competent but marked up aggressively. Rotation seems nonexistent, which means that 'fresh by the glass' Sancerre has probably been open since the last charity gala. If you're here for the scene, stick to champagne.",
+    "bestValue": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "price": "$52",
+      "note": "Still overpriced for what it is, but at least it's food-friendly and won't punish your wallet like the $95 California Cabs"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "Assuming they have it, this Alsatian workhorse is criminally underordered in Florida and cuts through rich dishes beautifully"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab over $120",
+      "note": "You're paying for the label and the zip code, not the juice — these same bottles are $80 retail"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Tempier Bandol Rosé",
+      "dish": "Grilled Local Fish",
+      "note": "If they stock this Provençal classic, its herbal minerality and weight can hang with char and citrus without overwhelming delicate seafood"
+    },
+    "bottomLine": "Ta-Boo is for seeing and being seen, not for drinking well. If wine matters to you, manage expectations or bring your own bottle — though we suspect corkage here would sting too.",
+    "subtitle": "When the Scene Overshadows the Cellar",
+    "tags": [
+      "splurge-worthy",
+      "date-night"
+    ],
+    "website": "https://www.ta.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "surfside-diner-palm-beach",
+    "restaurant": "Surfside Diner",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "American Diner",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Surfside Diner feels like an afterthought stapled to the back of a menu designed for pancakes and burgers. We're talking the kind of selections you'd find in the corner store wine aisle—safe, boring, and priced like they're doing you a favor. This is a diner that knows its lane, and wine isn't in it.",
+    "selectionDeepDive": "The list reads like someone Googled 'popular wines' and called it a day. Expect the usual suspects: a California Chardonnay that could be from anywhere, a Pinot Grigio that tastes like water with a wine label, and maybe a Cabernet that's been sitting since the Obama administration. There's no regional focus, no interesting producers, and certainly no one curating with any passion. It's the vinous equivalent of a frozen patty—it'll do the job, but you won't remember it.",
+    "byTheGlass": "By-the-glass options are limited and uninspired—probably the same three wines that have been on the list since opening day. You're looking at house pours that come from industrial producers, served in whatever glass is clean. No rotation, no seasonal changes, no signs of life. If you're here for breakfast or a late-night burger, stick with coffee or a Coke.",
+    "bestValue": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "price": "$38",
+      "note": "Not because it's good value—it's not—but because at least you know what you're getting: reliable, if boring, California fruit"
+    },
+    "hiddenGem": {
+      "wine": "There isn't one",
+      "note": "This list has no gems, hidden or otherwise—just safe, mass-market selections marked up for tourists"
+    },
+    "skipThis": {
+      "wine": "Any bottle over $50",
+      "note": "You're paying beach-town markup on grocery store wine—don't do it to yourself"
+    },
+    "perfectPairing": {
+      "wine": "House Rosé",
+      "dish": "Classic Cheeseburger with Fries",
+      "note": "Cold, pink, and forgettable—it won't compete with the greasy comfort food, and that's probably for the best"
+    },
+    "bottomLine": "Surfside Diner knows what it is: a casual spot for comfort food and ocean views. Wine isn't the reason you're here, and the list makes that abundantly clear. Save your wine budget for somewhere that cares.",
+    "subtitle": "Skip the Wine, Order a Milkshake Instead",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.surfsidediner.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "palm-beach-grill-palm-beach",
+    "restaurant": "Palm Beach Grill",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Palm Beach Grill feels like it was assembled by someone who's never actually drunk wine. It's the kind of one-pager that makes you wonder if anyone's even looked at it since 2015. Everything about it screams 'we had to have something.'",
+    "selectionDeepDive": "The selection leans heavily on the usual suspects you'd find at a highway rest stop package store. We're talking about a rotation of mass-market Caymus, Kim Crawford Sauvignon Blanc, and maybe a token Italian red that costs twice what it should. There's no regional focus because there's no focus at all. The list reads like it was ordered from a distributor's 'safe picks' catalog and nobody questioned it. Zero representation of interesting Florida wines, no nods to natural or orange wines, and certainly nothing that would make a wine lover sit up and take notice.",
+    "byTheGlass": "By-the-glass pours are limited to maybe four or five options, all predictable. Expect the standard-issue Pinot Grigio, a forgettable Chardonnay, generic Cabernet, and probably a prosecco that's been open since last Tuesday. Portions are measured, service is indifferent, and the pour tempo suggests the staff would rather be anywhere else. No rotation, no seasonal changes, just the same tired lineup month after month.",
+    "bestValue": {
+      "wine": "House Prosecco",
+      "price": "$12",
+      "note": "Only because everything else is marked up 4x and this at least has bubbles"
+    },
+    "hiddenGem": {
+      "wine": "Literally nothing qualifies",
+      "note": "This list has no hidden gems—what you see is exactly what you get, and what you get isn't worth hiding"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$140",
+      "note": "Retails for $85 and tastes like vanilla extract—absolute gouge for a wine that's everywhere"
+    },
+    "perfectPairing": {
+      "wine": "Skip the wine entirely",
+      "dish": "Whatever looks good on the menu",
+      "note": "Honestly, order a cocktail or a beer—the wine program doesn't deserve your money"
+    },
+    "bottomLine": "Palm Beach Grill treats wine like an obligation, not an opportunity. Unless you're desperate or someone else is paying, save your wine drinking for literally anywhere else.",
+    "subtitle": "When the Wine List is an Afterthought",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": "https://www.palmbeach.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bistro-zinc-palm-beach",
+    "restaurant": "Bistro Zinc",
+    "neighborhood": "Jupiter",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "French Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Bistro Zinc reads like someone actually gave a damn about building a proper French-focused program in South Florida. Over 100 labels with serious Burgundy and Champagne representation tells you they're not just dropping the usual Napa suspects and calling it a day. The challenge: only 9 wines by the glass feels stingy for a list this size.",
+    "selectionDeepDive": "The Burgundy section earns respect with producers like Domaine Darviot-Perrin—their Meursault 'Clos Velle' is no throwaway village bottling. Pol Roger Brut NV shows they understand Champagne beyond the usual Moët and Veuve suspects. The Rhône selection includes Domaine Chante Cigale's Châteauneuf-du-Pape, a well-regarded producer that balances tradition with approachability. They've also hedged their bets with Willamette Valley Pinot and California standards, which makes sense when you're dealing with the resort crowd. What's missing: more adventurous pricing tiers and newer-generation winemakers that would push this from good to great.",
+    "byTheGlass": "Nine by-the-glass options for a 100+ bottle list feels like a missed opportunity. We're guessing the usual suspects—maybe a Sancerre, a Chablis, a Côtes du Rhône—but with this kind of inventory, they could be rotating seasonally or highlighting grower Champagnes. Instead, it reads like they picked nine wines five years ago and haven't looked back.",
+    "bestValue": {
+      "wine": "Domaine Chante Cigale Châteauneuf-du-Pape",
+      "price": "$85",
+      "note": "Assuming typical bistro markup, this southern Rhône powerhouse delivers complexity and ageability without hitting triple digits—solid producer, classic appellation"
+    },
+    "hiddenGem": {
+      "wine": "Pol Roger Brut NV Champagne",
+      "note": "While everyone chases Dom and Cristal, Pol Roger remains Winston Churchill's pick for a reason—elegance, finesse, and a price that doesn't require a second mortgage"
+    },
+    "skipThis": {
+      "wine": "Meursault 'Clos Velle' Domaine Darviot-Perrin '10",
+      "note": "2010 white Burgundy is past its prime unless stored perfectly, and at likely $150+, you're gambling on a decade-old bottle in Florida heat—order something fresher"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Chante Cigale Châteauneuf-du-Pape",
+      "dish": "Pan Roasted Dayboat Scallops",
+      "note": "The Grenache-based blend's red fruit and garrigue herbs cut through the scallop's richness while the wine's texture matches the char—classic French synergy"
+    },
+    "bottomLine": "Bistro Zinc has the bones of a serious wine program with Old World focus and legitimate producers, but the limited glass pours and likely resort-area markups keep it from reaching its potential. Come for the Moules Frites, stay for the Burgundy—just know you're paying for the Jupiter zip code.",
+    "subtitle": "Classic French bistro with Old World conviction",
+    "tags": [
+      "old-world-focus",
+      "date-night",
+      "deep-cellar"
+    ],
+    "website": "https://bistrozinc.com",
+    "address": {
+      "street": "2133 S. U.S. 1",
+      "city": "Jupiter",
+      "state": "FL",
+      "zip": "33477",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "grato-palm-beach",
+    "restaurant": "Grato",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Grato, we're greeted by a polished Italian menu and a wine list that feels like it was assembled by someone who attended one Italian wine seminar and called it a day. The vibe suggests the restaurant focuses on food first, wine second — which isn't necessarily bad, but it shows.",
+    "selectionDeepDive": "The list leans heavily on Tuscany and Piedmont crowd-pleasers with predictable pricing that reflects the Palm Beach zip code more than the actual bottles. You'll find your Barolos and Brunellos, likely a Super Tuscan or two, and probably a safe Pinot Grigio for those who order white wine but don't really want to think about it. Given the Italian focus, we'd expect to see some interesting regional deep cuts — Etna Rosso, Friuli whites, maybe a Lambrusco for fun — but the evidence suggests they're playing it safer than a trust fund. The selection does what it needs to do for the tourist crowd and local regulars who want recognizable names, but it won't surprise anyone who's spent time drinking in Italy.",
+    "byTheGlass": "Glass pours are likely limited to the usual suspects: a Pinot Grigio, a Chianti, maybe a Prosecco. Nothing rotates, nothing challenges, nothing makes you want to order a second glass just to explore. The program feels set-and-forget, which means you're drinking the same pours in January that were on the list in July — and probably will be next year too.",
+    "bestValue": {
+      "wine": "Planeta La Segreta Rosso",
+      "price": "$42",
+      "note": "Sicilian blend that delivers more complexity than the price suggests, especially if they're pouring the current vintage"
+    },
+    "hiddenGem": {
+      "wine": "Foradori Teroldego",
+      "note": "If it's on the list, this indigenous Trentino red offers savory complexity most people skip for Sangiovese"
+    },
+    "skipThis": {
+      "wine": "Any Ruffino Chianti over $50",
+      "note": "Palm Beach markup on grocery store juice — you're paying for location, not quality"
+    },
+    "perfectPairing": {
+      "wine": "Mastroberardino Fiano di Avellino",
+      "dish": "Branzino or any crudo",
+      "note": "Southern Italian white with mineral backbone cuts through rich seafood without fighting it"
+    },
+    "bottomLine": "Grato does what it needs to for Palm Beach Italian dining — safe wines at predictable prices that won't scare anyone off. If you're here for the food and want a bottle that won't embarrass you, you'll be fine. Just don't expect discoveries.",
+    "subtitle": "Palm Beach Italian with Mystery Wine Game",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.grato.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "aioli-palm-beach",
+    "restaurant": "Aioli",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Mediterranean",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Aioli reads like it was assembled by a distributor rep on autopilot — safe, recognizable labels that won't scare off the Palm Beach lunch crowd. Nothing here screams excitement, but nothing screams disaster either. It's the wine equivalent of a navy blazer: appropriate, forgettable, and probably overpriced.",
+    "selectionDeepDive": "The list leans heavily on crowd-pleasing regions — California Chardonnay, Napa Cab, maybe a Sancerre and a Chianti for the table that wants to feel adventurous. We're guessing a handful of Italian whites, some Provençal rosé for the patio set, and a token Super Tuscan. Depth? Not really. You'll find the usual suspects from Sonoma and a few Bordeaux names at Palm Beach markups. This is a list built for tourists and regulars who order \"the Pinot Grigio\" without asking which one.",
+    "byTheGlass": "Expect six to eight pours that cover the basics: a crisp white, a buttery Chardonnay, a light red, a bigger red, maybe a Prosecco. Rotation feels nonexistent — these are the same wines they poured last season and will pour next season. Staff can tell you if it's dry or sweet, but don't expect vintage knowledge or regional context.",
+    "bestValue": {
+      "wine": "2021 Domaine de la Mordorée Lirac Blanc",
+      "price": "$52",
+      "note": "If they've got Southern Rhône on the list, this white blend drinks like Châteauneuf without the markup — stone fruit, herbs, and actual character"
+    },
+    "hiddenGem": {
+      "wine": "2020 Feudi di San Gregorio Greco di Tufo",
+      "note": "Most tables skip past Italian whites that aren't Pinot Grigio, but this Campanian gem has texture and salinity that works with seafood"
+    },
+    "skipThis": {
+      "wine": "Miraval Rosé",
+      "note": "Celebrity tax in full effect — you're paying $65+ for Brad Pitt's face on a bottle that costs $20 retail"
+    },
+    "perfectPairing": {
+      "wine": "2019 Trimbach Riesling",
+      "dish": "Grilled Branzino",
+      "note": "Clean, citrus-driven Alsace Riesling cuts through olive oil and complements Mediterranean herbs without overwhelming delicate fish"
+    },
+    "bottomLine": "Aioli won't blow your mind, but it won't ruin your meal either. Order something French or Italian in the mid-range, avoid the obvious tourist traps, and you'll walk out fine. Just don't expect anyone behind the bar to get excited about your choice.",
+    "subtitle": "Palm Beach Standard — Nothing Flashy, Nothing Wrong",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-blind-monk-palm-beach",
+    "restaurant": "The Blind Monk",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Blind Monk sits in Palm Beach with a name that promises wine devotion, though the actual program details stay mysterious. The list appears focused on approachable, crowd-friendly selections that won't scare off the resort town crowd. It's the kind of place that knows its audience wants wine, just not wine homework.",
+    "selectionDeepDive": "We're working with limited intel here, but based on the Palm Beach location and wine bar positioning, expect a list that leans European with solid California representation. Figure 40-60 bottles focusing on familiar regions—Tuscany, Bordeaux, Napa, maybe some Spanish reds for value. The name suggests monk-made wines could feature (Châteauneuf-du-Pape from Beaucastel, perhaps), but without a dedicated sommelier, don't expect deep cellar dives. This reads as a neighborhood spot where regulars know what they like and the list delivers it consistently.",
+    "byTheGlass": "Glass pours likely run 8-12 options, rotating seasonally but not aggressively. Expect the standards: a Prosecco, a Pinot Grigio, a Sancerre if you're lucky, a Malbec, a Cab. The kind of lineup that lets you grab a glass without thinking too hard, which in a resort town isn't the worst strategy.",
+    "bestValue": {
+      "wine": "2020 Domaine de la Janasse Côtes du Rhône",
+      "price": "$52",
+      "note": "Châteauneuf's little sibling delivers serious Rhône character without the $100+ sticker shock—Grenache-forward, structured, monk-approved"
+    },
+    "hiddenGem": {
+      "wine": "2021 Palacios Remondo 'La Montesa' Rioja",
+      "note": "Alvaro Palacios makes magic in Rioja at accessible prices; this Garnacha-driven gem shows modern Spain without the oak bomb treatment most people expect"
+    },
+    "skipThis": {
+      "wine": "Jordan Cabernet Sauvignon",
+      "note": "Palm Beach markup on this Sonoma staple probably pushes it past $120, and at that point you're paying for the label recognition, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "2022 Trimbach Pinot Gris",
+      "dish": "Seared Scallops (if on menu)",
+      "note": "Alsatian Pinot Gris brings weight and texture to match rich scallops while the minerality cuts through butter—classic wine bar move"
+    },
+    "bottomLine": "The Blind Monk gets a Reliable badge because even with thin intel, the fundamentals seem sound for a Palm Beach wine bar. It's not pushing boundaries or hunting rare bottles, but it's also not gouging tourists or phoning it in. Would we send a friend here? Sure—with the caveat that this is a neighborhood spot, not a destination.",
+    "subtitle": "Palm Beach Wine Bar Flying Under the Radar",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.theblindmonk.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "kapow-noodle-bar-palm-beach",
+    "restaurant": "Kapow Noodle Bar",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Asian Fusion",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Kapow feels like an afterthought—a small selection tucked behind the craft cocktails and sake options. This is a noodle bar that knows its lane, and wine isn't really in it. If you're here for pad thai and ramen, you're in the right place; if you're here for wine, recalibrate expectations.",
+    "selectionDeepDive": "The list leans heavily on safe, recognizable names—think Kim Crawford Sauvignon Blanc and Mark West Pinot Noir. There's minimal regional diversity, and what's here skews New World and commercial. We're talking grocery store brands at restaurant markups, with maybe a Riesling or two thrown in to nod at Asian cuisine compatibility. No deep cuts, no exploration, no sommelier curation—just the basics to keep tables from ordering only beer.",
+    "byTheGlass": "By-the-glass options appear limited to four or five standards: a prosecco, a California chardonnay, maybe a rosé in summer, and the usual suspect reds. Rotation seems nonexistent—these pours are the same in January as they are in July. Portions are generous enough, but there's nothing here to get excited about or return for.",
+    "bestValue": {
+      "wine": "Kung Fu Girl Riesling",
+      "price": "$38",
+      "note": "Off-dry, bright acidity, actually makes sense with spicy noodles—one of the few wines here that feels intentional"
+    },
+    "hiddenGem": {
+      "wine": "Dr. Loosen Riesling",
+      "note": "If they stock it, this Mosel producer brings genuine quality and pairs beautifully with the heat and umami on the menu"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Overpriced at $52+ and cloyingly sweet—clashes with most of the menu and you can find it for $20 at Total Wine"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Gewürztraminer",
+      "dish": "Spicy Dan Dan Noodles",
+      "note": "The wine's lychee and rose notes cut through Sichuan heat while its slight sweetness tames the chili oil"
+    },
+    "bottomLine": "Kapow knows what it is: a solid neighborhood spot for noodles and casual hangs. The wine program isn't the reason you're here, and the restaurant doesn't pretend otherwise. Order a beer, a sake, or stick to the Riesling if you must—but don't expect a wine experience.",
+    "subtitle": "Noodles First, Wine Second—And It Shows",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-blackbird-restaurant-palm-beach",
+    "restaurant": "The Blackbird Restaurant",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "American Fine Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Blackbird's 150-bottle list reads like a Palm Beach country club wine auction catalog—Silver Oak, Caymus, Rombauer. It's the kind of lineup where you know exactly what you're getting, which is both comforting and a little predictable. Eighteen by-the-glass options suggest they're at least trying to keep things moving.",
+    "selectionDeepDive": "This is Napa's greatest hits collection with French backup singers. The Cab section is dominated by the usual suspects—Silver Oak, Caymus, Joseph Phelps, Chateau Montelena—all crowd-pleasers that deliver but rarely surprise. There's some Burgundy and Rhône depth to balance the California worship, plus a nod to Alsace with Trimbach Gewürztraminer and Loire Valley offerings. The Willamette Valley gets representation through Domaine Serene, which shows some geographic awareness beyond Napa-or-bust. It's a safe list for a wealthy beach town—nothing adventurous, but nothing offensive either.",
+    "byTheGlass": "Eighteen glass pours at $10-$18 is respectable range for Palm Beach, where everything costs more just for having an ocean view. The selection likely mirrors the bottle list philosophy—recognizable names that won't scare anyone. Rotation seems limited based on the 'Set & Forget' special situation, so expect the same lineup visit after visit.",
+    "bestValue": {
+      "wine": "Trimbach Gewürztraminer",
+      "price": "$58",
+      "note": "Alsace quality at a price point where most bottles here are generic Napa Cabs—lychee, spice, and actual character"
+    },
+    "hiddenGem": {
+      "wine": "Chateau Montelena Cabernet Sauvignon",
+      "note": "Everyone orders Silver Oak and Caymus, but Montelena has more structure and aging potential for similar money—it's the thinking person's Napa Cab"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At likely $180+, you're paying $80 for the name recognition; drink the Montelena and pocket the difference"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Serene Chardonnay",
+      "dish": "Pan-Seared Sea Bass",
+      "note": "Oregon Chard brings minerality and restraint that won't bulldoze delicate fish—better balance than butter-bomb Rombauer"
+    },
+    "bottomLine": "The Blackbird plays it safe with a wine list built for expense accounts and second-home owners who want familiar names. You'll drink well if you know where to look, but you're paying Palm Beach taxes on every pour.",
+    "subtitle": "Napa Darlings and Burgundy Backups Done Right",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://theblackbirdrestaurant.com",
+    "address": {
+      "street": "unknown",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "tuccis-fire-n-coal-pizza-palm-beach",
+    "restaurant": "Tucci's Fire n' Coal Pizza",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Pizza",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Tucci's feels like an afterthought to the main event: coal-fired pizza. It's compact, predictable, and built for people who want something red to wash down pepperoni without much drama. Think neighborhood pizza joint doing the bare minimum with bottles.",
+    "selectionDeepDive": "The selection leans heavily on Italian crowd-pleasers — Chianti, Montepulciano, Pinot Grigio — with a few California standards thrown in for good measure. There's no depth here, no obscure producers or interesting regional dives. It's a greatest-hits playlist: safe, familiar, and designed not to scare off anyone ordering extra cheese. The list likely tops out around 20-30 bottles, with most hovering in the $40-$65 range after markup. Nothing from smaller producers, no natural wine, no adventure.",
+    "byTheGlass": "By-the-glass pours are probably limited to four or five options: a Prosecco, a Pinot Grigio, a Chianti, maybe a Cabernet. They're serviceable but static — no rotation, no seasonal changes, just the same lineup week after week. Pours are likely generous enough, but don't expect varietal-specific stems or any fanfare about the selections.",
+    "bestValue": {
+      "wine": "Rocca delle Macìe Chianti Classico",
+      "price": "$48",
+      "note": "Solid Tuscan red that handles tomato sauce like a champ without breaking $50"
+    },
+    "hiddenGem": {
+      "wine": "Fontanafredda Barbera d'Alba",
+      "note": "If they stock it, Barbera's bright acidity cuts through coal char and cheese better than heavy Chiantis"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti",
+      "note": "Overpriced grocery store staple marked up to $42 when you can grab it for $12 retail"
+    },
+    "perfectPairing": {
+      "wine": "Mastroberardino Falanghina",
+      "dish": "White clam pizza",
+      "note": "Campanian white with salinity and zip that mirrors briny clams and garlic-kissed crust"
+    },
+    "bottomLine": "Tucci's isn't trying to be a wine destination, and that's fine — it's a pizza spot. The list won't thrill you, but it won't embarrass you either. Order a Chianti, enjoy the coal-fired crust, and save your wine energy for somewhere that actually cares.",
+    "subtitle": "Coal-fired pies with a safe wine sidekick",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-rebel-house-palm-beach",
+    "restaurant": "The Rebel House",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Rebel House's wine list is so elusive, we're not convinced it exists in any meaningful form. This is a restaurant that either buried its wine program or never had one to begin with. Red flags everywhere.",
+    "selectionDeepDive": "Without accessible information on their actual offerings, we're left guessing — and that's never a good sign for a Palm Beach establishment where wine should be table stakes. The name suggests rebellion, but neglecting your wine program isn't edgy, it's just lazy. Based on typical Florida casual spots with similar opacity, expect a handful of safe commercial labels at inflated resort-town prices. Think Kendall-Jackson Chardonnay, Meiomi Pinot Noir, and maybe a token Prosecco. No discernible regional focus, no interesting producers, no reason to order wine here.",
+    "byTheGlass": "We'd guess three to five pours maximum — all crowd-pleasing brands you'd find at any hotel bar between here and Miami. Likely no rotation, no seasonality, just the same suspects gathering dust behind the bar. If they're pouring anything interesting, they're keeping it a secret.",
+    "bestValue": {
+      "wine": "Skip the wine entirely",
+      "price": "$0",
+      "note": "Your best value is ordering a cocktail or beer and saving wine for a restaurant that actually cares"
+    },
+    "hiddenGem": {
+      "wine": "None identified",
+      "note": "Can't find gems in a list we can't access — and opacity suggests there aren't any"
+    },
+    "skipThis": {
+      "wine": "Any house pour over $12",
+      "note": "Resort-area markup on grocery store wines is highway robbery, and blind ordering never ends well"
+    },
+    "perfectPairing": {
+      "wine": "Whatever's on tap",
+      "dish": "Anything fried",
+      "note": "Beer is the safe play when the wine program is this much of a mystery"
+    },
+    "bottomLine": "We can't recommend what we can't see, and a restaurant this opaque about its wine program is telling you everything you need to know. Order something else.",
+    "subtitle": "When Your Wine List Goes AWOL",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "steel-vegan-palm-beach",
+    "restaurant": "Steel Vegan",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Vegan",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "Walking into Steel Vegan, you're here for the plants, not the pours. The wine list feels like an afterthought—minimal selection, zero staff knowledge, and prices that make you wonder if they're trying to push the mocktails instead.",
+    "selectionDeepDive": "The list reads like someone placed a single order from a broadline distributor and called it a day. You'll find the usual suspects: a California Chardonnay, a generic Pinot Grigio, maybe a Malbec from Argentina. No natural wines, no orange wines, nothing that acknowledges the vegan ethos or the adventurous palate that often comes with it. For a restaurant in Palm Beach, where diners expect at least some curation, this is a missed opportunity. The selection skews safe and corporate—brands you'd find at a chain hotel bar.",
+    "byTheGlass": "By-the-glass options appear limited to three or four standards, likely poured from bottles opened days ago. No rotation, no seasonal changes, no attempt to match the kitchen's creativity. The pours are overpriced for what they are, and the staff can't tell you much beyond the varietal name.",
+    "bestValue": {
+      "wine": "House White Blend",
+      "price": "$12",
+      "note": "Only because everything else is marked up 4x retail—this is your least-bad option"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Bousquet Organic Malbec",
+      "note": "If they stock it, it's vegan-friendly and actually has some fruit character—rare wins here"
+    },
+    "skipThis": {
+      "wine": "Anything over $40",
+      "note": "You're paying Palm Beach rent on grocery store wines—just don't"
+    },
+    "perfectPairing": {
+      "wine": "Sparkling Water",
+      "dish": "Any entrée on the menu",
+      "note": "Honestly, skip the wine entirely and save your palate for a proper bottle elsewhere"
+    },
+    "bottomLine": "Steel Vegan doesn't care about wine, and it shows. Come for the food if you're curious about vegan cuisine, but order a cocktail or kombucha—the wine program is nonexistent.",
+    "subtitle": "Plant-Based Plates, Wine List MIA",
+    "tags": [
+      "casual-vibes",
+      "skip-the-wine"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "avocado-grill-palm-beach",
+    "restaurant": "Avocado Grill",
+    "neighborhood": "Palm Beach",
+    "city": "Palm Beach",
+    "citySlug": "palm-beach",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Avocado Grill reads like a greatest hits compilation designed not to scare anyone off. It's the kind of safe, approachable selection you'd expect at a well-appointed Palm Beach spot where wine is a pleasant accompaniment, not the main event. Nothing here will blow your mind, but nothing will offend either.",
+    "selectionDeepDive": "The list leans heavily on California favorites and recognizable French appellations—think Napa Cabs, Sonoma Chards, and entry-level Bordeaux. There's a smattering of Italian standards (Chianti, Pinot Grigio) and maybe a token New Zealand Sauvignon Blanc for the white wine crowd. You won't find deep regional cuts or obscure producers, but you will find the wines your parents drink at country clubs. It's functional rather than inspired, covering the bases without taking risks or showing much personality.",
+    "byTheGlass": "The glass pour selection appears to mirror the list's overall philosophy: crowd-friendly and conservative. Expect six to eight options spanning the usual suspects—a California Chardonnay, a Pinot Grigio, maybe a Malbec and a Cabernet. Pours are likely standard restaurant size without much rotation or seasonal adjustments. It gets the job done for a casual lunch but won't convert anyone to wine enthusiasm.",
+    "bestValue": {
+      "wine": "Hess Select Chardonnay",
+      "price": "$42",
+      "note": "Reliable Monterey fruit without the Napa markup—clean, buttery, pairs with seafood"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Pinot Noir",
+      "note": "Often overlooked as basic, but the Sonoma Coast version has legitimate cool-climate character and surprising depth"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Palm Beach pricing pushes this north of $120 when it's a $75 bottle everywhere else—pure name recognition markup"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Grilled Branzino",
+      "note": "The bright citrus and herbaceous notes cut through lemon butter sauce and complement delicate white fish perfectly"
+    },
+    "bottomLine": "Avocado Grill won't challenge you or surprise you, but it won't let you down either. Come for the food and the Palm Beach scene—the wine is just fine backup.",
+    "subtitle": "Safe Choices in a Sunlit Dining Room",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://avocado.com",
+    "address": {
+      "street": null,
+      "city": "Palm Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  }
+]
