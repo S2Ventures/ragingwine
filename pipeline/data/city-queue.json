@@ -94,7 +94,9 @@
     "citySlug": "naples",
     "state": "Florida",
     "priority": 8,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-24T06:08:19.280Z",
+    "reviewCount": 29
   },
   {
     "city": "Sarasota",

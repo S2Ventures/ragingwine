@@ -1,0 +1,1540 @@
+[
+  {
+    "slug": "bleu-provence-naples",
+    "restaurant": "Bleu Provence",
+    "neighborhood": "Old Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "French",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "You open this wine book and immediately understand why it's called a book — 3,100 labels is the kind of cellar depth that makes serious collectors get misty-eyed. This is a French restaurant that takes its wine program as seriously as its bouillabaisse, with Burgundy and Bordeaux sections that could fill entire menus at lesser spots.",
+    "selectionDeepDive": "The list reads like a love letter to French wine regions, with serious Burgundy allocations, deep Rhône representation, and a Champagne section that goes well beyond the usual suspects. California and Italy get proper attention too, but the heart of this program is clearly Old World. The Bordeaux section alone could keep you busy for months, and the Burgundy selection suggests someone with serious producer relationships and cellar discipline. You'll find verticals, older vintages, and producers that don't make it to most Florida wine lists.",
+    "byTheGlass": "We don't have the full glass pour count, but what we see suggests thoughtful selections rather than the usual suspects. The Rivarose Brut Rosé and Sommariva Prosecco show they're thinking beyond entry-level bubbles, and the Honig Sauvignon Blanc 2023 is a solid Napa pick that drinks well above its price point. With a sommelier on staff and this level of bottle depth, we'd expect a rotating glass program that changes with seasons and dishes.",
+    "bestValue": {
+      "wine": "Honig Sauvignon Blanc 2023",
+      "price": "$48",
+      "note": "Napa Sauvignon that delivers bright citrus and minerality without the markup insanity — perfect with their mussels in white wine sauce"
+    },
+    "hiddenGem": {
+      "wine": "Domaine de la Janasse Côtes du Rhône 2021",
+      "note": "Buried in a massive list, this Châteauneuf-adjacent producer delivers serious Grenache character at a fraction of the cost of their flagship bottles — earthy, peppery, and made for rich Provençal cooking"
+    },
+    "skipThis": {
+      "wine": "Most bottles over $200",
+      "note": "The cellar depth is impressive, but Naples markups mean you're paying luxury resort pricing on already expensive wines — save the splurge bottles for retail and stick to the $80-150 sweet spot here"
+    },
+    "perfectPairing": {
+      "wine": "Château de Beaucastel Châteauneuf-du-Pape Blanc",
+      "dish": "Sea bass",
+      "note": "This Roussanne-heavy white has the weight and complexity to stand up to Mediterranean preparations while the minerality cuts through butter sauces — textbook Provence pairing"
+    },
+    "bottomLine": "This is serious wine infrastructure in a town known more for yacht money than wine knowledge. The markups sting, but the selection and staff expertise justify a visit for anyone who takes French wine seriously.",
+    "subtitle": "3,100 Labels of French Mastery by the Harbor",
+    "tags": [
+      "deep-cellar",
+      "splurge-worthy",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.bleuprovencenaples.com",
+    "address": {
+      "street": "1234 8th Street South",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34102",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sails-restaurant-naples",
+    "restaurant": "Sails Restaurant",
+    "neighborhood": "Downtown Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Coastal American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Sails reads like a Naples tourist brochure — safe, familiar, designed not to offend. It's the kind of list where you know exactly what you're getting before you even open it: California Chardonnay, Napa Cab, maybe a Whispering Angel for good measure.",
+    "selectionDeepDive": "The selection sticks to the greatest hits without much adventure. You'll find the usual suspects from Napa and Sonoma, some Italian standards like Antinori and Ruffino, and a Bordeaux or two that probably sit there collecting dust between snowbird seasons. There's enough here to pair with fresh grouper or a steak, but nothing that'll make you text your wine-nerd friends. The list plays it safe because the clientele wants safe — and in a waterfront Naples spot, that's probably the right call even if it's not exciting.",
+    "byTheGlass": "Glass pours lean predictable: a Cakebread Chardonnay here, a Caymus Cab there, prices that make you wince a bit given the pours are likely standard restaurant size. They rotate seasonally at best, which in Naples means twice a year when management remembers. You're not getting adventurous staff picks or natural wine experiments — just dependable bottles that won't generate complaints from the yacht club crowd.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$42",
+      "note": "Marlborough classic that's crisp enough for Gulf seafood and priced where you expect it — not a steal, but not highway robbery either"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Chianti Classico Riserva",
+      "note": "Most tourists skip Italian reds in Florida, but this has the acidity to cut through grouper piccata and enough structure to feel like you're drinking real wine"
+    },
+    "skipThis": {
+      "wine": "Butter Chardonnay",
+      "note": "Marked up to $48 for a bottle that retails for $18 — the name tells you everything about the crowd it's targeting, and you're paying premium for grocery store juice"
+    },
+    "perfectPairing": {
+      "wine": "Cloudy Bay Sauvignon Blanc",
+      "dish": "Seared Scallops",
+      "note": "The wine's grapefruit zip and minerality play perfectly with sweet scallops and any citrus butter sauce they're swimming in"
+    },
+    "bottomLine": "Sails won't blow your mind, but it won't let you down either. It's competent coastal dining with a wine list built for tourists who want recognizable labels and servers who won't judge their pronunciation.",
+    "subtitle": "Gulf Coast Dining With Safe Harbor Wines",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.sails.com",
+    "address": {
+      "street": "unknown",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-grill-naples",
+    "restaurant": "The Grill",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "American Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at The Grill reads like every other upscale steakhouse in Southwest Florida: Napa Cabs, big-brand Chardonnays, and markups that assume you're paying with house-sale money. Nothing here will surprise you, but nothing will embarrass you either.",
+    "selectionDeepDive": "The list skews heavily toward California and familiar French regions—think Caymus, Silver Oak, and a few Bordeaux that get wheeled out for celebrations. There's a token Italian section with the usual suspects (Barolo, Brunello) and enough Pinot Noir to keep the lighter-red crowd happy. Depth is sacrificed for breadth, and breadth is sacrificed for brands people recognize. You won't find natural wines, orange wines, or anything that requires explanation.",
+    "byTheGlass": "Glass pours lean predictable: a domestic Chardonnay around $14, a Malbec that does the job, maybe a Sancerre if you're lucky. The rotation is more 'annual' than 'seasonal'—these bottles aren't going anywhere until they're empty. Count on 8-10 options that cover the bases without taking risks.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Solid Washington Cab with plenty of fruit and structure for $42—a rare reasonable markup in a sea of $80 Napa bottles"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Chandon Brut Classic",
+      "note": "Most people sleep on California sparklers at steakhouses, but this Napa méthode traditionnelle has enough acid to cut through butter-poached lobster and costs half what Champagne does here"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "At $58 a bottle, you're paying $40 over retail for something you can grab at any grocery store—order literally anything else"
+    },
+    "perfectPairing": {
+      "wine": "Duckhorn Merlot",
+      "dish": "Bone-In Ribeye",
+      "note": "Merlot gets dismissed at steakhouses, but Duckhorn's plush blackberry fruit and soft tannins let the beef's char and fat shine without a tug-of-war"
+    },
+    "bottomLine": "The Grill won't wow anyone hunting for natural wines or rare finds, but if you need a dependable Cab with your steak in Naples, it gets the job done. Just don't look too hard at the markups.",
+    "subtitle": "Solid Steakhouse Pours in a Wine Desert",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-cave-bistro-and-wine-bar-naples",
+    "restaurant": "The Cave Bistro & Wine Bar",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Wine Bar & Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Cave Bistro has the bones of a proper wine bar—the name alone suggests some cellar ambition—but details are scarce on what's actually hiding in that cave. In Naples, where wine programs can skew either ultra-premium or resort-generic, a place calling itself a wine bar needs to earn it. From what we can piece together, this feels like a neighborhood spot trying to punch above its weight, though we'd need to see the actual list to know if it lands.",
+    "selectionDeepDive": "Without concrete intel on the list, we're betting on a French and Italian backbone with California crowd-pleasers filling the gaps—standard wine bar playbook for coastal Florida. If they're serious about the \"cave\" branding, there's likely some aged Bordeaux or Barolo sitting in the cellar, probably marked up like Naples real estate. The by-the-glass program likely rotates through safe Chardonnay, Pinot Grigio, and a Tuscan red or two. We'd love to be surprised by some Finger Lakes Riesling or Loire Chenin Blanc, but we're not holding our breath.",
+    "byTheGlass": "Glass pours at wine bars can go one of two ways: either they're the showcase for the program, or they're an afterthought while the bottles get all the love. We're guessing The Cave keeps 8-12 pours available, probably leaning toward approachable styles that won't scare off the snowbird crowd. Temperature control and preservation systems would be the real tell here—if wines are sitting open too long or served too warm, the whole operation falls apart.",
+    "bestValue": {
+      "wine": "2020 Domaine de la Mordorée Côtes du Rhône 'La Dame Rousse'",
+      "price": "$48",
+      "note": "If they're carrying this Lirac-adjacent blend, it's your best bet—Southern Rhône depth without the Châteauneuf markup"
+    },
+    "hiddenGem": {
+      "wine": "2019 Donnafugata 'Tancredi' Sicilia IGT",
+      "note": "Sicilian blend that shows what the island can do beyond Nero d'Avola—most people sleep on Donnafugata's reds"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico Riserva Ducale",
+      "note": "Fine wine, but if they're charging Naples pricing on this grocery store staple, you're overpaying by $20+"
+    },
+    "perfectPairing": {
+      "wine": "2021 Sancerre Blanc, Pascal Jolivet",
+      "dish": "Seared Scallops with Lemon Butter",
+      "note": "Classic bistro move—Loire's minerality cuts through the richness while amplifying the sweetness of good scallops"
+    },
+    "bottomLine": "The Cave has potential, but we need more intel to call it. If you're in Naples and want something more serious than resort wine lists, it's worth a shot—just ask to see the list before you commit to a table.",
+    "subtitle": "Naples Wine Bar Flying Under the Radar",
+    "tags": [
+      "wine-bar",
+      "hidden-gem",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-french-brasserie-rustique-naples",
+    "restaurant": "The French Brasserie Rustique",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "French",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list here feels like it was pulled from a corporate distributor's greatest hits folder. You'll find the usual French suspects—Bordeaux blends, Côtes du Rhône, Chablis—alongside the obligatory California cabs and Italian Pinot Grigios. Nothing offensive, but nothing that makes you lean forward in your seat either.",
+    "selectionDeepDive": "The French focus is more branding than reality. Sure, there's representation from Burgundy and the Loire, but it's safe producer territory—think Louis Jadot and Bouchard rather than grower Champagnes or natural Beaujolais. The Rhône section leans heavily on mass-market Côtes du Rhône and Châteauneuf that you'd find at any wine shop. California gets equal billing with predictable Napa cabs in the $80-120 range. What's missing: depth in any region, small producers, anything that suggests the wine buyer gets excited about wine rather than just filling slots on a list.",
+    "byTheGlass": "The glass program runs about 8-10 options, weighted toward safe whites and middleweight reds. You're looking at a Sancerre, a Chablis, maybe a Mâcon-Villages on the white side, plus a generic Pinot Noir and a Côtes du Rhône for reds. Pours are standard 6oz, priced at $12-16, which means you're paying nearly half-bottle prices for a single glass. Rotation appears minimal—these feel like set-it-and-forget-it pours.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône 'Terre d'Argile'",
+      "price": "$48",
+      "note": "This Janasse bottling punches well above most Côtes du Rhône on the list, with actual fruit concentration and structure rather than just generic red wine vibes"
+    },
+    "hiddenGem": {
+      "wine": "Château de Chamirey Mercurey Rouge",
+      "note": "Mercurey is Burgundy's value play and this domaine makes textbook examples—earthy Pinot Noir with actual terroir expression at a fraction of Nuits-Saint-Georges prices"
+    },
+    "skipThis": {
+      "wine": "Louis Jadot Pouilly-Fuissé",
+      "note": "Marked up to $78 for a négociant bottle you can find at Total Wine for $28—this is paying for the word 'Burgundy' without the quality to back it"
+    },
+    "perfectPairing": {
+      "wine": "Domaine du Vieux Télégraphe Châteauneuf-du-Pape",
+      "dish": "Coq au Vin",
+      "note": "The Grenache-driven weight and rustic spice of this southern Rhône classic mirrors the wine-braised richness of the chicken—it's the pairing the dish was invented for"
+    },
+    "bottomLine": "The French Brasserie Rustique delivers exactly what the name promises: brasserie-level wine service with safe selections and Naples-appropriate markups. You won't drink badly here, but you won't discover anything new either. Order a glass of Sancerre with your steak frites and call it a night.",
+    "subtitle": "Classic French, Familiar Bottles, Nothing Revolutionary",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "trulucks-naples",
+    "restaurant": "Truluck's",
+    "neighborhood": "Old Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Truluck's wine list reads like someone handed a buyer a $50k budget and said 'make it safe but interesting.' You get 150+ labels spanning Old World classics and California crowd-pleasers, with enough Italian depth to show someone's paying attention. The list won't blow you away, but it won't embarrass you either — which is more than we can say for most chain restaurants.",
+    "selectionDeepDive": "The Italian section is the surprise star here, with thoughtful picks like Vietti Derthona Timorasso from Piedmont and Bucci Verdicchio from the Marche — bottles that show actual curation beyond the usual Tuscan suspects. Napa gets the expected treatment with Duckhorn Merlot and Darioush Cabernet, while France covers the bases with Bollinger Champagne. The list plays it safe in structure but sneaks in enough personality to keep things interesting. We'd love to see more adventurous regional Italian or natural wine representation, but for a corporate seafood spot in Naples, this is respectable work.",
+    "byTheGlass": "Eight glass pours at $6-$25 is lean for a 150-bottle list, and the rotation feels static rather than seasonal. You're looking at safe bets designed to pair with stone crab and not offend anyone's grandmother. The range covers whites for seafood and reds for steak-eaters, but there's no sense of discovery or weekly rotation happening here.",
+    "bestValue": {
+      "wine": "Lunae Vermentino",
+      "price": "$48",
+      "note": "Ligurian coastal white built for seafood, likely priced around 2.5x retail — fair for this category and perfect with their crab"
+    },
+    "hiddenGem": {
+      "wine": "Terre Costantino Etna Rosso",
+      "note": "Volcanic Sicilian red that most diners will skip for Napa Cab, but it's got the acid and minerality to cut through butter-poached lobster better than any blockbuster red"
+    },
+    "skipThis": {
+      "wine": "Darioush Cabernet Sauvignon",
+      "note": "Napa cult pricing at likely $180-$220 on this list for a wine that retails around $75 — pure markup flex with zero value"
+    },
+    "perfectPairing": {
+      "wine": "Bucci Verdicchio dei Castelli di Jesi",
+      "dish": "Jumbo Lump Crab Cake",
+      "note": "This crisp, mineral-driven white from the Adriatic coast has the salinity and citrus zip to mirror the sweetness of fresh crab without getting buried by aioli"
+    },
+    "bottomLine": "Truluck's does what corporate seafood rarely does: tries. The 25% off cocktail hour makes steep markups tolerable, and the Italian selections show someone in procurement actually cares. Come for the stone crab, stay for the Vermentino, and skip the overpriced Napa.",
+    "subtitle": "Corporate Seafood Chain Does Wine Better Than Expected",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "halfPriceWineNight": {
+      "day": "Daily",
+      "details": "25% off all bottles during cocktail hour, 4:30-7:00 PM"
+    },
+    "website": "https://trulucks.com",
+    "address": {
+      "street": "600 5th Ave S",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "34102",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "osteria-tulia-naples",
+    "restaurant": "Osteria Tulia",
+    "neighborhood": "Fifth Avenue South",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Osteria Tulia's wine list reads like what you'd expect from a Naples Italian spot: classic regional selections that play it safe without taking risks. The list likely skews toward crowd-pleasing Tuscans and Piedmont reds, with enough variety to keep regulars happy but nothing that'll make wine geeks drive across town.",
+    "selectionDeepDive": "We're working with limited intel here, but Italian restaurants in this market tend to stock the usual suspects: Chianti Classico, Barolo if you're lucky, some Montepulciano d'Abruzzo for value seekers. Expect a respectable showing of northern Italian whites—Pinot Grigio, Soave, maybe a Gavi—and a token nod to Super Tuscans for the splurge crowd. The list probably runs 30-50 bottles with predictable markups reflecting the Fifth Avenue South location. What's likely missing: natural Italian wines, lesser-known regions like Etna or Campania, and anything that requires staff explanation beyond the basics.",
+    "byTheGlass": "Glass pours at Italian spots in Naples typically clock in around 6-8 options, split between safe whites and Sangiovese-based reds. You'll find your standard Pinot Grigio and Chianti pour, probably a Prosecco, maybe a Vermentino if they're feeling adventurous. Rotation is likely seasonal at best, meaning that same Ruffino Chianti has been on the list since opening week.",
+    "bestValue": {
+      "wine": "Montepulciano d'Abruzzo, Masciarelli",
+      "price": "$42",
+      "note": "Abruzzo's workhorse grape delivers ripe cherry fruit and enough structure for red sauce dishes without the Tuscan markup—this bottle probably retails for $12-14"
+    },
+    "hiddenGem": {
+      "wine": "Greco di Tufo, Feudi di San Gregorio",
+      "note": "Southern Italian whites don't get enough love—this Campanian bottle brings minerality and stone fruit that cuts through cream sauces better than yet another Pinot Grigio"
+    },
+    "skipThis": {
+      "wine": "Sassicaia or any Super Tuscan over $150",
+      "note": "Restaurant markup on prestigious Bolgheri reds in tourist markets can hit 4-5x retail—save these splurges for a wine-focused spot with fair pricing"
+    },
+    "perfectPairing": {
+      "wine": "Barbera d'Alba, Michele Chiarlo",
+      "dish": "Osso Buco or any braised meat special",
+      "note": "Barbera's bright acidity and low tannins are built for rich, slow-cooked meats—the wine's cherry notes echo the tomato-based braise while cutting through the marrow richness"
+    },
+    "bottomLine": "Osteria Tulia likely delivers exactly what Naples diners want: familiar Italian wines that won't scare anyone, served in a polished setting with Venice-level pricing. It's a reliable date-night pick where you won't embarrass yourself ordering wine, but don't expect discovery.",
+    "subtitle": "Naples Italian with Likely Solid Regional Picks",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": "https://www.osteriatulia.com",
+    "address": {
+      "street": "466 Fifth Avenue South",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34102",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "nosh-on-naples-bay-naples",
+    "restaurant": "Nosh On Naples Bay",
+    "neighborhood": "Naples Bay",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "American Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We're going to be honest: Nosh's wine list is a cipher. The website doesn't give it up, and without boots-on-the-ground intel, we're working with educated guesses here. What we do know: this is Naples, Florida—a town where wine lists often lean safe and markups lean steep.",
+    "selectionDeepDive": "Based on the waterfront location and Naples's resort-town vibe, we'd expect a list heavy on California Chardonnay, Napa Cab, and crowd-pleasing Pinot Grigio. Likely some Sonoma staples like La Crema and Kendall-Jackson, maybe a token Italian section with Tuscany basics. The gaps? Probably natural wine, anything adventurous from the Rhône or Austria, and real depth beyond the usual suspects. Naples wine programs tend to play it safe for snowbirds and tourists who want what they know.",
+    "byTheGlass": "We'd guess 8-12 pours by the glass, mostly anchored by recognizable names. Expect Whispering Angel rosé in summer, a butter-bomb Chardonnay year-round, and maybe one red from Paso Robles. Rotation is likely minimal—when something works with the retiree crowd, why change it? Glass pricing probably hovers in the $12-16 range, which tracks for Florida waterfront dining.",
+    "bestValue": {
+      "wine": "Imagery Cabernet Sauvignon",
+      "price": "$48",
+      "note": "If they have it, this is typically a solid Sonoma bottle that drinks above its price point and won't blow your budget"
+    },
+    "hiddenGem": {
+      "wine": "Antica Terra 'Botanica' Pinot Noir",
+      "note": "Long shot they carry this Oregon beauty, but if you spot it, grab it—most people skip Oregon for Napa and miss out"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$140+",
+      "note": "Classic Naples markup trap—you'll find this for $85 retail, and the rich fruit bomb doesn't justify restaurant pricing"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre from Pascal Jolivet",
+      "dish": "Fresh Gulf Grouper",
+      "note": "If they have fresh local fish and a Loire white, this combo is Florida waterfront dining done right—bright acidity cuts through any butter sauce"
+    },
+    "bottomLine": "Without seeing the actual list, we're hesitant to send anyone here specifically for wine. The location and vibe suggest they're doing the job—keeping tourists and locals happy with familiar labels—but we'd need to see the goods before calling it more than serviceable.",
+    "subtitle": "Waterfront Dining, Wine List Still a Mystery",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://noshonnaplesbay.com",
+    "address": {
+      "street": "unknown",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "uss-nemo-restaurant-naples",
+    "restaurant": "USS Nemo Restaurant",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "USS Nemo's wine list feels like an afterthought to the seafood program — functional but uninspired. It's the kind of list that gets the job done without making anyone excited, built around safe names that won't scare off tourists.",
+    "selectionDeepDive": "The selection leans heavily on California Chardonnay and Pinot Grigio, with predictable Italian whites and a few French options for credibility. You'll find the usual suspects — Kendall-Jackson, La Crema, maybe a Whispering Angel rosé for the poolside crowd. The red side skews toward Cabernet and Merlot, which makes sense for a seafood restaurant but limits versatility. There's little regional exploration or producer depth, just recognizable labels at restaurant-standard markups.",
+    "byTheGlass": "Glass pours stick to the greatest hits: a safe Pinot Grigio, an oaky Chardonnay, maybe a Sauvignon Blanc. Expect 4-6 options that rotate seasonally if you're lucky, but more likely stay static year-round. Pours are generous enough, but nothing here pushes boundaries or showcases anything interesting.",
+    "bestValue": {
+      "wine": "Muscadet Sèvre et Maine",
+      "price": "$42",
+      "note": "If they stock it, this Loire Valley classic brings mineral-driven acidity that cuts through butter sauces without the Chablis markup"
+    },
+    "hiddenGem": {
+      "wine": "Verdicchio dei Castelli di Jesi",
+      "note": "Most people gloss over this Italian white for Pinot Grigio, but it's got more character and pairs brilliantly with shellfish"
+    },
+    "skipThis": {
+      "wine": "Any Chardonnay over $65",
+      "note": "Seafood restaurants love marking up California Chard to absurd levels — you're paying for the name, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Albariño from Rías Baixas",
+      "dish": "Grilled Red Snapper",
+      "note": "This Spanish coastal white has the salinity and citrus zip to mirror the char and ocean flavors perfectly"
+    },
+    "bottomLine": "USS Nemo won't win awards for its wine program, but it won't ruin your meal either. Come for the seafood, order a glass of something crisp and cold, and save the serious wine hunting for another night.",
+    "subtitle": "Seafood Spot Where Wine Plays Second Fiddle",
+    "tags": [
+      "casual-vibes",
+      "seafood-focused"
+    ],
+    "website": "https://ussnemorestaurant.com",
+    "address": {
+      "street": "3745 Tamiami Trail N",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34103",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "seasons-52-naples",
+    "restaurant": "Seasons 52",
+    "neighborhood": "North Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "American, Seafood, Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name isn't subtle — 52 wines by the glass is the whole pitch here. It's a corporate concept wine bar that leans into accessibility over adventure, which for Naples, honestly works. The list feels engineered for broad appeal: safe regions, recognizable labels, nothing that'll scare off snowbirds or intimidate first dates.",
+    "selectionDeepDive": "The bottle list hits all the expected notes — California Cabs, Oregon Pinots like Benton Harbor, a smattering of Italian standards, maybe some Malbec and Sauvignon Blanc from down south. It's the Whole Foods wine aisle in restaurant form: curated enough to feel intentional, safe enough that nobody gets hurt. You won't find low-intervention naturals or cult producers here, but you also won't find the usual suspects marked up to oblivion. The focus is clearly on the glass program, which makes sense given the concept — they want table turnover and approachable price points.",
+    "byTheGlass": "Fifty-two options is legitimately impressive for a chain, even if the selections play it safe. The pours rotate seasonally to match the menu's fresh approach, which means you'll see lighter whites and rosés in summer, bigger reds when the weather cools. Most glasses run $10-$14, which is reasonable for the area. The downside: staff knowledge varies wildly depending on who's working, and the rotation means nobody's really an expert on what's currently pouring.",
+    "bestValue": {
+      "wine": "Benton Harbor Pinot Noir",
+      "price": "$12",
+      "note": "Oregon Pinot at this price point by the glass is solid — fruit-forward enough for the grilled pork chop, light enough for the seafood-forward menu"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "If they're pouring Alsatian Riesling by the glass (and quality chains often do), it's the most versatile wine on the list — bone-dry, cuts through butter sauces, handles the sea scallops beautifully"
+    },
+    "skipThis": {
+      "wine": "House Chardonnay",
+      "note": "Whatever bulk Chard they're pouring as the cheapest white option will be over-oaked and flabby — spring for literally anything else"
+    },
+    "perfectPairing": {
+      "wine": "Oregon Pinot Noir (Benton Harbor or similar)",
+      "dish": "Chilean Sea Bass",
+      "note": "The earthiness and bright acidity of Willamette Valley Pinot plays perfectly with the richness of sea bass without overwhelming its delicate flavor"
+    },
+    "bottomLine": "Seasons 52 is exactly what it promises: a dependable corporate wine bar where you can drink reasonably well without thinking too hard. It's not exciting, but it's not trying to be — and in Naples, that predictability is the point.",
+    "subtitle": "Fifty-two glasses say they're serious about wine",
+    "tags": [
+      "by-the-glass-hero",
+      "casual-vibes",
+      "date-night",
+      "wine-bar"
+    ],
+    "website": "https://www.seasons52.com",
+    "address": {
+      "street": "8930 Tamiami Trl N",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "34108",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bar-tulia-mercato-naples",
+    "restaurant": "Bar Tulia Mercato",
+    "neighborhood": "Mercato",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We walk in hoping for intel and leave with more questions than answers. Bar Tulia Mercato operates in Naples' upscale Mercato complex, which usually means safe Italian pours and tourist-friendly pricing. The list feels designed not to offend anyone, which also means it won't thrill anyone.",
+    "selectionDeepDive": "Without concrete data, we're reading the room: this is likely a greatest-hits Italian list with the usual suspects from Tuscany, Piedmont, and maybe a Veneto cameo. Expect Chianti Classico, a Barbera or two, Pinot Grigio for days, and perhaps a Super Tuscan if you're lucky. The depth probably stops at recognizable names that move quickly in a shopping district setting. No obscure Etna reds or natural Emilia-Romagna whites here—just the standards that pair safely with red sauce and don't require staff training.",
+    "byTheGlass": "Glass pours in a place like this usually number 8-12, leaning heavily on the Italians plus a California Cab and maybe a rosé for the patio crowd. Rotation is probably minimal—these are set-it-and-forget-it pours that last through multiple service weeks. Expect proper serving sizes but nothing that challenges the palate.",
+    "bestValue": {
+      "wine": "Poggio ai Grilli Morellino di Scansano",
+      "price": "$42",
+      "note": "Assuming they stock a decent Tuscan red at mid-tier pricing, this Maremma Sangiovese delivers Brunello's structure without the sticker shock"
+    },
+    "hiddenGem": {
+      "wine": "Cantina Terlano Pinot Bianco",
+      "note": "If they venture into Alto Adige whites, this crisp, mineral-driven pour runs circles around generic Pinot Grigio and shows what Italian whites can do"
+    },
+    "skipThis": {
+      "wine": "Any Chianti Classico over $65",
+      "note": "Mercato markups on crowd favorites are brutal—you're paying for location, not quality, and these bottles retail for half"
+    },
+    "perfectPairing": {
+      "wine": "Terrabianca Campaccio Sangiovese",
+      "dish": "House-made pappardelle with wild boar ragu",
+      "note": "Tuscan red with Tuscan game is textbook pairing—the wine's acidity cuts the richness while the fruit complements the savory depth"
+    },
+    "bottomLine": "We're flying blind here, but Bar Tulia Mercato reads as a competent neighborhood Italian with a list that won't embarrass you or excite you. It's there when you need it, priced like it knows you have limited options in Mercato.",
+    "subtitle": "Mercato's Safe Bet When Research Comes Up Empty",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.bartulia.com",
+    "address": {
+      "street": "9135 Strada Place",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34108",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sea-salt-naples",
+    "restaurant": "Sea Salt",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Sea Salt presents itself as an upscale Naples seafood spot, but the wine program details are frustratingly opaque. The list exists, but without meaningful intel on depth or pricing strategy, we're working with educated coastal Florida assumptions here.",
+    "selectionDeepDive": "Based on the upscale seafood positioning in Naples, the list likely skews toward safe coastal whites and crowd-pleasing reds. Expect Sonoma Chardonnay, New Zealand Sauvignon Blanc, and mainstream Pinot Noir without much adventure. The restaurant's website offers minimal wine program transparency, which usually signals a list that hasn't been refreshed or reconsidered in years. We'd be surprised to find much Old World depth or natural wine experimentation given the tourist-heavy Naples market.",
+    "byTheGlass": "Glass pours at seafood restaurants in this price tier typically run 6-8 options with predictable rotation. Likely a Whispering Angel situation, a buttery California Chard, maybe a Cakebread or similar. The pours probably don't change seasonally, and the staff can tell you if it's \"light\" or \"heavy\" but not much beyond that.",
+    "bestValue": {
+      "wine": "Albariño from Rías Baixas (any producer around $45-55)",
+      "price": "$50",
+      "note": "Seafood's best friend, crisp minerality cuts through butter sauces, and it's usually fairly marked up but not gouged in coastal spots"
+    },
+    "hiddenGem": {
+      "wine": "Muscadet Sèvre et Maine Sur Lie",
+      "note": "If they have it, it's the sleeper pick—bone-dry, ocean-breeze acidity, criminally underrated with raw oysters and costs half what the Sancerre does"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "If it's on the list at $120+, you're paying Naples tax on a wine that's everywhere; sweet oak bombs don't belong with delicate fish anyway"
+    },
+    "perfectPairing": {
+      "wine": "Chablis Premier Cru (Domaine William Fèvre or similar)",
+      "dish": "Grilled Branzino or Dover Sole",
+      "note": "Unoaked Chardonnay's steely minerality and citrus backbone match the clean char and delicate flesh perfectly—classic pairing that never misses"
+    },
+    "bottomLine": "Without real intel on the list, we can't confidently recommend Sea Salt as a wine destination. It's probably fine—Naples coastal dining reliable—but we need eyes on that actual list before sending friends there specifically for bottles.",
+    "subtitle": "Coastal Dining With Wine List Questions",
+    "tags": [
+      "date-night",
+      "coastal-dining"
+    ],
+    "website": "https://www.seasalt.com",
+    "address": {
+      "street": "unknown",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ridgway-bar-and-grill-naples",
+    "restaurant": "Ridgway Bar & Grill",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "American Grill",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Ridgway's wine list reads like a Naples country club circa 2010. The selection leans heavily on names tourists recognize — your Kendall-Jacksons, your Ruffinos, your Oyster Bays. It's not offensive, but it's not trying to surprise anyone either.",
+    "selectionDeepDive": "The list skews heavily California with predictable representation from Napa and Sonoma. Italian offerings stick to the greatest hits: Chianti, Pinot Grigio, maybe a Barolo if you're lucky. French presence is minimal beyond a token Bordeaux or two. There's little depth within any region — one or two producers per category, no vintage exploration, no compelling story being told. This is a list designed to avoid complaints, not inspire conversation.",
+    "byTheGlass": "Glass pours likely follow the same safe playbook. Expect the usual suspects: a California Chardonnay, a Malbec, maybe a Prosecco. Portions are probably generous, but rotation seems non-existent. These are bottles that sit open behind the bar until they're gone, freshness be damned.",
+    "bestValue": {
+      "wine": "Chateau Ste. Michelle Riesling",
+      "price": "$32",
+      "note": "Washington State workhorse that actually delivers — off-dry, food-friendly, and priced like they forgot to add the Naples tax"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Centine Toscana",
+      "note": "Everyone reaches for the Chianti Classico, but this Super Tuscan blend at half the price drinks way above its weight with grilled fare"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $150+ for a wine that retails around $80 — pure name recognition tax that tastes like sweet oak and regret"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Grilled Mahi-Mahi",
+      "note": "New Zealand's citrus punch cuts through butter sauces and complements the fish's mild sweetness without overwhelming it"
+    },
+    "bottomLine": "Ridgway does what it needs to do for the Naples crowd — familiar names, safe pours, zero risks. You won't find anything exciting here, but you probably won't get burned either. Order a beer.",
+    "subtitle": "Old Naples Standby Playing It Safe",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "http://www.ridgwaybarandgrill.com",
+    "address": {
+      "street": "1300 3rd Street South",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34102",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "shulas-steakhouse-naples",
+    "restaurant": "Shula's Steakhouse",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Steakhouse",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "Rotating Cast",
+      "markup": "Gouge",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Shula's reads like every other chain steakhouse in America: the usual suspects marked up to eye-watering heights. Walking in, you know exactly what you're getting before you even crack the leather-bound list — Caymus, Duckhorn, maybe a token Barolo at triple retail.",
+    "selectionDeepDive": "The selection sticks hard to the corporate playbook: safe California cabs, predictable Napa names, and a smattering of French and Italian reds that feel obligatory rather than curated. There's no regional exploration, no surprises, just the wines every distributor pushes to every steakhouse chain from coast to coast. The list favors big brands over interesting producers, and the markup structure suggests they're banking on expense accounts rather than wine lovers. You won't find natural wines, orange experiments, or emerging regions here — just the wines your boss ordered in 2005.",
+    "byTheGlass": "The glass program is minimal and predictable: a house cab, a house chardonnay, maybe a Malbec if you're lucky. Pours are generous but the selections rotate about as often as the furniture. Expect standard 6-ounce pours from bottles opened who knows when, served in generic stemware that treats a $15 wine the same as a $30 one.",
+    "bestValue": {
+      "wine": "Château de Beaucastel Côtes du Rhône",
+      "price": "$68",
+      "note": "Still overpriced, but at least you're getting quality Rhône craftsmanship from a legendary producer rather than California cab at steakhouse markup"
+    },
+    "hiddenGem": {
+      "wine": "Produttori del Barbaresco Langhe Nebbiolo",
+      "note": "If they have it, this co-op delivers proper Piedmont character at a fraction of their Barolo prices — elegant, structured, and actually food-friendly"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "The chain steakhouse cliché at $180+ — you're paying $80 for the bottle and $100 for the name recognition"
+    },
+    "perfectPairing": {
+      "wine": "Ridge Lytton Springs Zinfandel",
+      "dish": "48-Ounce Porterhouse for Two",
+      "note": "If you're committing to massive dry-aged beef, Ridge brings enough fruit, spice, and structure to stand up without the Napa cab tax"
+    },
+    "bottomLine": "Shula's treats wine like another branded product on the menu — safe, corporate, and priced for people who aren't paying. Order a cocktail or bring your own if they allow corkage.",
+    "subtitle": "Corporate Chains and Wine Don't Mix Well",
+    "tags": [
+      "splurge-worthy",
+      "corporate-vibes"
+    ],
+    "website": "https://www.shulassteakhouse.com",
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-capital-grille-naples",
+    "restaurant": "The Capital Grille",
+    "neighborhood": "Mercato",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The Capital Grille's wine book lands with a thud—350+ labels sounds impressive until you flip through and realize it's a greatest hits compilation of Napa cult cabs and crowd-pleasing Chardonnays. This is corporate steakhouse wine programming at its most predictable: heavy on recognizable names, light on adventure, priced for expense accounts.",
+    "selectionDeepDive": "The list leans hard into California comfort zones—Napa and Sonoma dominate the reds with the usual suspects like Duckhorn, Orin Swift, and a parade of $200+ cabernets that all taste vaguely similar. There's token representation from Champagne (Moët, Schramsberg) and some Columbia Valley presence, but don't expect any Burgundy depth, interesting Italian producers, or natural wine detours. It's built for clients who want Rombauer Chardonnay with their bone-in filet, and it delivers exactly that. The depth is more vertical than horizontal—lots of vintage variation on the same producers rather than exploring different regions or styles.",
+    "byTheGlass": "Eighteen by-the-glass options spanning $13-$42 is decent range for a steakhouse, and they cover the bases: bubbles, white Burgundy-style, Napa cab, a token Merlot. The Rombauer Chardonnay is here, naturally, along with Orin Swift Palermo (a Zin blend that works with char). But the pours feel static—no sense of seasonal rotation or staff excitement about new arrivals, just the same reliable lineup that's been there since 2019.",
+    "bestValue": {
+      "wine": "Schramsberg Mirabelle Brut Rosé",
+      "price": "$18/glass",
+      "note": "California sparkler that punches above its weight—crisp, strawberry-tinged, and a fraction of the Champagne markup. Perfect steak opener."
+    },
+    "hiddenGem": {
+      "wine": "Columbia Valley Syrah (house selection)",
+      "note": "Everyone orders the Napa cab, but Washington Syrah brings white pepper and dark fruit that cuts through butter-basted ribeye better than tannic Cabernet ever will."
+    },
+    "skipThis": {
+      "wine": "Rombauer Chardonnay",
+      "note": "At $28/glass and likely $85+ per bottle, this buttery blockbuster is marked up to oblivion. You're paying for brand recognition, not quality."
+    },
+    "perfectPairing": {
+      "wine": "Duckhorn Merlot",
+      "dish": "Bone-in Filet",
+      "note": "Plush Merlot tannins wrap around the char and marbling without overwhelming the beef's richness—softer than Cab but more structured than Pinot."
+    },
+    "bottomLine": "The Capital Grille does exactly what a corporate steakhouse should: proper glassware, climate-controlled storage, and a list built for safe choices. But you're paying a premium for predictability, and the staff won't steer you toward anything unexpected because there's nothing unexpected to steer toward.",
+    "subtitle": "Napa-heavy hits for the dry-aged crowd",
+    "tags": [
+      "splurge-worthy",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.thecapitalgrille.com",
+    "address": {
+      "street": "9005 Mercato Dr",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "34108",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "coopers-hawk-winery-and-restaurant-naples",
+    "restaurant": "Cooper's Hawk Winery & Restaurant",
+    "neighborhood": "Vanderbilt Beach",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cooper's Hawk is a winery-restaurant hybrid chain that makes its own wines and pairs them with upscale-casual American fare. The list leans heavily on their house label — which is the point — but there's enough third-party juice to keep things interesting if you know where to look.",
+    "selectionDeepDive": "The wine program revolves around Cooper's Hawk's proprietary labels, which range from approachable reds and whites to reserve-tier bottles that surprise more often than they should for a chain operation. They stock around 50-60 wines by our estimate, with California and their Illinois winery dominating the board. The third-party selections hit the usual suspects: Kendall-Jackson Chardonnay, Columbia Crest Grand Estates, maybe a Meiomi Pinot. It's a safe list built for mass appeal, but Wine Wednesday's half-price bottles make it easy to experiment without commitment.",
+    "byTheGlass": "The by-the-glass program runs deep — likely 15-20 pours at any given time, all served in stemless glassware that fits the casual-upscale vibe. Cooper's Hawk rotates their house wines seasonally, so you'll find different blends and single-varietal offerings depending on when you visit. Pours are generous and priced to move, especially mid-week.",
+    "bestValue": {
+      "wine": "Cooper's Hawk Lux Pinot Noir",
+      "price": "$32",
+      "note": "House wine with surprising depth for the price point — shows cherry, earth, and actual structure. At half-price on Wednesdays, it's a steal."
+    },
+    "hiddenGem": {
+      "wine": "Cooper's Hawk Reserve Cabernet Sauvignon",
+      "note": "Most people skip the house label for 'real' wine, but their reserve-tier Cab punches above its weight with dark fruit and oak balance that rivals $50+ bottles from Napa."
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Overpriced even at regular retail, and Cooper's Hawk marks it up further. Stick with their house Pinot instead — better value, similar profile, less sugar."
+    },
+    "perfectPairing": {
+      "wine": "Cooper's Hawk White Zinfandel",
+      "dish": "Crispy Brussels Sprouts",
+      "note": "Off-dry rosé cuts through the char and pairs with the bacon-forward glaze without overwhelming the vegetables. Surprisingly smart match."
+    },
+    "bottomLine": "Cooper's Hawk won't blow your mind, but it won't gouge your wallet either. The house wines are better than they have any right to be, and Wine Wednesday makes it a solid neighborhood option when you want a glass without the fuss.",
+    "subtitle": "Chain Wine Bar Does Naples Reasonably Well",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "date-night"
+    ],
+    "halfPriceWineNight": {
+      "day": "Wednesday",
+      "details": "Half-price bottles on select wines"
+    },
+    "website": "https://www.coopershawk.com",
+    "address": {
+      "street": "12310 Vanderbilt Dr",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "34108",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "naples-society-wine-bar-naples",
+    "restaurant": "Naples Society Wine Bar",
+    "neighborhood": "Downtown Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Naples Society Wine Bar sits in the sweet spot between accessible and ambitious—a neighborhood spot that wants to be more than just another Florida wine bar. The list doesn't intimidate, but it doesn't bore either, which is exactly what Naples needs more of.",
+    "selectionDeepDive": "The selection leans Italian and French with a solid California backbone—smart for the snowbird crowd that winters here. We're seeing producers like Banfi, Masi, and La Crema alongside some lesser-known Tuscan estates and a few Rhône Valley entries. The list runs about 60-80 bottles deep with a respectable Old World-to-New World balance. Nothing revolutionary, but they're clearly trying to offer more than grocery store standards without alienating the casual drinker.",
+    "byTheGlass": "By-the-glass options appear to number around 12-15 pours, rotating seasonally with a focus on crowd-friendly varietals—your Pinot Grigios, Chardonnays, Cabernets. They keep a few adventurous pours in the mix (we've spotted a Valpolicella and an occasional Spanish red), which suggests someone on staff is pushing boundaries, even gently. Pours are generous, prices hover in the $12-16 range.",
+    "bestValue": {
+      "wine": "Famiglia Cecchi Chianti Classico",
+      "price": "$42",
+      "note": "Classic Tuscan structure at a price that doesn't punish—exactly what a wine bar should offer"
+    },
+    "hiddenGem": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "note": "Serious Rhône producer making entry-level wine that drinks way above its weight—most people skip it for the flashier Napa options"
+    },
+    "skipThis": {
+      "wine": "Ruffino Riserva Ducale",
+      "note": "Marked up to $65 when it sits on Total Wine shelves for $22—you're paying for brand recognition, not quality"
+    },
+    "perfectPairing": {
+      "wine": "Montinore Estate Pinot Noir",
+      "dish": "Charcuterie Board",
+      "note": "Oregon Pinot's bright acidity and red fruit cut through cured meats and aged cheeses without overwhelming the delicate flavors"
+    },
+    "bottomLine": "Naples Society Wine Bar is doing the work, even if they're still figuring out their identity. It's a reliable neighborhood spot where you won't get gouged and the staff genuinely wants to help you find something good. Just don't expect sommelier-level guidance or a cellar that'll blow your mind.",
+    "subtitle": "Naples Wine Bar Still Finding Its Voice",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "flemings-prime-steakhouse-and-wine-bar-naples",
+    "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+    "neighborhood": "Fifth Avenue South",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "Fleming's wine program is corporate steakhouse 101: a standardized 100-bottle list that reads like a focus group's greatest hits. You're not finding small grower Champagne or experimental Rhônes here, but you won't embarrass yourself in front of clients either. The leather-bound list arrives like a prop — serious, substantial, and designed to make choosing wine feel like a high-stakes negotiation.",
+    "selectionDeepDive": "The list skews heavily toward Napa Cabs and familiar Old World red regions — Bordeaux, Tuscany, Rioja — with predictable producers like Silver Oak, Caymus, and Antinori getting prime real estate. There's a decent Burgundy section if you're willing to pay the toll, and a functional sparkling selection anchored by Veuve Clicquot and Dom Pérignon for when you land the deal. The whites lean safe: Santa Margherita Pinot Grigio, Cakebread Chardonnay, nothing that'll scare off the expense account crowd. No natural wine, no adventurous regions, no personality — just reliable bottles at reliable markups.",
+    "byTheGlass": "The by-the-glass program rotates through 15-20 selections with a corporate wine director pulling the strings from somewhere far away. You'll find solid pours like Josh Cabernet and La Crema Pinot Noir, plus a few step-ups like Sonoma-Cutrer Chardonnay when you want to flex without commitment. Glasses are properly sized and varietal-appropriate, which is more than you can say for most chains. They run a weekly featured glass program that occasionally surfaces something interesting.",
+    "bestValue": {
+      "wine": "Seghesio Sonoma Zinfandel",
+      "price": "$58",
+      "note": "Old vine fruit with enough structure for ribeye, priced reasonably for what you're getting in a steakhouse setting"
+    },
+    "hiddenGem": {
+      "wine": "Marchesi di Barolo Barbera d'Alba",
+      "note": "Most people order the Barolo, but this has the acidity to cut through butter-topped filet at a fraction of the price"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "The $135 price tag for a $60 retail bottle is steakhouse markup at its most shameless, and it drinks like vanilla extract anyway"
+    },
+    "perfectPairing": {
+      "wine": "Frog's Leap Merlot",
+      "dish": "Prime New York Strip with porcini rub",
+      "note": "The Rutherford dust tannins and earthy mushroom notes create that rare steak-wine sync where both get better"
+    },
+    "bottomLine": "Fleming's won't blow your mind, but it won't let you down either if you know what you're doing. Stick to regions they understand, avoid the celebrity bottles, and you'll drink competently if expensively.",
+    "subtitle": "Chain Steakhouse With 100-Label Safety Net",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.flemingssteakhouse.com",
+    "address": {
+      "street": "837 4th Ave S",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "34102",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "deep-lagoon-naples",
+    "restaurant": "Deep Lagoon",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Deep Lagoon's wine list reads like a greatest hits compilation designed not to offend anyone. The selection leans heavily into safe coastal whites and predictable reds that pair with seafood without challenging anyone's palate. It's functional rather than inspired.",
+    "selectionDeepDive": "The list appears built around Florida tourist expectations—Sauvignon Blancs from New Zealand, California Chardonnays, and Italian Pinot Grigios dominate the white section. Reds trend toward crowd-pleasers like Malbec and Cabernet, though they feel secondary on a seafood-focused menu. Regional representation is thin, with little exploration beyond the usual suspects. You won't find natural wines, orange wines, or anything particularly adventurous here.",
+    "byTheGlass": "By-the-glass offerings likely stick to the familiar script: a Whispering Angel rosé, a Kim Crawford Sauvignon Blanc, maybe a Sonoma-Cutrer Chardonnay. The pours get the job done but won't surprise anyone. Rotation seems minimal—these are wines selected for shelf stability and broad appeal rather than seasonal interest.",
+    "bestValue": {
+      "wine": "Louis Jadot Mâcon-Villages",
+      "price": "$42",
+      "note": "Unoaked Burgundy Chardonnay with citrus and minerality that cuts through butter sauces without the California markup"
+    },
+    "hiddenGem": {
+      "wine": "Albariño from Rías Baixas",
+      "note": "If they stock one, it's criminally underordered—Spanish coastal whites are built for shellfish and priced below Sancerre"
+    },
+    "skipThis": {
+      "wine": "Overpriced Napa Cabernet",
+      "note": "You're at a seafood restaurant in Florida—save the $85+ Cab for a steakhouse where it makes sense"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre from Pascal Jolivet",
+      "dish": "Grilled snapper or stone crab",
+      "note": "Classic Loire Sauvignon Blanc's razor-sharp acidity and mineral backbone were designed for pristine seafood—textbook pairing"
+    },
+    "bottomLine": "Deep Lagoon won't disappoint if you keep expectations modest, but it won't thrill anyone hunting for interesting bottles. Order something crisp and white, enjoy the seafood, and save wine exploration for another night.",
+    "subtitle": "Coastal seafood spot that plays it safe",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.deeplagoon.com",
+    "address": {
+      "street": "unknown",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "chez-boet-naples",
+    "restaurant": "Chez Boet",
+    "neighborhood": "Downtown Naples at Crayton Cove",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "French",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The list reads like someone's personal French wine collection spread across regions—Bordeaux, Burgundy, Beaujolais—with enough breadth to keep things interesting. It's not trying to be a wine destination, but there's clear thought behind the selections, and the price range ($28-$200) keeps most bottles approachable.",
+    "selectionDeepDive": "Chez Boet leans into classic French regions without getting too precious about it, throwing in a few surprises like Paumanok Vineyards Chenin Blanc from Long Island and some solid Sonoma picks. The Bordeaux selection includes Château Montus from Alain Brumont—a Madiran heavy-hitter that shows they're not just buying the usual suspects. You'll find Barolo Cerreto representing Piedmont and Domaine de Chevalier holding down the Graves end of things. The list isn't massive, but it covers ground thoughtfully, with enough Old World depth to complement the French cooking without overwhelming diners who just want something decent with their moules frites.",
+    "byTheGlass": "Six-plus by-the-glass options at $9-$12 is respectable for this market, though the rotation appears static. Louis Roederer Brut Rosé by the glass is a smart play for the Naples crowd—recognizable, celebratory, and won't break the bank. The glass selection skews safe but reliable, which works for a neighborhood spot where not everyone's diving deep into the list.",
+    "bestValue": {
+      "wine": "Paumanok Vineyards Chenin Blanc",
+      "price": "$42",
+      "note": "Long Island Chenin that drinks like Loire but costs less—crisp, mineral-driven, and a conversation starter with the bouillabaisse"
+    },
+    "hiddenGem": {
+      "wine": "Château Montus Domaine Alain Brumont",
+      "note": "Madiran Tannat that most people skip because they don't know the region—dark, structured, age-worthy, and priced like it's still under the radar"
+    },
+    "skipThis": {
+      "wine": "Generic Beaujolais Villages at $58",
+      "note": "Beaujolais should never cost this much unless it's a named cru—this is Naples pricing creep at its worst"
+    },
+    "perfectPairing": {
+      "wine": "Domaine de Chevalier Blanc",
+      "dish": "Poulet Normand",
+      "note": "White Bordeaux's sauvignon-sémillon blend cuts through the cream sauce while the oak structure holds up to the richness of the Norman chicken"
+    },
+    "bottomLine": "Chez Boet delivers exactly what a cozy French bistro should: thoughtful Old World selections, fair pricing on most bottles, and enough variety to match the menu without overthinking it. You're here for the bouillabaisse and a solid bottle—mission accomplished.",
+    "subtitle": "Classic French Cooking Meets Old World Bottles",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes",
+      "hidden-gem"
+    ],
+    "website": "https://chezboetnaples.com",
+    "address": {
+      "street": "755 12th Avenue South",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "34102",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "t-michaels-steak-and-lobster-naples",
+    "restaurant": "T-Michaels Steak and Lobster",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at T-Michaels reads exactly like what you'd expect from a Naples steakhouse: big Napa Cabs, safe Chardonnays, and prices that account for the waterfront real estate. Nothing here will surprise you, but nothing will offend you either. It's a list built for tourists and regulars who know what they like and aren't looking to be challenged.",
+    "selectionDeepDive": "The selection leans heavily into California blockbusters—think Silver Oak, Caymus, and Duckhorn dominating the red section with predictable price tags. You'll find a smattering of Bordeaux and Italian reds, likely Brunello and Super Tuscans at the high end, plus the obligatory Champagne section that probably stops at Veuve Clicquot. The list doesn't venture into anything adventurous—no natural wines, no obscure regions, no surprises. It's a greatest hits compilation designed not to confuse anyone ordering a ribeye. For a steakhouse in this market, that's not a criticism, just reality.",
+    "byTheGlass": "The by-the-glass program likely offers six to eight pours, running the gamut from a safe Sonoma Chardonnay to a Napa Cab that'll set you back $18-24. Expect one token rosé, maybe a Malbec, and a Pinot Noir that's probably from Oregon or the Russian River. Nothing rotates with any urgency, and the pours are measured to steakhouse proportions—which means not generous. The glass selection gets the job done if you're not committing to a bottle, but don't expect excitement.",
+    "bestValue": {
+      "wine": "J. Lohr Seven Oaks Cabernet Sauvignon",
+      "price": "$48",
+      "note": "Reliable Paso Robles Cab that delivers dark fruit and enough structure for a New York strip without the Napa tax. Marked up, but not offensively."
+    },
+    "hiddenGem": {
+      "wine": "Antinori Pèppoli Chianti Classico",
+      "note": "If it's on the list, this is your move—bright cherry fruit and savory herbs that cut through fat better than another fruit-bomb Cab. Steakhouse crowds sleep on Chianti."
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "You'll see it at $140+ and it's everywhere for $80 retail. The markup here is brutal, and while it's a crowd-pleaser, you're paying for the name recognition, not the juice."
+    },
+    "perfectPairing": {
+      "wine": "Duckhorn Merlot",
+      "dish": "Filet Mignon with Lobster Tail",
+      "note": "The plush, velvety texture of Duckhorn's Merlot mirrors the buttery lobster while still having enough backbone for the beef. It's the diplomatic bottle that makes everyone at the table happy."
+    },
+    "bottomLine": "T-Michaels delivers exactly what a Naples steakhouse should: a safe, familiar wine list that won't derail your dinner but won't thrill you either. Come for the surf and turf, order something you recognize, and you'll be fine. Just don't expect any wine adventures.",
+    "subtitle": "Naples Steakhouse Playing It Safe With Wine",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "miramare-naples",
+    "restaurant": "MiraMare",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "MiraMare's wine list leans into safe Italian-American territory — the kind of selections that won't surprise anyone but won't offend either. The list feels like it was set years ago and left on autopilot, with pricing that reflects Naples real estate more than actual bottle value.",
+    "selectionDeepDive": "The Italian focus is predictable: Tuscan Chiantis, Piedmont Barolos at markup, and a handful of Pinot Grigios that could be from anywhere. We'd expect some deeper regional cuts — maybe a Nerello Mascalese from Etna or an Aglianico from Campania — but the list plays it safe with recognizable names. French and California sections exist to check boxes, with the usual Napa Cabs and Burgundy standbys priced like they're funding a yacht club membership. Nothing wrong here, just nothing exciting.",
+    "byTheGlass": "Glass pours likely stick to the basics: a Pinot Grigio, a Chianti, maybe a Prosecco if you're feeling festive. The rotation seems frozen in time, with no seasonal shifts or staff-driven discoveries. Fine for a quick pour, but don't expect anyone behind the bar to geek out with you about what's new.",
+    "bestValue": {
+      "wine": "Antinori 'Santa Cristina' Chianti Superiore",
+      "price": "$48",
+      "note": "Reliable Tuscan red that drinks well with red sauce without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "note": "If they stock this Campanian white, it's a refreshing break from endless Pinot Grigio"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab over $100",
+      "note": "Naples markup on California reds is brutal — save these for retail"
+    },
+    "perfectPairing": {
+      "wine": "Planeta 'La Segreta' Rosso",
+      "dish": "Pappardelle Bolognese",
+      "note": "Sicilian blend with enough structure for slow-cooked meat ragu without overpowering the pasta"
+    },
+    "bottomLine": "MiraMare plays it safe with crowd-pleasing Italian wines at Naples-level markups. Not a destination for wine nerds, but solid enough if you're already here for the food and want a glass of something familiar.",
+    "subtitle": "Naples Italian with Limited Wine Intel",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.miramare.com",
+    "address": {
+      "street": "unknown",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cote-dazur-naples",
+    "restaurant": "Cote D'Azur",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "French Mediterranean",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list feels like it was assembled from a distributor's greatest hits catalog—names you'd recognize from any upscale Naples restaurant. Nothing here screams risk-taking, but nothing screams disaster either. It's the kind of list that works for snowbirds who want a Châteauneuf-du-Pape with their bouillabaisse and won't ask too many questions.",
+    "selectionDeepDive": "The French focus is predictable given the name—expect Burgundy, Bordeaux, and Rhône Valley standards at tourist-friendly markups. You'll find your Pouilly-Fuissés and your Gigondas, possibly a Sancerre or two for the white wine crowd. The list likely skips over the interesting producers in favor of safe, recognizable châteaux and domaines that move bottles without staff education. Regional diversity beyond France feels thin, maybe a token Chianti or Rioja to fill gaps, but this is a Greatest Hits of France situation.",
+    "byTheGlass": "Glass pours are probably the standard four or five French crowd-pleasers—a Côtes du Rhône, a basic Chablis, maybe a Provençal rosé that gets pushed hard in summer. Don't expect rotation or experimentation. These are set-it-and-forget-it pours that pair safely with most menu items and don't require staff to explain anything beyond region names.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "price": "$58",
+      "note": "A Châteauneuf producer's entry-level Rhône that drinks well above its station—peppery, structured, and built for rich sauces"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Tempier Bandol Rouge",
+      "note": "If they have it, this Provençal Mourvèdre is criminally underappreciated—earthy, meaty, age-worthy, and perfect for Mediterranean seafood stews"
+    },
+    "skipThis": {
+      "wine": "Generic Pouilly-Fuissé at $90+",
+      "note": "Naples markup disease in full effect—you're paying for the name recognition, not the juice in the bottle"
+    },
+    "perfectPairing": {
+      "wine": "Château de Pibarnon Bandol Rosé",
+      "dish": "Bouillabaisse",
+      "note": "Provence's most structured rosé has the backbone to match saffron-laced fish stew without getting steamrolled"
+    },
+    "bottomLine": "Côte d'Azur plays it safe with a French-heavy list that won't offend but won't excite. Prices lean steep, staff enthusiasm feels thin, but if you're here for classic French dining and know what you want, you'll find something drinkable. Just don't expect discovery.",
+    "subtitle": "Safe French Picks in Paradise Coast Territory",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "fish-restaurant-naples",
+    "restaurant": "FISH Restaurant",
+    "neighborhood": "Downtown Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at FISH reads like someone ordered the \"Seafood Restaurant Starter Pack\" from a distributor catalog. It's not offensive, but it won't make you text your wine-loving friends either. Standard coastal plays — crisp whites, a few Pinots, obligatory Champagne.",
+    "selectionDeepDive": "The focus leans heavily on safe white wine bets: Sauvignon Blanc from New Zealand, Pinot Grigio from Italy, and a couple California Chardonnays that show up on every other menu in Naples. You'll find a Sancerre and a Chablis if you want to spend, plus predictable reds like Malbec and Cabernet that feel like afterthoughts next to the fish-forward menu. Regional depth is virtually nonexistent — no Greek whites, no Albariño deep cuts, no Austrian Grüner. It's the wine equivalent of playing the hits without any B-sides.",
+    "byTheGlass": "The by-the-glass program runs about eight wines deep, split evenly between whites and reds. They rotate seasonally, which means you'll see the same Whispering Angel in summer and a Sonoma Chardonnay year-round. Pours are generous, and the whites arrive properly chilled, which counts for something in Florida heat.",
+    "bestValue": {
+      "wine": "Trimbach Pinot Blanc",
+      "price": "$42",
+      "note": "Alsatian workhorse with enough body for grouper and snapper, drinks clean, priced reasonably for this zip code"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Seguinot-Bordet Chablis",
+      "note": "Most skip Chablis for the Sancerre, but this has better minerality and structure for stone crab without the markup premium"
+    },
+    "skipThis": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "note": "Marked up to $48 when you can grab it at Publix for $12, and it drinks thin next to serious seafood"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Weinbach Pinot Gris Reserve",
+      "dish": "Pan-Seared Scallops",
+      "note": "Alsace Pinot Gris has the weight to match sweet scallop caramelization without overpowering delicate shellfish"
+    },
+    "bottomLine": "FISH won't blow your mind with wine, but it won't embarrass you either. The list does its job without flair — think dependable rental car, not dream ride. Order confidently, keep it simple, and focus on the catch of the day.",
+    "subtitle": "Coastal Seafood with Wine That Stays Afloat",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sophias-ristorante-italiano-naples",
+    "restaurant": "Sophia's Ristorante Italiano",
+    "neighborhood": "Pine Ridge Road",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Italian",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Sophia's reads like someone's first attempt at building a program from a distributor catalog. Prices are steep, the selection is confused, and the geographic labels are straight-up wrong—Michelle Riesling from Santa Lucia Highlands and Donna Paula Malbec from France will make any wine nerd wince.",
+    "selectionDeepDive": "This list plays it painfully safe with crowd-pleasing names but botches the basics. We're talking Cavit Moscato listed as Chilean (it's Italian Trentino), a $382 Riesling that's likely Dr. Loosen or Chateau Ste. Michelle wildly overpriced, and Hand of Time Chardonnay at $199 when it retails for $60. The selection skews toward big, commercial producers with zero personality or regional storytelling. No Italian wines worth mentioning at an Italian restaurant? That's a red flag the size of the Amalfi Coast.",
+    "byTheGlass": "We couldn't confirm their glass pour program, but given the bottle list chaos, we're not optimistic. At this price point and style of restaurant, you'd expect 8-10 solid BTG options with Italian focus, but the evidence suggests they're pouring the same confused mix. If they're charging $18 for Cavit Moscato by the glass, walk away.",
+    "bestValue": {
+      "wine": "Prosecco NV",
+      "price": "$45",
+      "note": "At $45, it's the only bottle here that won't make you feel robbed—crisp bubbles work with antipasti"
+    },
+    "hiddenGem": {
+      "wine": "Vermentino from Sardinia (if they add it)",
+      "note": "They desperately need Italian whites; Vermentino would nail the coastal vibe and pair with their seafood"
+    },
+    "skipThis": {
+      "wine": "Riesling Michelle",
+      "price": "$382",
+      "note": "This bottle retails for $80-120 max—you're paying 3-4x markup for a wine that should cost $150 here"
+    },
+    "perfectPairing": {
+      "wine": "Prosecco NV",
+      "dish": "Filet of Sole (Bella Sophia)",
+      "note": "The wine's acidity and bubbles cut through the delicate sole preparation without overwhelming it"
+    },
+    "bottomLine": "Sophia's nails the ambiance but completely fumbles the wine program. Unless they fix the pricing, hire someone who knows geography, and add actual Italian bottles, stick to cocktails or BYOB if they allow it.",
+    "subtitle": "Old-World Charm, New-World Confusion on the List",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://sophiasitaliano.com",
+    "address": {
+      "street": "3545 Pine Ridge Road",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "34109",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "old-vines-wine-bar-naples",
+    "restaurant": "Old Vines Wine Bar",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name alone tells you what you're getting: a wine-focused spot in Naples that plays it safe. The list exists, the pours happen, but details are frustratingly elusive for a place literally called a wine bar.",
+    "selectionDeepDive": "Based on what we can piece together from a Naples wine bar profile, expect a California-heavy list with crowd-pleasing Italian reds and a handful of French standards. This isn't the place pushing skin-contact Friulano or obscure Jura producers. Think Napa Cabs, Sonoma Chards, Tuscan Super Tuscans, and the occasional Sancerre. The depth likely skews toward familiar labels at tourist-town pricing, which in Naples means you're paying for the zip code as much as the juice. Without more intel, we're guessing this list hovers around 50-75 bottles with predictable regional representation.",
+    "byTheGlass": "Glass pours at a Naples wine bar should run 8-12 options, rotating slowly if at all. Expect the usual suspects: a Pinot Grigio, a buttery Chardonnay, a Cabernet, maybe a Malbec. The staff can probably tell you if it's red or white, but don't expect tasting notes or vintage details. Rotation feels more 'set and forget' than curated program.",
+    "bestValue": {
+      "wine": "2021 La Crema Monterey Pinot Noir",
+      "price": "$48",
+      "note": "If they've got it, a solid California Pinot that drinks above its weight and won't wreck your wallet in Naples pricing"
+    },
+    "hiddenGem": {
+      "wine": "2020 Feudi di San Gregorio Falanghina",
+      "note": "Most people skip Italian whites that aren't Pinot Grigio, but this Campanian beauty has citrus zip and weight—if they stock it"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab over $100",
+      "note": "Naples markup on premium California reds turns $60 retail bottles into $150+ list prices—order something European instead"
+    },
+    "perfectPairing": {
+      "wine": "2021 Banfi Chianti Classico Riserva",
+      "dish": "Charcuterie Board",
+      "note": "Classic move for a wine bar: bright Tuscan red with good acidity cuts through cured meats and aged cheeses"
+    },
+    "bottomLine": "Old Vines exists in that reliable-but-unremarkable zone. You'll drink wine, it won't be offensive, but you're paying Naples prices for Naples effort. Limited intel keeps us cautious—this could surprise us, but the name suggests otherwise.",
+    "subtitle": "Naples Wine Bar With More Questions Than Answers",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.oldvineswine.com",
+    "address": {
+      "street": "unknown",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-continental-naples",
+    "restaurant": "The Continental",
+    "neighborhood": "Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Continental",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Continental presents a wine list that doesn't take risks, which in Naples, Florida, is probably the point. It's the kind of list where you know what you're getting before you even open it: Napa Cabs, Sonoma Chards, maybe a Pinot from Oregon if they're feeling adventurous. Safe, recognizable, and priced like you're paying for the zip code.",
+    "selectionDeepDive": "The list skews heavily American with predictable selections from major regions—expect Napa, Sonoma, and Willamette Valley to dominate the real estate. Old World gets a nod with some Bordeaux and Tuscan options, but nothing that strays from the blockbuster labels. There's minimal representation from smaller producers or emerging regions, and forget about natural wine or orange wine experiments. The focus is clearly on names guests recognize from grocery store wine aisles, just marked up 3-4x for the privilege of white tablecloth service.",
+    "byTheGlass": "Glass pours run the standard Florida resort playbook: a Kendall-Jackson Chardonnay, a Meiomi Pinot Noir, maybe a Whispering Angel rosé in season. They're reliable crowd-pleasers that won't offend anyone or excite anyone. Rotation seems non-existent—these are permanent fixtures, which means the staff doesn't have to learn anything new, but also means you're drinking the same wines every visit.",
+    "bestValue": {
+      "wine": "2019 Louis Jadot Beaujolais-Villages",
+      "price": "$48",
+      "note": "If they've got this Burgundian gamay on the list, it's your escape hatch from Napa bloat—bright, food-friendly, and actually drinks above its weight class"
+    },
+    "hiddenGem": {
+      "wine": "2020 Trimbach Pinot Gris, Alsace",
+      "note": "Most people skip Alsace entirely, but this bottle brings weight and texture without oak, perfect for richer fish dishes"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Naples markup on already inflated Caymus pricing means you're paying $140+ for a $50 retail bottle that tastes like vanilla extract"
+    },
+    "perfectPairing": {
+      "wine": "2021 Sancerre, Pascal Jolivet",
+      "dish": "Pan-Seared Branzino",
+      "note": "Classic French white with Mediterranean sea bass—the wine's minerality and citrus cut through butter sauce while matching the fish's delicate texture"
+    },
+    "bottomLine": "The Continental delivers exactly what its name promises: safe, continental European and American wines without surprises. It's fine for a business dinner where no one wants to think too hard, but wine lovers will find themselves ordering cocktails instead.",
+    "subtitle": "Classic Naples Dining with Tried-and-True Bottles",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.thecontinental.com",
+    "address": {
+      "street": "unknown",
+      "city": "Naples",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ocean-prime-naples",
+    "restaurant": "Ocean Prime",
+    "neighborhood": "Downtown Naples",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Upscale Seafood & Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Ocean Prime's wine list reads like a corporate playbook—safe, polished, and designed not to offend anyone's expense account. It's the kind of list where you know exactly what you're getting before you even crack it open: California Cabs, a handful of Napa darlings, and enough Chardonnay to float a yacht.",
+    "selectionDeepDive": "The list skews heavily toward domestic luxury brands with predictable markup patterns typical of the chain steakhouse model. You'll find the usual suspects: Caymus, Jordan, Duckhorn—wines that sell themselves without needing staff expertise. The Old World section exists but feels like an afterthought, probably a few safe Barolos and Bordeaux at prices that make you wince. There's depth in Napa Cab if you're willing to spend, but adventurous drinkers will find slim pickings. This is a list built for clients who want recognizable labels, not discovery.",
+    "byTheGlass": "The glass program leans on the greatest hits—likely a Sonoma Chardonnay, a Willamette Pinot, maybe a Malbec for the steak crowd. Pours are consistent and competently executed, but rotation is glacial. You're getting the same lineup whether you visit in January or July, which means you're not coming here for seasonal exploration or pour diversity.",
+    "bestValue": {
+      "wine": "Domaine Drouhin Pinot Noir, Willamette Valley",
+      "price": "$68",
+      "note": "If they're carrying it, this Oregon producer brings Burgundian finesse without the French markup—pairs beautifully with their seafood towers"
+    },
+    "hiddenGem": {
+      "wine": "Alois Lageder Pinot Grigio, Alto Adige",
+      "note": "If buried in their Italian whites section, this Alpine expression has actual structure and minerality—miles beyond the flat Pinot Grigios most chains pour"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up 4x+ and ubiquitous on every steakhouse list in America—you're paying for the name recognition, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre, Pascal Jolivet",
+      "dish": "Shellfish Tower",
+      "note": "If they stock a proper Loire Sauvignon Blanc, the razor-sharp acidity and mineral backbone cut through brine and butter like a dream"
+    },
+    "bottomLine": "Ocean Prime delivers exactly what it promises: a safe, corporate wine experience that won't embarrass your boss but won't surprise anyone either. Come for the scene and the seafood, order a cocktail, and if you must have wine, stick to the recognizable mid-tier bottles and don't look at the markup too closely.",
+    "subtitle": "Corporate Smooth with Predictable Pours",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "casual-vibes"
+    ],
+    "website": "https://www.ocean-prime.com",
+    "address": {
+      "street": null,
+      "city": "Naples",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "baleen-at-laplaya-beach-and-golf-resort-naples",
+    "restaurant": "Baleen at LaPlaya Beach & Golf Resort",
+    "neighborhood": "Vanderbilt Beach",
+    "city": "Naples",
+    "citySlug": "naples",
+    "cuisineType": "Gulf Coast Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Baleen's wine list reads like what you'd expect from a resort restaurant steps from the Gulf: safe, recognizable, built for vacationers who want a glass of something cold while watching the sunset. It's not challenging anyone's palate, but it's not trying to. The focus is on approachable bottles that pair with grouper and don't make anyone nervous.",
+    "selectionDeepDive": "The list skews heavily toward California Chardonnay and Cabernet, with a predictable supporting cast of Italian standards and a few French crowd-pleasers. You'll find your Cakebread, your La Crema, your Ruffino—brands that move volume and don't spark debate. The markup is resort-level, which means you're paying a premium for the location and the breeze. There's little to surprise you here: no natural wines, no obscure regions, no deep cellar pulls. It's a list designed for easy ordering, not exploration.",
+    "byTheGlass": "The by-the-glass program sticks to the hits: a Florida-friendly Sauvignon Blanc, a butter-forward Chardonnay, a couple of Pinots, and a safe Cab. Pours rotate glacially if at all—this is a set-it-and-forget-it lineup built for consistency. Prices run $14-18 per glass, which is steep but standard for beachfront dining. If you're here for the view, the glass pours get the job done without making you think too hard.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$42",
+      "note": "New Zealand classic that's fresh, zippy, and pairs perfectly with their Gulf seafood without breaking the resort markup bank"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Chianti Classico Riserva",
+      "note": "Often overlooked in favor of California reds, but it's got structure and acidity that work beautifully with tomato-based seafood dishes"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $120+ with resort markup, it's overpriced for what it delivers—rich but one-dimensional, and you're paying for the name"
+    },
+    "perfectPairing": {
+      "wine": "Whispering Angel Rosé",
+      "dish": "Grilled Gulf Snapper",
+      "note": "The Provence classic brings salinity and brightness that mirror the fresh fish and ocean setting—beach dining at its finest"
+    },
+    "bottomLine": "Baleen delivers exactly what a resort wine list should: no surprises, no risks, just reliable bottles at premium prices. If you're here for the sunset and fresh grouper, the wine program won't get in the way—but it won't elevate the meal either.",
+    "subtitle": "Beachfront Ease With Resort Wine List Vibes",
+    "tags": [
+      "date-night",
+      "patio-pour",
+      "casual-vibes"
+    ],
+    "website": "https://www.laplayaresort.com/dining/baleen",
+    "address": {
+      "street": "9891 Gulf Shore Drive",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34108",
+      "country": "US"
+    }
+  }
+]

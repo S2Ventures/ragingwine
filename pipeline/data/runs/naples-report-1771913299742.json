@@ -1,0 +1,186 @@
+{
+  "city": "Naples",
+  "citySlug": "naples",
+  "startedAt": "2026-02-24T05:59:00.766Z",
+  "completedAt": "2026-02-24T06:08:19.280Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 29,
+  "reviewsPublished": 29,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Bleu Provence",
+      "slug": "bleu-provence-naples",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Sails Restaurant",
+      "slug": "sails-restaurant-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Grill",
+      "slug": "the-grill-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Cave Bistro & Wine Bar",
+      "slug": "the-cave-bistro-and-wine-bar-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The French Brasserie Rustique",
+      "slug": "the-french-brasserie-rustique-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Truluck's",
+      "slug": "trulucks-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Osteria Tulia",
+      "slug": "osteria-tulia-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Nosh On Naples Bay",
+      "slug": "nosh-on-naples-bay-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "USS Nemo Restaurant",
+      "slug": "uss-nemo-restaurant-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Seasons 52",
+      "slug": "seasons-52-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bar Tulia Mercato",
+      "slug": "bar-tulia-mercato-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sea Salt",
+      "slug": "sea-salt-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ridgway Bar & Grill",
+      "slug": "ridgway-bar-and-grill-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Shula's Steakhouse",
+      "slug": "shulas-steakhouse-naples",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Capital Grille",
+      "slug": "the-capital-grille-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cooper's Hawk Winery & Restaurant",
+      "slug": "coopers-hawk-winery-and-restaurant-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Naples Society Wine Bar",
+      "slug": "naples-society-wine-bar-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+      "slug": "flemings-prime-steakhouse-and-wine-bar-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Deep Lagoon",
+      "slug": "deep-lagoon-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Chez Boet",
+      "slug": "chez-boet-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "T-Michaels Steak and Lobster",
+      "slug": "t-michaels-steak-and-lobster-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "MiraMare",
+      "slug": "miramare-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cote D'Azur",
+      "slug": "cote-dazur-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "FISH Restaurant",
+      "slug": "fish-restaurant-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sophia's Ristorante Italiano",
+      "slug": "sophias-ristorante-italiano-naples",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Old Vines Wine Bar",
+      "slug": "old-vines-wine-bar-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Continental",
+      "slug": "the-continental-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ocean Prime",
+      "slug": "ocean-prime-naples",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Baleen at LaPlaya Beach & Golf Resort",
+      "slug": "baleen-at-laplaya-beach-and-golf-resort-naples",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}
