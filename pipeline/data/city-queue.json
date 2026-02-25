@@ -103,7 +103,9 @@
     "citySlug": "sarasota",
     "state": "Florida",
     "priority": 9,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-25T06:06:43.706Z",
+    "reviewCount": 21
   },
   {
     "city": "Orlando",

@@ -1,0 +1,1108 @@
+[
+  {
+    "slug": "sage-sarasota",
+    "restaurant": "Sage",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Sage's wine list reads like a safe bet for a downtown special occasion spot—recognizable names, comfort zone regions, nothing that'll scare off the expense account crowd. It's the kind of list that pairs well with white tablecloths and valet parking, but won't challenge anyone who thinks Napa is adventurous.",
+    "selectionDeepDive": "The list skews heavily toward crowd-pleasers with a predictable California backbone—Janzen Napa Cabernets anchor the reds, while Oregon's Adelsheim represents the Pinot contingent. There's a token international presence with Sicily's Avide Winery, likely a Nero d'Avola or Etna offering that adds just enough worldliness to avoid complete provinciality. Willamette Valley makes an appearance, probably through the usual suspects like Domaine Serene or similar mid-tier producers. It's the kind of list assembled by a distributor's greatest hits catalog rather than someone hunting down interesting bottles.",
+    "byTheGlass": "Without concrete intel on the glass program, we're betting it's the standard 6-8 pours rotating seasonally at best. Expect the Adelsheim Pinot Noir around $16-18, a safe Napa Chardonnay in the $14 range, and maybe that Sicilian red as the \"exotic\" option. No somm on staff means limited rotation and zero evening specials to keep things interesting.",
+    "bestValue": {
+      "wine": "Avide Nero d'Avola",
+      "price": "$48",
+      "note": "Sicily delivers serious flavor at a fraction of Napa's ego tax—volcanic minerality and dark fruit that'll stand up to that pork chop"
+    },
+    "hiddenGem": {
+      "wine": "Adelsheim Willamette Valley Pinot Noir",
+      "note": "Everyone sleeps on Oregon Pinot when Burgundy's not an option, but Adelsheim's been doing it right since the '70s—earthy, elegant, food-friendly"
+    },
+    "skipThis": {
+      "wine": "Janzen Napa Cabernet",
+      "note": "Likely marked up to $120+ for a $60 bottle that tastes like every other Napa Cab—you're paying for the zip code, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Adelsheim Pinot Noir",
+      "dish": "Thai Bouillabaisse",
+      "note": "Oregon Pinot's delicate earthiness and bright acidity cut through the coconut richness while complementing the lemongrass and shellfish sweetness"
+    },
+    "bottomLine": "Sage does what downtown fine dining spots do—plays it safe with recognizable names at predictable markups. You'll drink well enough, but you won't discover anything.",
+    "subtitle": "Downtown Elegance with Safe Wine Moves",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://sagesrq.com",
+    "address": {
+      "street": "1216 First St",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "34236",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "coopers-hawk-winery-and-restaurant-sarasota-sarasota",
+    "restaurant": "Cooper's Hawk Winery & Restaurant - Sarasota",
+    "neighborhood": "Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "American with winery focus",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cooper's Hawk is a winery-restaurant chain, and the Sarasota location leans into that identity hard. The wine list is dominated by their own-label productions from California, which means predictable crowd-pleasers at reasonable markups. It's a safe bet if you're with wine-curious friends or relatives who want something familiar.",
+    "selectionDeepDive": "The list is heavy on Cooper's Hawk proprietary wines—their Lux series and reserve tiers cover the basics from Chardonnay to Cabernet. You'll find some recognizable California names (think Kendall-Jackson, La Crema) alongside their house offerings, but don't expect deep European or boutique selections. It's a greatest-hits album, not a deep cut collection. The focus is accessibility over adventure, which works for the suburban Sarasota crowd but won't thrill anyone hunting for natural wines or grower Champagne.",
+    "byTheGlass": "Cooper's Hawk runs a wine club and tasting room model, so the by-the-glass program is robust—expect 40+ options ranging from their house pours to reserve wines. Rotating monthly features keep things fresh, and the tasting flights let you sample before committing. Pours are generous, prices hover around $8-14, and the staff will talk you through their own wines with enthusiasm even if their knowledge of outside producers is thin.",
+    "bestValue": {
+      "wine": "Cooper's Hawk Lux Pinot Noir",
+      "price": "$38",
+      "note": "Their flagship Pinot delivers Russian River-style fruit at a fair price for a restaurant setting, especially with their wine club discount if you're a member"
+    },
+    "hiddenGem": {
+      "wine": "Cooper's Hawk Reserve Viognier",
+      "note": "Most diners default to Chardonnay, but their Viognier has stone fruit depth and works beautifully with anything creamy or spicy on the menu"
+    },
+    "skipThis": {
+      "wine": "Cooper's Hawk Red Blend",
+      "note": "The entry-level blend is fine but forgettable—sweet-leaning fruit bomb that reads more like juice than wine, and you can do better even on their own list"
+    },
+    "perfectPairing": {
+      "wine": "Cooper's Hawk Lux Chardonnay",
+      "dish": "Parmesan-Crusted Chicken",
+      "note": "Buttery California Chard meets buttery breaded chicken—it's shameless synergy that actually works, especially with their lemon caper sauce cutting through the richness"
+    },
+    "bottomLine": "Cooper's Hawk won't blow your mind, but it won't gouge your wallet either. It's the Cheesecake Factory of wine-focused dining—consistent, approachable, and safe. If you're in Sarasota with in-laws who think Caymus is exotic, this is your spot.",
+    "subtitle": "Chain Winery Playing It Safe in Southwest Florida",
+    "tags": [
+      "casual-vibes",
+      "wine-bar",
+      "by-the-glass-hero"
+    ],
+    "website": "https://chwinery.com",
+    "address": {
+      "street": null,
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-crows-nest-sarasota",
+    "restaurant": "The Crow's Nest",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "American Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Crow's Nest is a Sarasota institution—the kind of weathered waterfront spot where locals nurse beers at the bar and tourists stumble in for grouper sandwiches. The wine list doesn't try to be fancy, which is exactly what works here. It's a short, practical selection that knows its audience: people who want a cold white with their fish tacos, not a dissertation on terroir.",
+    "selectionDeepDive": "The list leans heavily on approachable coastal whites and light reds that make sense with seafood. You'll find reliable West Coast Chardonnays, a few Sauvignon Blancs from New Zealand and California, and some entry-level Pinot Noirs for red drinkers. There's a token Prosecco and maybe a Spanish Albariño if you're lucky. Nothing deep, nothing adventurous, but nothing offensive either. It's the wine equivalent of their menu: unpretentious Gulf Coast standards done without drama.",
+    "byTheGlass": "The by-the-glass selection covers the basics—usually four to six options rotating between a Chard, a Sauv Blanc, a Pinot Grigio, a Pinot Noir, and a Cab. They're poured in casual stemless glasses that fit the vibe perfectly. The staff doesn't push wine hard, but they'll steer you toward something cold and crisp if you ask. Nothing revolutionary, but the pours are honest and priced for beach town drinking.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$32",
+      "note": "Classic crowd-pleaser that delivers crisp citrus and tropical notes without the markup you'd see at fancier waterfront spots—solid with anything fried"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "note": "Most people skip red at a seafood shack, but this coastal Pinot has enough acidity and restraint to work with blackened fish or their char-grilled offerings"
+    },
+    "skipThis": {
+      "wine": "House Chardonnay by the glass",
+      "note": "When there are better-priced bottles on the list that deliver more character, the generic house pour feels like an afterthought—spend $5 more"
+    },
+    "perfectPairing": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "dish": "Grouper Sandwich",
+      "note": "The bright acidity and grapefruit notes cut through the fried breading while complementing the sweet, flaky fish—textbook Florida pairing"
+    },
+    "bottomLine": "The Crow's Nest isn't trying to win awards for its wine program, and that's fine. It's a reliable neighborhood spot where the list matches the vibe: casual, fair-priced, and focused on what works with seafood. Come for the sunset views and grouper, stay for a cold glass of something sensible.",
+    "subtitle": "Old Florida Dive with Surprising Wine Sense",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "patio-pour"
+    ],
+    "website": "https://www.the-crows-nest.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "grove-sarasota",
+    "restaurant": "Grove",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "American Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We'll level with you: Grove's online presence tells us exactly nothing about their wine program. That usually means wine is an afterthought, not the main event. The list exists because restaurants have wine lists, not because anyone's particularly excited about it.",
+    "selectionDeepDive": "From what we can piece together, this looks like a standard-issue Florida tourist wine list: safe California Cabs, predictable Napa Chards, maybe a Malbec for the red-blend crowd. The kind of list assembled by a distributor rep, not a wine director. Regional diversity likely stops at \"Italy has a section\" and \"France has a section.\" We'd be shocked to find anything from Austria, Greece, or even Oregon's Willamette Valley. This is wine as background noise.",
+    "byTheGlass": "The glass pour situation is probably your typical six-option lineup: a Prosecco, a Sauv Blanc, a Chard, a Pinot, a Cab, maybe a rosé in summer. Pours likely hover around the $12-16 mark for wines you could grab at Total Wine for $15 a bottle. No rotation, no seasonal shifts, just the same lineup month after month.",
+    "bestValue": {
+      "wine": "2021 Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$38",
+      "note": "If they're following the Florida playbook, this Washington Cab is probably on the list around $38-42. It's a crowd-pleaser that actually delivers at the price point—dark fruit, smooth tannins, and enough structure to handle a steak without the Napa markup."
+    },
+    "hiddenGem": {
+      "wine": "2022 Trimbach Riesling",
+      "note": "Most Florida diners skip past Riesling thinking it's sweet, but if Grove has this Alsatian classic buried on page three, it's bone-dry, mineral-driven, and versatile with seafood. Usually fairly priced because nobody orders it."
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "If it's on the list—and in Florida, it probably is—it's marked up 3.5x minimum. You're paying for the name recognition, not the quality. There are better Cabs for half the price two lines above it."
+    },
+    "perfectPairing": {
+      "wine": "2022 Sonoma-Cutrer Russian River Chardonnay",
+      "dish": "Pan-Seared Grouper",
+      "note": "This is Florida—grouper's on the menu. A buttery California Chard with enough acidity to cut through the richness works every time, even if it's predictable."
+    },
+    "bottomLine": "Grove gets a pass because we simply don't have enough intel to condemn or celebrate. If you're going for the food and need a glass of something, you'll be fine. If wine is why you're choosing a restaurant, keep scrolling.",
+    "subtitle": "When the Website Says Nothing About Wine",
+    "tags": [
+      "casual-vibes",
+      "crowd-pleasers"
+    ],
+    "website": "https://www.grove.com",
+    "address": {
+      "street": null,
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "michaels-on-east-sarasota",
+    "restaurant": "Michael's On East",
+    "neighborhood": "Midtown Plaza",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Michael's has the look of a serious wine program — leather-bound list, white tablecloths, the whole nine. But when you crack it open, you're getting a Florida fine-dining standard: California cabs, predictable Burgundy, safe Italian reds. Nothing wrong with it, but nothing that makes you sit up straight either.",
+    "selectionDeepDive": "The list skews heavily toward Napa and Sonoma, with the expected lineup of Caymus, Jordan, and Silver Oak. French offerings lean Bordeaux and Burgundy but stop at recognizable names rather than digging into grower Champagnes or Loire Valley depth. Italy gets a decent showing — Brunello, Barolo, Super Tuscans — but it's the greatest hits album, not the deep cuts. You won't find natural wines, orange wines, or anything particularly adventurous here. It's built for the country club crowd who know what they like and aren't looking to explore.",
+    "byTheGlass": "Glass pours likely run the standard script: a Sonoma chardonnay around $14, a Willamette pinot for $16, maybe a Chianti and a Malbec to round things out. Rotation appears minimal — these are the workhorses that move volume, not the staff's personal picks. Perfectly drinkable, totally forgettable.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$42",
+      "note": "Standard markup on a reliable New Zealand white that does its job with seafood starters without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Produttori del Barbaresco Nebbiolo Langhe",
+      "note": "If they carry the co-op's entry-level bottling, it's your gateway to serious Piedmont without the Barolo price tag"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up 4x retail and tastes like every other steakhouse in America — you can do better here"
+    },
+    "perfectPairing": {
+      "wine": "La Crema Pinot Noir",
+      "dish": "Pan-Seared Grouper",
+      "note": "The weight and red fruit of Russian River pinot bridges beautifully with Florida's meatier fish without overwhelming delicate preparation"
+    },
+    "bottomLine": "Michael's delivers exactly what Sarasota expects: a polished room, capable service, and a wine list that won't surprise anyone. You'll drink fine here, but you're paying for the setting more than the selection.",
+    "subtitle": "Sarasota's Safe Bet for Special Occasions",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.michaelsoneast.com",
+    "address": {
+      "street": "1212 East Avenue South",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34239",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ophelias-on-the-bay-sarasota",
+    "restaurant": "Ophelia's on the Bay",
+    "neighborhood": "Siesta Key",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Fine Dining American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "You're opening a leather-bound wine list the size of a small novel while dolphins cruise past your window. The list clocks in at 150+ bottles, heavily tilted toward California royalty and six-figure anniversary bottles. This is where Sarasota's snowbirds come to flex their Amex and toast to sunset over Little Sarasota Bay.",
+    "selectionDeepDive": "The list reads like a Napa Valley greatest hits compilation with solid representation from Sonoma Coast and a few Washington State outliers. You'll find the usual suspects — Cakebread, Aubert, Sea Smoke — alongside trophy bottles like Dunn Howell Mountain at $499. The program plays it safe with recognizable names rather than adventurous selections, which fits the clientele but leaves little room for discovery. France gets a token nod, but this is clearly a West Coast show. The range is there if you're chasing cult Cabs and buttery Chards, but don't expect orange wines or natural experiments.",
+    "byTheGlass": "The by-the-glass program exists but details are thin, likely rotating through safe pours that won't scare off the early-bird crowd. With a sommelier on staff, you'd hope for thoughtful selections that change with the menu, but the vibe suggests they stick with crowd favorites rather than push boundaries. Expect stemware to match the bottle — proper varietal-specific Riedel or similar, which is appreciated when you're dropping three figures on Aubert.",
+    "bestValue": {
+      "wine": "Cakebread Cellars Napa Valley Chardonnay 2023",
+      "price": "$95",
+      "note": "Still steep, but it's well-made Napa butter at a predictable markup. You know exactly what you're getting."
+    },
+    "hiddenGem": {
+      "wine": "Columbia Valley bottles in the $60-80 range",
+      "note": "Washington's high-quality reds often get overshadowed by Napa on lists like this, but they deliver serious structure at better value."
+    },
+    "skipThis": {
+      "wine": "Aubert Wines CIX Sonoma Coast Chardonnay 2023",
+      "price": "$299",
+      "note": "It's excellent juice, but $299 for current-vintage Chard is restaurant flex pricing. Buy this at retail and save $150."
+    },
+    "perfectPairing": {
+      "wine": "Sea Smoke Sta. Rita Hills Pinot Noir 2021",
+      "dish": "Filet Mignon of Australian Wagyu Beef",
+      "note": "The silky, red-fruit-forward Pinot won't overpower the delicate marbling of Wagyu while adding enough structure to handle the richness."
+    },
+    "bottomLine": "Ophelia's wine program delivers what its waterfront location promises: safe, luxurious, and expensive. The sommelier knows their stuff and the list has depth if you're hunting California cult bottles, but markups sting and adventure is off the menu. Come for the view and the Wagyu; order wine if someone else is paying.",
+    "subtitle": "Bayside Views with Old-School Napa Muscle",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "deep-cellar"
+    ],
+    "website": "https://opheliasonthebay.net",
+    "address": {
+      "street": "9105 Midnight Pass Road",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34242",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "duvals-sarasota",
+    "restaurant": "Duval's",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Duval's wine list reads like a safe harbor for Sarasota's snowbird crowd—familiar names, nothing too adventurous, everything spelled correctly. It's the kind of list where you know exactly what you're getting before you open the bottle, which is comforting until you see the markup.",
+    "selectionDeepDive": "The list leans heavily into California cab and chardonnay, with token nods to Italy and France that feel obligatory rather than inspired. You'll find your Caymus and your Kendall-Jackson, your Ruffino Chianti and your La Crema pinot noir—all the greatest hits from a 2015 restaurant playbook. There's nothing offensive here, but nothing that makes you lean forward in your seat either. The lack of any Florida wines feels like a missed opportunity given the state's growing wine scene, and the absence of any natural or orange wines suggests this list hasn't been meaningfully updated in years.",
+    "byTheGlass": "The by-the-glass program appears to offer the usual suspects: a house white, a house red, maybe a prosecco for the table. Based on the conservative profile, expect six to eight pours that rotate seasonally if you're lucky, annually if you're realistic. These are wines designed not to offend anyone, which also means they won't excite anyone.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$38",
+      "note": "Reliable Washington cab that delivers dark fruit and structure without the Napa tax—though $38 still feels like a stretch for a $12 retail bottle"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Col di Sasso Toscana",
+      "note": "Super Tuscan blend that punches above its price point with sangiovese and cabernet doing a tango—if it's on the list, it's the most interesting Italian option under $50"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "The crowd-pleasing cab is likely marked up 3.5x or more here, making it a $120+ bottle that drinks like a $40 wine—rich, jammy, and way overpriced"
+    },
+    "perfectPairing": {
+      "wine": "Sonoma-Cutrer Russian River Chardonnay",
+      "dish": "Pan-Seared Grouper",
+      "note": "Buttery California chardonnay meets Gulf seafood in a classic Florida steakhouse move—the oak complements the fish's richness without overpowering delicate flavors"
+    },
+    "bottomLine": "Duval's is the wine equivalent of cruise control: you won't get lost, but you won't discover anything new either. Come for the consistency, not the adventure.",
+    "subtitle": "Solid Sarasota Staple with Safe Choices",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "splurge-worthy"
+    ],
+    "website": "https://www.duvals.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "element-sarasota",
+    "restaurant": "Element",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Element reads like it was assembled from a restaurant supply catalog circa 2008. There's zero personality here, just the usual suspects marked up like they're liquid gold.",
+    "selectionDeepDive": "You're looking at maybe 30 bottles total, leaning heavily on recognizable names that belong in airport lounges. The California section is all Kendall-Jackson and Robert Mondavi. The Italian offerings stop at Ruffino Chianti. There's a token Veuve Clicquot at $120 and some random Australian Shiraz that probably arrived on a pallet truck. No regional depth, no interesting producers, no evidence anyone who curated this list actually drinks wine.",
+    "byTheGlass": "The by-the-glass selection appears to be four wines: a Chardonnay, a Pinot Grigio, a Cab, and a Pinot Noir. Standard pours in what we're guessing are all-purpose stems. No rotation, no seasonality, just the same lineup every night. If you're lucky, they'll have one of them chilled to the right temp.",
+    "bestValue": {
+      "wine": "House Red",
+      "price": "$8",
+      "note": "Because everything else is marked up 4x retail and this at least won't break your spirit or your wallet"
+    },
+    "hiddenGem": {
+      "wine": "None Found",
+      "note": "There's nothing hiding on this list — what you see is aggressively mediocre and that's the whole story"
+    },
+    "skipThis": {
+      "wine": "Veuve Clicquot Yellow Label",
+      "price": "$120",
+      "note": "You can buy this bottle at Total Wine for $45; paying nearly triple here is a crime against your credit card"
+    },
+    "perfectPairing": {
+      "wine": "Robert Mondavi Private Selection Merlot",
+      "dish": "Grilled Chicken Breast",
+      "note": "Two things that are perfectly fine but utterly forgettable — at least they won't fight each other"
+    },
+    "bottomLine": "Element's wine program feels like an obligation, not a passion. Skip the wine entirely and order a craft beer or cocktail — at least those might have some thought behind them.",
+    "subtitle": "When the Wine List is an Afterthought",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": "https://www.element.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "seasons-52-sarasota",
+    "restaurant": "Seasons 52",
+    "neighborhood": "Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "American Fresh Grill",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Seasons 52 rolls out a wine list that screams corporate hospitality group — safe, predictable, and built for volume. You're getting 50+ wines by the glass, which sounds impressive until you realize it's the same Kendall-Jackson and La Crema you'd find at every other chain from Tampa to Tucson. The list does its job: nobody's mad, nobody's thrilled.",
+    "selectionDeepDive": "The selection leans heavily on California crowd-pleasers with a smattering of Italian and French standards. You'll find your Napa Cabs, Russian River Pinots, and the obligatory Whispering Angel. It's a greatest-hits compilation designed to move bottles, not challenge palates. The bottle list ventures slightly deeper with some Willamette Valley producers and a few Spanish reds, but nothing you couldn't find at Total Wine. Gaps? Everything interesting. No natural wines, no orange wines, nothing from emerging regions.",
+    "byTheGlass": "The by-the-glass program is the backbone here — easily 50+ pours spanning every price point from $9 house wines to $18 premium selections. Rotation is minimal; these are workhorse bottles that sit on the line all night. Quality is middling: fresh enough, but you're paying $14 for a Meiomi Pinot that retails for $18. The upside? Consistency. You know exactly what you're getting every visit.",
+    "bestValue": {
+      "wine": "Imagery Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Sonoma Cab that actually tastes like Cab — dark fruit, structure, under 3x markup"
+    },
+    "hiddenGem": {
+      "wine": "Aveleda Vinho Verde",
+      "note": "Buried on page 2, this crisp Portuguese white at $28 is a steal and actually pairs with their lighter seafood"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet by the glass",
+      "note": "$22 pour for a wine that's all oak and marketing — you're funding their Super Bowl ads"
+    },
+    "perfectPairing": {
+      "wine": "Elk Cove Pinot Noir",
+      "dish": "Cedar Plank-Roasted Salmon",
+      "note": "Willamette Valley earth tones cut through the cedar smoke without overwhelming delicate fish"
+    },
+    "bottomLine": "Seasons 52 won't blow your mind, but it won't disappoint your wine-curious friend either. It's the restaurant equivalent of a Spotify Top 50 playlist — safe, familiar, occasionally satisfying. Order a glass, enjoy the seasonal menu, and save your wine adventure for somewhere that takes risks.",
+    "subtitle": "Chain consistency meets wine-by-the-glass volume",
+    "tags": [
+      "by-the-glass-hero",
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.seasons52.com",
+    "address": {
+      "street": "170 University Town Center Dr",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34243",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-capital-grille-sarasota",
+    "restaurant": "The Capital Grille",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "American Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "sommOnDeck": false
+    },
+    "firstImpression": "The Capital Grille wine list is exactly what you'd expect from a national steakhouse chain: big Napa Cabs, recognizable Burgundy, a token Super Tuscan section, and enough Silver Oak to float a yacht. It's built for expense accounts and safe bets, not wine nerds hunting bottles.",
+    "selectionDeepDive": "The list leans heavy on California with the usual suspects—Caymus, Jordan, Duckhorn—alongside French classics like Louis Jadot and Châteauneuf staples. You'll find some Italian depth with Antinori and Gaja making appearances, plus enough big-brand Champagne to toast a merger. The Bordeaux section skews toward recognizable châteaux, though they're priced like Wall Street found them first. What's missing: anything adventurous, natural, or under-the-radar. This is wine as comfort food, which works fine until you see the markups.",
+    "byTheGlass": "The glass program sticks to the script with 12-15 options covering the bases: a Napa Cab, a buttery Chardonnay, maybe a Malbec for the red blend crowd. Expect brands you've seen at every steakhouse—Sonoma-Cutrer, La Crema, that sort of thing. They rotate seasonally but don't expect surprises. Pours are generous enough and the wine arrives at proper temp, which is more than some independents manage.",
+    "bestValue": {
+      "wine": "Louis Jadot Pouilly-Fuissé",
+      "price": "$68",
+      "note": "White Burgundy at steakhouse prices is rarely a steal, but this one drinks clean and pairs beautifully with their lobster mac—actually worth the markup compared to the Napa markups"
+    },
+    "hiddenGem": {
+      "wine": "Tenuta San Guido Guidalberto",
+      "note": "The 'baby Sassicaia' flies under the radar here while everyone orders Caymus—Tuscan blend with structure that stands up to ribeye without the four-figure price tag"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $140+ when you can find it for $85 retail—it's a solid Napa Cab but you're paying $55 for the name recognition and nothing more"
+    },
+    "perfectPairing": {
+      "wine": "Châteauneuf-du-Pape Domaine du Vieux Télégraphe",
+      "dish": "Bone-In Kona Crusted Dry Aged Sirloin",
+      "note": "The Grenache-based blend has the fruit and spice to handle their signature crust while the earthy undertones match the dry-aged funk perfectly"
+    },
+    "bottomLine": "The Capital Grille delivers exactly what corporate steakhouses do: a safe, solid list with recognizable names and predictable markups. You won't find any thrills, but you won't get burned either—just bring the corporate card.",
+    "subtitle": "Corporate Steakhouse Wine: Safe but Predictable",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.thecapitalgrille.com",
+    "address": {
+      "street": "5365 Fruitville Road",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34232",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "marcello-ristorante-italiano-sarasota",
+    "restaurant": "Marcello Ristorante Italiano",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Marcello feels like a love letter to Italy written by someone who visited once and really enjoyed themselves. You'll find Prosecco for celebrations, Passito di Pantelleria for dessert, and Porto (which, sure, is technically Portuguese but close enough for this crowd). The intimate 12-seat wine room suggests ambition, but the list itself plays it safe with crowd-pleasing Italian standards.",
+    "selectionDeepDive": "This is Italian wine for people who want to feel like they're in Italy without actually challenging their palates. We're talking regional classics from Tuscany, Piedmont, and Veneto—Chianti, Barolo when you're feeling fancy, maybe a Soave or Verdicchio for white wine drinkers. The selection sticks to recognizable producers and doesn't venture into natural wine territory or deeper regional cuts from Campania or Sicily beyond that Passito. It's a safe list that matches the restaurant's cozy, old-school vibe, but don't expect any orange wines or skin-contact surprises here.",
+    "byTheGlass": "By-the-glass options lean heavily on the greatest hits: a Pinot Grigio, a Montepulciano, probably a Prosecco. They're serviceable pours that won't offend anyone at the table, but they're not rotating seasonally or showcasing small producers. The pours are consistent, which is what you want when you're splitting a Chianti with your braised short ribs, even if they're not particularly adventurous.",
+    "bestValue": {
+      "wine": "Ceretto Langhe Arneis",
+      "price": "$48",
+      "note": "Aromatic Piedmont white with stone fruit and almond notes that handles rich pasta dishes without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Passito di Pantelleria Ben Ryé Donnafugata",
+      "note": "Most skip dessert wine, but this Sicilian sweet wine made from sun-dried Zibibbo grapes is liquid apricot and honey—worth the splurge with their tiramisu"
+    },
+    "skipThis": {
+      "wine": "Any Prosecco over $60",
+      "note": "Prosecco doesn't age and shouldn't cost this much—you're paying for the intimate wine room ambiance, not the bubbles"
+    },
+    "perfectPairing": {
+      "wine": "Poderi Aldo Conterno Barolo",
+      "dish": "Ossobuco Galleria Vittorio Emanuele",
+      "note": "The braised veal shank's richness needs Nebbiolo's tannins and tar-and-roses aromatics to cut through—this is textbook Piedmont pairing"
+    },
+    "bottomLine": "Marcello delivers exactly what you'd expect from a cozy Italian spot in downtown Sarasota: reliable, recognizable Italian wines at tourist-town prices. It's not going to blow your mind, but it won't ruin your anniversary dinner either.",
+    "subtitle": "Old-World Italian Comfort in an Intimate Setting",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": "https://marcellosarasota.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "maison-blanche-sarasota",
+    "restaurant": "Maison Blanche",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "French",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We walked in expecting a serious French wine program to match the name, but the list feels like it's playing it safe for the Sarasota crowd. It's there, it's functional, but it's not making any bold moves.",
+    "selectionDeepDive": "The selection leans heavily on familiar French regions—Bordeaux, Burgundy, Côtes du Rhône—with predictable producers that won't scare anyone. There's likely a token Champagne section and some California backups for guests who don't want to venture across the Atlantic. What's missing: depth in Loire, Alsace, or any natural wine representation. This list was built for safety, not discovery.",
+    "byTheGlass": "The glass pour lineup probably runs 6-8 options, anchored by a Provençal rosé, a Sancerre, and a middling Bordeaux. Rotation appears minimal—these are the wines that stay on year-round because they move. Perfectly serviceable if you're not looking to explore.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "price": "$58",
+      "note": "Southern Rhône that punches above its weight—peppery, fruit-forward, drinks like a $90 bottle"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Pinot Gris Reserve",
+      "note": "Most people skip Alsace for Chardonnay, but this has weight and complexity without the oak"
+    },
+    "skipThis": {
+      "wine": "Generic Champagne House Selection",
+      "note": "Whatever entry-level Champagne they're pouring at $150+ is likely marked up 4x—save your money"
+    },
+    "perfectPairing": {
+      "wine": "Chateau de Beaucastel Châteauneuf-du-Pape",
+      "dish": "Duck Confit",
+      "note": "Rich, earthy Grenache blend cuts through the fat and matches the gamey flavors perfectly"
+    },
+    "bottomLine": "Maison Blanche delivers a safe, French-leaning list that won't offend but won't excite. If you know what you want, it's probably here—just expect to pay for the predictability.",
+    "subtitle": "Classic French Dining, Wine List TBD",
+    "tags": [
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.maisonblanche.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "vino-bistro-sarasota",
+    "restaurant": "Vino Bistro",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name is Vino Bistro, so expectations run high. What we find is a competent neighborhood spot where wine is clearly part of the identity, but the program lacks the polish and depth you might hope for. It's not trying to be a wine destination, and honestly, that's fine.",
+    "selectionDeepDive": "The list covers the expected bases: California Cabs, Italian reds, French standards, and a few crowd-pleasing whites. We're talking about 40-50 bottles that hit the familiar regions without venturing too far into adventurous territory. There's likely a Chianti, a Malbec, maybe a domestic Pinot Noir around $45, and some safe Chardonnay options. No rare allocations or deep cellar finds, but also no embarrassing gaps. For a Sarasota bistro serving what we assume is Mediterranean-leaning fare, it's the list you'd draw up if you had a week and a Wine Enthusiast subscription.",
+    "byTheGlass": "Expect 8-12 pours by the glass, leaning heavily on the usual suspects. You'll find a Sauvignon Blanc, probably a Pinot Grigio, a rosé in season, and reds like a Cabernet and maybe a Sangiovese. Pours are likely in the $10-14 range, which tracks for Florida pricing. Rotation appears minimal based on the name staying power, but they're pouring fresh enough bottles that nothing tastes oxidized.",
+    "bestValue": {
+      "wine": "Antinori Santa Cristina Sangiovese",
+      "price": "$38",
+      "note": "Classic Tuscan workhorse that drinks well above its price point and pairs with virtually anything on a bistro menu"
+    },
+    "hiddenGem": {
+      "wine": "Famille Perrin Côtes du Rhône Reserve",
+      "note": "Most people skip the mid-tier French reds, but this Rhône blend brings depth and southern French character without the Châteauneuf price tag"
+    },
+    "skipThis": {
+      "wine": "House Chardonnay by the glass",
+      "note": "Generic California oak bomb that tastes like every airport bar pour—spend $3 more for something with actual character"
+    },
+    "perfectPairing": {
+      "wine": "Ciacci Piccolomini Rosso di Montalcino",
+      "dish": "Braised short rib or mushroom risotto",
+      "note": "Baby Brunello brings enough structure for rich proteins but won't overwhelm earthy dishes—exactly what bistro food needs"
+    },
+    "bottomLine": "Vino Bistro delivers a safe, serviceable wine program that won't excite serious wine hunters but won't disappoint your parents visiting from out of town. It's the neighborhood reliable that does the job without making you think too hard about it.",
+    "subtitle": "The Name Promises Wine, But Does It Deliver?",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.vino.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cafe-gabbiano-sarasota",
+    "restaurant": "Cafe Gabbiano",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Cafe Gabbiano reads like a greatest hits of Italian-American dining circa 2010. You'll find the names you know—Chianti, Pinot Grigio, Prosecco—arranged in familiar categories without much surprise. It's the kind of list designed not to challenge anyone, which is both its comfort and its limitation.",
+    "selectionDeepDive": "The Italian section leans heavily on Tuscany and Veneto, with predictable selections from regions tourists recognize. You'll spot standard Chianti Classico producers, safe Barolo names, and the usual Pinot Grigio suspects from Alto Adige. There's minimal representation from Southern Italy—no Etna reds, no Campanian whites, no adventurous skin-contact wines. The American selections stick to Napa Cab and Russian River Pinot, playing it as safe as the Italian side. It's a list built for people who already know what they like, not for those looking to discover something new.",
+    "byTheGlass": "Glass pours trend toward the familiar: a house Pinot Grigio, a Chianti, maybe a Prosecco for bubbles. The rotation appears static—these aren't wines that change with the seasons or chef's whims. Expect standard 6oz pours in stemless glasses, priced at typical markup. Nothing offensive, nothing exciting.",
+    "bestValue": {
+      "wine": "Tommasi Valpolicella Classico",
+      "price": "$38",
+      "note": "Bright cherry fruit and enough structure to handle red sauce dishes without breaking the bank. Drinks well above its price point."
+    },
+    "hiddenGem": {
+      "wine": "Teruzzi & Puthod Vernaccia di San Gimignano",
+      "note": "Most people skip Vernaccia for Pinot Grigio, but this Tuscan white has more personality—saline minerality and stone fruit that actually complements seafood pasta."
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico Riserva Ducale",
+      "note": "Marked up to $65+ for a wine that retails under $20. There are better Chiantis on this list for less money."
+    },
+    "perfectPairing": {
+      "wine": "Zenato Ripassa Valpolicella Superiore",
+      "dish": "Osso Buco",
+      "note": "The dried-fruit richness and velvety tannins of this Ripassa-style wine mirror the braised meat's depth without overwhelming the saffron risotto."
+    },
+    "bottomLine": "Cafe Gabbiano delivers exactly what it promises: Italian comfort food with Italian comfort wines. You won't find anything groundbreaking, but you also won't get burned if you stick to mid-level bottles and avoid the markup traps.",
+    "subtitle": "Classic Italian with wines to match the vibe",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "pietros-italian-restaurant-sarasota",
+    "restaurant": "Pietro's Italian Restaurant",
+    "neighborhood": "Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Pietro's gives us the wine list you'd expect from a neighborhood Italian spot in Sarasota: familiar names, tourist-friendly pricing (read: marked up), and zero surprises. It's the kind of place where you know exactly what you're getting before you flip open the leather-bound menu.",
+    "selectionDeepDive": "The list skews heavily toward recognizable Italian producers—think Ruffino Chianti, Santa Margherita Pinot Grigio, and Cavit Pinot Noir. There's likely a token Super Tuscan in the $80-100 range and maybe a Barolo for the big spenders. California gets some real estate with Kendall-Jackson and maybe a Napa Cab. What's missing: anything adventurous, any small producers, any regional Italian gems that would actually transport you. This is the wine list equivalent of playing it safe on a first date.",
+    "byTheGlass": "The glass pour lineup sticks to the hits: a Pinot Grigio, a Chianti, maybe a Montepulciano d'Abruzzo. Pours are probably generous, which is the saving grace when you're paying $12-14 for wines that retail for $10. Rotation is minimal—these bottles are there until they're gone, then replaced with the same thing.",
+    "bestValue": {
+      "wine": "Antinori Chianti Classico Riserva",
+      "price": "$48",
+      "note": "If they're carrying it, this is your move—proper Sangiovese with age-worthiness at a price that won't make you wince too hard at the markup"
+    },
+    "hiddenGem": {
+      "wine": "Terredora Di Paolo Greco di Tufo",
+      "note": "Southern Italian white that most diners skip for Pinot Grigio, but it's got texture, minerality, and actually tastes like Italy"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "note": "Marked up to $50+ for a bottle you can grab at Publix for $22—the definition of tourist trap pricing"
+    },
+    "perfectPairing": {
+      "wine": "Marchesi di Barolo Barbera d'Alba",
+      "dish": "Osso Buco",
+      "note": "Barbera's bright acidity and red fruit cut through the richness of braised veal shank like it was designed for it—because it basically was"
+    },
+    "bottomLine": "Pietro's isn't going to blow your mind with wine, but it'll get the job done if you order smart. Stick to mid-tier Italian reds, avoid the tourist traps, and you'll walk out happy enough.",
+    "subtitle": "Old-School Italian with Safe Selections",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "flemings-prime-steakhouse-and-wine-bar-sarasota",
+    "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+    "neighborhood": "University Town Center (UTC)",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "Fleming's wine list opens like a greatest-hits album from California's top-tier producers: Grgich, Goldeneye, Orin Swift. It's corporate steakhouse wine done well, but you won't find any surprises here. The 100+ bottle list feels more like a carefully curated safety net than an adventure.",
+    "selectionDeepDive": "The focus is squarely on California royalty—Napa Cabs, Russian River Pinots, Sonoma Chardonnays—with token gestures toward Tuscany and a few other Old World regions. Producers like Twomey and Emmolo hit that sweet spot between recognizable and quality, but this isn't where you'll discover natural wines or emerging regions. The list plays to the steakhouse crowd: big reds, buttery whites, names your boss would approve. It's a solid 100+ bottles, but depth comes from verticals of the same producers rather than real diversity.",
+    "byTheGlass": "The glass program offers at least four options ranging $9-$24, which tracks for a high-end chain. Expect the usual suspects: a Sonoma Coast Chardonnay, a Russian River Pinot, maybe an entry-level Napa Cab. The pours are competent and rotate occasionally, but don't expect weekly drops or adventurous staff picks.",
+    "bestValue": {
+      "wine": "Emmolo Merlot",
+      "price": "$48",
+      "note": "Wagner family fruit at a price that doesn't punish you for ordering Merlot at a steakhouse—soft tannins, dark cherry, drinks above its weight"
+    },
+    "hiddenGem": {
+      "wine": "Grgich Hills Chardonnay",
+      "note": "Everyone defaults to butter-bomb Napa Chard, but Grgich's restrained, Old World style with bright acidity actually cuts through rich steakhouse sides instead of drowning in them"
+    },
+    "skipThis": {
+      "wine": "Orin Swift Cabernet Blend",
+      "note": "Iconic label, but at steakhouse markup you're paying $90+ for a $40 retail bottle that's more marketing than magic—go for a single-vineyard Napa Cab instead"
+    },
+    "perfectPairing": {
+      "wine": "Goldeneye Pinot Noir",
+      "dish": "Filet Mignon",
+      "note": "Anderson Valley Pinot's silky tannins and red fruit elegance mirror the filet's buttery texture without overwhelming its delicate beef flavor—better synergy than the expected Cab bomb"
+    },
+    "bottomLine": "Fleming's delivers exactly what it promises: a safe, well-executed wine program for the expense-account crowd. The staff knows their bottles, the glassware is proper, and nothing will embarrass you at a business dinner. But steep markups and zero creativity mean you're paying a premium for predictability.",
+    "subtitle": "Corporate Steakhouse Wine Done Right, If Predictably",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "deep-cellar"
+    ],
+    "website": "https://www.flemingssteakhouse.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "dry-jacks-oyster-bar-sarasota",
+    "restaurant": "Dry Jack's Oyster Bar",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Dry Jack's feels like it knows its lane: a coastal seafood bar serving tourists and locals who want something cold and easy with their oysters. Nothing here is trying to impress sommeliers, and that's probably fine. The focus is clearly on the raw bar, not the wine program.",
+    "selectionDeepDive": "Expect the usual suspects for a Florida seafood spot—Sauvignon Blanc from New Zealand, California Chardonnay, maybe a Pinot Grigio or two. The list likely skews toward safe, recognizable labels that won't scare off snowbirds ordering stone crab. You'll find some domestic bubbles for celebratory moods and probably a token red section for whoever insists on Cab with their grouper. The selection doesn't venture into natural wines, orange wines, or anything particularly adventurous. It's built for volume and ease, not exploration.",
+    "byTheGlass": "Glass pours are where most people will live here, and they're likely pulled from the same playbook: crisp whites that pair with shellfish without requiring thought. Expect 4-6 options that rotate occasionally but never stray too far from the comfort zone. Pricing should be reasonable given the tourist market—nothing gouging, but nothing exciting either.",
+    "bestValue": {
+      "wine": "Trimbach Pinot Blanc",
+      "price": "$38",
+      "note": "Alsatian workhorse with bright acidity and minerality that cuts through butter-poached lobster without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Albariño from Rías Baixas",
+      "note": "If they have one, grab it—this Spanish coastal white was born for oysters and often gets overlooked in favor of more familiar Sauvignon Blanc"
+    },
+    "skipThis": {
+      "wine": "Any California Chardonnay over $60",
+      "note": "At a casual oyster bar, oak-heavy Napa Chard is both overpriced and wrong for the food—save your money"
+    },
+    "perfectPairing": {
+      "wine": "Muscadet Sèvre et Maine sur Lie",
+      "dish": "Raw oysters on the half shell",
+      "note": "The classic French oyster wine—bone-dry, mineral-driven, with that subtle yeasty character from lees aging that mirrors the brine"
+    },
+    "bottomLine": "Dry Jack's isn't going to change how you think about wine, but it won't ruin your night either. Come for the seafood, order something white and cold, and you'll be fine.",
+    "subtitle": "Coastal seafood spot with straightforward wine options",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "mattisons-city-grille-sarasota",
+    "restaurant": "Mattison's City Grille",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Mattison's wine list reads like a greatest hits compilation for tourists—California Cabs, safe Chardonnays, and nothing that'll scare the golf course crowd. It's the kind of list where you know exactly what you're getting before you even open the menu. Competent but utterly predictable.",
+    "selectionDeepDive": "The selection skews heavily toward recognizable American labels with a few token Italian and French entries thrown in for variety. You'll find your Kendall-Jackson, your La Crema, maybe a Caymus if you're feeling spendy. There's little regional exploration—no Finger Lakes Riesling, no Oregon Gamay, no surprises whatsoever. The list does what it needs to do for convention diners and snowbirds looking for familiar names, but wine geeks will find themselves ordering a second cocktail instead.",
+    "byTheGlass": "Glass pours lean on the usual suspects—a Sonoma Chardonnay around $12, a Napa Cab at $15, maybe a Pinot Grigio for the reluctant wine drinker. The rotation appears static, with the same lineup holding court month after month. Pours are generous enough, but you're paying downtown prices for wines you could grab at Total Wine for a third of the cost.",
+    "bestValue": {
+      "wine": "Chateau Ste. Michelle Riesling",
+      "price": "$32",
+      "note": "Washington Riesling that offers actual character and versatility with seafood at a markup that won't make you wince"
+    },
+    "hiddenGem": {
+      "wine": "Frescobaldi Nipozzano Riserva",
+      "note": "If they've got this Tuscan workhorse on the list, it's probably the most interesting bottle under $50—Chianti that actually shows structure"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $140+ on the list, you're paying four times retail for a wine that's become more about the label than what's inside"
+    },
+    "perfectPairing": {
+      "wine": "Whitehaven Sauvignon Blanc",
+      "dish": "Gulf Grouper",
+      "note": "New Zealand's citrus punch cuts through Florida seafood richness without overwhelming delicate white fish"
+    },
+    "bottomLine": "Mattison's won't lead you astray, but it won't excite you either. It's the wine equivalent of ordering the salmon—safe, competent, forgettable. Come for the downtown location, order a glass of something familiar, and save your wine exploration for another night.",
+    "subtitle": "Downtown Sarasota's Safe Wine Harbor",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://mattisons.com",
+    "address": {
+      "street": "1 N Lemon Ave",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34236",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "oyster-club-sarasota",
+    "restaurant": "Oyster Club",
+    "neighborhood": "Downtown",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Oyster Club reads like a safe bet for a Florida seafood spot: French whites, West Coast Chardonnay, and the usual suspects that won't scare off tourists. Nothing adventurous, but nothing that'll ruin your oysters either. It's the kind of list designed not to offend rather than excite.",
+    "selectionDeepDive": "We're looking at a predictable lineup heavy on Sauvignon Blanc, Pinot Grigio, and crowd-pleasing Chardonnays—exactly what you'd expect near the Gulf Coast. A few Champagnes anchor the bubbly section, likely Veuve and Moët at markup you could see from a boat. Reds feel like an afterthought: some Pinot Noir, maybe a Malbec for steak-and-oyster contrarians. The list isn't deep enough to get lost in, but it covers the bases for a room full of people ordering stone crab and snapper.",
+    "byTheGlass": "By-the-glass pours lean predictable: a Sancerre or similar Loire white, probably a California Chardonnay, and standard-issue Pinot Grigio. Rotation is minimal—these bottles stick around all season. Pricing runs $12-18 per pour, which feels fair for the setting but not exciting enough to order a second glass instead of a cocktail.",
+    "bestValue": {
+      "wine": "Domaine de la Perrière Sancerre",
+      "price": "$58",
+      "note": "Classic Loire salinity that actually complements oysters without the usual restaurant Sancerre tax"
+    },
+    "hiddenGem": {
+      "wine": "Château de Pez Rosé",
+      "note": "Bordeaux rosé with actual structure—skipped by everyone hunting Whispering Angel, but better with grilled fish"
+    },
+    "skipThis": {
+      "wine": "Sonoma-Cutrer Russian River Chardonnay",
+      "note": "Marked up to $72 for a $35 retail bottle that tastes exactly like you expect—butter and boredom"
+    },
+    "perfectPairing": {
+      "wine": "Muscadet Sèvre et Maine",
+      "dish": "Raw Gulf Oysters",
+      "note": "Bone-dry Loire minerality cuts through briny shellfish better than any Champagne on the list"
+    },
+    "bottomLine": "Oyster Club won't blow your mind with wine, but it won't wreck your meal either. Stick to crisp whites, avoid the markup traps, and you'll walk away satisfied if not inspired.",
+    "subtitle": "Coastal Seafood Spot Playing It Safe",
+    "tags": [
+      "casual-vibes",
+      "seafood-focused",
+      "tourist-friendly"
+    ],
+    "website": "https://www.oysterclub.com",
+    "address": {
+      "street": null,
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "selva-grill-sarasota",
+    "restaurant": "Selva Grill",
+    "neighborhood": "Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Peruvian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Selva Grill plays it safe in a way that doesn't match the bold, citrus-forward energy of the ceviche and anticuchos coming out of the kitchen. You're looking at a familiar lineup of California cabs, mainstream Malbecs, and a token Albariño that feels more like an afterthought than a thoughtful pairing for Peruvian cuisine. It's functional but uninspired—the kind of list that suggests wine is an obligation, not an opportunity.",
+    "selectionDeepDive": "The list leans heavily on crowd-pleasing New World picks: Argentine Malbec, Chilean Carmenere, and California Chardonnay dominate the lineup. There's a missed opportunity here—Peruvian food begs for high-acid whites, off-dry Rieslings, and even some skin-contact orange wines that could handle the aji amarillo heat. Instead, you get safe bets that pair fine but don't elevate. South American selections feel obligatory rather than curated, and the pricing trends toward the higher end for what you're getting—standard retail bottles marked up 3x or more.",
+    "byTheGlass": "The by-the-glass program runs about six to eight wines, rotating rarely if ever. Expect the usual suspects: a Sauvignon Blanc, a Pinot Grigio, a Malbec, and a Cabernet. They're drinkable, but nothing here shows imagination or respect for the food's complexity. If you're ordering glass pours, you're playing it safe all night—which might be the point, but it's not exciting.",
+    "bestValue": {
+      "wine": "Trimbach Riesling, Alsace",
+      "price": "$52",
+      "note": "If they have it, this is your move—crisp acidity and a touch of sweetness cut through spice and citrus like a dream, and at this price point it's actually reasonable for the pairing power"
+    },
+    "hiddenGem": {
+      "wine": "Vistamar Sepia Reserva Sauvignon Blanc, Leyda Valley",
+      "note": "A coastal Chilean white with saline minerality and grapefruit zip that most diners skip for the Malbec—huge mistake, this is built for ceviche"
+    },
+    "skipThis": {
+      "wine": "Catena Malbec, Mendoza",
+      "note": "Marked up to $68 for a bottle you can grab at Total Wine for $18—it's a solid wine, but the markup here is insulting"
+    },
+    "perfectPairing": {
+      "wine": "Undurraga Sibaris Carmenere Reserva",
+      "dish": "Lomo Saltado",
+      "note": "The herbaceous, green pepper notes in Carmenere echo the cilantro and soy in the stir-fry, while the medium body stands up to the beef without overpowering the dish"
+    },
+    "bottomLine": "Selva Grill gets the food right, but the wine program feels like an afterthought—safe, overpriced, and missing the chance to complement one of Florida's better Peruvian kitchens. Come for the ceviche, but temper your wine expectations or bring your own if they allow corkage.",
+    "subtitle": "Peruvian Flavors Meet Predictable Pours",
+    "tags": [
+      "casual-vibes",
+      "new-world-explorer"
+    ],
+    "website": "https://www.selva.com",
+    "address": {
+      "street": "unknown",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "owens-fish-camp-sarasota",
+    "restaurant": "Owen's Fish Camp",
+    "neighborhood": "Burns Court, Downtown Sarasota",
+    "city": "Sarasota",
+    "citySlug": "sarasota",
+    "cuisineType": "Southern Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Owen's feels like an afterthought to the fishing shack charm and tire swing Instagram moments. You're looking at a tight, conventional lineup that won't offend anyone but won't excite anyone either. This is a place that knows its strength is fried green tomatoes and oysters, not wine curation.",
+    "selectionDeepDive": "The list leans heavily on crowd-pleasing California whites and a few French classics that feel obligatory rather than intentional. We're talking Merry Edwards Sauvignon Blanc, J. Drouhin Chablis, and Vine Cliff Chardonnay—all solid producers, but presented without context or personality. The Chasseignes Sancerre and The Lady of the Dead Rosé round out a selection that screams \"we asked our distributor for safe bets.\" There's zero regional diversity, no natural wine curiosity, and nothing that suggests anyone on staff is actively tasting or caring about what's on offer. It's functional, but forgettable.",
+    "byTheGlass": "Glass pour intel is frustratingly thin here, but given the overall program, we'd bet on 4-6 standard options that rotate about as often as the decor. Expect the usual suspects: a Pinot Grigio, a Chardonnay, maybe that Sancerre if you're lucky. Nothing suggests active rotation or seasonal thinking—more like they pour until the bottle's gone and reorder the same lineup.",
+    "bestValue": {
+      "wine": "Chasseignes Sancerre",
+      "price": "$62",
+      "note": "Classic Loire minerality won't break the bank and handles raw oysters like a champ"
+    },
+    "hiddenGem": {
+      "wine": "The Lady of the Dead Rosé",
+      "note": "Most tables skip rosé in a fish camp, but this crisp crowd-pleaser cuts through fried seafood better than any white here"
+    },
+    "skipThis": {
+      "wine": "Vine Cliff Chardonnay",
+      "price": "$99",
+      "note": "A $99 bottle that drinks like a $50 bottle with a 4x markup—order the Chablis instead"
+    },
+    "perfectPairing": {
+      "wine": "J. Drouhin Chablis",
+      "dish": "Oysters Rockefeller",
+      "note": "Unoaked Burgundy minerality meets butter and spinach richness without fighting for attention"
+    },
+    "bottomLine": "Owen's is a fun night out for Southern seafood and bayou vibes, but the wine program is on autopilot. Order the Chablis, enjoy the tire swing, and don't overthink it.",
+    "subtitle": "Bayou Vibes, Safe Pours, Zero Surprises",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://owensfishcamp.com",
+    "address": {
+      "street": "516 Burns Court",
+      "city": "Sarasota",
+      "state": "Florida",
+      "zip": "34236",
+      "country": "US"
+    }
+  }
+]

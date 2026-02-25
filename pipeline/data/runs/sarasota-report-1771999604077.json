@@ -1,0 +1,138 @@
+{
+  "city": "Sarasota",
+  "citySlug": "sarasota",
+  "startedAt": "2026-02-25T06:00:27.531Z",
+  "completedAt": "2026-02-25T06:06:43.706Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 21,
+  "reviewsPublished": 21,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Sage",
+      "slug": "sage-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cooper's Hawk Winery & Restaurant - Sarasota",
+      "slug": "coopers-hawk-winery-and-restaurant-sarasota-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Crow's Nest",
+      "slug": "the-crows-nest-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Grove",
+      "slug": "grove-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Michael's On East",
+      "slug": "michaels-on-east-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ophelia's on the Bay",
+      "slug": "ophelias-on-the-bay-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Duval's",
+      "slug": "duvals-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Element",
+      "slug": "element-sarasota",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Seasons 52",
+      "slug": "seasons-52-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Capital Grille",
+      "slug": "the-capital-grille-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Marcello Ristorante Italiano",
+      "slug": "marcello-ristorante-italiano-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Maison Blanche",
+      "slug": "maison-blanche-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Vino Bistro",
+      "slug": "vino-bistro-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cafe Gabbiano",
+      "slug": "cafe-gabbiano-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Pietro's Italian Restaurant",
+      "slug": "pietros-italian-restaurant-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+      "slug": "flemings-prime-steakhouse-and-wine-bar-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Dry Jack's Oyster Bar",
+      "slug": "dry-jacks-oyster-bar-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Mattison's City Grille",
+      "slug": "mattisons-city-grille-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Oyster Club",
+      "slug": "oyster-club-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Selva Grill",
+      "slug": "selva-grill-sarasota",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Owen's Fish Camp",
+      "slug": "owens-fish-camp-sarasota",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}
