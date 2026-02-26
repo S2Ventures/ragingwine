@@ -1,0 +1,11 @@
+{
+  "city": "Orlando",
+  "citySlug": "orlando",
+  "startedAt": "2026-02-26T05:57:45.263Z",
+  "completedAt": "2026-02-26T05:59:52.535Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 0,
+  "reviewsPublished": 0,
+  "errors": [],
+  "reviews": []
+}

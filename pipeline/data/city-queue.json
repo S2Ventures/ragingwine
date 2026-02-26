@@ -112,7 +112,9 @@
     "citySlug": "orlando",
     "state": "Florida",
     "priority": 10,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-26T05:59:52.535Z",
+    "reviewCount": 0
   },
   {
     "city": "St. Augustine",
