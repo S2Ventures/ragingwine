@@ -121,7 +121,9 @@
     "citySlug": "st-augustine",
     "state": "Florida",
     "priority": 11,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-27T05:53:08.585Z",
+    "reviewCount": 0
   },
   {
     "city": "Fort Lauderdale",
