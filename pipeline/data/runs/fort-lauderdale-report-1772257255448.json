@@ -1,0 +1,192 @@
+{
+  "city": "Fort Lauderdale",
+  "citySlug": "fort-lauderdale",
+  "startedAt": "2026-02-28T05:33:15.468Z",
+  "completedAt": "2026-02-28T05:40:54.608Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 30,
+  "reviewsPublished": 30,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Wine + Garden",
+      "slug": "wine-garden-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Evelyn's",
+      "slug": "evelyns-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Capital Grille",
+      "slug": "the-capital-grille-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Casa D'Angelo",
+      "slug": "casa-dangelo-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Le Bistro",
+      "slug": "le-bistro-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bistro Mezzaluna",
+      "slug": "bistro-mezzaluna-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "JWB Prime Steak and Seafood",
+      "slug": "jwb-prime-steak-and-seafood-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ruth's Chris Steak House",
+      "slug": "ruths-chris-steak-house-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Diplomat Prime",
+      "slug": "diplomat-prime-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cooper's Hawk Winery & Restaurant",
+      "slug": "coopers-hawk-winery-and-restaurant-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Gioia Italy",
+      "slug": "gioia-italy-fort-lauderdale",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "MAASS",
+      "slug": "maass-fort-lauderdale",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Morton's The Steakhouse",
+      "slug": "mortons-the-steakhouse-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Timpano Las Olas",
+      "slug": "timpano-las-olas-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Truluck's Fort Lauderdale",
+      "slug": "trulucks-fort-lauderdale-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "YOLO Restaurant",
+      "slug": "yolo-restaurant-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Seasons 52",
+      "slug": "seasons-52-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cote Fort Lauderdale",
+      "slug": "cote-fort-lauderdale-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Louie Bossi's Ristorante",
+      "slug": "louie-bossis-ristorante-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Archibald's",
+      "slug": "archibalds-fort-lauderdale",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Etaru",
+      "slug": "etaru-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Agave Blu",
+      "slug": "agave-blu-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Wild Thyme Oceanside Eatery",
+      "slug": "wild-thyme-oceanside-eatery-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Lobster Bar Sea Grille",
+      "slug": "lobster-bar-sea-grille-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Hilton Fort Lauderdale Marina Restaurant",
+      "slug": "hilton-fort-lauderdale-marina-restaurant-fort-lauderdale",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Boatyard",
+      "slug": "boatyard-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Coconuts",
+      "slug": "coconuts-fort-lauderdale",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Rustic Inn Crabhouse",
+      "slug": "rustic-inn-crabhouse-fort-lauderdale",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "15th Street Fisheries",
+      "slug": "15th-street-fisheries-fort-lauderdale",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Casale Pio",
+      "slug": "casale-pio-fort-lauderdale",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}

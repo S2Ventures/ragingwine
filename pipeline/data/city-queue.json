@@ -130,7 +130,9 @@
     "citySlug": "fort-lauderdale",
     "state": "Florida",
     "priority": 12,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-02-28T05:40:54.608Z",
+    "reviewCount": 30
   },
   {
     "city": "Gulf Shores",

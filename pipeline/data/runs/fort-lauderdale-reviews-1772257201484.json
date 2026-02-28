@@ -1,0 +1,1588 @@
+[
+  {
+    "slug": "wine-garden-fort-lauderdale",
+    "restaurant": "Wine + Garden",
+    "neighborhood": "Central Beach",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Fifty bottles at an Italian spot steps from Fort Lauderdale Beach sounds tight, but Wine + Garden keeps it focused and coastal-friendly. The list leans into accessible Italian reds and whites that make sense with pizza and pasta under twinkling garden lights. Monday's 50% off bottles under $100 immediately changes the math.",
+    "selectionDeepDive": "The list skews Italian-forward with predictable Tuscan reds and Pinot Grigio workhorses, but there's enough range to keep things interesting. Expect Chianti Classico from solid producers, a Barolo or two for splurges, and probably some Sicilian whites to match the branzino. The 50-bottle count means no deep verticals or obscure regions, but it's curated for the crowd — beachgoers who want something better than grocery store juice without the intimidation factor. No sommelier on staff means you're working with servers who know the basics but won't geek out on vineyard parcels.",
+    "byTheGlass": "The glass selection isn't documented, but at a 50-bottle Italian spot, we're likely looking at 6-8 pours heavy on Prosecco, Pinot Grigio, and Chianti. Rotation is probably seasonal at best — think set-it-and-forget-it with occasional swaps when bottles run dry. The garden vibe suggests stemless tumblers for outside seating, which tracks for the casual-romantic atmosphere they're building.",
+    "bestValue": {
+      "wine": "Antinori Villa Antinori Rosso Toscana",
+      "price": "$48 ($24 on Monday)",
+      "note": "Super Tuscan blend that drinks well above its weight, especially at half-price — Sangiovese backbone with enough Cabernet to handle the heartier pasta dishes"
+    },
+    "hiddenGem": {
+      "wine": "Planeta La Segreta Bianco",
+      "note": "Sicilian white blend most people sleep on because they default to Pinot Grigio — citrus-driven with enough body to stand up to the Ravioli di Aragosta without competing"
+    },
+    "skipThis": {
+      "wine": "Any Pinot Grigio over $40",
+      "note": "Unless it's Alto Adige single-vineyard, you're overpaying for crowd-pleaser juice that should live in the $28-35 range, even at beach markups"
+    },
+    "perfectPairing": {
+      "wine": "Mastroberardino Radici Taurasi",
+      "dish": "Branzino",
+      "note": "Counterintuitive move — Southern Italian red with structure meets whole roasted fish, the wine's volcanic minerality and red fruit cut through the char while respecting the delicate flesh"
+    },
+    "bottomLine": "Wine + Garden won't blow your mind with depth, but it's a solid neighborhood Italian where the wine list does its job without fuss. Monday nights turn it into a legitimate value play — $24 Barolos by the garden make it worth the trip.",
+    "subtitle": "Beachside Italian with a Monday steal",
+    "tags": [
+      "date-night",
+      "patio-pour",
+      "casual-vibes"
+    ],
+    "halfPriceWineNight": {
+      "day": "Monday",
+      "details": "50% off all wines under $100"
+    },
+    "website": "https://www.wineandgarden.com",
+    "address": {
+      "street": "3115 Terramar St",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "zip": "33304",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "evelyns-fort-lauderdale",
+    "restaurant": "Evelyn's",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Evelyn's presents a wine list that doesn't try to be something it's not — this is Fort Lauderdale dining done right, with enough familiar names to keep the boat crowd happy and prices that won't make you wince. The vibe is neighborhood-friendly, the kind of place where you can order a bottle without feeling like you need to study for it.",
+    "selectionDeepDive": "The list leans heavily into California and France, with the usual suspects filling most slots — think Josh Cellars, La Crema, and accessible Bordeaux blends. There's a respectable Italian section with Chianti Classico and Pinot Grigio standards, plus a few Spanish Tempranillos that show someone's paying at least some attention. What's missing is depth: no natural wines, no adventurous producers, no real regional exploration. It's the wine equivalent of a greatest hits album — nothing wrong with it, but don't expect deep cuts.",
+    "byTheGlass": "The by-the-glass program runs about 8-10 pours, rotating seasonally with safe bets like Sonoma Chardonnay, Napa Cab, and Provence rosé. You'll find a Prosecco and maybe a Sancerre if you're lucky. Everything's priced in the $12-16 range, which feels about right for the market. The pours are generous and the wines are fresh enough, though we suspect they're not flying through bottles fast enough to keep everything at peak performance.",
+    "bestValue": {
+      "wine": "Commanderie de la Bargemone Coteaux d'Aix-en-Provence Rosé",
+      "price": "$42",
+      "note": "Southern French rosé with actual structure and personality, priced fairly for a bottle that drinks well above its weight class"
+    },
+    "hiddenGem": {
+      "wine": "Tinto Pesquera Ribera del Duero",
+      "note": "Most people skip Spanish reds in Florida, but this Tempranillo brings dark fruit and structure that handles richer dishes better than the California crowd-pleasers"
+    },
+    "skipThis": {
+      "wine": "Caymus Napa Valley Cabernet",
+      "note": "At $120+, this tourist trap Cab is marked up to the moon — you're paying for the name, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Meiomi Pinot Noir",
+      "dish": "Grilled Atlantic Salmon",
+      "note": "This fruit-forward Pinot has enough weight to stand up to salmon's richness without overpowering the fish"
+    },
+    "bottomLine": "Evelyn's isn't going to blow your mind, but it's not trying to. This is a reliable neighborhood spot where you can drink decently without drama. Come for the food, order a bottle you recognize, and you'll walk out happy.",
+    "subtitle": "Fort Lauderdale's Solid Neighborhood Wine Play",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-capital-grille-fort-lauderdale",
+    "restaurant": "The Capital Grille",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "American Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Proper",
+      "byTheGlass": "Solid Range"
+    },
+    "firstImpression": "The Capital Grille wine list is exactly what you'd expect from a national chain steakhouse: safe, familiar, and designed not to offend anyone. It's a leather-bound book of Napa Cabs, big-name Bordeaux, and exactly zero surprises. This is wine-by-committee, built for expense accounts.",
+    "selectionDeepDive": "The list leans heavily on California prestige labels and French blue chips—think Silver Oak, Caymus, Jordan, with some Penfolds and Antinori thrown in for international flair. You'll find a respectable Bordeaux section with recognizable châteaux, though mostly from accessible vintages. The Italian section plays it safe with Super Tuscans and Amarone. What's missing: anything remotely adventurous, any natural producers, any reason to get excited. It's a wine list built for people who order wine because they're supposed to, not because they want to.",
+    "byTheGlass": "The glass pour program hits the expected notes—a Napa Cab, a Willamette Pinot, a Sancerre, maybe a Malbec. Pours are generous and the selection rotates seasonally, but don't expect anything to challenge your palate. Prices by the glass hover in the $14-$22 range, which isn't unreasonable but isn't exciting either. They'll have something drinkable, just nothing memorable.",
+    "bestValue": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "price": "$42",
+      "note": "One of the few lighter reds on a Cab-heavy list, drinks well and won't bankrupt you for a Tuesday night steak"
+    },
+    "hiddenGem": {
+      "wine": "Antinori Pèppoli Chianti Classico",
+      "note": "Everyone sleeps on this because they're hunting trophy Napa Cabs, but it's got structure, acid, and plays beautifully with the dry-aged ribeye"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Alexander Valley Cabernet",
+      "note": "Marked up to $175+ when you can find it for $75 retail—the poster child for steakhouse wine pricing"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Lobster Mac & Cheese",
+      "note": "The only white with enough acid to cut through all that cream and butter—everyone orders Chardonnay here and regrets it"
+    },
+    "bottomLine": "The Capital Grille delivers exactly what it promises: a predictable, well-executed wine program with corporate polish and corporate markup. If you're here on someone else's dime and need a safe Cab, you'll be fine. If you're looking for discovery or value, order a cocktail.",
+    "subtitle": "Corporate Wine List Meets Corporate Steakhouse",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.thecapitalgrille.com",
+    "address": {
+      "street": "2430 E Sunrise Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33304",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "casa-dangelo-fort-lauderdale",
+    "restaurant": "Casa D'Angelo",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Casa D'Angelo feels like it was assembled a decade ago and hasn't been touched since. It's the kind of Italian-American setup where you know exactly what you're getting before you even open the book: Super Tuscans, Barolos with restaurant markup, and safe Pinot Grigios that won't offend anyone.",
+    "selectionDeepDive": "The Italian focus is obvious but uninspired—heavy on recognizable names from Tuscany and Piedmont without much depth in regions like Sicily, Campania, or the emerging areas doing exciting work. You'll find the usual suspects: Antinori, Gaja, maybe a Brunello or two priced like they're serving liquid history. The list plays it safe with crowd-pleasers that tourists expect at an upscale Italian joint, which means you're paying for familiarity rather than discovery. There's minimal representation from smaller producers or natural winemakers, and the selection feels frozen in the early 2010s wine boom.",
+    "byTheGlass": "The by-the-glass program is functional but forgettable—probably six to eight pours that rotate about as often as the décor. Expect a Pinot Grigio from Alto Adige, a Chianti Classico, maybe a Barbera, and an overpriced Sangiovese that should cost half what they're charging. The pours are generous enough, but nothing here suggests they're thinking creatively about glass service or using it to introduce diners to anything unexpected.",
+    "bestValue": {
+      "wine": "Terre di Balbia Falanghina",
+      "price": "$42",
+      "note": "If they stock this Campanian white, it's your escape hatch from boring Pinot Grigio—crisp, mineral-driven, and priced somewhat reasonably for what you get"
+    },
+    "hiddenGem": {
+      "wine": "Vajra Langhe Rosso",
+      "note": "A Nebbiolo-based blend that drinks like baby Barolo without the $120 markup—assuming it's on the list and not buried under the Super Tuscans"
+    },
+    "skipThis": {
+      "wine": "Any Chianti Classico Riserva over $75",
+      "note": "Restaurant markup on these is brutal, and you're paying double what you would at retail for a wine that's solid but not special"
+    },
+    "perfectPairing": {
+      "wine": "Donnafugata Cerasuolo di Vittoria",
+      "dish": "Osso Buco",
+      "note": "This Sicilian red has the fruit and structure to stand up to braised veal without overwhelming the dish—if they carry it, it's a move"
+    },
+    "bottomLine": "Casa D'Angelo is fine if you're here for the pasta and need something drinkable, but the wine program feels like an afterthought. Limited intel aside, this reads like a place where the list exists to check a box rather than enhance your meal—order conservatively and don't expect discovery.",
+    "subtitle": "Old-School Italian with Predictable Wine Safe Plays",
+    "tags": [
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.casa-d-angelo.com",
+    "address": {
+      "street": "1201 N Federal Hwy",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33304",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "le-bistro-fort-lauderdale",
+    "restaurant": "Le Bistro",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "French Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Le Bistro reads like what you'd expect from a neighborhood French spot in South Florida — nothing flashy, but the bones are there. It's clearly built for the regulars who want a glass of something European without needing a translator.",
+    "selectionDeepDive": "The list skews Old World, leaning into French standards with a handful of Italian and Spanish options to round things out. You'll find classic appellations — Bordeaux, Burgundy, Loire — but the depth within each region is modest. It's the kind of list where you can get a respectable Côtes du Rhône or a solid village-level Burgundy without breaking the bank, but don't expect verticals or grower Champagnes. A few Napa Cabs show up for the snowbirds who need something familiar.",
+    "byTheGlass": "The glass program keeps it simple — we're guessing six to eight pours that hit the main bases. Expect a Provençal rosé, a Sancerre or Pouilly-Fumé, something red from the Rhône, and probably a Chianti. Rotation seems limited, but the standards are reliable enough for a weeknight dinner.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône 'Terre d'Argile'",
+      "price": "$42",
+      "note": "Grenache-forward blend that punches well above its appellation — raspberry, white pepper, and garrigue for the price of a nice steak"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Huet Vouvray Sec 'Le Mont'",
+      "note": "Chenin Blanc from one of the Loire's legends — most people reach for Sancerre, but this has more texture and better aging potential"
+    },
+    "skipThis": {
+      "wine": "Generic Champagne NV at $95+",
+      "note": "If they're charging near three figures for a non-vintage grower you've never heard of, you're paying for the bubbles, not the quality"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Pinot Gris Reserve",
+      "dish": "Coq au Vin",
+      "note": "Alsatian richness and spice cut through the wine-braised chicken while matching the earthiness of mushrooms and lardons"
+    },
+    "bottomLine": "Le Bistro delivers what a neighborhood French place should: honest wines at fair prices without trying to be something it's not. Limited intel keeps us from going higher, but the fundamentals seem sound for a casual dinner.",
+    "subtitle": "Classic French bistro with solid Old World selections",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": "https://www.le.com",
+    "address": {
+      "street": null,
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bistro-mezzaluna-fort-lauderdale",
+    "restaurant": "Bistro Mezzaluna",
+    "neighborhood": "Harbordale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Bistro Mezzaluna reads like a greatest hits compilation from 2008 — safe, recognizable, predictable. It's the kind of list that won't offend anyone but won't surprise anyone either. Fifty bottles strong with a solid eighteen by-the-glass pours, it's built for the crowd that knows what they like and likes what they know.",
+    "selectionDeepDive": "The Italian section leans heavily on Tuscan crowd-pleasers like Ruffino Riserva Ducale Chianti and the ubiquitous Santa Margherita Pinot Grigio — safe choices that pair well with the homemade pastas but lack the regional depth you'd hope for at an upscale Italian spot. California gets its due with Kendall Jackson Chardonnay and Etude Lyric Pinot Noir, both solid producers but safe picks that every wine list in America stocks. There's a smattering of New Zealand Sauvignon Blanc to round things out, but the list feels more like a steakhouse wine program than an Italian bistro exploring the Boot's incredible diversity. No Barolo, no Brunello, no skin-contact whites, no volcanic wines from the south — just the hits.",
+    "byTheGlass": "Eighteen glass pours at $10-$18 is a decent spread for a neighborhood spot, and the range covers the bases from Pinot Grigio to Chianti to Pinot Noir. The Ruffino Lumina Pinot Grigio and Santa Margherita options give guests two takes on Italy's most-ordered white, while the Veuve Clicquot by the glass is a nice touch for celebrations. The problem is rotation — this feels like a set-it-and-forget-it program with no seasonal changes or adventurous pours to keep regulars engaged.",
+    "bestValue": {
+      "wine": "Ruffino Riserva Ducale Chianti Classico Riserva",
+      "price": "$58",
+      "note": "A classic Tuscan that over-delivers on structure and complexity, perfect with their U.S.D.A. prime steaks and won't break the bank"
+    },
+    "hiddenGem": {
+      "wine": "Etude Lyric Pinot Noir",
+      "note": "Most diners skip past this for the bigger Cabs, but Etude's Carneros fruit has elegance and restraint that shines with their pasta dishes"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "price": "$68",
+      "note": "You're paying $68 for a bottle you can find at Total Wine for $22 — the markup here is aggressive for a wine this mass-produced"
+    },
+    "perfectPairing": {
+      "wine": "Ruffino Riserva Ducale Chianti Classico Riserva",
+      "dish": "Homemade Pappardelle with Bolognese",
+      "note": "Sangiovese's bright acidity and cherry notes cut through rich meat sauce while the wine's earthy tannins echo the dish's savory depth"
+    },
+    "bottomLine": "Bistro Mezzaluna delivers exactly what its loyal Harbordale crowd wants: familiar wines that pair well with excellent Italian-American cooking, served with warmth and no pretense. The list won't thrill wine geeks, but it won't disappoint your parents either.",
+    "subtitle": "Solid Italian Picks Without the Wine Bar Pretense",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.bistromezzaluna.com",
+    "address": {
+      "street": "1821 SE 10th Avenue",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "zip": "33316",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "jwb-prime-steak-and-seafood-fort-lauderdale",
+    "restaurant": "JWB Prime Steak and Seafood",
+    "neighborhood": "Hollywood",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Steak and Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "JWB Prime signals serious steakhouse aspirations with its wine pairing program, though the list itself plays it safer than the high-ticket entrees suggest. The atmosphere leans upscale prime steakhouse, but the wine program feels like it's still finding its footing—there's effort here, just not the depth you'd expect at these prices.",
+    "selectionDeepDive": "The list sticks to the steakhouse playbook: California Cabs, some Napa heavy-hitters, a token Malbec section, and predictable Chardonnays. You'll find recognizable names like Caymus and Silver Oak doing the heavy lifting, but don't expect surprises or deep regional cuts. The Old World section exists but feels like an afterthought—a few Bordeaux and Super Tuscans that read more like checkbox inclusions than thoughtful curation. For a restaurant pushing $50+ entrees, the wine program could use more personality and less reliance on the usual suspects.",
+    "byTheGlass": "Glass pours lean toward safe, familiar territory—think Kendall-Jackson Chardonnay and entry-level Merlots that won't offend but won't excite either. The rotation appears minimal, with the same lineup holding court week after week. It's functional for casual diners who want a glass with their ribeye, but anyone hoping for interesting by-the-glass options will feel the limitations quickly.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$48",
+      "note": "Washington overdelivers at this price point—dark fruit, structure for steak, without the Napa tax"
+    },
+    "hiddenGem": {
+      "wine": "Catena Malbec",
+      "note": "Often overlooked in favor of Cabs, but the Argentine has the tannin and weight to stand up to char-crusted beef at half the markup"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up 4x for name recognition alone—you're paying for the label, not the juice in the glass"
+    },
+    "perfectPairing": {
+      "wine": "Stag's Leap Artemis Cabernet Sauvignon",
+      "dish": "Bone-In Ribeye",
+      "note": "Classic Napa structure with enough elegance to complement the char without overwhelming the beef's richness"
+    },
+    "bottomLine": "JWB Prime delivers on the steakhouse experience but the wine list needs more courage to match the kitchen's ambitions. It's solid enough if you know what to order, but you're paying steakhouse prices for grocery store depth.",
+    "subtitle": "Prime Steaks Meet Wine Pairing Ambitions",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Hollywood",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ruths-chris-steak-house-fort-lauderdale",
+    "restaurant": "Ruth's Chris Steak House",
+    "neighborhood": "Coral Ridge",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Ruth's Chris reads exactly like you'd expect from a national steakhouse chain: heavy on Napa Cabs, a few token Burgundies at trophy prices, and safe pours designed not to offend anyone with an expense account. It's a list built for closing deals, not discovering anything new.",
+    "selectionDeepDive": "The California section dominates with predictable players like Caymus, Jordan, and Silver Oak at markups that sting. You'll find a respectable showing of big Napa Cabernets in the $80-150 range, some Argentina Malbecs for the value-seekers, and a Bordeaux section that leans heavily on recognizable châteaux at 3-4x retail. The list plays it safe across the board—no natural wines, no orange experiments, nothing that would make a traditionalist uncomfortable. It's wine for people who order wine because they're supposed to, not because they're curious.",
+    "byTheGlass": "The by-the-glass program sticks to the script with about 8-12 selections spanning the usual suspects: a California Chardonnay, a Pinot Noir, a few Cabs at different price points. They rotate occasionally but don't push boundaries—think Kendall-Jackson, not skin-contact Ribolla Gialla. The pours are generous and the service is efficient, which counts for something when you just want a solid glass with your ribeye.",
+    "bestValue": {
+      "wine": "Francis Coppola Diamond Collection Cabernet Sauvignon",
+      "price": "$48",
+      "note": "Reliable Napa-adjacent Cab that drinks clean with your steak and won't make you wince at the markup"
+    },
+    "hiddenGem": {
+      "wine": "Catena Zapata Malbec Argentino",
+      "note": "Most people overlook the Argentina section entirely, but this is serious juice that can hang with the Porterhouse for less money"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a wine you can find at Total Wine for $85—the steakhouse tax at its worst"
+    },
+    "perfectPairing": {
+      "wine": "Penfolds Bin 389 Cabernet-Shiraz",
+      "dish": "Bone-in Ribeye",
+      "note": "The Aussie blend has the structure to match the char and fat, with enough fruit intensity to not get buried by Ruth's butter-sizzle style"
+    },
+    "bottomLine": "Ruth's Chris delivers exactly what corporate steakhouse wine programs deliver: safe selections, steep markups, and zero surprises. You won't drink badly here, but you won't discover anything either.",
+    "subtitle": "Corporate Steakhouse Wine, By the Book",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.ruthschris.com",
+    "address": {
+      "street": "2525 N Federal Hwy",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33305",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "diplomat-prime-fort-lauderdale",
+    "restaurant": "Diplomat Prime",
+    "neighborhood": "Hollywood",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Diplomat Prime reads like what you'd expect from a resort steakhouse: safe, comfortable, designed not to scare anyone away. It's the kind of list that pairs well with expense accounts and special occasions where the wine isn't supposed to steal the show from that 10oz Prime Filet.",
+    "selectionDeepDive": "The selection leans heavily on Napa Cabs and well-known Bordeaux châteaux—think Silver Oak, Caymus, and entry-level Pauillac that gets the job done without raising eyebrows. There's likely a token Italian section (Super Tuscans, maybe a Barolo) and some Burgundy for the table that wants to flex, but depth isn't the goal here. The list plays to steakhouse convention: big reds that can stand up to butter-basted beef, a few trophy bottles for the high rollers, and enough recognizable labels that no one feels lost. What's missing is personality—no small growers, no regional detours, no reason to get excited beyond pairing something appropriate with your steak.",
+    "byTheGlass": "By-the-glass options are serviceable but predictable. You're looking at the usual suspects: a Sonoma Chardonnay, a Malbec from Argentina, maybe a Pinot Noir that could be from anywhere. Pours are probably in the $15-20 range for mid-tier wines that retail for $18. It's not offensive, but it's not inspired either—more airport lounge than wine bar.",
+    "bestValue": {
+      "wine": "2019 Domaine de la Côte Pinot Noir 'Bloom's Field'",
+      "price": "$85",
+      "note": "If they stock it, this Santa Rita Hills producer delivers Burgundian finesse at California prices—elegant enough for octopus, structured enough for steak"
+    },
+    "hiddenGem": {
+      "wine": "2020 Château de Pibarnon Bandol Rouge",
+      "note": "Mourvèdre-based Provençal red that most diners skip for Cab—earthy, meaty, built for that jumbo lump crab cake"
+    },
+    "skipThis": {
+      "wine": "Any Caymus Special Selection over $200",
+      "note": "Classic steakhouse markup on a wine that's everywhere—you're paying $80+ for the name alone"
+    },
+    "perfectPairing": {
+      "wine": "2018 Ridge Lytton Springs Zinfandel",
+      "dish": "10oz Prime Filet Mignon",
+      "note": "Old-vine Zin brings bramble fruit and spice that cuts through the richness without overpowering the beef—more interesting than another Napa Cab"
+    },
+    "bottomLine": "Diplomat Prime is a safe bet if you know what you want and aren't looking for adventure. The list won't surprise you, the staff won't geek out with you, and the markups will remind you that you're in a resort. But for a straightforward steakhouse experience where wine plays supporting actor, it does the job.",
+    "subtitle": "Steakhouse Safety with Upscale Trimmings",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.diplomatprime.com",
+    "address": {
+      "street": "unknown",
+      "city": "Hollywood",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "coopers-hawk-winery-and-restaurant-fort-lauderdale",
+    "restaurant": "Cooper's Hawk Winery & Restaurant",
+    "neighborhood": "Dania Beach",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cooper's Hawk is a winery-restaurant chain that makes its own wines and serves them alongside a menu of crowd-friendly American fare. The list is dominated by house-label bottles — think familiar varietals at approachable price points — with a Wine 'O' Clock Happy Hour that runs weekday afternoons.",
+    "selectionDeepDive": "The wine program leans heavily on Cooper's Hawk's own production: California Cabernets, Chardonnays, Pinot Grigios, and fruit-forward blends designed for mass appeal. You'll find some third-party bottles scattered throughout, mostly safe bets from Napa, Sonoma, and international crowd-pleasers like Malbec and Prosecco. This isn't a list for wine geeks hunting rare allocations or natural experiments. It's built for people who want a glass of something smooth and recognizable with their Drunken Shrimp. The variety exists within a narrow bandwidth — approachable, fruit-forward, unchallenging.",
+    "byTheGlass": "The by-the-glass program is robust, with house wines flowing freely during Wine 'O' Clock Happy Hour from 3-5:30pm Monday through Friday. Expect a dozen or more options spanning reds, whites, rosés, and sparkling — all poured generously and rotated seasonally. The selection skews toward Cooper's Hawk labels, which keeps pricing consistent and accessible but limits adventure.",
+    "bestValue": {
+      "wine": "Cooper's Hawk Lux Pinot Noir",
+      "price": "$32",
+      "note": "Their higher-tier house Pinot delivers smooth cherry fruit and enough structure to handle richer dishes without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Cooper's Hawk White Sangria",
+      "note": "Not technically wine, but their house sangria is fresh, not syrupy, and pairs surprisingly well with spicy apps during happy hour"
+    },
+    "skipThis": {
+      "wine": "Any third-party Napa Cab over $70",
+      "note": "The markup on outside bottles climbs fast — stick to the house wines where the value equation actually works"
+    },
+    "perfectPairing": {
+      "wine": "Cooper's Hawk Riesling",
+      "dish": "Drunken Shrimp",
+      "note": "The off-dry Riesling cuts through the garlic-butter richness and complements the shrimp's sweetness without competing"
+    },
+    "bottomLine": "Cooper's Hawk knows its lane: accessible house wines, happy hour deals, and a vibe that prioritizes comfort over curation. It's not where you go to discover something new, but it's a reliable spot for a casual pour with dinner.",
+    "subtitle": "Chain Winery Vibes with Happy Hour Hustle",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "date-night"
+    ],
+    "website": "https://chwinery.com",
+    "address": {
+      "street": null,
+      "city": "Dania Beach",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "gioia-italy-fort-lauderdale",
+    "restaurant": "Gioia Italy",
+    "neighborhood": "Hallandale Beach",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Italian",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Twenty-five bottles isn't much, but Gioia's list reads like someone's personal Italian cellar — laser-focused on the boot from Piemonte to Sicilia. Fair pricing and a Wednesday half-price program suggest they actually want you to drink here, not just look at the list. The selection skews traditional with some serious heavy hitters lurking in the lineup.",
+    "selectionDeepDive": "This is an all-Italian show, and they're not messing around with the usual suspects. You've got legit Barolo and Barbaresco from Francone, Brunello from Ridolfi, and regional gems from Puglia and Salento through Cantine Fabio Cordella. The list leans northern but doesn't ignore the south — smart for a pizzeria that likely moves volume on lighter reds and crisp whites. No international filler, no California Cab hiding in the corner. Just Italy, done right, with producers who know their terroir.",
+    "byTheGlass": "Six glass pours starting at $12 is solid for a neighborhood Italian spot. The Chardonnay from Cantine Fabio Cordella shows they're not defaulting to Pinot Grigio basics, and the price point suggests fair restaurant markup. Glass selection appears to rotate with some thought, though we'd love to see more adventurous picks beyond the standards.",
+    "bestValue": {
+      "wine": "Barbaresco I Patriarchi DOCG Francone '19",
+      "price": "~$65",
+      "note": "Barbaresco at this probable price point is a steal compared to its Barolo sibling, offering elegant Nebbiolo with less sticker shock"
+    },
+    "hiddenGem": {
+      "wine": "Chardonnay Donna Tiziana IGP Cantine Fabio Cordella Salento '22",
+      "note": "Pugliese Chardonnay flies under the radar but delivers Mediterranean sunshine and stone fruit without the Burgundy markup"
+    },
+    "skipThis": {
+      "wine": "Barolo Piemonte DOCG Francone '19",
+      "note": "It's probably great wine, but 2019 Barolo needs more time and you'll pay top dollar for a bottle that's drinking tight"
+    },
+    "perfectPairing": {
+      "wine": "Brunello Di Montalcino Amauri DOCG Ridolfi '22",
+      "dish": "Eggplant Parmigiana",
+      "note": "Young Brunello's bright acidity and cherry fruit cut through the richness while the tannins play nice with tomato and cheese"
+    },
+    "bottomLine": "For a 25-bottle list in a Hallandale Beach pizzeria, Gioia Italy delivers surprising depth and Wednesday half-price makes it a no-brainer neighborhood wine night. Come for the pizza, stay for the Barbaresco.",
+    "subtitle": "Midsize Italian List Punches Above Its Weight",
+    "tags": [
+      "hidden-gem",
+      "casual-vibes",
+      "old-world-focus",
+      "date-night"
+    ],
+    "halfPriceWineNight": {
+      "day": "Wednesday",
+      "details": "Half-priced wine bottles from 6PM to closure"
+    },
+    "website": "https://gioiaitaly.com",
+    "address": {
+      "street": "701 North Federal Highway, Ste 112",
+      "city": "Hallandale Beach",
+      "state": "Florida",
+      "zip": "33009",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "maass-fort-lauderdale",
+    "restaurant": "MAASS",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at MAASS is so elusive, it might as well be a cryptid. We scoured the internet, called around, and came up empty—no menu, no wine intel, no sommelier, nothing. If a restaurant's wine program can't even show up online in 2024, that tells you everything you need to know about how much they care.",
+    "selectionDeepDive": "Without access to an actual list, we're left guessing, but Fort Lauderdale's casual dining scene doesn't inspire confidence here. Based on similar spots in the area, expect the usual suspects: mass-market Chardonnay, Cabernet that tastes like oak chips dissolved in grape juice, and maybe a Pinot Grigio that's been sitting open since the Obama administration. No boutique producers, no regional diversity, no reason to get excited. This is wine as an afterthought—a checkbox on the beverage menu between Bud Light and mojitos.",
+    "byTheGlass": "If they even offer by-the-glass pours, we'd bet money it's the same four bottles you'd find at a hotel bar: something California and boring, something Italian and boring, something Australian and boring, plus a Prosecco for people who think they're being fancy. Rotation? Not a chance. These bottles are lifers.",
+    "bestValue": {
+      "wine": "House Red (Unidentified California Blend)",
+      "price": "$8",
+      "note": "The only safe bet is whatever's cheapest—probably tastes like it costs $4 retail, so at least the markup math works out"
+    },
+    "hiddenGem": {
+      "wine": "None Found",
+      "note": "You can't hide gems in an empty treasure chest"
+    },
+    "skipThis": {
+      "wine": "Any 'Premium' Cabernet Over $50",
+      "note": "If they're charging steakhouse prices without steakhouse expertise, you're paying for ambiance you're not getting"
+    },
+    "perfectPairing": {
+      "wine": "Corona with Lime",
+      "dish": "Whatever's Fresh",
+      "note": "Honestly? Just order a beer and save your wine budget for a restaurant that actually cares"
+    },
+    "bottomLine": "We can't review a wine program that doesn't exist in any meaningful, discoverable way. Until MAASS shows us a list worth talking about, spend your wine dollars literally anywhere else.",
+    "subtitle": "Ghost List: When Even Google Doesn't Know",
+    "tags": [
+      "lazy-list"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "mortons-the-steakhouse-fort-lauderdale",
+    "restaurant": "Morton's The Steakhouse",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "slug": "mortons-steakhouse-fort-lauderdale"
+    },
+    "firstImpression": "Morton's delivers exactly what you'd expect from a national steakhouse chain: a leather-bound wine book filled with recognizable labels and prices that make you wince. The list reads like a greatest hits compilation designed to pair with expense accounts, not adventurous drinking.",
+    "selectionDeepDive": "The selection leans heavily on California Cabs and familiar Napa names—think Silver Oak, Caymus, and Jordan dominating the red side. You'll find token representation from France (mostly Bordeaux) and Italy, but this isn't where you come for Austrian Grüner or obscure Rhône producers. The list prioritizes brand recognition over discovery, which makes sense for a room full of business dinners. Expect solid producers marked up to steakhouse stratosphere—we're talking 3.5-4x retail on most bottles.",
+    "byTheGlass": "The by-the-glass program sticks to safe territory: a Sonoma Chardonnay, a Washington Cab, maybe a Malbec for the adventurous. Pours run $14-22 and rotate about as often as the menu (rarely). You won't find natural wine or skin-contact experiments here—this is Kendall-Jackson and La Crema country, reliable but uninspiring.",
+    "bestValue": {
+      "wine": "J. Lohr Seven Oaks Cabernet Sauvignon",
+      "price": "$58",
+      "note": "Still overpriced at nearly 3x retail, but it's a workhorse Cab that won't embarrass you with the ribeye—and it's one of the few bottles under $60 that isn't total plonk"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "If it's on the list, grab it—Alsatian Riesling cuts through butter-soaked lobster tail better than any $80 Napa Chard, and the markup is slightly less offensive on white Burgundy alternatives"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $185+ per bottle, you're paying for the name on what's become a fruit-bomb shadow of its former self—find better Napa for half the price elsewhere"
+    },
+    "perfectPairing": {
+      "wine": "Duckhorn Merlot",
+      "dish": "Filet Mignon with Bearnaise",
+      "note": "The supple tannins and dark cherry fruit play nicely with butter-rich sauce without overwhelming the tender cut—classic pairing executed competently"
+    },
+    "bottomLine": "Morton's is the wine list equivalent of airport WiFi: functional, overpriced, and utterly predictable. You won't drink badly, but you'll pay handsomely for the privilege of playing it safe.",
+    "subtitle": "Corporate Steakhouse Wine Safety in the Tropics",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.mortons.com",
+    "address": {
+      "street": null,
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "timpano-las-olas-fort-lauderdale",
+    "restaurant": "Timpano Las Olas",
+    "neighborhood": "Las Olas",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Timpano's wine list reads like an Italian-American greatest hits compilation. You'll find all the names you recognize from your local wine shop, presented without much fanfare. This is a list built for people who want Chianti with their chicken parm, not wine geeks hunting for obscure Etna producers.",
+    "selectionDeepDive": "The selection leans heavily on the Italian standards—Tuscany, Piedmont, and Veneto dominate—with a predictable supporting cast of California cabs and Napa chards. You'll find plenty of Antinori, Ruffino, and Banfi, which isn't terrible but shows zero interest in diving deeper into Italy's 20 regions. The list plays it safe enough that you could probably recite half of it without ever seeing it. Missing: any natural wines, orange wines, or anything from Southern Italy that isn't a basic Primitivo.",
+    "byTheGlass": "The by-the-glass program is functional but uninspired. Expect the usual suspects: a Pinot Grigio, a Chianti, maybe a Montepulciano. Pour sizes are generous, but rotation seems minimal—these bottles are workhorses that stay on the list year-round. Perfect if you want something drinkable without thinking too hard, less perfect if you're hoping for anything seasonal or surprising.",
+    "bestValue": {
+      "wine": "Barone Ricasoli Chianti Classico",
+      "price": "$48",
+      "note": "Historic producer, reliable quality, and at least it's not marked up to oblivion like some of the Super Tuscans lurking further down"
+    },
+    "hiddenGem": {
+      "wine": "Zenato Valpolicella Superiore",
+      "note": "Everyone orders the Amarone, but this baby brother delivers concentrated cherry fruit and spice at a quarter of the price—proof that Valpolicella doesn't need to be dried to be delicious"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a wine you can grab at Total Wine for $80, and it's not even what you'd pair with Italian food—this is pure wine list laziness"
+    },
+    "perfectPairing": {
+      "wine": "Allegrini Palazzo della Torre",
+      "dish": "Osso Buco",
+      "note": "This Veronese blend has the dark fruit and structure to stand up to braised veal shank, with just enough ripasso richness to match the marrow without overwhelming the dish"
+    },
+    "bottomLine": "Timpano delivers exactly what you'd expect: safe, recognizable Italian wines at standard restaurant markups. Nothing offensive, nothing exciting. If you're meeting your parents for Sunday dinner and want a bottle that won't spark debate, you're covered.",
+    "subtitle": "Classic Italian Dining, Wine List Stays Safe",
+    "tags": [
+      "date-night",
+      "casual-vibes"
+    ],
+    "website": "https://www.timpanolasolas.com",
+    "address": {
+      "street": "unknown",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "trulucks-fort-lauderdale-fort-lauderdale",
+    "restaurant": "Truluck's Fort Lauderdale",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Truluck's wine list reads like a corporate playbook: safe, recognizable labels designed to offend no one and upsell everyone. The list leans heavily into familiar California and French names with the pricing strategy you'd expect from a high-end seafood chain. Nothing here will surprise you, but that seems to be the point.",
+    "selectionDeepDive": "The list skews toward crowd-pleasing whites and Pinots that pair well with crab and lobster—think Sonoma-Coast Chardonnays, Sancerre, and a few Napa Cabs for the steak crowd. You'll find La Crema, Cakebread, and similar mid-tier producers dominating the California section, with a token Burgundy selection and some Champagne for celebrations. The Italian and Spanish sections feel like afterthoughts, likely a few Pinot Grigios and a Rioja tossed in for variety. It's a list built for convention: functional, safe, and engineered to move bottles without challenging anyone's palate.",
+    "byTheGlass": "The glass program likely runs 8-12 wines, heavy on the whites—probably a Chardonnay, Sauvignon Blanc, Pinot Grigio, plus a Pinot Noir and a Cab for good measure. We'd bet they rotate seasonally at best, if at all. Pours are generous enough for the price point, but you're paying tourist-district premiums for grocery store availability.",
+    "bestValue": {
+      "wine": "Pascal Jolivet Sancerre",
+      "price": "$68",
+      "note": "Classic Loire minerality cuts through butter-poached seafood, and while marked up, it's one of the few bottles doing actual work on your palate"
+    },
+    "hiddenGem": {
+      "wine": "Trimbach Riesling",
+      "note": "If it's on the list, it's probably buried in the Alsace section—bone-dry, precise acidity, and way more interesting than another oaky Chardonnay with your stone crab"
+    },
+    "skipThis": {
+      "wine": "Cakebread Cellars Chardonnay",
+      "note": "Retail around $45, you'll pay $120+ here for a wine that's perfectly fine but wildly overpriced—order the fish naked instead"
+    },
+    "perfectPairing": {
+      "wine": "Domaine de la Pepiere Muscadet",
+      "dish": "Florida Stone Crab Claws",
+      "note": "If they stock it, this lean, saline Loire white is textbook with cold crab and drawn butter—bright, clean, doesn't compete"
+    },
+    "bottomLine": "Truluck's is competent but predictable—the wine list does its job without taking risks. If you're here for the crab, you'll find something drinkable, but don't expect value or discovery.",
+    "subtitle": "Chain Seafood with Corporate Wine Competence",
+    "tags": [
+      "date-night",
+      "seafood-pairing",
+      "corporate-safe"
+    ],
+    "website": "https://www.trulucks.com/location/fort-lauderdale",
+    "address": {
+      "street": "2584 E Sunrise Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33304",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "yolo-restaurant-fort-lauderdale",
+    "restaurant": "YOLO Restaurant",
+    "neighborhood": "Las Olas Boulevard",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "YOLO's wine list reads like a greatest hits album — all recognizable names, nothing challenging, exactly what you'd expect from a bustling Las Olas scene spot. The Coravin program signals some ambition, but the selections lean heavily into Napa cabs and Italian crowd-pleasers that won't scare anyone.",
+    "selectionDeepDive": "The list sticks to the safe zones: Napa Valley heavyweights like Caymus, Tuscan staples like Ruffino, and Moët splits for the happy hour crew. There's clearly a focus on approachable, name-brand wines that pair with the restaurant's upscale-casual vibe and open kitchen energy. We're not seeing adventurous regions or smaller producers — this is wine as accessory to the scene, not the main event. The Coravin program does add flexibility for premium by-the-glass options, which helps when the bottle list leans predictable.",
+    "byTheGlass": "Glass pours rotate daily via Coravin, which means you can access pricier bottles without commitment — a solid move for a restaurant banking on spontaneous diners and happy hour traffic. The Ruffino Prosecco at $12 is a fair entry point, and happy hour brings premium options into play. Ladies' night on Wednesdays with complimentary wine is a throwback promotion that feels more spring break than wine bar, but it keeps glasses moving.",
+    "bestValue": {
+      "wine": "Ruffino Prosecco",
+      "price": "$12/glass",
+      "note": "Fair pricing for a dependable sparkler on a scene-y patio — won't wow you but won't gouge you either"
+    },
+    "hiddenGem": {
+      "wine": "Coravin Daily Feature",
+      "note": "If they're pouring anything from Bordeaux by the glass, jump on it — the Coravin program can unlock better juice than the bottle list suggests"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$50/bottle",
+      "note": "At $50, this is restaurant markup on an already-expensive brand name — you're paying for recognition, not value"
+    },
+    "perfectPairing": {
+      "wine": "Ruffino Prosecco",
+      "dish": "Szechuan Calamari",
+      "note": "The bubbles cut through the spicy heat and fried richness — a textbook match that works every time"
+    },
+    "bottomLine": "YOLO delivers exactly what its Las Olas location promises: accessible wines that won't distract from the scene, the open kitchen, or your date. Don't come here hunting for obscure producers or sommelier-level curation — come for the Coravin flexibility and stick to the glass pours.",
+    "subtitle": "Vegas Vibes Meet Crowd-Pleasing Pours on Las Olas",
+    "tags": [
+      "date-night",
+      "patio-pour",
+      "by-the-glass-hero",
+      "casual-vibes"
+    ],
+    "website": "https://yolorestaurant.com",
+    "address": {
+      "street": "Las Olas Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "seasons-52-fort-lauderdale",
+    "restaurant": "Seasons 52",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "American Seasonal",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Seasonal Rotation",
+      "storage": "Acceptable",
+      "byTheGlass": "Solid Range"
+    },
+    "firstImpression": "Seasons 52's wine list feels very corporate-safe — the kind of selection built by committee to offend no one and delight few. You're looking at a book that hits the expected marks: California Chardonnay, Napa Cab, maybe a Malbec for the adventurous table. Nothing screams \"wine destination,\" but nothing screams \"run away\" either.",
+    "selectionDeepDive": "The list leans heavily on recognizable labels that move volume without demanding much from the staff or the guest. Expect solid representation from Sonoma (think La Crema, Rodney Strong), decent Italian options like Ruffino Chianti or Banfi Brunello, and the obligatory New Zealand Sauvignon Blanc. What's missing is personality — no small producers, no natural wine experiments, no regional deep cuts from lesser-known appellations. It's the wine equivalent of a greatest hits album: you know every song, but you're not discovering anything new.",
+    "byTheGlass": "The glass pour program runs 12-15 options and rotates seasonally, which shows more effort than many chains. You'll find a Cakebread Chardonnay sitting next to a Meiomi Pinot Noir — safe pours that pair with the menu's wood-fired proteins and seasonal vegetables. Prices hover in the $12-16 range per glass, which feels steep for what you're getting but tracks with the polished-casual vibe.",
+    "bestValue": {
+      "wine": "Elk Cove Pinot Noir",
+      "price": "$48",
+      "note": "Willamette Valley goodness at a markup that doesn't punish — bright red fruit works with their cedar-planked salmon"
+    },
+    "hiddenGem": {
+      "wine": "Tenuta Sant'Antonio Valpolicella Superiore",
+      "note": "Most people skip straight to the Amarone, but this has the cherry depth and spice without the $90 sticker shock"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $120+ for a bottle you can grab at Total Wine for $75 — the markups on big names here are where they get you"
+    },
+    "perfectPairing": {
+      "wine": "Sonoma-Cutrer Russian River Chardonnay",
+      "dish": "Cedar-Planked Salmon",
+      "note": "Classic California butter and oak meets sweet wood smoke and fatty fish — it's the pairing this menu was designed around"
+    },
+    "bottomLine": "Seasons 52 won't wow anyone who cares about wine, but it won't embarrass you either. The list does exactly what a chain needs it to do: offer familiar names at expected (if inflated) prices with enough seasonal rotation to keep regulars from getting bored. Come for the flatbreads and the vibe, order a glass of something reliable, and save your wine adventures for somewhere with more soul.",
+    "subtitle": "Chain Competence Meets Florida Wine Service",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.seasons52.com",
+    "address": {
+      "street": "2428 E Sunrise Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33304",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cote-fort-lauderdale-fort-lauderdale",
+    "restaurant": "Cote Fort Lauderdale",
+    "neighborhood": "Downtown Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Korean Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cote brings its upscale Korean BBQ concept to Fort Lauderdale, and while the butcher's feast is the main event, the wine list feels like an afterthought designed to complement the high-ticket meat experience. The list skews safe and familiar, built for expense accounts rather than wine explorers.",
+    "selectionDeepDive": "Based on Cote's other locations, expect a straightforward selection heavy on big-name California Cabernets, mainstream Burgundy, and a handful of crowd-pleasing bottles from Argentina and Spain. The list is designed not to offend: think Silver Oak, Caymus, and Josh Cellars rubbing shoulders with a few token Old World entries. There's no real depth in any region, and the Korean cuisine's complexity deserves more adventurous pairings than what's likely on offer. Missing: aromatic whites, skin-contact wines, or anything from Korea's emerging wine scene.",
+    "byTheGlass": "Glass pours likely lean heavily on the usual suspects—a Sonoma Chardonnay, a Paso Cab, maybe a Malbec. Rotation is probably minimal, with the same lineup sitting there month after month. For a restaurant at this price point, the by-the-glass program should be more dynamic and offer better entry points for the menu's bold flavors.",
+    "bestValue": {
+      "wine": "Grüner Veltliner, Gobelsburg 'Gobelsburger' 2022",
+      "price": "$58",
+      "note": "If they're smart enough to stock it—this Austrian white cuts through the richness of marbled beef and has the acid to match gochujang heat without getting blown out"
+    },
+    "hiddenGem": {
+      "wine": "Chinon Rouge, Bernard Baudry 'Les Granges' 2021",
+      "note": "Loire Cabernet Franc brings earthy minerality and bright red fruit that won't compete with the meat's char—most diners will reach for Napa and miss this entirely"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon 2021",
+      "note": "Marked up to $200+ for a bottle you can find at Total Wine for $85—it's a safe pick but a bad deal, and the sweet oak doesn't help the cuisine"
+    },
+    "perfectPairing": {
+      "wine": "Riesling, Dr. Loosen 'Erdener Treppchen' Kabinett 2022",
+      "dish": "Spicy Pork Belly Ssam",
+      "note": "Off-dry German Riesling is the classic move for Korean BBQ—the residual sugar tames the heat while acidity refreshes between bites of fatty, charred pork"
+    },
+    "bottomLine": "Until we can verify the actual list, Cote Fort Lauderdale gets a cautious nod as a reliable corporate wine program—functional but uninspired. Come for the beef, but don't expect the wine list to be the highlight of your night.",
+    "subtitle": "High-End Korean BBQ, Wine Program TBD",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.cotekoreansteakhouse.com",
+    "address": {
+      "street": "1450 E Las Olas Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33301",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "louie-bossis-ristorante-fort-lauderdale",
+    "restaurant": "Louie Bossi's Ristorante",
+    "neighborhood": "Downtown",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Louie Bossi's reads like it was assembled by committee — heavy on recognizable Italian names you'd find at any upscale chain, light on discovery. It's the kind of list where you know what you're getting before you even open it: Tuscan reds, Pinot Grigio, a token Barolo.",
+    "selectionDeepDive": "The Italian focus makes sense given the concept, but the selections play it remarkably safe. You'll find your standard Chianti Classicos, a handful of Piedmont options, and the obligatory Super Tuscans at prices that make you wince. The southern Italian representation is minimal — a missed opportunity given Florida's heat and the cuisine's possibilities. What's here isn't bad, just predictable, leaning heavily on producers that move volume rather than ones that tell stories. The list does what it needs to do for a bustling restaurant group operation, nothing more.",
+    "byTheGlass": "Glass pours skew toward the greatest hits: a Pinot Grigio, a Montepulciano, maybe a Chianti. They rotate occasionally but don't expect weekly surprises. The pours are generous enough and the wines are sound, if uninspiring — think solid commercial bottlings that can handle high-volume service. For a quick dinner with friends who just want something red and Italian, it gets the job done.",
+    "bestValue": {
+      "wine": "Cantina Zaccagnini Montepulciano d'Abruzzo",
+      "price": "$42",
+      "note": "Reliable crowd-pleaser that drinks well above its price point, with enough fruit and structure to handle their heartier pasta dishes without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Feudi di San Gregorio Falanghina",
+      "note": "If it's on the list, this Campanian white gets overlooked for Pinot Grigio, but it's got more personality and acidity to cut through cream sauces and fried appetizers"
+    },
+    "skipThis": {
+      "wine": "Any Barolo over $100",
+      "note": "The markup on premium Piedmont here is aggressive, and you're paying for the name on a list that doesn't show the care these bottles deserve"
+    },
+    "perfectPairing": {
+      "wine": "Allegrini Valpolicella Classico",
+      "dish": "Bolognese pasta",
+      "note": "The bright cherry and herbal notes in this Valpolicella mirror the tomato-meat sauce without overwhelming it, and the price point won't make you regret ordering a second bottle"
+    },
+    "bottomLine": "Louie Bossi's won't blow your mind with wine, but it won't ruin your night either. Order mid-range, skip the trophy bottles, and you'll drink just fine while you eat your carbonara.",
+    "subtitle": "Corporate Italian With Safer-Than-Expected Wine Choices",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.louiebossi.com",
+    "address": {
+      "street": "1032 E Las Olas Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33301",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "archibalds-fort-lauderdale",
+    "restaurant": "Archibald's",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Archibald's wine list feels like an afterthought stapled to the back of the menu. The kind of selection that screams 'we have wine' without actually caring whether you drink it. You're scanning for something—anything—that isn't a distributor's greatest hits compilation.",
+    "selectionDeepDive": "The list leans heavily on safe, mass-market labels you'd find at any chain steakhouse in America. California Cabs dominate the reds, with a few token Pinots and a Malbec for variety. Whites are mostly Chardonnay and Pinot Grigio from producers nobody gets excited about. There's no regional depth, no interesting producers, and zero sense that anyone curating this list has tasted wine in the past decade. It's the vinous equivalent of ordering from a laminated menu.",
+    "byTheGlass": "Glass pours exist, probably four to six options that rotate never. Expect the usual suspects: a Kendall-Jackson Chardonnay, maybe a Meiomi Pinot Noir, something Australian and fruit-forward. The pours are generous enough but priced like they're doing you a favor. No splits, no half-bottles, no creative options for people who want to explore without committing to a full pour of mediocrity.",
+    "bestValue": {
+      "wine": "J. Lohr Estates Seven Oaks Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Reliable Paso Robles Cab that won't disappoint—smooth, approachable, and at least you know what you're getting"
+    },
+    "hiddenGem": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "note": "Not hidden, not a gem, but it's from New Zealand and won't actively ruin your meal if you're stuck here"
+    },
+    "skipThis": {
+      "wine": "Any house red or white",
+      "note": "Mystery juice at non-mystery prices—just order a beer instead"
+    },
+    "perfectPairing": {
+      "wine": "Joel Gott Sauvignon Blanc",
+      "dish": "Grilled fish special",
+      "note": "Bright citrus and clean finish won't compete with delicate seafood—assuming they have a fish special"
+    },
+    "bottomLine": "Archibald's wine program is phoning it in from another area code. If you're here, you're here for something other than wine—stick with cocktails or beer and save yourself the markup on bottles you can buy for $12 at Total Wine.",
+    "subtitle": "When Your Fallback Plan Needs a Fallback Plan",
+    "tags": [
+      "casual-vibes",
+      "crowd-pleasers"
+    ],
+    "website": "https://www.archibalds.com",
+    "address": {
+      "street": "unknown",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "etaru-fort-lauderdale",
+    "restaurant": "Etaru",
+    "neighborhood": "Downtown Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Japanese Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Etaru feels like an afterthought to the sake program, which makes sense for a contemporary Japanese spot. It's not extensive, but there's enough here to work with if you know what you're looking for. The vibe suggests they want you drinking sake or cocktails, and honestly, that might be the smarter play.",
+    "selectionDeepDive": "The list skews predictable: a handful of California Chardonnays, some Pinot Noirs, a Sancerre or two, and the obligatory Champagne section that's priced for expense accounts. There's a token nod to Old World selections—maybe a Rioja, perhaps a Chianti—but nothing that suggests someone's curating with intention. The Japanese wine section is disappointingly thin given the cuisine; you'd expect more exploration of Koshu or Japanese sparklers. It reads like a list assembled from a distributor's greatest hits rather than something built to complement the menu.",
+    "byTheGlass": "By-the-glass options likely hover around 6-8 selections, covering the basics: a Sauvignon Blanc, a Chardonnay, a Pinot, maybe a light red. Nothing rotates with urgency, and the pours are safe choices that won't offend but won't excite. These are wines chosen to survive the Florida heat and the indecisive diner, not to showcase anything interesting.",
+    "bestValue": {
+      "wine": "Domaine Serene 'Evenstad Reserve' Pinot Noir",
+      "price": "$78",
+      "note": "Oregon Pinot with enough weight to handle miso-glazed dishes without overwhelming delicate fish"
+    },
+    "hiddenGem": {
+      "wine": "Grace Koshu Private Reserve",
+      "note": "If they stock it, this Japanese white is a revelation with sashimi—crisp, mineral, and made for the menu"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $140+ and completely wrong for the cuisine—save it for the steakhouse"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre Les Romains (Pascal Jolivet)",
+      "dish": "Hamachi Crudo",
+      "note": "The citrus and minerality cut through the richness of yellowtail while the acidity keeps pace with ponzu"
+    },
+    "bottomLine": "Etaru's wine program does the job without doing much else. If you're here for the food and ambiance, order sake or a cocktail and save your wine exploration for another night.",
+    "subtitle": "Coastal Japanese with Sake-Forward Sensibility",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.etarurestaurant.com",
+    "address": {
+      "street": "721 E Las Olas Blvd",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33301",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "agave-blu-fort-lauderdale",
+    "restaurant": "Agave Blu",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Mexican",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name tells you everything: this is an agave house first, wine program second. The list exists because restaurants need wine lists, not because anyone's losing sleep over it. Think crowd-pleasing labels at Florida resort pricing.",
+    "selectionDeepDive": "The selection leans heavily on safe California reds and whites with a smattering of Spanish options that make sense next to guacamole. You'll find your Kendall-Jackson, your La Crema, maybe a Rioja that's been on the list since opening day. No deep cuts, no natural wine experiments, no sommelier flex. It's the kind of list designed to not offend anyone at a business dinner or girls' night out. The Spanish section is the most interesting part, though it's still playing it safe with big-name Riojas and Albariños.",
+    "byTheGlass": "The glass pour program runs about 6-8 options that rotate never. You're looking at a Pinot Grigio, a Chardonnay, a Sauvignon Blanc, a Rosé, a Pinot Noir, a Cabernet, maybe a Malbec. All recognizable labels, all priced at $12-16 a glass, which feels steep when you're also buying $15 margaritas. The pours are generous enough, served in all-purpose stems or stemless glasses depending on which server you get.",
+    "bestValue": {
+      "wine": "Viña Esmeralda Moscatel-Gewürztraminer",
+      "price": "$38",
+      "note": "Torres' aromatic white has the florals and spice to stand up to mole and citrus-heavy ceviche without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Marqués de Cáceres Rosado",
+      "note": "Most people skip rosé with Mexican food but this Rioja rosé has enough structure for carnitas and the acidity for salsa verde"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $120+ it's marked up 3x retail and way too heavy for most of the menu—save your money for the tequila list"
+    },
+    "perfectPairing": {
+      "wine": "Albariño Martín Códax",
+      "dish": "Baja Fish Tacos",
+      "note": "The Galician white's salinity and citrus cut through fried fish and crema like it was born for it"
+    },
+    "bottomLine": "Agave Blu isn't pretending to be a wine destination, and we respect the honesty. Order the Albariño, skip the Napa Cabs, and spend your real money on their agave program.",
+    "subtitle": "Tequila-Forward Spot Where Wine Takes the Backseat",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.agaveblu.com",
+    "address": {
+      "street": "unknown",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "wild-thyme-oceanside-eatery-fort-lauderdale",
+    "restaurant": "Wild Thyme Oceanside Eatery",
+    "neighborhood": "Fort Lauderdale Beach",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Oceanside American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Wild Thyme feels like it was assembled by someone who checked the 'oceanside restaurant' box and moved on. You're getting the usual suspects — California Chardonnay, Malbec, Pinot Grigio — presented without much thought to the waterfront setting or Florida's humid challenges. This is a place where the view does the heavy lifting, and wine is an afterthought.",
+    "selectionDeepDive": "The list leans heavily on safe, recognizable labels that won't offend tourists or locals celebrating birthdays. Expect a handful of Napa Cabs in the $70-90 range, some Josh Cellars and La Crema for the middle ground, and maybe a token Sancerre or Chablis for the white wine crowd. No real depth in any region, no interesting producers, no sense that anyone's curating this thing beyond the distributor's suggested lineup. The oceanside location screams for crisp whites, natural wines, or coastal European selections — but you won't find much adventure here.",
+    "byTheGlass": "The glass pour program is functional but uninspired. Figure on 6-8 options, all playing it safe: a buttery California Chard, a jammy Malbec, maybe a Whispering Angel rosé for the Instagram crowd. Pours are generous enough, but the selection rotates about as often as the tides — which is to say, not at all. Nothing here suggests they're thinking about what works with seafood or Florida heat.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$42",
+      "note": "Overpriced for what it is, but the bright citrus and tropical notes actually work with ceviche or grilled fish — one of the few bottles that seems to acknowledge you're eating by the ocean"
+    },
+    "hiddenGem": {
+      "wine": "Albert Bichot Chablis",
+      "note": "If they have a proper Chablis buried in the French section, grab it — that steely minerality and lean acidity cuts through butter sauces and fried seafood better than any oaky Chard"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $110+ for a wine that drinks hot and jammy in Florida humidity — save this for a steakhouse with AC you can feel from the parking lot"
+    },
+    "perfectPairing": {
+      "wine": "Albariño (any Spanish bottling if available)",
+      "dish": "Grilled Grouper",
+      "note": "Albariño's salinity and stone fruit profile mirror the ocean breeze and complement delicate white fish without overwhelming it — exactly what you want at a beachside spot"
+    },
+    "bottomLine": "Wild Thyme is the kind of place where you order wine because you're having a nice meal by the water, not because the list excites you. It's perfectly serviceable for a sunset dinner, but don't expect any revelations — stick to whites, keep it simple, and focus on the view.",
+    "subtitle": "Beachside Dining Where Wine Takes a Backseat",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "lobster-bar-sea-grille-fort-lauderdale",
+    "restaurant": "Lobster Bar Sea Grille",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Seafood/Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Lobster Bar Sea Grille reads like a greatest hits compilation designed not to scare anyone. You'll find the names you'd expect at an upscale South Florida seafood spot: Santa Margherita, Matanzas Creek, Frank Family. Nothing adventurous, nothing challenging, nothing that requires explanation.",
+    "selectionDeepDive": "The list tilts heavily toward safe California Cabernets and Chardonnays with a few European crowd-pleasers thrown in for good measure. Frank Family Napa Cab and Ramey Sonoma Coast Chardonnay anchor the domestics, while Laurent-Perrier handles the Champagne duties and Santa Margherita checks the Pinot Grigio box. There's a nod to Oregon Pinot with Résonance from Yamhill-Carlton and some international variety with The Crossings from New Zealand and Columna Albariño from Spain. But overall, this is a list built for people who know what they like and don't want surprises—which, in Fort Lauderdale's yacht-adjacent dining scene, is probably the point.",
+    "byTheGlass": "Glass pours run $11-$16, which sounds reasonable until you realize you're probably getting the house Santa Margherita at the higher end of that range. The selection appears limited to the usual suspects—a safe Chardonnay, a safe Cab, a safe Prosecco. No indication of rotation or seasonal pours, just the same reliable lineup day after day.",
+    "bestValue": {
+      "wine": "Columna Albariño",
+      "price": "$12",
+      "note": "Crisp, saline-driven Spanish white that's actually interesting and pairs brilliantly with shellfish—probably the most food-friendly pour on the list"
+    },
+    "hiddenGem": {
+      "wine": "Résonance Pinot Noir",
+      "note": "Louis Jadot's Oregon project produces elegant, restrained Pinot that most people skip for the bigger Napa names—but it's the smarter choice with seared tuna or salmon"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "note": "The most overpriced, over-marked-up white wine in America—you're paying for the label, not what's in the bottle"
+    },
+    "perfectPairing": {
+      "wine": "Zardetto Brut Prosecco",
+      "dish": "Raw Oysters",
+      "note": "The bright acidity and subtle perlage cut through the brininess while the price point won't make you wince when you order a second round"
+    },
+    "bottomLine": "Lobster Bar Sea Grille isn't breaking any wine list rules, but they're not trying to. This is a solid neighborhood spot with recognizable bottles and fair-to-steep markups that gets the job done without inspiring anyone to become a wine nerd.",
+    "subtitle": "Crowd-Pleasing Bottles for the Yacht Club Set",
+    "tags": [
+      "seafood-friendly",
+      "crowd-pleasers",
+      "date-night"
+    ],
+    "website": "https://lobsterbarseagrille.com",
+    "address": {
+      "street": "unknown",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "hilton-fort-lauderdale-marina-restaurant-fort-lauderdale",
+    "restaurant": "Hilton Fort Lauderdale Marina Restaurant",
+    "neighborhood": "Downtown Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "American Hotel Dining",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "Rotating Cast",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list feels like an afterthought at this marina hotel restaurant — the kind of selection a corporate beverage director emailed over three years ago and nobody's touched since. When the most interesting thing on the list is the view of the Intracoastal, you know you're in trouble.",
+    "selectionDeepDive": "This is textbook hotel wine program neglect: a short list heavy on big-brand California Cabs and Chardonnays with the occasional Malbec thrown in for \"variety.\" Expect to see Kendall-Jackson, Josh Cellars, maybe a Prisoner if you're lucky. No boutique producers, no regional diversity worth mentioning, and certainly nothing that suggests anyone on staff actually cares about wine. The list reads like it was designed to extract maximum profit from expense-account diners who aren't paying attention.",
+    "byTheGlass": "The glass pour program is predictable and overpriced. You're looking at six to eight options max, all safe crowd-pleasers marked up to the point where you'd rather order a second cocktail. A standard California Chardonnay that retails for $12 will run you $15-18 per glass. Rotation? What rotation.",
+    "bestValue": {
+      "wine": "House Pinot Grigio",
+      "price": "$9",
+      "note": "Not because it's good, but because everything else is criminally overpriced — at least this one won't make you angry when the check arrives"
+    },
+    "hiddenGem": {
+      "wine": "Bring Your Own",
+      "note": "Check if they allow corkage — a $25 fee beats their markups, and you'll actually drink something interesting"
+    },
+    "skipThis": {
+      "wine": "Any bottle over $60",
+      "note": "Hotel markup meets limited selection — you're paying 4x retail for wines you can find at Total Wine down the street"
+    },
+    "perfectPairing": {
+      "wine": "Florida craft beer from the bar",
+      "dish": "Waterfront burger",
+      "note": "Honestly, save the wine budget for a real wine bar and enjoy the marina view with something cold and local"
+    },
+    "bottomLine": "Come for the location and the convenience if you're staying at the hotel, but skip the wine and order a cocktail. This list doesn't deserve your attention or your wallet.",
+    "subtitle": "When the Marina View Beats the Wine List",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.hilton.com/en/hotels/fllmhhf-hilton-fort-lauderdale-marina/dining/",
+    "address": {
+      "street": "1881 SE 17th Street",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33316",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "boatyard-fort-lauderdale",
+    "restaurant": "Boatyard",
+    "neighborhood": "Harbor Beach",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The list reads like a country club wine director's greatest hits — Whispering Angel, Sonoma Cutrer, La Crema. Nothing wrong with that, but nothing adventurous either. At $8-$11/glass with upscale waterfront pricing, we're clearly paying for the boat show views more than the bottles.",
+    "selectionDeepDive": "The by-the-glass program leans heavily on name recognition: Moët, Bollinger, Groth Sauvignon Blanc from Napa. There's a token nod to Europe with Sancerre and an Albariño from Rueda, plus the obligatory Provence rosé that's become the uniform of coastal dining. The lack of full bottle pricing intel is telling — this feels like a list assembled to avoid complaints rather than inspire conversation. Trentino Alto Adige and Tuscany get mentioned, suggesting some Italian options beyond Pinot Grigio, but without the depth to make you linger over the wine menu.",
+    "byTheGlass": "Twelve pours is respectable for a seafood spot, and the $8-$11 range keeps things accessible for tourists watching their yacht envy budgets. The Groth Sauvignon Blanc and Sonoma Cutrer Chardonnay are reliable California workhorses that won't offend anyone ordering grouper. What's missing: any indication this list rotates seasonally or pushes beyond the comfort zone.",
+    "bestValue": {
+      "wine": "Sancerre (producer unknown)",
+      "price": "$11",
+      "note": "If it's from a decent Loire producer, this is your best glass-pour value — zippy acidity cuts through butter sauces without the Napa markup"
+    },
+    "hiddenGem": {
+      "wine": "Albariño from Rueda",
+      "note": "Most people skip Spanish whites for Chardonnay, but Albariño's saline minerality was born for raw oysters and ceviche"
+    },
+    "skipThis": {
+      "wine": "Whispering Angel Rosé",
+      "note": "The Côtes de Provence poster child is fine, but you're paying for the bottle shape and Instagram clout — there are better Provence rosés at this price point"
+    },
+    "perfectPairing": {
+      "wine": "Groth Sauvignon Blanc",
+      "dish": "Grouper Piccata",
+      "note": "Napa Sauvignon Blanc has enough weight to stand up to the lemon-caper butter sauce while the citrus notes echo the dish's brightness"
+    },
+    "bottomLine": "Boatyard isn't trying to win wine awards, and that's fine — it's a waterfront seafood spot that stocks recognizable names and charges accordingly. Come for the paella and the marina views, order the Sancerre or Albariño, and save your wine exploration for somewhere inland.",
+    "subtitle": "Safe Harbor Wines for the Yacht Club Set",
+    "tags": [
+      "casual-vibes",
+      "patio-pour",
+      "date-night"
+    ],
+    "website": "https://boatyard.restaurant",
+    "address": {
+      "street": "1555 SE 17th St",
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "zip": "33316",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "coconuts-fort-lauderdale",
+    "restaurant": "Coconuts",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "American Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at Coconuts feels like an afterthought stapled to a menu focused on rum buckets and waterfront views. This is a place where the house white comes in a water glass and nobody bats an eye. If you're here for the wine, you've made a wrong turn somewhere.",
+    "selectionDeepDive": "The list reads like someone walked into a Total Wine with a hundred-dollar budget and grabbed whatever had a fish on the label. California Chardonnays that peaked in 2003, a token Pinot Grigio, maybe a Malbec for the steak crowd. No regional depth, no interesting producers, nothing that suggests anyone in the building cares about wine beyond checking a box. Fort Lauderdale has better options within walking distance, and this ain't one of them.",
+    "byTheGlass": "The glass pours are what you'd expect at a beach bar: Barefoot, maybe a Kendall-Jackson if you're lucky, all served at room temperature in whatever glass is clean. We counted maybe four options, none rotated seasonally because why would they. Order a frozen margarita instead—at least they put effort into those.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$38",
+      "note": "Still overpriced at 3x retail, but at least it's cold and won't actively ruin your stone crab"
+    },
+    "hiddenGem": {
+      "wine": "House White by the Pitcher",
+      "note": "Lean into the beach bar chaos—at least the volume makes the markup sting less"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet",
+      "price": "$140",
+      "note": "Same bottle costs $80 at Publix and this isn't the place to drink it anyway"
+    },
+    "perfectPairing": {
+      "wine": "Domestic Lager",
+      "dish": "Coconut Shrimp",
+      "note": "We're being honest here—this isn't a wine restaurant, and the beer list is better suited to the food"
+    },
+    "bottomLine": "Coconuts is a perfectly fine spot for day-drinking beer by the water, but the wine program is nonexistent. Come for the location, skip the wine list entirely.",
+    "subtitle": "Tourist Trap Wine List, Drink the Beer Instead",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rustic-inn-crabhouse-fort-lauderdale",
+    "restaurant": "Rustic Inn Crabhouse",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Rustic Inn reads like an afterthought stapled to a crab-focused menu. This is a seafood shack that knows its lane — and wine isn't in it. You're here to crack shells and get messy, not contemplate terroir.",
+    "selectionDeepDive": "The list leans heavily on the usual coastal suspects: mass-market California Chardonnay, predictable Pinot Grigio, maybe a Muscadet if you're lucky. No regional depth, no interesting producers, nothing that signals anyone on staff cares about wine beyond ordering what the distributor pushes. It's the kind of selection you'd find at a chain restaurant in an airport terminal — functional but uninspired. The reds are standard-issue Cabs and Merlots that don't make sense with seafood anyway.",
+    "byTheGlass": "By-the-glass options appear limited to the usual trio: house white, house red, maybe a prosecco. Nothing rotates, nothing seasonal, nothing that shows effort. The pours are likely generous to match the casual vibe, but quality takes a backseat to volume.",
+    "bestValue": {
+      "wine": "Château Ste. Michelle Riesling",
+      "price": "$32",
+      "note": "If it's on the list, this Washington Riesling has the sweetness and acidity to handle Old Bay seasoning without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Muscadet Sèvre et Maine",
+      "note": "The classic oyster wine — if they stock it, it's criminally underordered but born for buttery crab"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "note": "Overpriced commodity wine that'll cost you $45+ for something that retails at $12"
+    },
+    "perfectPairing": {
+      "wine": "Albariño from Rías Baixas",
+      "dish": "Garlic Crabs",
+      "note": "Spanish coastal white with saline minerality cuts through garlic butter like it was designed for the job"
+    },
+    "bottomLine": "Rustic Inn knows what it does well, and wine isn't it. Order beer, a margarita, or just stick with water and save your wine budget for somewhere that cares.",
+    "subtitle": "Come for the Crabs, Skip the Wine",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.rusticinn.com",
+    "address": {
+      "street": "4331 Ravenswood Road",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33312",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "15th-street-fisheries-fort-lauderdale",
+    "restaurant": "15th Street Fisheries",
+    "neighborhood": "Lauderdale Marina",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at 15th Street Fisheries feels like an afterthought to the Intracoastal views. It's the kind of list assembled by a corporate beverage consultant circa 2015 and barely touched since—safe, predictable, and clearly not the priority.",
+    "selectionDeepDive": "You're looking at the greatest hits of airport wine bars: Kendall-Jackson Chardonnay, Meiomi Pinot Noir, and a smattering of Italian standards that could be found at any chain restaurant from here to Tampa. The seafood-focused menu begs for coastal whites—Albariño, Vermentino, maybe a Chablis—but the list sticks stubbornly to the comfort zone. A few token bottles of California Cab push past $80, marked up aggressively for tourists who don't know better. There's no regional identity, no sommelier vision, just a functional selection designed not to offend anyone.",
+    "byTheGlass": "The glass pour program runs about eight deep, heavy on the usual suspects. You'll find your Pinot Grigio, your domestic Chardonnay, maybe a Sauvignon Blanc if you're lucky. Pours trend toward the fuller side—they're not stingy—but the rotation appears frozen in time, with the same lineup we'd bet has been on the menu for years.",
+    "bestValue": {
+      "wine": "Lungarotti Rubesco",
+      "price": "$42",
+      "note": "This Umbrian workhorse brings honest structure and savory depth that actually complements grilled fish—a rare find here where most bottles phone it in"
+    },
+    "hiddenGem": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "note": "We know, we know—but hear us out: it's likely the freshest white on the list, has enough acid to cut through butter sauces, and won't break $40"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Probably sitting at $120+ here, guaranteed 3-4x retail, and completely wrong for the seafood-forward menu—this is ego ordering, not smart drinking"
+    },
+    "perfectPairing": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "dish": "Grouper Piccata",
+      "note": "Both are playing it safe, both deliver exactly what you expect, and the bright citrus notes mirror the lemon-caper sauce without trying too hard"
+    },
+    "bottomLine": "Come for the sunset and the stone crab. Order a beer or a cocktail. If you must have wine, stick to the basics by the glass and keep expectations in check—this program isn't trying to impress anyone.",
+    "subtitle": "Waterfront Views, Landlocked Wine Program",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.15streetfisheries.com",
+    "address": {
+      "street": "1900 SE 15th Street",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33316",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "casale-pio-fort-lauderdale",
+    "restaurant": "Casale Pio",
+    "neighborhood": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "citySlug": "fort-lauderdale",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Casale Pio's wine list isn't trying to reinvent the wheel — it's the kind of Italian-leaning selection you'd expect from a neighborhood spot in Fort Lauderdale. Nothing flashy, nothing offensive, just serviceable bottles that won't derail your dinner. The list reads like it was assembled once and left mostly alone, which isn't terrible but isn't exciting either.",
+    "selectionDeepDive": "The focus is predictably Italian — Chianti, Montepulciano, some Piedmont standards — with a few safe California plays for the crowd that needs a domestic anchor. Don't expect deep cuts from Sicily or natural wine experiments from Friuli; this is Ruffino and Santa Margherita territory. The reds lean heavy on mid-tier Tuscany, the whites are dominated by Pinot Grigio and Soave. It's a list built for comfort, not exploration, which works fine if you're here for the pasta and not hunting unicorns.",
+    "byTheGlass": "The glass program exists but doesn't inspire. You're looking at maybe 6-8 pours, mostly the usual suspects: a Chianti, a Pinot Grigio, maybe a Primitivo if you're lucky. Nothing rotates with any regularity, so if you've been here twice, you've seen the whole show. Decent enough for a casual Tuesday, but don't expect any surprises or seasonal shifts.",
+    "bestValue": {
+      "wine": "Antinori Peppoli Chianti Classico",
+      "price": "$48",
+      "note": "Reliable Tuscan red that doesn't gouge you — solid fruit, decent structure, won't embarrass you at the table"
+    },
+    "hiddenGem": {
+      "wine": "Massolino Langhe Nebbiolo",
+      "note": "If they have a Langhe Nebbiolo on the list, grab it — baby Barolo vibes at half the price, and most people skip it for the Chianti"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "note": "You're paying $60+ for a wine that costs $18 retail and tastes like bottled water with a hint of pear — total markup trap"
+    },
+    "perfectPairing": {
+      "wine": "Zenato Valpolicella Ripasso",
+      "dish": "Osso Buco",
+      "note": "That dried cherry and spice character from the ripasso cuts right through the richness of braised veal and plays nice with tomato-based sauces"
+    },
+    "bottomLine": "Casale Pio isn't going to blow your mind with wine, but it won't ruin your night either. If you're craving Italian food in Fort Lauderdale and need a safe bottle to go with it, you'll be fine here — just don't expect any thrills.",
+    "subtitle": "Low-Key Italian Spot With Serviceable Wines",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": null,
+      "country": "US"
+    }
+  }
+]
