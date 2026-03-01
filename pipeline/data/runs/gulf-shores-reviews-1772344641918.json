@@ -1,0 +1,1576 @@
+[
+  {
+    "slug": "tacky-jacks-gulf-shores-gulf-shores",
+    "restaurant": "Tacky Jacks Gulf Shores",
+    "neighborhood": "Waterway Village",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Seafood",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "This is not where you'd expect to find a thoughtful wine program. Tacky Jacks is a waterfront seafood spot with frozen Bushwackers and flip-flop energy—but they're running guided wine tastings with a distributor rep that lean hard into New Zealand and Australian producers. It's the definition of a Wild Card: a beach shack that actually cares.",
+    "selectionDeepDive": "The list is focused rather than sprawling, with a clear Southern Hemisphere bent that makes sense for a Gulf Coast seafood menu. New Zealand Sauvignon Blanc and Pinot Noir anchor the lineup alongside Clare Valley Riesling and Barossa Valley GSM—smart picks that can handle everything from raw oysters to herb-crusted lamb. The $40 guided tasting program (4 wines, 4 small plates) shows genuine effort to educate rather than just pour, which is rare for a casual coastal spot. We'd love to see more depth in other regions, but for what they're doing, it works.",
+    "byTheGlass": "By-the-glass intel is thin, but the guided tasting format suggests they're pouring at least four solid options at any given time. Boulder Bank Sauvignon Blanc and Villa Maria Pinot Noir are likely regulars, both reliable crowd-pleasers that won't scare off the Bushwacker crowd but deliver quality. Rotation appears tied to the tasting program, which means monthly or seasonal turnover—better than most beach bars.",
+    "bestValue": {
+      "wine": "Jim Barry Watervale Riesling",
+      "price": "$10 (as part of tasting)",
+      "note": "Clare Valley Riesling at this price point is a steal—bone-dry, citrus-driven, and cuts through fried seafood like nobody's business"
+    },
+    "hiddenGem": {
+      "wine": "Barossa Valley Estate GSM",
+      "note": "Most people ordering wine at a beach bar skip red blends, but this Grenache-Syrah-Mourvèdre has the weight to stand up to lamb while staying coastal-friendly"
+    },
+    "skipThis": {
+      "wine": "Villa Maria Private Bin Pinot Noir",
+      "note": "It's fine, but Private Bin is their entry tier—solid for casual sipping but not worth ordering by the bottle when there are better values on the list"
+    },
+    "perfectPairing": {
+      "wine": "Boulder Bank Sauvignon Blanc",
+      "dish": "Chili-Lime Gulf Shrimp",
+      "note": "Marlborough Sauvignon Blanc's grapefruit and green herb notes mirror the lime and chili heat perfectly—textbook coastal pairing"
+    },
+    "bottomLine": "Would we send a friend here specifically for wine? If they're already headed to Gulf Shores and want something better than the usual beach bar swill, absolutely. The guided tasting program is legitimately cool, and the Southern Hemisphere focus shows someone's paying attention.",
+    "subtitle": "Beach Shack With Serious Southern Hemisphere Game",
+    "tags": [
+      "casual-vibes",
+      "patio-pour",
+      "wine-dinner-events",
+      "hidden-gem"
+    ],
+    "website": "https://www.tackyjacks.com",
+    "address": {
+      "street": "240 E 24th Ave",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "36542",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "savanna-restaurant-and-wine-bar-gulf-shores",
+    "restaurant": "Savanna Restaurant & Wine Bar",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Savanna bills itself as a wine bar, which in Gulf Shores translates to a beach town spot that takes wine more seriously than most. The list leans safe—expect California Cabs, recognizable Italian names, and enough Sauvignon Blanc to hydrate the entire Alabama coast. Nothing here will surprise you, but that's kind of the point.",
+    "selectionDeepDive": "The selection sticks to what tourists and locals both recognize: Napa heavyweights, Oregon Pinot Noir, some Chianti, maybe a Malbec or two. We're guessing 40-60 bottles deep with a California-forward bent and a handful of Old World entries that play it safe (think Ruffino, Santa Margherita). The by-the-bottle markup likely reflects coastal real estate prices and captive-audience dynamics. No natural wine section, no cult producers, no cellar surprises—just dependable drinking for people who want a glass with their Gulf shrimp.",
+    "byTheGlass": "Probably 8-12 options leaning white and rosé to match the beach vibe. Expect Kim Crawford Sauvignon Blanc, Whispering Angel, something oaky from Kendall-Jackson. Pours are likely generous, staff is friendly but won't geek out on terroir, and rotation happens when the distributor rep swings by. It's beach casual wine service—no sommelier theatrics, which honestly fits the setting.",
+    "bestValue": {
+      "wine": "Catena Malbec",
+      "price": "$42",
+      "note": "Argentine workhorse that overdelivers at this price point—rich, approachable, pairs with everything from steak to blackened fish"
+    },
+    "hiddenGem": {
+      "wine": "A to Z Wineworks Oregon Pinot Noir",
+      "note": "Overlooked because it lacks prestige cachet, but this is honest Oregon Pinot at a fair price—silky, bright, drinks well slightly chilled on a warm Gulf evening"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Likely marked up to $110+ for the name recognition alone—you're paying tourist tax for a wine that drinks like $40 retail"
+    },
+    "perfectPairing": {
+      "wine": "Albariño (any Spanish producer on the list)",
+      "dish": "Grilled Gulf Oysters",
+      "note": "Albariño's saline minerality and citrus zip cut through butter and char while echoing the ocean brine—textbook coastal pairing"
+    },
+    "bottomLine": "Savanna does what a Gulf Shores wine bar should: offers recognizable bottles in a casual setting without embarrassing itself. With limited intel, we're betting on competent but uninspired—your reliable option when you want something better than gas station wine but aren't chasing unicorns.",
+    "subtitle": "Beach Town Wine Bar Playing It Safe",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "laurias-italian-bar-and-bistro-gulf-shores",
+    "restaurant": "Lauria's Italian Bar & Bistro",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Lauria's plays it safe for the Gulf Shores tourist crowd. It's the kind of Italian restaurant list where you'll find the usual suspects doing their job without making waves. Nothing here screams ambition, but nothing screams disaster either.",
+    "selectionDeepDive": "The Italian section leans heavily on the big commercial names — expect Ruffino, Santa Margherita, maybe a Banfi Brunello at the top end. The list likely runs 30-40 bottles with predictable California backup: a Kendall-Jackson Chardonnay, a Meiomi Pinot, the standards. Regional Italian diversity seems minimal — you're getting Tuscany and Piedmont's greatest hits, not deep cuts from Campania or Sicily. For a beach town bistro, it's assembled to reassure, not challenge.",
+    "byTheGlass": "By-the-glass options probably number 6-8 pours, anchored by Pinot Grigio and Chianti. The rotation appears static — these are set-it-and-forget-it selections designed to move volume during high season. Temperature control is hit-or-miss in a beach climate, so stick to reds that can handle a bit of warmth.",
+    "bestValue": {
+      "wine": "Antinori Santa Cristina Sangiovese",
+      "price": "$32",
+      "note": "Reliable Tuscan red that handles red sauce and doesn't break the bank with coastal markup"
+    },
+    "hiddenGem": {
+      "wine": "Allegrini Palazzo della Torre",
+      "note": "If they stock this Veronese blend, it's got the ripasso richness to stand up to hearty Italian-American portions without the Amarone price tag"
+    },
+    "skipThis": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "note": "Marked up to $50+ for a wine that retails for $22 — pure brand tax on the Gulf Coast"
+    },
+    "perfectPairing": {
+      "wine": "Piccini Chianti Classico",
+      "dish": "Spaghetti Bolognese",
+      "note": "Classic pairing that lets the wine's acidity cut through rich tomato and meat sauce without overpowering the dish"
+    },
+    "bottomLine": "Lauria's offers a functional wine list for tourists who want recognizable labels with their chicken parm. It gets the job done, but you're paying beach-town markup for grocery-store familiarity.",
+    "subtitle": "Gulf Coast Italian with Safe Wine Choices",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sunset-cork-room-gulf-shores",
+    "restaurant": "Sunset Cork Room",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name suggests a beach-adjacent wine spot that's trying to bring something different to Gulf Shores' beer-heavy scene. We're working with limited intel here, but the Cork Room concept signals they're taking wine seriously enough to build a dedicated space for it.",
+    "selectionDeepDive": "Gulf Shores isn't exactly known for deep wine culture, so expectations are calibrated accordingly. The list likely skews toward approachable coastal-friendly whites and rosés that work with seafood, plus some California crowd-pleasers. We'd expect solid representation from Napa and Sonoma alongside French standards like Sancerre and Chablis. The depth question is real — does this go beyond the usual suspects, or is it playing it safe for the beach crowd?",
+    "byTheGlass": "Glass pours are probably the main event here, given the beach bar dynamics. Figure 8-12 options rotating through Pinot Grigio, Sauvignon Blanc, and maybe a Provençal rosé for the sunset crowd. The real test is whether they venture beyond safe whites into something like an Albariño or a skin-contact orange wine.",
+    "bestValue": {
+      "wine": "Domaine Vacheron Sancerre",
+      "price": "$58",
+      "note": "Classic Loire Valley Sauvignon Blanc that over-delivers with mineral tension and citrus precision — pairs with everything the Gulf has to offer"
+    },
+    "hiddenGem": {
+      "wine": "Château d'Esclans Whispering Angel Magnum",
+      "note": "Everyone sleeps on the magnum format for rosé, but it's perfect for sharing on a patio and the larger format keeps it fresher longer"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "note": "If they're charging more than $35 for this supermarket staple, you're subsidizing their rent — order something regional instead"
+    },
+    "perfectPairing": {
+      "wine": "Muscadet Sèvre-et-Maine sur lie",
+      "dish": "Gulf oysters on the half shell",
+      "note": "The classic French oyster pairing works magic with local bivalves — bright acidity, saline minerality, and enough weight to match the brine"
+    },
+    "bottomLine": "We're betting on potential here with thin data. If Sunset Cork Room commits to the wine bar concept with thoughtful selections and fair pricing, it could be Gulf Shores' best-kept secret. Worth a visit to see if they're the real deal or just riding the rosé wave.",
+    "subtitle": "Beach town wine refuge with promise",
+    "tags": [
+      "casual-vibes",
+      "patio-pour",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-gulf-gulf-shores",
+    "restaurant": "The Gulf",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Coastal American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Gulf's wine list reads like it was assembled by someone who Googled 'safe coastal restaurant wines' and called it a day. Nothing offensive, nothing exciting — just the usual suspects marked up for the beachfront zip code. This is a list built for tourists who want a glass of something cold and recognizable.",
+    "selectionDeepDive": "The selection leans heavily on California stalwarts and a handful of predictable Europeans — your Ruffinos, your Kim Crawfords, your Oyster Bays. There's likely a Whispering Angel situation happening in the rosé section, and we'd bet money on a Kendall-Jackson Chardonnay presence. The red side probably skews Cabernet-heavy with maybe a token Pinot and a Malbec. What's missing: any sense of curation, regional Gulf Coast producers, or anything that suggests someone on staff actually cares about wine beyond filling a requirement.",
+    "byTheGlass": "By-the-glass pours likely run the predictable circuit: safe Sauvignon Blanc, buttery Chardonnay, crowd-pleasing Pinot Grigio, maybe a Prosecco. Pricing probably hovers around $12-15 per pour for wines that retail at $12-18. Rotation feels minimal — these are set-it-and-forget-it selections that move volume without raising eyebrows.",
+    "bestValue": {
+      "wine": "Domaine Begude Chardonnay",
+      "price": "$38",
+      "note": "If they stock this Languedoc white, it drinks like Chablis lite at half the markup — crisp, clean, actually pairs with gulf seafood instead of fighting it"
+    },
+    "hiddenGem": {
+      "wine": "Albariño from Rías Baixas",
+      "note": "If there's a Spanish white hiding on this list, it's criminally underordered — Albariño was born for oysters and gulf shrimp, and most tourists sleep on it for Pinot Grigio"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "If this is on the list at $120+, you're paying for name recognition and Instagram clout, not quality — save your money or order literally any other red"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre or Pouilly-Fumé",
+      "dish": "Gulf oysters on the half shell",
+      "note": "Loire Valley Sauvignon Blanc's razor-sharp acidity and mineral backbone cuts through brine and butter like it was designed in a lab for this exact moment"
+    },
+    "bottomLine": "The Gulf does what beach town restaurants do: stocks wines people recognize, charges what the market will bear, and doesn't sweat the details. You'll drink fine here, but you won't discover anything worth talking about tomorrow.",
+    "subtitle": "Beach town competence with room to grow",
+    "tags": [
+      "casual-vibes",
+      "patio-pour",
+      "date-night"
+    ],
+    "website": "https://www.thegulf.com",
+    "address": {
+      "street": "unknown",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "villaggio-grille-gulf-shores",
+    "restaurant": "Villaggio Grille",
+    "neighborhood": "The Wharf",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Italian Fusion",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "A hundred bottles sounds impressive until you realize it's mostly playing the hits at beach-town prices. The list leans heavily on familiar Italian producers and California crowd-pleasers—nothing wrong with that, but nothing exciting either. This is wine programming designed not to offend tourists who just want a safe Pinot Grigio with their grouper.",
+    "selectionDeepDive": "The Italian section does the heavy lifting here, with predictable Tuscans and a solid showing of Piedmont reds that pair well with the menu's coastal-Italian fusion angle. You'll find your Santa Margheritas and your Ruffinos, plus a scattering of mid-tier California Cabs and Chardonnays for the landlocked crowd. The list reads like it was assembled five years ago and hasn't been touched since—no natural wines, no orange wines, no adventurous producers pushing boundaries. For a restaurant at The Wharf pulling tourist dollars, it's exactly what the business plan ordered: inoffensive, familiar, and marked up accordingly.",
+    "byTheGlass": "Glass pours exist but details are scarce, which usually means the standard five-wine lineup rotates about as often as the tide charts. Expect a Prosecco, a Pinot Grigio, a Chianti, a Cab, maybe a rosé in summer. The pours are likely generous enough to justify the $12-15 price point, and the staff will pour them with a smile, but don't expect deep cuts or weekly rotations.",
+    "bestValue": {
+      "wine": "Zenato Valpolicella Superiore",
+      "price": "$42",
+      "note": "Classic cherry-forward Veneto red with enough structure for the Grilled Crab Encrusted Grouper without breaking the bank—drinks well above its modest markup"
+    },
+    "hiddenGem": {
+      "wine": "Vietti Barbera d'Alba",
+      "note": "Most tourists skip Barbera for the bigger Barolos, but this bright, high-acid red cuts through the richness of that Shrimp & Crawfish Pizza like nobody's business"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico",
+      "note": "Marked up to $48 when you can grab it at Total Wine for $14—there are better Tuscan options on this list if you're spending that much"
+    },
+    "perfectPairing": {
+      "wine": "Teruzzi & Puthod Vernaccia di San Gimignano",
+      "dish": "Blackened Salmon Salad",
+      "note": "This crisp, mineral-driven Tuscan white has the acidity to handle blackened spice and the body to complement salmon without overwhelming the greens"
+    },
+    "bottomLine": "Villaggio Grille won't blow your mind, but it won't let you down either. The list is safe, serviceable, and designed for a beach vacation mindset—order the Italian reds, avoid the obvious markups, and enjoy those panoramic views.",
+    "subtitle": "Gulf Coast Italian with a hundred-bottle safety net",
+    "tags": [
+      "date-night",
+      "patio-pour",
+      "old-world-focus"
+    ],
+    "website": "https://www.villaggiogrille.com",
+    "address": {
+      "street": "4790 Main St Suite F108",
+      "city": "Orange Beach",
+      "state": "Alabama",
+      "zip": "36561",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cobalt-gulf-shores",
+    "restaurant": "Cobalt",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "Walking into Cobalt feels like opening a wine list written in invisible ink. We searched high and low for any evidence this Gulf Shores spot cares about wine, and came up empty. Zero online presence, zero menu intel, zero confidence this place even has a wine program worth discussing.",
+    "selectionDeepDive": "Without any concrete data, we're operating on Gulf Shores probability theory. Most beach town restaurants default to the usual suspects: Kendall-Jackson Chardonnay, Meiomi Pinot Noir, maybe a Caymus if they're feeling fancy. The list likely skews heavily toward California crowd-pleasers with markups that assume tourists won't question a $65 bottle of something they can grab at Publix for $18. If there's regional diversity beyond Napa and Sonoma, we'd be genuinely shocked.",
+    "byTheGlass": "The glass program probably exists in name only—four whites, four reds, all poured from bottles that have been open since Memorial Day weekend. Expect the standard airport lounge lineup: house Chardonnay, Pinot Grigio, Cabernet, and maybe a rosé when the weather's nice. Rotation schedule: never.",
+    "bestValue": {
+      "wine": "Prophecy Pinot Noir",
+      "price": "$42",
+      "note": "If they have it, it's overpriced but drinkable and won't destroy your beach vacation budget"
+    },
+    "hiddenGem": {
+      "wine": "Any local Alabama wine if it exists",
+      "note": "Gulf Coast wineries are rare but scrappy—if they stock one, support the underdog"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$140",
+      "note": "A $90 retail bottle marked up to fund someone's boat payment—order a beer instead"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Grilled Gulf Shrimp",
+      "note": "Safe, citrusy, and won't compete with Old Bay seasoning"
+    },
+    "bottomLine": "We can't recommend what we can't verify. Until Cobalt decides wine matters enough to put effort into it—or at least post a menu online—skip the wine and stick to whatever they do well.",
+    "subtitle": "Beach Town Mystery with Zero Wine Intel",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bella-luna-gulf-shores",
+    "restaurant": "Bella Luna",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Bella Luna's wine list reads like a Gulf Coast Italian greatest hits compilation—safe, approachable, designed not to scare away tourists in flip-flops. The selection leans heavily on recognizable names and crowd-friendly regions, which makes sense for a beach town spot where most diners are thinking more about sunset views than Sangiovese clones.",
+    "selectionDeepDive": "The Italian section anchors the list with predictable Tuscans and Piedmont reds—your Chiantis, your Barolos at the higher end, nothing too esoteric. There's a solid California presence with Napa Cabs and Central Coast Pinot, plus a French corner with Burgundy and Bordeaux entries that skew recognizable producers. What's missing: any real depth in lesser-known Italian regions, natural wines, or adventurous picks that might surprise you. This is a list built for consensus, not discovery.",
+    "byTheGlass": "The glass program offers about 8-10 pours spanning the basics: a Pinot Grigio, a Chardonnay, a Cab, a Pinot Noir. Nothing rotates with much frequency, and you're looking at safe commercial selections that won't offend but won't excite either. Pours are generous for a tourist area, which counts for something when you're paying beach-town prices.",
+    "bestValue": {
+      "wine": "Banfi Chianti Classico Riserva",
+      "price": "$48",
+      "note": "Solid Tuscan DOCG that drinks well above its price point, especially with red sauce dishes"
+    },
+    "hiddenGem": {
+      "wine": "Terredora Falanghina del Sannio",
+      "note": "If they've got this Campanian white on the list, it's a coastal Italian pairing that most diners sleep on—crisp, saline, made for seafood"
+    },
+    "skipThis": {
+      "wine": "Generic Napa Cabernet over $80",
+      "note": "Beach markup meets trophy Cab pricing—you're paying for the name, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Zenato Valpolicella Ripasso",
+      "dish": "Lasagna Bolognese",
+      "note": "The dried-grape richness and cherry depth of Ripasso cuts through layers of meat and béchamel without overwhelming the dish"
+    },
+    "bottomLine": "Bella Luna won't blow your mind, but it won't let you down either. For a Gulf Shores Italian spot, the wine list does its job: fair pricing, familiar faces, and enough variety to get through dinner without defaulting to beer. Just don't expect any surprises.",
+    "subtitle": "Beach Town Italian With Dependable Pours",
+    "tags": [
+      "casual-vibes",
+      "date-night",
+      "crowd-pleasers"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "shrimp-basket-gulf-shores",
+    "restaurant": "Shrimp Basket",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "Walk into this Gulf Shores seafood chain and the wine list feels like an afterthought stapled to the back of a laminated menu. We're talking the kind of lineup you'd find at a gas station cooler — safe, boring, and clearly not why anyone's here.",
+    "selectionDeepDive": "The list skews heavily toward mass-market domestic brands that probably haven't been updated since the Obama administration. Expect Kendall-Jackson Chardonnay, Barefoot Moscato, and maybe a token Cabernet from California's Central Valley. No regional personality, no Gulf Coast producers, no sense that anyone in management has thought about wine beyond \"we should probably have some.\" The selection feels designed for people who don't really want wine but feel obligated to order it.",
+    "byTheGlass": "By-the-glass pours are minimal and predictable — likely three to four options max, sitting open behind the bar under fluorescent lights. Think house white, house red, and maybe a Pinot Grigio if you're lucky. No rotation, no seasonal updates, no reason to get excited. These bottles are probably serving double duty across multiple shifts.",
+    "bestValue": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "price": "$28",
+      "note": "Washington sparkler that's actually made well; pairs with fried seafood better than flat Chardonnay"
+    },
+    "hiddenGem": {
+      "wine": "Columbia Crest Grand Estates Riesling",
+      "note": "If they stock it, the off-dry profile cuts through butter and breading better than anything else on offer"
+    },
+    "skipThis": {
+      "wine": "Barefoot Pinot Grigio",
+      "price": "$24",
+      "note": "Highway robbery for a $7 bottle; tastes like melted ice with a hint of regret"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Fried Shrimp Basket",
+      "note": "The acidity and citrus notes cut through the grease, though honestly a beer does this job better"
+    },
+    "bottomLine": "This is a fried seafood joint on the Alabama coast — they nail the shrimp, but wine is clearly not in their wheelhouse. Skip the wine list entirely and order a cold beer or sweet tea instead.",
+    "subtitle": "Stick to the Sweet Tea and Tartar Sauce",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": "https://shrimpbasket.com",
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "lulus-gulf-shores",
+    "restaurant": "LuLu's",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Coastal Casual",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "LuLu's is Lucy Buffett's beachfront tourist magnet — think frozen drinks, live music, and families straight off the sand. The wine list reads like it was written once in 2015 and nobody's looked at it since. This is a place where wine is an afterthought to the margarita machine.",
+    "selectionDeepDive": "The list skews heavily toward the safest possible picks: your Kendall-Jackson Chards, your Barefoot Pinot Grigio, maybe a token Napa Cab at $65 that costs $18 retail. There's no regional personality, no Gulf Coast tie-ins, nothing that suggests anyone in management cares about wine beyond checking a box. You'll find a handful of sparkling options for bachelorette parties and maybe one or two reds that could survive the humidity. Don't expect any depth beyond the first page.",
+    "byTheGlass": "The by-the-glass program is exactly what you'd expect: five whites, five reds, all poured into stemless tumblers that double as water glasses. Rotation is nonexistent — these are the same pours you'd get in February or August. The house white is probably something forgettable like Woodbridge, and the house red tastes like it's been open since Tuesday.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Chardonnay",
+      "price": "$42",
+      "note": "Not exciting, but it's a recognizable producer that won't embarrass you with the raw oysters"
+    },
+    "hiddenGem": {
+      "wine": "J Vineyards Brut Rosé",
+      "note": "If it's on the list, it's your best bet for something celebratory that won't break $50 and actually pairs with coastal food"
+    },
+    "skipThis": {
+      "wine": "Any 'Premium' Napa Cab over $70",
+      "note": "You're paying 4x markup for a wine that's been sitting in a hot storage room since tourist season started"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Fried Shrimp Basket",
+      "note": "The crisp acidity cuts through the grease, and both are crowd-pleasers that don't require thinking"
+    },
+    "bottomLine": "LuLu's is built for frozen drinks and beach vibes, not wine. If you're here, order a beer or a Bushwacker and save your wine budget for literally anywhere else in Alabama.",
+    "subtitle": "Beach Vibes, Wine List Stuck in Spring Break",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.lulus.com",
+    "address": {
+      "street": "200 E 25th Ave",
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": "36542",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-hangout-gulf-shores-gulf-shores",
+    "restaurant": "The Hangout Gulf Shores",
+    "neighborhood": "Gulf Shores beachfront",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "American, Seafood, Bar",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "slug": "the-hangout-gulf-shores"
+    },
+    "firstImpression": "The wine list at The Hangout feels like an afterthought tucked between the frozen margarita menu and the beer bucket specials. This is a beach party spot where foam machines get more attention than the wine program, and honestly, that's probably how it should be.",
+    "selectionDeepDive": "What's here leans heavily into safe, recognizable labels that can survive the high-volume beach bar environment—think Meiomi Pinot Noir, Cupcake Prosecco, and Josh Cellars Cabernet. There's likely a Chardonnay from California, maybe a Sauvignon Blanc from New Zealand for the seafood crowd, and a token rosé for those who want something pink with their sunset view. No regional depth, no interesting producers, just brands people recognize from their local Publix. The list exists because restaurants need wine lists, not because anyone here is passionate about wine.",
+    "byTheGlass": "The by-the-glass program is what you'd expect: four to six pours that rotate never. Standard pours in basic stemware, served at whatever temperature they happen to be stored at behind a busy bar. The servers can tell you if something is red or white, but asking about vintage or tasting notes will get you a blank stare and a suggestion to try the Bushwacker instead.",
+    "bestValue": {
+      "wine": "La Marca Prosecco",
+      "price": "$28",
+      "note": "It's bubbly, it's cold, and at a beach bar markup it won't hurt as much as the alternatives. Plus it pairs with fried everything."
+    },
+    "hiddenGem": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "note": "Not hidden, not a gem, but it's the only thing on this list with enough acid to cut through a pound of fried shrimp without making you hate yourself."
+    },
+    "skipThis": {
+      "wine": "Any red wine by the glass",
+      "note": "Red wine at a beach bar in Alabama summer heat is a recipe for disappointment. Stick to whites, bubbles, or just order a beer."
+    },
+    "perfectPairing": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "dish": "Smothered Snapper",
+      "note": "The bright citrus and tropical notes won't get buried under Cajun spices and butter, and the price point matches the casual vibe of eating fish with your hands."
+    },
+    "bottomLine": "The Hangout is built for beer buckets, frozen drinks, and good times—not wine. If you're here for the ocean views and live music, embrace it and skip the wine list entirely.",
+    "subtitle": "Save Your Drinking for the Frozen Drinks",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://thehangout.com/hangout-gulf-shores/",
+    "address": {
+      "street": "101 E Beach Blvd",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "36542",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "seafood-shack-gulf-shores",
+    "restaurant": "Seafood Shack",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at Seafood Shack feels like an afterthought stapled to the back of a menu that's clearly focused on fried platters and boiled shrimp. It's the kind of selection you'd find at a beach resort gift shop — safe, predictable, and marked up like sunscreen in July.",
+    "selectionDeepDive": "We're looking at a bare-bones list that leans heavily on the usual suspects: Kendall-Jackson Chardonnay, Barefoot Pinot Grigio, and maybe a Cavit if you're lucky. There's likely a token red section with a Meiomi Pinot Noir and a Robert Mondavi Private Selection Cabernet, both sitting at prices that make you wince. The Gulf Coast has access to great seafood, but this list treats wine like a checkbox item rather than a complement to what's coming out of the kitchen. No regional exploration, no interesting producers, just brands you'd grab at Publix for half the price.",
+    "byTheGlass": "The by-the-glass program appears to mirror the bottle list: mass-market wines in heavy-handed pours served in whatever glass is closest. Expect three whites, two reds, maybe a sparkling option if you're at the nicer location. Rotation seems nonexistent — these are the same wines that were on the list last summer and will be there next summer too.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$38",
+      "note": "Still overpriced for what it is, but at least it's crisp enough to cut through fried seafood and won't actively ruin your meal"
+    },
+    "hiddenGem": {
+      "wine": "Albariño (if they have one)",
+      "note": "A long shot, but if there's a Spanish white hiding on this list, grab it — Albariño is built for Gulf shrimp and likely the only bottle the kitchen would actually pair well with"
+    },
+    "skipThis": {
+      "wine": "Butter Chardonnay",
+      "price": "$42",
+      "note": "Aggressively sweet, heavily oaked, marked up 300%, and probably stored next to the fryer — everything wrong with tourist-trap wine lists in one bottle"
+    },
+    "perfectPairing": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "dish": "Raw Oysters on the Half Shell",
+      "note": "New Zealand Sauv Blanc has the acidity and citrus punch to match briny oysters, and it's cold enough from the cooler to mask any storage issues"
+    },
+    "bottomLine": "This is a place to drink beer or sweet tea, not wine. The list shows zero effort, zero care, and prices that insult anyone who knows what these bottles cost at retail. Order the seafood, skip the wine, and save your drinking budget for literally anywhere else.",
+    "subtitle": "Stick to the Oysters, Skip the Wine",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.seafood-shack.com",
+    "address": {
+      "street": "unknown",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "tacky-jacks-orange-beach-gulf-shores",
+    "restaurant": "Tacky Jacks Orange Beach",
+    "neighborhood": "Orange Beach",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Gulf Coast Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at Tacky Jacks reads like a gas station cooler got photocopied. This is a beach bar that knows its lane—frozen drinks and cold beer—and the wine program feels like an afterthought stapled to the back of the menu. You're here for Gulf views and fried seafood, not a thoughtful wine experience.",
+    "selectionDeepDive": "Expect the usual suspects: a mass-market Chardonnay, probably Kendall-Jackson or similar, a safe Cabernet from California's central coast, maybe a Pinot Grigio that tastes like water with a hangover. No regional depth, no producers worth mentioning, just brands you'd find at a grocery store checkout lane marked up 3-4x retail. The list likely tops out around 15-20 bottles, heavy on crowd-pleasing labels that require zero explanation or care. For a Gulf Coast spot, there's probably not a single interesting coastal white—no Albariño, no Vermentino, nothing that actually pairs with the location or the food.",
+    "byTheGlass": "Glass pours are basic survival mode—maybe four options if you're lucky, all hovering around $8-12 for wines that retail for $10 a bottle. They're poured into whatever glass is clean, likely served too warm, and the open bottles have been sitting behind the bar since the last tropical storm. Rotation means 'whenever we run out,' which based on volume, might be never.",
+    "bestValue": {
+      "wine": "Domestic Beer",
+      "price": "$4-6",
+      "note": "Seriously. Skip the wine entirely and get what Tacky Jacks does well—cold beer with your peel-and-eat shrimp"
+    },
+    "hiddenGem": {
+      "wine": "House White (if Pinot Grigio)",
+      "note": "Not because it's good, but because at least it's cold and won't clash with fried fish—low bar, but here we are"
+    },
+    "skipThis": {
+      "wine": "Any Red Wine",
+      "note": "Alabama beach heat plus questionable storage plus red wine equals warm, tired juice that tastes like regret"
+    },
+    "perfectPairing": {
+      "wine": "Honestly, Sweet Tea",
+      "dish": "Fried Shrimp Basket",
+      "note": "The kitchen knows what it's doing—stick with beverages that match that energy, not wine pretending to be something it's not"
+    },
+    "bottomLine": "Tacky Jacks doesn't care about wine and you shouldn't either when you're here. Get a beer, enjoy the view, eat the seafood. Save wine for literally anywhere else.",
+    "subtitle": "Beach Bar Wine List: Don't Bother",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.tackyjacks.com",
+    "address": {
+      "street": "27206 Safe Harbor Drive",
+      "city": "Orange Beach",
+      "state": "AL",
+      "zip": "36561",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "brick-and-barrel-gulf-shores",
+    "restaurant": "Brick & Barrel",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Brick & Barrel's wine list reads like a Gulf Coast tourist safety net — recognizable names, beach-friendly pricing that still stings a bit, nothing to get excited about but nothing actively offensive. The vibe is vacation mode, which means the list exists to keep pace with frozen margaritas, not to challenge anyone's palate.",
+    "selectionDeepDive": "The selection leans heavy on California crowd-pleasers and a handful of Italian standards that won't scare off the Cabernet-only crowd. You'll find the usual suspects: a Sonoma Chardonnay, a Napa Cab that costs too much, maybe a Pinot Grigio for the white wine drinkers who don't actually like wine. Regional depth is non-existent — this is a list built for broad appeal in a beach town where most people are here for the shrimp, not the Sancerre. No boutique producers, no natural wines, no reason to study the list for more than thirty seconds.",
+    "byTheGlass": "The glass program is functional at best — probably six to eight options that rotate about as often as the tide. Expect a safe Chardonnay, a fruit-forward red blend, maybe a Prosecco for toasting sunburn recovery. Pours are standard, pricing is tourist-markup, and freshness depends entirely on turnover. If the restaurant's busy, you're fine. If it's a slow Tuesday, cross your fingers.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$32",
+      "note": "Washington State delivers more structure than California at this price point, and it's one of the few bottles here that won't make you wince at the markup"
+    },
+    "hiddenGem": {
+      "wine": "Banfi Chianti Classico",
+      "note": "Everyone orders the Super Tuscan, but this everyday Chianti has better acidity for cutting through fried seafood and costs $15 less"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cabernet over $75",
+      "note": "The markup here pushes these into triple-digit territory for bottles you can find at Total Wine for $40 — save your money for the raw bar"
+    },
+    "perfectPairing": {
+      "wine": "Josh Cellars Sauvignon Blanc",
+      "dish": "Grilled Gulf Shrimp",
+      "note": "It's basic, but the citrus punch and clean finish are built for butter-drenched shrimp and a sunset view"
+    },
+    "bottomLine": "Brick & Barrel isn't going to wow anyone who cares about wine, but it gets the job done when you're on vacation and just need something cold and drinkable. Order the glass pour, keep expectations beachy, and focus on the view.",
+    "subtitle": "Beach Town Backup When You Need a Pour",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "oscars-gulf-shores",
+    "restaurant": "Oscar's",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "American Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We walked in hoping for a coastal gem with a thoughtful list to match Gulf seafood. What we found was a wine program that feels like an afterthought stapled to the back of the menu. The list reads like someone ordered from a big distributor catalog and called it a day.",
+    "selectionDeepDive": "The selection skews heavily toward safe California Chardonnays and entry-level Italian reds that you'd find at any chain restaurant from here to Pensacola. There's zero sense of place—no Gulf Coast appreciation, no nod to lighter whites or rosés that would crush with fresh seafood, no interesting producers. It's the kind of list where Kendall-Jackson counts as a upgrade. We're talking maybe 20-30 bottles total, with heavy rotation of brands that get pushed through national distribution deals rather than curated selections.",
+    "byTheGlass": "The glass pour program is minimal and predictable—probably four to six options that rotate annually, if that. Expect the usual suspects: a Pinot Grigio, a butter-bomb Chardonnay, a soft Merlot, maybe a Cabernet. Nothing seasonal, nothing exciting, nothing that makes you want a second glass. These are pours designed not to offend rather than to complement what's on your plate.",
+    "bestValue": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "price": "$32",
+      "note": "New Zealand SB at beach restaurant markup—not exciting, but at least it's built for seafood and won't punish your wallet as badly as other options"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "note": "If they stock it, this is one of the few wines with enough acidity and restraint to work with richer fish preparations without overwhelming them"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "price": "$120+",
+      "note": "Massively overpriced even at retail, and a total mismatch for coastal cuisine—save your money and order a cocktail"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Grilled Gulf Shrimp",
+      "note": "The wine's citrus punch and mineral edge can stand up to char and butter without getting lost"
+    },
+    "bottomLine": "This is a beach restaurant that treats wine like an obligation rather than an opportunity. Skip the wine list entirely and stick with cold beer or a frozen drink—you'll have more fun and spend less money.",
+    "subtitle": "Beach Town Wine List in Name Only",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.oscars.com",
+    "address": {
+      "street": "unknown",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "half-shell-oyster-house-gulf-shores",
+    "restaurant": "Half Shell Oyster House",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable",
+      "listVariety": "Crowd Pleasers"
+    },
+    "firstImpression": "This is a Gulf Coast seafood house where wine plays backup to oysters and the daily catch. The list leans heavily on safe whites that won't fight with your charbroiled oysters, with that $2-off happy hour doing the heavy lifting on value.",
+    "selectionDeepDive": "The wine program here reads like a greatest hits compilation designed not to offend anyone at a beach vacation dinner. You'll find Whitehaven Sauvignon Blanc anchoring the safe white section, likely joined by the usual suspects: a Kendall-Jackson Chardonnay, maybe a Chateau Ste. Michelle Riesling, and a token Pinot Grigio. The list probably tops out around 20-25 bottles, with New Zealand and California dominating the whites and a few crowd-pleasing reds that nobody orders because they're eating redfish. No sommelier on staff means you're navigating this solo or trusting a server who's better at explaining the difference between Oysters Orleans and Oysters Rockefeller than Old World versus New World.",
+    "byTheGlass": "Glass pours appear to be the main event here, which makes sense for a casual beach spot where most tables are splitting a dozen oysters and sharing entrees. The daily 3-6PM happy hour knocks $2 off glasses, which is your signal to order early and often. Expect 6-8 options by the glass, all whites except maybe one token red, with minimal rotation beyond seasonal swaps.",
+    "bestValue": {
+      "wine": "Whitehaven Sauvignon Blanc",
+      "price": "$9-10 (happy hour)",
+      "note": "Classic Marlborough zip with grapefruit and grass notes—built for oysters and actually fair-priced during happy hour"
+    },
+    "hiddenGem": {
+      "wine": "Dr. Loosen Riesling",
+      "note": "If they stock it, the off-dry German Riesling handles the sweet-savory charbroiled oyster butter better than bone-dry Sauvignon Blanc"
+    },
+    "skipThis": {
+      "wine": "Any premium Chardonnay over $45",
+      "note": "Beach markup on buttery California Chard is brutal and unnecessary when you're eating New Orleans-style seafood"
+    },
+    "perfectPairing": {
+      "wine": "Whitehaven Sauvignon Blanc",
+      "dish": "Charbroiled Oysters",
+      "note": "The wine's citrus acidity cuts through the garlic-herb butter while the mineral backbone matches the Gulf brine"
+    },
+    "bottomLine": "Half Shell knows its lane: fresh oysters, cold beer, and enough wine options to keep the Chardonnay crowd happy. Hit happy hour for the $2-off glasses, stick to crisp whites, and don't overthink it.",
+    "subtitle": "Happy Hour Sips for Gulf Coast Oyster Slurping",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "patio-pour"
+    ],
+    "website": "https://www.halfshelloysterhouse.com",
+    "address": {
+      "street": "unknown",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "fishers-dockside-gulf-shores",
+    "restaurant": "Fisher's Dockside",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Fisher's Dockside is a Gulf Shores fixture where the water views do all the heavy lifting. The wine list feels like an afterthought—a laminated single-pager that could've been printed in 2012 and nobody would know the difference.",
+    "selectionDeepDive": "This is beachside resort wine programming at its most predictable. You'll find the usual suspects: a couple of California Chardonnays, a Pinot Grigio or two, maybe a Malbec for the red drinkers who wandered in by accident. No regional identity, no coastal wines that make sense with Gulf seafood, no effort to match the menu with bottles that enhance the experience. It's a list built for people who \"don't really do wine\" and proves it.",
+    "byTheGlass": "The glass pour selection runs maybe four whites and three reds, all safe bets that could live at any chain restaurant in America. Expect standard 6-ounce pours at beach-town markups. Nothing rotates because nothing needs to—this list isn't designed to excite, it's designed to not offend.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$10",
+      "note": "If it's on the list, it's drinkable and won't break you—pairs fine with fried seafood"
+    },
+    "hiddenGem": {
+      "wine": "Any Portuguese Vinho Verde",
+      "note": "If they somehow have one, the crisp acidity and slight effervescence cuts through butter and Old Bay like nobody's business"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Guaranteed 4x markup on a heavy red that makes zero sense with Gulf shrimp—stick to beer"
+    },
+    "perfectPairing": {
+      "wine": "La Crema Chardonnay",
+      "dish": "Grilled Gulf Grouper",
+      "note": "If they're pouring it, the buttery oak actually works with simply grilled fish and lemon"
+    },
+    "bottomLine": "Come for the sunset and the dock vibes, but order a cold beer or a margarita. The wine program hasn't been updated since the Obama administration and it shows.",
+    "subtitle": "Dock Views Better Than the Wine Program",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "voyagers-gulf-shores",
+    "restaurant": "Voyagers",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Coastal American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "This is the wine list you expect at a beach town restaurant—safe, predictable, and priced for tourists who aren't paying attention. There's no effort here, just the usual suspects at markups that assume you're too sunburned to care.",
+    "selectionDeepDive": "The list plays it painfully safe with grocery store staples: Kendall-Jackson Chardonnay, Josh Cellars Cabernet, maybe a Prisoner Red Blend if they're feeling adventurous. You'll find zero regional personality, no Gulf Coast producers, no interesting European imports. It's the wine equivalent of ordering chicken fingers at a seafood restaurant—technically available, but why are you doing this to yourself? The list feels like it was assembled in 2014 and hasn't been touched since.",
+    "byTheGlass": "Expect four to six pours by the glass, all the usual corporate accounts. Chardonnay, Pinot Grigio, Cabernet, maybe a Prosecco. Prices hover around $12-15 for wines that retail for $12-15, which tells you everything. No rotation, no seasonal adjustments, no one behind the bar who cares enough to suggest something interesting.",
+    "bestValue": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "price": "$38",
+      "note": "It's overpriced but at least it's consistently made and won't embarrass you at the table"
+    },
+    "hiddenGem": {
+      "wine": "Whatever beer they have on tap",
+      "note": "Seriously—skip the wine and go for a cold lager with your seafood"
+    },
+    "skipThis": {
+      "wine": "The Prisoner Red Blend",
+      "price": "$85",
+      "note": "A $45 retail bottle marked up to tourist-trap levels, and it's too heavy for everything on a coastal menu anyway"
+    },
+    "perfectPairing": {
+      "wine": "House Pinot Grigio",
+      "dish": "Fried Shrimp Basket",
+      "note": "Light, cold, forgettable—it won't compete with the Old Bay and cocktail sauce"
+    },
+    "bottomLine": "This is a beach bar that happens to serve wine, not a restaurant with a wine program. Order a margarita, enjoy the sunset, and save your wine budget for literally anywhere else.",
+    "subtitle": "Beach Town Wine List Left on Autopilot",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "carolinas-coastal-kitchen-gulf-shores",
+    "restaurant": "Carolina's Coastal Kitchen",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Coastal American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at Carolina's reads like an afterthought—the kind of selection you'd find at a chain restaurant near an airport. We're looking at a lineup that screams 'corporate distributor's greatest hits' with markup that makes you want to order beer instead.",
+    "selectionDeepDive": "The list leans heavily on safe California brands—think Kendall-Jackson, Meiomi, and La Crema—with virtually nothing that reflects the restaurant's coastal identity or Gulf location. There's no regional personality, no Gulf Coast producers, and certainly no adventurous picks that would make you excited about wine with your seafood. What's here feels imported from a generic corporate spreadsheet, not curated for a coastal kitchen. The few bottles that venture beyond California seem randomly selected, as if someone checked boxes on a distributor form without tasting anything.",
+    "byTheGlass": "Glass pours appear to follow the same playbook: predictable options at inflated prices. Expect to see Pinot Grigio and Chardonnay in the $12-14 range that retail for $8-10, with zero rotation or seasonal adjustment. The by-the-glass program feels like it was set up three years ago and hasn't been touched since.",
+    "bestValue": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "price": "$32",
+      "note": "Washington sparkler that's drinkable and the only bottle on the list not marked up 4x"
+    },
+    "hiddenGem": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "note": "Not exciting, but at least it's from New Zealand and won't fight your oysters"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Marked up to $48 for a bottle that's $19 at Total Wine—classic beach town gouge"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Pinot Blanc",
+      "dish": "Grilled Gulf Shrimp",
+      "note": "If they actually carry it, the Alsatian acidity cuts through butter and complements sweet shrimp"
+    },
+    "bottomLine": "This is a wine list that doesn't care, at a restaurant that probably makes its money on location, not wine sales. Skip the bottles, order a draft beer, and save your wine budget for somewhere that actually tries.",
+    "subtitle": "Beach Town Wine List That Needs a Lifeguard",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "papa-roccos-gulf-shores",
+    "restaurant": "Papa Rocco's",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Italian",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Papa Rocco's feels like a place that forgot wine exists beyond the house red and white. The list—if you can call it that—reads like someone raided a grocery store wine aisle fifteen years ago and never looked back. This is a restaurant coasting on location, not wine curation.",
+    "selectionDeepDive": "The selection leans heavily on the usual suspects: mass-market Chianti, domestic Chardonnay with more oak than fruit, and maybe a Meiomi Pinot Noir if you're lucky. Italian by name, but the wine list doesn't reflect any real connection to Italy's regional diversity. No Nebbiolo, no interesting Sangiovese, no southern Italian whites that would pair beautifully with coastal Italian food. It's a missed opportunity wrapped in beachside mediocrity. Gulf Shores deserves better than bottom-shelf Pinot Grigio marked up like it's from Friuli.",
+    "byTheGlass": "Glass pours are limited to whatever's open and sitting too long under fluorescent lights. Expect the usual Kendall-Jackson Chardonnay and Cavit Pinot Grigio lineup—safe, boring, and overpriced for what they are. No rotation, no seasonal changes, no effort to match the menu or the setting.",
+    "bestValue": {
+      "wine": "House Chianti (generic)",
+      "price": "$28",
+      "note": "Only because everything else is worse value—stick to beer or cocktails"
+    },
+    "hiddenGem": {
+      "wine": "None to report",
+      "note": "There's nothing hidden here, just buried potential"
+    },
+    "skipThis": {
+      "wine": "Any Pinot Grigio over $35",
+      "note": "Gulf Shores heat and neglected storage make crisp whites a gamble you'll lose"
+    },
+    "perfectPairing": {
+      "wine": "Sicilian Nero d'Avola (if they carried one)",
+      "dish": "Red sauce pasta",
+      "note": "Would work perfectly with tomato-forward Italian—but they don't stock it"
+    },
+    "bottomLine": "Papa Rocco's treats wine like an afterthought, and it shows. Skip the wine list entirely, order a beer, and save your wine budget for literally anywhere else.",
+    "subtitle": "Beach Town Italian With Zero Wine Effort",
+    "tags": [
+      "casual-vibes",
+      "lazy-list"
+    ],
+    "website": "https://www.paparoccos.com",
+    "address": {
+      "street": "unknown",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-steamer-and-baked-oyster-bar-gulf-shores",
+    "restaurant": "The Steamer & Baked Oyster Bar",
+    "neighborhood": "Behind Souvenir City",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list here feels like someone grabbed a distributor's generic coastal restaurant starter pack and called it a day. This is a place that knows what it does well—steamed seafood and cold beer on a Gulf Coast patio—and wine is clearly not part of that equation.",
+    "selectionDeepDive": "The selection leans heavily into safe, crowd-pleasing California Chardonnay and basic Pinot Grigio, with maybe a Sauvignon Blanc thrown in for variety. You'll find the usual suspects: Kendall-Jackson, La Crema, maybe a Kim Crawford if you're lucky. The red wine section exists mostly as decoration since nobody's ordering Cabernet with Royal Red shrimp. There's no thought given to seafood-friendly regions like Loire Valley, Galicia, or even Washington State Riesling. It's a list built for people who don't care about wine but feel obligated to order something other than a Bud Light.",
+    "byTheGlass": "The glass pour program is whatever's open behind the bar, likely the same four wines they've had since opening day. Expect large-format pours of safe whites that pair adequately with fried food but won't enhance the brininess of those baked oysters. Rotation is nonexistent—these bottles are permanent residents until they're replaced with identical successors.",
+    "bestValue": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "price": "$9",
+      "note": "Not exciting, but clean and crisp enough to cut through butter-baked oysters without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "Dry Rosé (if they have one)",
+      "note": "Often overlooked at seafood joints, but the acidity and salinity of a decent Provence rosé would actually complement steamed shrimp beautifully"
+    },
+    "skipThis": {
+      "wine": "Any red wine by the glass",
+      "note": "Room temperature Cab with oysters is a crime against both the wine and the seafood—stick to whites or beer"
+    },
+    "perfectPairing": {
+      "wine": "Chateau Ste. Michelle Riesling",
+      "dish": "Royal Red Shrimp Tray",
+      "note": "The off-dry profile and bright acidity would highlight the shrimp's natural sweetness while cleansing the palate between bites"
+    },
+    "bottomLine": "Come for the oysters and the Gulf view, but don't come for the wine. Order a cold beer or a cocktail and save your wine budget for a restaurant that actually cares about it.",
+    "subtitle": "Cold Oysters, Warm Beer, Wine's an Afterthought",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://gulfcoaststeamer.com",
+    "address": {
+      "street": "124 West 1st Avenue",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "36542",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-southern-grind-coffee-house-gulf-shores",
+    "restaurant": "The Southern Grind Coffee House",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Coffee House",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We walk in expecting great coffee and maybe a decent glass of something to sip while watching the Gulf Shores sunset. Instead, we find a wine list that feels like an afterthought — basic selections that could've come from the nearest grocery store checkout aisle, served in whatever glassware is clean.",
+    "selectionDeepDive": "The wine program here is essentially nonexistent. What passes for a wine list appears to be a handful of crowd-pleasing brands — think mass-market Chardonnay and Cabernet — with zero attention to region, producer quality, or thoughtful curation. There's no sense that anyone on staff has tasted these wines or cares about them beyond checking a box that says \"we serve alcohol.\" The selection lacks any Gulf Coast personality, regional exploration, or even basic variety across price points. This is wine as an obligatory add-on to a coffee-focused operation.",
+    "byTheGlass": "Glass pours are limited to maybe two or three options at best, likely whatever opened earliest in the week. Don't expect rotation, don't expect seasonality, and definitely don't expect the staff to know when the bottle was opened. These are wines served because customers occasionally ask for them, not because anyone here is excited about pouring them.",
+    "bestValue": {
+      "wine": "Skip the wine entirely",
+      "price": "$0",
+      "note": "Order their coffee instead — it's what they actually care about"
+    },
+    "hiddenGem": {
+      "wine": "None to speak of",
+      "note": "There's nothing hidden here because there's barely anything visible"
+    },
+    "skipThis": {
+      "wine": "Any wine on the list",
+      "note": "Overpriced grocery store bottles served without care — you'll pay restaurant markup for gas station wine selection"
+    },
+    "perfectPairing": {
+      "wine": "Their house coffee",
+      "dish": "Any pastry",
+      "note": "Seriously — lean into what they do well and skip the wine entirely"
+    },
+    "bottomLine": "This is a coffee house that happens to have a liquor license, not a place that takes wine seriously. Come for the caffeine, skip the Cabernet, and save your wine drinking for an actual restaurant.",
+    "subtitle": "When the espresso beats the wine selection",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bahamas-steakhouse-gulf-shores",
+    "restaurant": "Bahamas Steakhouse",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Steakhouse",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Bahamas Steakhouse reads like it was ordered from a sysco catalog in 2015 and never updated. This is a tourist-trap steakhouse where wine is an afterthought, and it shows in every aspect of the program.",
+    "selectionDeepDive": "You're looking at the usual suspects: Kendall-Jackson Chardonnay, Meiomi Pinot Noir, maybe a Caymus Cab if you're lucky. The steakhouse staples are here—a Silver Oak cab at triple retail, a predictable Napa selection that stops at entry-level producers, and exactly one token Italian and French section with names you'd find at Costco. There's no depth, no regional exploration, and zero evidence anyone curating this list has tasted wine in the last decade. For a steakhouse in a beach town banking on vacation dollars, they're doing the absolute minimum.",
+    "byTheGlass": "By-the-glass pours are the hits: house Cabernet, house Chardonnay, maybe a Pinot Grigio for the table that ordered fish. They're served in generic stemware that could double as water glasses, likely sitting open behind the bar long enough to lose any character they started with. Expect four to six options max, all playing it painfully safe.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Probably marked up 3x retail but it's a solid Washington Cab that won't embarrass you with your ribeye"
+    },
+    "hiddenGem": {
+      "wine": "Hess Select Cabernet Sauvignon",
+      "note": "If they have it, it's one of the few bottles on the list with actual structure and won't break $60"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "$55 for a $15 grocery store bottle that tastes like jam—order a beer instead"
+    },
+    "perfectPairing": {
+      "wine": "Joel Gott 815 Cabernet Sauvignon",
+      "dish": "Bone-in Ribeye",
+      "note": "Crowd-pleasing Cab with enough fruit and tannin to stand up to charred beef without pretending to be fine wine"
+    },
+    "bottomLine": "This is a place where you order cocktails or beer and save your wine budget for literally anywhere else. The list is lazy, the markup is insulting, and the staff couldn't care less.",
+    "subtitle": "Beach Town Steakhouse Phones It In",
+    "tags": [
+      "casual-vibes",
+      "splurge-worthy"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "marcos-beachfront-gulf-shores",
+    "restaurant": "Marco's Beachfront",
+    "neighborhood": "Beachfront",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Coastal American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list reads like it was written in 2012 and nobody's touched it since. It's the kind of beachfront spot where the view does all the heavy lifting and the wine program coasts on vacation vibes and sunburned tourists who don't ask questions.",
+    "selectionDeepDive": "You're looking at the usual suspects: a Kendall-Jackson Chardonnay, a Meiomi Pinot, maybe a Ruffino Chianti if they're feeling adventurous. The list skews heavily toward recognizable grocery store labels with beach-town markups that sting harder than the jellyfish. There's no regional exploration, no interesting producers, and certainly nothing that suggests anyone on staff gets excited about wine. It's functional in the way a rental car is functional—it'll get you there, but you won't remember the ride.",
+    "byTheGlass": "The glass pours are what you'd expect: four whites, four reds, all name brands that could've been sourced from a Costco run. Rotation isn't really a thing here—these bottles probably sit until they're empty, which given the tourist traffic, happens faster than quality would suggest it should. The pours are generous, at least, which helps justify the $12-14 price tags on wines that retail for $8.",
+    "bestValue": {
+      "wine": "Santa Margherita Pinot Grigio",
+      "price": "$42",
+      "note": "Still overpriced, but at least it's cold, crisp, and pairs with the Gulf breeze better than the heavier alternatives"
+    },
+    "hiddenGem": {
+      "wine": "Steakhouse Red Blend (if they have one)",
+      "note": "Generic but usually competent, and nobody orders it because they're here for rosé and Chardonnay—sometimes obscurity is protection"
+    },
+    "skipThis": {
+      "wine": "Any bottle over $60",
+      "note": "The markup structure here means you're paying steakhouse prices at a casual beachfront joint—order a beer instead"
+    },
+    "perfectPairing": {
+      "wine": "Whispering Angel Rosé",
+      "dish": "Grilled Shrimp Tacos",
+      "note": "The wine list's most predictable play actually works with citrusy Gulf shrimp—sometimes the obvious choice is obvious for a reason"
+    },
+    "bottomLine": "Come for the sand and sunset, not the wine program. If you're ordering wine here, stick to something cold, simple, and under $50, and remember you're paying a beach tax. This is a beer-and-margarita spot that happens to have wine.",
+    "subtitle": "Beach Views Better Than the Wine Situation",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-red-fish-gulf-shores",
+    "restaurant": "The Red Fish",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Coastal Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at The Red Fish feels like an afterthought—a laminated sheet that prioritizes recognition over interest. It's the kind of selection built for tourists who want a safe pour with their gulf shrimp, nothing more. You get the sense nobody here is thinking about wine beyond 'white with fish, red with steak.'",
+    "selectionDeepDive": "The list leans heavily on the usual coastal suspects: Kim Crawford Sauvignon Blanc, Kendall-Jackson Chardonnay, and a token Pinot Grigio. Reds skew toward mass-market Cabernet and a forgettable Pinot Noir, likely from California's central coast. There's minimal regional diversity—no Albariño for the seafood, no interesting whites from coastal Europe, nothing that suggests anyone curated this with intent. It's a list designed not to offend, which means it doesn't excite either.",
+    "byTheGlass": "Glass pours stick to the safe six: two whites, two reds, a rosé, and a Prosecco. The pours themselves are competent but uninspired—think mall food court wine bar. No rotation, no seasonal tweaks, just the same lineup week after week. At beach town markup, you're better off grabbing a cocktail.",
+    "bestValue": {
+      "wine": "Chateau Ste. Michelle Riesling",
+      "price": "$32",
+      "note": "One of the few bottles that makes sense with fried seafood and won't wreck your wallet—off-dry enough to handle cocktail sauce"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "note": "Buried mid-list, it's the only red with enough acidity to work with blackened redfish instead of fighting it"
+    },
+    "skipThis": {
+      "wine": "Butter Chardonnay",
+      "note": "Marked up to $48 for a bottle that retails at $16—the markup here is insulting, and the wine tastes like melted movie theater popcorn"
+    },
+    "perfectPairing": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "dish": "Gulf Oysters on the Half Shell",
+      "note": "Crisp, citrus-forward, and familiar enough that even wine-averse diners will enjoy it with briny raw oysters"
+    },
+    "bottomLine": "The Red Fish treats wine like a checkbox on a beach town restaurant checklist. Order a local beer instead and save your wine budget for a town that cares.",
+    "subtitle": "Beach Town Wine List That Phones It In",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "crab-claw-restaurant-gulf-shores",
+    "restaurant": "Crab Claw Restaurant",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Seafood",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at Crab Claw reads like an afterthought — the kind of laminated page that gets sticky with Old Bay and hasn't been updated since flip phones were cool. This is a beach shack that does seafood well, but wine is clearly not part of the plan.",
+    "selectionDeepDive": "You're looking at the usual suspects: Kim Crawford Sauvignon Blanc, Barefoot Pinot Grigio, maybe a Cavit Pinot Noir if you're feeling adventurous. Zero regional character, no Gulf Coast whites worth drinking, and nothing that suggests anyone here has thought about wine beyond \"what sells at the grocery store.\" The markup on these mass-market bottles is brutal — we're talking $32 for wines that retail for $9. No cellar program, no interesting producers, just the same corporate brands you'd find at a wedding reception in 2008.",
+    "byTheGlass": "Glass pours are limited and predictable. Expect the same Barefoot and Yellow Tail lineup that's been sitting in the cooler since Memorial Day. No rotation, no seasonal updates, no attempt to match wines with the Gulf seafood coming out of the kitchen. They'll pour you a glass of warm Chardonnay in a rocks glass if you really insist.",
+    "bestValue": {
+      "wine": "Oyster Bay Sauvignon Blanc",
+      "price": "$28",
+      "note": "Still overpriced, but at least it's crisp enough to cut through fried crab claws without fighting the wine"
+    },
+    "hiddenGem": {
+      "wine": "None to recommend",
+      "note": "There's no hidden gem here — what you see is what you get, and what you get is aggressively mediocre"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "price": "$36",
+      "note": "A $12 retail bottle marked up to highway robbery levels, and it'll show up lukewarm in the wrong glass"
+    },
+    "perfectPairing": {
+      "wine": "Skip the wine entirely",
+      "dish": "Snow Crab Clusters",
+      "note": "Honestly? Get a cold beer. The seafood here deserves better than what's on this wine list, and your wallet does too"
+    },
+    "bottomLine": "Crab Claw does what it does well — casual Gulf seafood in a beach town setting. But the wine program is neglected, overpriced, and shows zero effort. Order the crabs, drink the beer, save wine for literally anywhere else.",
+    "subtitle": "Beach Vibes, Basement Wine Game",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "hollands-market-gulf-shores",
+    "restaurant": "Holland's Market",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Market & Deli",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Holland's Market feels like what it is: a Gulf Shores grocery with a wine section that's better than it needs to be. The list isn't fancy, but there's thought behind it — regional crowd-pleasers mixed with vacation-appropriate bottles that won't bankrupt your beach rental budget.",
+    "selectionDeepDive": "The selection leans heavily into accessible domestic wines that play well with seafood and heat. You'll find solid California Chardonnays, Washington Rieslings, and enough rosé to stock a pontoon boat. The red selection is more limited — logical given the location — with safe Pinots and Cabernets that won't offend anyone at the beach house. There's no deep Burgundy cellar or adventurous natural wine section, but that's not what people come to Gulf Shores for. It's a market doing market things, and the wine section reflects smart buying for the tourist crowd.",
+    "byTheGlass": "Glass pours exist but the selection rotates based on what's moving off the shelves. Expect 4-6 options at any given time, skewing toward whites and rosé in summer months. The pours are honest — nothing exciting, but properly stored and fairly priced for a beach town where everything gets a vacation markup.",
+    "bestValue": {
+      "wine": "Chateau Ste. Michelle Riesling",
+      "price": "$12",
+      "note": "Washington state workhorse that pairs with everything from gulf shrimp to fried grouper, priced like actual retail"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "note": "Most people grab the Santa Barbara bottling, but this coastal Monterey expression has better acid and drinks cooler — perfect for humid evenings"
+    },
+    "skipThis": {
+      "wine": "Any Coastal Region Cabernet Over $25",
+      "note": "Beach town markup meets wines that want air conditioning they're not getting — stick to whites and lighter reds"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Fresh Gulf Shrimp (from their seafood counter)",
+      "note": "New Zealand's signature grapefruit-lime punch cuts through butter and Old Bay like it was designed for exactly this"
+    },
+    "bottomLine": "Holland's Market won't blow your mind, but it'll keep your beach cooler stocked with smart picks at fair prices. Know what you're looking for, grab it, and head to the sand.",
+    "subtitle": "Beach Town Market Does Wine Right Enough",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rouses-market-wine-department-gulf-shores",
+    "restaurant": "Rouses Market Wine Department",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Grocery Store Wine Shop",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into Rouses in Gulf Shores, you're not expecting much from the wine aisle—but this Gulf Coast grocery chain actually stocks a respectable selection. The fluorescent lighting and shopping carts rolling by aren't exactly romantic, but the bottles on the shelves punch above typical beach town grocery weight.",
+    "selectionDeepDive": "The selection leans practical rather than exciting: California crowd-pleasers dominate, with solid representation from Washington State and a sprinkling of French and Italian imports that clearly move volume during beach season. You'll find your Paso Robles Cabs, your Russian River Pinots, and enough Provençal rosé to outfit every beach house rental in Baldwin County. The Gulf Coast isn't known for wine culture, and Rouses knows its audience—vacationers who want something better than gas station wine but aren't hunting for Burgundy allocations. What's missing: natural wines, deeper Italian regions, anything adventurous.",
+    "byTheGlass": "This is a grocery store, so by-the-glass is obviously not a thing. But Rouses does stock single-serve splits and cans for beach-goers who don't want to commit to a full bottle. The canned wine selection includes brands like Underwood and Dark Horse—functional beach pours that won't break your cooler budget.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$11",
+      "note": "Washington State overdelivers at this price point—dark fruit, decent structure, and it's beach house friendly"
+    },
+    "hiddenGem": {
+      "wine": "Château d'Esclans Whispering Angel Rosé",
+      "note": "Yes, it's everywhere, but at grocery pricing it's actually a solid Provençal rosé—and exactly what you want on a Gulf Shores deck at sunset"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $80+ in a grocery store, you're paying for the name—there are better Napa bottles elsewhere or better values on the same shelf"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "Fresh Gulf shrimp from the seafood counter",
+      "note": "Bright New Zealand acidity cuts through butter and garlic—grab both and you've got dinner sorted"
+    },
+    "bottomLine": "Rouses isn't where you'd go for wine education or rare finds, but for beach vacation provisioning, it's more than competent. Fair prices, decent selection, and it beats the hell out of the hotel gift shop.",
+    "subtitle": "Beach Town Grocery with Surprising Wine Depth",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.rouses.com",
+    "address": {
+      "street": null,
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "perdido-vineyard-gulf-shores",
+    "restaurant": "Perdido Vineyard",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Vineyard & Tasting Room",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Seasonal Rotation",
+      "storage": "Proper"
+    },
+    "firstImpression": "A vineyard operation on the Alabama Gulf Coast isn't something you see every day, and that's exactly what makes Perdido interesting. This is a winery tasting room, not a restaurant per se, which means you're drinking wines made on-site from estate-grown muscadines and hybrid varietals built to survive Gulf humidity. The vibe leans educational and regional-proud.",
+    "selectionDeepDive": "The list is entirely their own production, which means you're looking at muscadine-based wines and southern hybrid grapes like Carlos, Noble, and Blanc du Bois. This isn't Napa in flip-flops — it's Gulf Coast terroir expressing itself through fruit that thrives in heat and coastal air. They lean into sweet and semi-sweet styles because that's what muscadines do best, but there are drier options for skeptics. The range is limited by design, but everything reflects place in a way most wine lists never attempt.",
+    "byTheGlass": "Tasting flights are the move here — you can sample 4-6 pours and figure out which of their estate wines hits your palate. Individual glasses run the full lineup from bone-dry whites to dessert-level sweets. Rotation is seasonal based on harvest and fermentation schedules, so spring visits yield different options than fall ones.",
+    "bestValue": {
+      "wine": "Perdido Vineyards Blanc du Bois",
+      "price": "$16",
+      "note": "A clean, citrus-forward white from a hybrid grape that actually thrives in Alabama heat — refreshing, Gulf-appropriate, and priced like you're buying local"
+    },
+    "hiddenGem": {
+      "wine": "Perdido Vineyards Carlos Reserve",
+      "note": "Most people dismiss muscadine wines as too sweet, but this semi-dry white has structure, tropical notes, and pairs shockingly well with Gulf seafood"
+    },
+    "skipThis": {
+      "wine": "Perdido Vineyards Strawberry Wine",
+      "note": "Fruit wines rarely hit the mark, and this one leans too candy-forward — stick to the actual grape-based offerings"
+    },
+    "perfectPairing": {
+      "wine": "Perdido Vineyards Noble Bronze",
+      "dish": "Grilled Gulf Shrimp (BYO from nearby markets)",
+      "note": "This off-dry red muscadine has enough body to stand up to char and enough fruit sweetness to complement shrimp's natural sweetness — bring your own seafood and pair on the patio"
+    },
+    "bottomLine": "This isn't a conventional wine program, and that's the whole point. If you're curious about what Gulf Coast viticulture tastes like, Perdido delivers an honest, place-driven experience you won't find anywhere else.",
+    "subtitle": "Alabama Beach Wine? Yeah, It's a Thing",
+    "tags": [
+      "hidden-gem",
+      "local-producers",
+      "patio-pour",
+      "casual-vibes"
+    ],
+    "website": "https://www.perdidovineyards.com",
+    "address": {
+      "street": "23600 Perdido Beach Blvd",
+      "city": "Gulf Shores",
+      "state": "AL",
+      "zip": "36542",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "big-beach-brewing-gulf-shores",
+    "restaurant": "Big Beach Brewing",
+    "neighborhood": "Gulf Shores",
+    "city": "Gulf Shores",
+    "citySlug": "gulf-shores",
+    "cuisineType": "Brewpub",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Big Beach Brewing is a brewery. The clue is in the name. The wine list reads like an afterthought—a handful of safe-bet bottles that probably haven't been updated since opening day, kept around for that one person in your group who doesn't drink beer.",
+    "selectionDeepDive": "This is the kind of list you'd find at a hotel minibar: a Kendall-Jackson Chardonnay, maybe a Meiomi Pinot Noir, possibly a Simi Cabernet if you're lucky. We're talking a dozen bottles max, all recognizable from your local Publix wine aisle. No regional exploration, no interesting producers, no indication anyone on staff thinks about wine beyond \"we should probably have some.\" It's functional in the way a vending machine is functional—it dispenses what you expect and nothing more.",
+    "byTheGlass": "The glass pour situation is likely limited to three or four workhorses: the obligatory Chardonnay, a Pinot Grigio for folks who \"don't really like wine,\" and maybe a Cabernet and Pinot Noir to cover the red bases. Rotation isn't really a concept here. These pours stick around until the bottle kicks, then get replaced with the same thing.",
+    "bestValue": {
+      "wine": "Draft Beer Selection",
+      "price": "$6-8",
+      "note": "Not wine, but this is where your money should go—fresh, local, and actually what they care about"
+    },
+    "hiddenGem": {
+      "wine": "Any Bottle You BYOB",
+      "note": "Alabama allows corkage at many establishments—call ahead and bring your own if you're serious about wine"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Overpriced everywhere, marked up even more here, tastes like grape soda—order literally anything else"
+    },
+    "perfectPairing": {
+      "wine": "Their Flagship IPA",
+      "dish": "Whatever fried appetizer sounds good",
+      "note": "Hoppy bitterness cuts through breading and grease—this is the actual play here"
+    },
+    "bottomLine": "Big Beach Brewing does what it says on the tin: brewing. The wine program is an obligatory checkbox, not a passion project. Order a flight, enjoy the Gulf coast vibes, and save your wine drinking for literally anywhere else.",
+    "subtitle": "Come for the Beer, Not the Wine",
+    "tags": [
+      "casual-vibes",
+      "patio-pour"
+    ],
+    "website": "https://www.bigbeachbrewing.com",
+    "address": {
+      "street": "unknown",
+      "city": "Gulf Shores",
+      "state": "Alabama",
+      "zip": "unknown",
+      "country": "US"
+    }
+  }
+]

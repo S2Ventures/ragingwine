@@ -139,7 +139,9 @@
     "citySlug": "gulf-shores",
     "state": "Alabama",
     "priority": 13,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-03-01T05:58:12.373Z",
+    "reviewCount": 30
   },
   {
     "city": "Nashville",

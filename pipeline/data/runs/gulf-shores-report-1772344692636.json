@@ -1,0 +1,192 @@
+{
+  "city": "Gulf Shores",
+  "citySlug": "gulf-shores",
+  "startedAt": "2026-03-01T05:52:11.199Z",
+  "completedAt": "2026-03-01T05:58:12.374Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 30,
+  "reviewsPublished": 30,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Tacky Jacks Gulf Shores",
+      "slug": "tacky-jacks-gulf-shores-gulf-shores",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Savanna Restaurant & Wine Bar",
+      "slug": "savanna-restaurant-and-wine-bar-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Lauria's Italian Bar & Bistro",
+      "slug": "laurias-italian-bar-and-bistro-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sunset Cork Room",
+      "slug": "sunset-cork-room-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Gulf",
+      "slug": "the-gulf-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Villaggio Grille",
+      "slug": "villaggio-grille-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cobalt",
+      "slug": "cobalt-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Bella Luna",
+      "slug": "bella-luna-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Shrimp Basket",
+      "slug": "shrimp-basket-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "LuLu's",
+      "slug": "lulus-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Hangout Gulf Shores",
+      "slug": "the-hangout-gulf-shores-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Seafood Shack",
+      "slug": "seafood-shack-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Tacky Jacks Orange Beach",
+      "slug": "tacky-jacks-orange-beach-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Brick & Barrel",
+      "slug": "brick-and-barrel-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Oscar's",
+      "slug": "oscars-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Half Shell Oyster House",
+      "slug": "half-shell-oyster-house-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fisher's Dockside",
+      "slug": "fishers-dockside-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Voyagers",
+      "slug": "voyagers-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Carolina's Coastal Kitchen",
+      "slug": "carolinas-coastal-kitchen-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Papa Rocco's",
+      "slug": "papa-roccos-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Steamer & Baked Oyster Bar",
+      "slug": "the-steamer-and-baked-oyster-bar-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Southern Grind Coffee House",
+      "slug": "the-southern-grind-coffee-house-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Bahamas Steakhouse",
+      "slug": "bahamas-steakhouse-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Marco's Beachfront",
+      "slug": "marcos-beachfront-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Red Fish",
+      "slug": "the-red-fish-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Crab Claw Restaurant",
+      "slug": "crab-claw-restaurant-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Holland's Market",
+      "slug": "hollands-market-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Rouses Market Wine Department",
+      "slug": "rouses-market-wine-department-gulf-shores",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Perdido Vineyard",
+      "slug": "perdido-vineyard-gulf-shores",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Big Beach Brewing",
+      "slug": "big-beach-brewing-gulf-shores",
+      "badge": "lazy",
+      "published": true
+    }
+  ]
+}
