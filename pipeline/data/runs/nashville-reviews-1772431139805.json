@@ -1,0 +1,1531 @@
+[
+  {
+    "slug": "360-bistro-nashville",
+    "restaurant": "360 Bistro",
+    "neighborhood": "West Meade / Belle Meade",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary American / French-inspired",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "When a neighborhood spot in Belle Meade lands on Wine Spectator's Top 100, you sit up straight. The list here runs hundreds deep—serious cellar curation without the stuffiness you'd expect from the well-dressed crowd that fills this place nightly.",
+    "selectionDeepDive": "The Italian focus is no accident: this is one of Nashville's deepest dives into the boot, from Piedmont Nebbiolos to lesser-known Campanian reds that never see most restaurant lists. You'll find Barolo, Barbaresco, and Brunello anchoring the heavy-hitters, but the real fun is in the mid-tier: earthy Valpolicella Superiore, volcanic Etna Rosso, and Tuscan Super-Tuscans that show what happens when winemakers ignore the rules. The non-Italian sections don't phone it in either—thoughtful French selections and some California backbone—but Italy is clearly the love language here.",
+    "byTheGlass": "We don't have the full glass pour intel, but given the cellar depth and the fine-dining commitment, expect a curated rotation of 8-12 options that lean into the Italian theme. At this level, they're likely pouring quality producers by the glass, not grocery store standards, and rotating seasonally to match the menu's French-American swing.",
+    "bestValue": {
+      "wine": "Ceretto Langhe Nebbiolo",
+      "price": "$55",
+      "note": "Baby Barolo energy—soft florals, red fruit, tobacco spice—without the $120 sticker shock"
+    },
+    "hiddenGem": {
+      "wine": "Benanti Etna Rosso",
+      "note": "Volcanic Sicilian Nerello that drinks like Burgundy's edgy cousin—most people sleep on Mount Etna wines"
+    },
+    "skipThis": {
+      "wine": "Entry-level Chianti Classico",
+      "note": "With a list this deep, don't settle for the safe play—push into the regions you've never heard of"
+    },
+    "perfectPairing": {
+      "wine": "Vietti Barbera d'Alba",
+      "dish": "Carrot Gnocchi with Lamb Ragu",
+      "note": "Barbera's bright acidity cuts through the richness of lamb while the wine's cherry-earth profile echoes the rustic ragu"
+    },
+    "bottomLine": "This is where Nashville's wine nerds go when they want to flex without the sommelier theater. Deep Italian cellar, fair pricing, and a vibe that says 'we care' without screaming about it.",
+    "subtitle": "Nashville's Italian Wine Sleeper Hit",
+    "tags": [
+      "deep-cellar",
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://360.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "jeff-rubys-steakhouse-nashville",
+    "restaurant": "Jeff Ruby's Steakhouse",
+    "neighborhood": "Downtown Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list at Jeff Ruby's reads like steakhouse central casting: big Napa Cabs, a few Super Tuscans, some token white Burgundy. It's the kind of list designed not to offend anyone at a corporate dinner, which means it also won't surprise anyone who's been to more than three steakhouses.",
+    "selectionDeepDive": "We're looking at a Napa and Bordeaux-heavy lineup with the usual suspects—think Silver Oak, Caymus, Jordan—plus a predictable Italian section that leans Tuscan. There's minimal exploration of emerging regions or smaller producers. The list does what it's supposed to: pair with ribeyes and make expense accounts happy. But if you're hunting for something beyond the classics, you'll leave disappointed. A few California cult cabs sit at the top end, but most of the list lives in safe, recognizable territory.",
+    "byTheGlass": "The glass program sticks to the hits: a Sonoma Chardonnay, a Willamette Pinot, a Napa Cab. Probably five to seven options total, rotated infrequently. Nothing wrong with the selections per se, but nothing exciting either. If you're dining solo and want to explore, you'll need to commit to a bottle or resign yourself to the usual suspects.",
+    "bestValue": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "price": "$48",
+      "note": "Light, bright, cuts through butter-heavy sides without competing with the beef—and half the price of their Pinot Noirs"
+    },
+    "hiddenGem": {
+      "wine": "Masi Campofiorin Rosso del Veronese",
+      "note": "This Venetian ripasso brings dried cherry and spice that most people skip for Chianti, but it's got the structure for a bone-in strip"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $180+ for a bottle you can find at Total Wine for $85—the markup here is pure name recognition tax"
+    },
+    "perfectPairing": {
+      "wine": "Ridge Lytton Springs Zinfandel",
+      "dish": "Bone-In Ribeye",
+      "note": "The brambly fruit and black pepper spice of Ridge's old-vine Zin mirrors the char on a well-crusted ribeye without overwhelming the meat"
+    },
+    "bottomLine": "Jeff Ruby's delivers exactly what you expect from an upscale steakhouse wine list—no more, no less. If you know your way around Napa and don't mind the markup, you'll be fine. Just don't expect any adventure.",
+    "subtitle": "Classic Steakhouse Wine List Without the Surprises",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.jeffruby.com/nashville",
+    "address": {
+      "street": "300 Broadway",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37201",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cork-and-cow-nashville",
+    "restaurant": "Cork & Cow",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cork & Cow plays the Nashville steakhouse game with a wine list that won't surprise you but won't offend you either. The list reads like someone checked the usual boxes: California Cabs, some Napa big names, a token Malbec, and the obligatory Caymus on the high end. It's the wine equivalent of a perfectly cooked medium-rare ribeye—predictable, but that's not always bad.",
+    "selectionDeepDive": "The list leans heavily into New World comfort zones, which makes sense for a steakhouse crowd that wants something bold to stand up to a char-grilled cut. Expect plenty of California representation—likely Napa and Paso Robles dominating the red side, with a smattering of Washington State for variety. The Old World section probably reads thin: maybe a Super Tuscan or two, a token Rioja, perhaps a Bordeaux that's priced like a car payment. What's missing is depth—no village-level Burgundy, no adventurous Rhône, no one taking risks. It's a list built for people who already know what they want, not for discovery.",
+    "byTheGlass": "By-the-glass offerings likely stick to the script: a Malbec, a Pinot Noir, maybe a Silver Oak if you're feeling flush, and a Chardonnay that's seen oak. Rotation feels minimal—these are the pours that move volume, not experiments. Expect standard 6-ounce pours at steakhouse prices, which means you're looking at $12-18 for wines that retail for $20-30. Not exciting, but functional if you're here for the beef and want something simple alongside.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Washington Cab that punches above its weight—dark fruit, decent structure, and won't make you wince at the markup. Pairs with most cuts on the menu without drama."
+    },
+    "hiddenGem": {
+      "wine": "Decoy by Duckhorn Pinot Noir",
+      "note": "Most people skip Pinot at a steakhouse, but this Sonoma bottling has enough weight to handle a New York strip while keeping things interesting. A break from Cab monotony."
+    },
+    "skipThis": {
+      "wine": "Caymus Vineyards Cabernet Sauvignon",
+      "note": "It's on every steakhouse list for a reason, but at likely $150+, you're paying for the name more than the wine. Sweet, oaky, and marked up to the stratosphere."
+    },
+    "perfectPairing": {
+      "wine": "Austin Hope Cabernet Sauvignon",
+      "dish": "Bone-In Ribeye",
+      "note": "Paso Robles Cab with jammy blackberry and enough tannin to cut through the ribeye's marbling. Both are unapologetically rich—they deserve each other."
+    },
+    "bottomLine": "Cork & Cow isn't going to blow your mind, but it's not trying to. It's a reliable steakhouse with a wine list that knows its audience: people who want a big red with a big steak and don't need to be convinced. Would we send a friend here for wine? Only if they're already going for the meat.",
+    "subtitle": "Safe Bet Steakhouse with Classic Comfort",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "new-world-explorer"
+    ],
+    "website": "https://corkandcow.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bad-idea-nashville",
+    "restaurant": "Bad Idea",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "The wine list at Bad Idea lives up to its name in ways the owners probably didn't intend. What you get is a bare-bones selection that feels like someone ordered from a restaurant supply catalog and called it a day. Zero personality, zero effort, maximum markup.",
+    "selectionDeepDive": "The list reads like the greatest hits from a gas station wine aisle: mass-produced Chardonnays, generic Cabernets, and maybe a Pinot Grigio if you're lucky. There's no regional focus because there's no focus at all—just brands that show up on every chain restaurant menu from here to Tulsa. You won't find small producers, interesting regions, or anything that suggests someone actually cares about wine. It's the vinous equivalent of a participation trophy.",
+    "byTheGlass": "By-the-glass options appear to be whatever's open and hasn't oxidized yet. Expect the usual suspects: a basic Prosecco, a California Chardonnay that tastes like butter and regret, and a Cabernet that's been marked up 400%. No rotation, no seasonal changes, no reason to order a second glass.",
+    "bestValue": {
+      "wine": "Whatever's on tap at the bar next door",
+      "price": "$8",
+      "note": "Because spending money on wine here is the actual bad idea"
+    },
+    "hiddenGem": {
+      "wine": "There isn't one",
+      "note": "You can't hide gems in an empty jewelry box"
+    },
+    "skipThis": {
+      "wine": "The entire list",
+      "note": "Every bottle is overpriced and uninspired—stick to beer or cocktails"
+    },
+    "perfectPairing": {
+      "wine": "Anything BYOB if they allow it",
+      "dish": "Whatever brought you here in the first place",
+      "note": "At least you'll have a fighting chance of enjoying your meal"
+    },
+    "bottomLine": "Bad Idea doesn't just phone it in on wine—they've disconnected the line entirely. Save your money and order literally anything else.",
+    "subtitle": "When the Name Says It All",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "le-loup-nashville",
+    "restaurant": "Le Loup",
+    "neighborhood": "Gulch",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "French",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Le Loup's wine list reads like a French 101 textbook—you get all the usual regions represented without anything that'll make your wine-nerd friend gasp. It's the kind of list that feels assembled to check boxes rather than tell a story, which tracks for a Nashville French spot playing to a crowd that wants coq au vin and a recognizable label.",
+    "selectionDeepDive": "The list skews heavily toward safe French picks—Loire Valley Sauvignon Blancs, Côtes du Rhône reds, maybe a Chablis if you're lucky. You'll find the occasional Burgundy at markup that'll make you wince, plus token representation from California and Italy to round things out. Nothing here screams \"cellar program\" or \"buyer with a point of view.\" It's fine. It's functional. It won't embarrass you on a date, but it won't give you anything to text your group chat about either.",
+    "byTheGlass": "The glass pour selection sticks to crowd-pleasers—think Sancerre, Pinot Grigio, maybe a Malbec from Argentina. Rotation appears minimal, with the same lineup sitting week after week. Pours are competent but uninspired, the wine equivalent of getting exactly what you ordered and nothing more.",
+    "bestValue": {
+      "wine": "Domaine de la Charmoise Touraine Sauvignon Blanc",
+      "price": "$42",
+      "note": "Loire Valley producer that delivers Sancerre vibes at half the markup—zippy, clean, and actually drinks well with their fish dishes"
+    },
+    "hiddenGem": {
+      "wine": "Château de la Selve Tavel Rosé",
+      "note": "Most people skip the rosé section entirely, but Tavel from the southern Rhône has weight and structure that works beautifully with duck confit"
+    },
+    "skipThis": {
+      "wine": "Louis Jadot Pouilly-Fuissé",
+      "note": "Marked up to $85+ for a mass-market white Burgundy you can find for $25 retail—the markup math doesn't math"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Tempier Bandol Rouge",
+      "dish": "Cassoulet",
+      "note": "Mourvèdre-based Bandol has the earthy, herbal backbone to stand up to beans, sausage, and duck fat without getting steamrolled"
+    },
+    "bottomLine": "Le Loup does the job if you're after French food with French wine and don't want to overthink it. Just watch those Burgundy prices and stick to the regional bottles that won't make your wallet cry.",
+    "subtitle": "Classic French bistro playing it safe",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": "https://leloupnashville.com",
+    "address": {
+      "street": "511 Hagan Street",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sixty-vines-nashville-nashville",
+    "restaurant": "Sixty Vines Nashville",
+    "neighborhood": "Downtown (Assembly Food Hall)",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary Wine Country",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "Walking into Sixty Vines feels like someone took a Napa tasting room and dropped it on top of a Nashville food hall. The hook is real: 60 wines on tap, poured at four different sizes, from a sample to a full bottle. It's a wine-by-the-glass program on steroids, and the tap system means everything stays fresh.",
+    "selectionDeepDive": "The list leans heavily into California — Napa, Alexander Valley, Ballard Canyon — with smart detours into Rhône and Bordeaux. You've got serious bottles here: Hourglass Blueline Estate Merlot from Napa, Schramsberg Brut Rosé, and a keg-exclusive Honig Sauvignon Blanc that you won't find anywhere else. The tap system is the real party trick — it keeps oxidation at bay and lets them pour pricier wines by the glass without losing quality. The range is legitimately deep for a restaurant without a traditional cellar, though it skews New World and plays it relatively safe within those regions.",
+    "byTheGlass": "All 60 wines are available by the glass in four pour sizes: 2.5oz tasting, 5oz glass, 8oz generous pour, or go full 750ml bottle. This is the entire point of the concept, and it works. You can taste your way through Napa Cabs or compare a California Chenin Viognier blend to a Rhône GSM without committing to a full bottle. The rotation seems static rather than seasonal, which keeps the experience consistent but loses some excitement for repeat visits.",
+    "bestValue": {
+      "wine": "M. Chapoutier Grenache Syrah Cinsault Rhône",
+      "price": "$9-12",
+      "note": "Classic Rhône blend from a legendary producer, priced for casual exploration — get the 5oz pour and pretend you're in Châteauneuf"
+    },
+    "hiddenGem": {
+      "wine": "Pine Ridge Chenin Blanc Viognier California",
+      "note": "Most people sleep on Chenin-Viognier blends, but this California take has the weight to stand up to their tri-tip and enough acidity to cut through the burger's double-stack richness"
+    },
+    "skipThis": {
+      "wine": "Any bottle pour of standard California Sauvignon Blanc",
+      "note": "If you're committing to 750ml on tap, go bigger — the Honig is the keg exclusive worth the splurge, not the standard pours"
+    },
+    "perfectPairing": {
+      "wine": "Hourglass Blueline Estate Merlot Napa Valley",
+      "dish": "Santa Maria Tri Tip",
+      "note": "Napa Merlot meets Central Coast beef prep — the wine's plush fruit and smooth tannins mirror the tri-tip's char and smoke without overwhelming the meat's natural sweetness"
+    },
+    "bottomLine": "Sixty Vines is a gimmick that actually works. The tap system delivers fresh, quality wine across 60 options, all available by the glass in multiple sizes. It's perfect for groups who can't agree or solo drinkers who want to explore without the commitment. The list could push harder into natural or weird territory, but for what it is — a wine country concept in a Nashville food hall — it overdelivers.",
+    "subtitle": "Sixty wines on tap — no commitment issues here",
+    "tags": [
+      "by-the-glass-hero",
+      "casual-vibes",
+      "new-world-explorer",
+      "date-night"
+    ],
+    "website": "https://www.sixtyvines.com",
+    "address": {
+      "street": "5055 Broadway Place Suite 3200",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "carne-mare-nashville-nashville",
+    "restaurant": "Carne Mare Nashville",
+    "neighborhood": "Downtown",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Italian Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list leans Italian-forward with predictable Tuscans and Piedmont classics, but there's more depth in the whites than you'd expect from a steakhouse. It's organized by region, which helps, but the markup stings on familiar bottles we've seen priced better elsewhere.",
+    "selectionDeepDive": "The Italian section runs deep through Barolo, Barbaresco, and Super Tuscans—exactly what you'd expect from a place called Carne Mare. But the surprises live in the white wine section: solid Friulano options, some skin-contact stuff, and a respectable Chablis selection that suggests someone on the buying team actually drinks white wine with red meat. French offerings are competent but safe—Bordeaux and Rhône selections that won't offend anyone or wow anyone. The California section feels like an afterthought, mostly Napa Cabs at prices that make you wince.",
+    "byTheGlass": "The glass pour program rotates seasonally but doesn't take big swings. You'll find a Pinot Grigio, a Chianti, maybe a Nero d'Avola if you're lucky. Pours are generous and the staff will talk you through options, even if they're reading tasting notes off a card. Expect 8-10 options with a couple of sparkling choices that work well with crudo.",
+    "bestValue": {
+      "wine": "Fontanafredda Briccotondo Barbera d'Alba",
+      "price": "$52",
+      "note": "Bright, food-friendly Barbera that doesn't try to be Barolo—pairs with everything from pasta to ribeye without demanding attention"
+    },
+    "hiddenGem": {
+      "wine": "Gravner Ribolla Gialla",
+      "note": "Orange wine on a steakhouse list? Someone's paying attention—the texture and tannin actually hold up to heavier dishes better than most whites"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab over $120",
+      "note": "The markup on California cult bottles is brutal here—you're paying 4x retail for names you can find cheaper at any wine shop"
+    },
+    "perfectPairing": {
+      "wine": "Chablis Premier Cru, William Fèvre",
+      "dish": "Branzino al Forno",
+      "note": "The minerality and acidity of premier cru Chablis cuts through the olive oil and lemon while matching the fish's delicate texture—this is the move"
+    },
+    "bottomLine": "Carne Mare delivers a solid Italian-leaning list that does its job without trying to be the main event. The markups are steeper than we'd like, but the variety is respectable and the staff tries hard, even if they're still learning.",
+    "subtitle": "Coastal Italian with More Chablis Than Expected",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": "https://www.carnemarerestaurant.com",
+    "address": {
+      "street": "600 12th Avenue South",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "eddie-vs-prime-seafood-nashville",
+    "restaurant": "Eddie V's Prime Seafood",
+    "neighborhood": "Downtown",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Seafood & Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Eddie V's rolls out a wine list that feels designed in a Dallas boardroom rather than curated by someone who actually visits vineyards. It's big, glossy, and predictable — lots of California cabs and buttery chards that pair with expense accounts. The list won't offend anyone, but it won't surprise anyone either.",
+    "selectionDeepDive": "This is a corporate upscale chain wine program through and through. Heavy California representation with the usual suspects: Silver Oak, Caymus, Stag's Leap, Duckhorn. Some token Burgundy and Bordeaux at prices that make you wince. The list skews toward safe, recognizable labels that impress clients who judge wine by the bottle's weight. You'll find limited exploration of smaller producers, natural wines, or anything that requires staff to explain a region. It's built for power lunches, not wine geeks.",
+    "byTheGlass": "The glass pour lineup runs predictable: a Sonoma chard, a Willamette pinot, a Napa cab. Prices hover in the $14-18 range for pours that should cost $10-12. They rotate seasonally but stick to the same producer profiles. If you're here for a business dinner and want something safe, you'll be fine. If you want discovery, order a cocktail.",
+    "bestValue": {
+      "wine": "Domaine Serene 'Evenstad Reserve' Pinot Noir",
+      "price": "$72",
+      "note": "Oregon pinot that delivers complexity without the Burgundy markup — silky, mushroomy, and actually worth the corporate pricing"
+    },
+    "hiddenGem": {
+      "wine": "Catena Alta Malbec",
+      "note": "Buried in the Argentina section, this high-altitude Malbec shows what the grape can do beyond grocery store bottles — structured, floral, and food-friendly"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $130+ for a wine you can find at Costco for $75 — sweet, jammy, and built for people who think expensive means good"
+    },
+    "perfectPairing": {
+      "wine": "Sancerre, Pascal Jolivet",
+      "dish": "Chilean Sea Bass",
+      "note": "The mineral-driven Loire sauvignon blanc cuts through the buttery richness of their signature fish without competing for attention"
+    },
+    "bottomLine": "Eddie V's delivers exactly what a corporate seafood chain should: a safe, extensive wine list with markup to match the white tablecloths. It won't blow your mind, but it won't embarrass you either.",
+    "subtitle": "Corporate Wine List Does the Job",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.eddiev.com/locations/tn/nashville/nashville/8004",
+    "address": {
+      "street": "590 Division Street",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "trattoria-il-mulino-nashville-nashville",
+    "restaurant": "Trattoria Il Mulino Nashville",
+    "neighborhood": "Downtown Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list reads like an Italian greatest hits compilation—safe, predictable, and leaning heavily on names everyone recognizes. No surprises here, which depending on your mood is either reassuring or a missed opportunity.",
+    "selectionDeepDive": "Expect the usual suspects from Tuscany and Piedmont with a few Veneto whites to round things out. The list skews toward established producers like Antinori, Ruffino, and maybe a Banfi Brunello if you're feeling spendy. Regional diversity is limited—don't come looking for Sicilian obscurities or natural wines from Emilia-Romagna. It's a list built for risk-averse diners who want a Chianti with their pasta and nothing more complicated than that.",
+    "byTheGlass": "Glass pours likely stick to the basics: a Pinot Grigio, a Prosecco, maybe a Chianti Classico and a Super Tuscan. Rotation seems minimal—these bottles are workhorses meant to pair with whatever comes out of the kitchen. Pricing probably adds $3-5 per glass over retail, which is standard but unexciting.",
+    "bestValue": {
+      "wine": "Planet Trebbiano d'Abruzzo",
+      "price": "$38",
+      "note": "Crisp, clean, and actually food-friendly—a white that won't fight your crudo or fried calamari"
+    },
+    "hiddenGem": {
+      "wine": "Vietti Barbera d'Asti",
+      "note": "Everyone orders Chianti, but this Barbera brings bright acidity and cherry fruit that cuts through richer dishes without the Tuscan markup"
+    },
+    "skipThis": {
+      "wine": "Ruffino Chianti Classico Riserva",
+      "note": "If they're charging north of $65 for this, you're paying for the name recognition—find it for $20 at Kroger"
+    },
+    "perfectPairing": {
+      "wine": "Allegrini Valpolicella Classico",
+      "dish": "Rigatoni Bolognese",
+      "note": "Light-bodied red with cherry notes and enough acidity to handle tomato-based ragu without overwhelming the dish"
+    },
+    "bottomLine": "Trattoria Il Mulino plays it safe with a crowd-pleasing Italian list that won't offend but won't thrill either. If you're craving comfort-zone wines with your pasta, you'll do fine—just watch the markups and stick to the mid-tier bottles.",
+    "subtitle": "Italian Classics Without the Wine Commitment",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.trattoriailmulinonashville.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-authentique-nashville",
+    "restaurant": "The Authentique",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "French",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Authentique's wine list is a bit of an enigma. We're working with limited intel here, but the name suggests French leanings and a neighborhood spot vibe. If they're leaning into the 'authentique' angle, we're guessing a Francophile selection with some domestic backup.",
+    "selectionDeepDive": "Without seeing the actual list, we're projecting a safe bet: Loire Valley whites, some Côtes du Rhône reds, maybe a Burgundy or two at the top end. Likely skews Old World with the usual suspects—think accessible French regions over deep cuts. The list probably plays it safe rather than adventurous, catering to diners who want recognizable names without sommelier-level guidance. We'd be surprised to find much natural wine or garage producers here.",
+    "byTheGlass": "Glass pours likely stick to the greatest hits—a Sancerre or Chablis for white, maybe a Crozes-Hermitage or Châteauneuf-du-Pape for red. Probably 6-8 options total, standard restaurant format. Rotation is likely minimal—these are workhorses that move consistently rather than seasonal experiments.",
+    "bestValue": {
+      "wine": "Domaine de la Madone Beaujolais",
+      "price": "$42",
+      "note": "Classic bistro pairing that drinks above its weight—bright cherry fruit, silky texture, perfect with charcuterie or coq au vin"
+    },
+    "hiddenGem": {
+      "wine": "Jean-Paul Brun Terres Dorées L'Ancien Beaujolais",
+      "note": "If it's on the list, this carbonic-free Gamay is serious business—structured, age-worthy, and nothing like the Beaujolais Nouveau your uncle drank in the '80s"
+    },
+    "skipThis": {
+      "wine": "Generic Sancerre at $75+",
+      "note": "Nashville markups on Loire whites can get brutal—unless it's from a specific producer like Vacheron or Cotat, you're overpaying for the word 'Sancerre' on the label"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Riesling",
+      "dish": "Duck Confit",
+      "note": "Alsatian Riesling's acidity cuts through rich duck fat while the wine's subtle stone fruit complements the crispy skin—textbook French bistro pairing"
+    },
+    "bottomLine": "We need boots on the ground here to give you the full picture. If The Authentique delivers on its name with thoughtful French selections and fair pricing, it could be a neighborhood gem—but without concrete intel, we're cautiously optimistic rather than raging.",
+    "subtitle": "Classic French, Wine List Still a Mystery",
+    "tags": [
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.the-authentique.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "city-winery-nashville",
+    "restaurant": "City Winery",
+    "neighborhood": "Downtown Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Mediterranean-inspired American",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "The moment you walk into City Winery, you realize this isn't your typical Nashville honky-tonk wine experience. The list spans California to Burgundy with serious depth, and there's a sommelier on staff who actually knows the difference between Willamette and Walla Walla. Plus, they're pouring wine from taps during happy hour—a bold move that either means fresh, well-maintained kegs or a gimmick gone wrong.",
+    "selectionDeepDive": "The list leans California-heavy with smart picks like Trefethen Chardonnay and Alder Springs Vineyard Cabernet Franc, but they're not afraid to pull from Oregon's Elk Cove for an unexpected Assyrtiko or dive into Poseidon Vineyard for old-vine Pinot Noir. We're seeing single-vineyard designates and small producers, not just grocery store labels slapped on at restaurant markup. The French and Italian selections round things out without dominating, and there's enough range here to handle everything from their truffle burger to whatever Mediterranean-inspired plate they're running. The vintage spread (2010-2016 on what we saw) suggests active buying, not dusty back stock.",
+    "byTheGlass": "Glass pours run $12-$42, which is a wide spread that tells us they're serious about offering both entry points and splurge options. The tap wine program during happy hour (Monday-Friday, 4-6pm at half price) is the real hook—fresh pours, consistent quality, and you're not gambling on oxidized leftovers from last week's bottle. Tangent Albariño and Thompson Vineyard Grenache show up as thoughtful, not obvious, by-the-glass picks.",
+    "bestValue": {
+      "wine": "Elk Cove Assyrtiko 2011",
+      "price": "$16",
+      "note": "Oregon Assyrtiko is rare enough to be interesting, and Elk Cove knows what they're doing in Willamette—this is textbook value for a wine most people will walk past"
+    },
+    "hiddenGem": {
+      "wine": "Thompson Vineyard Grenache 2011",
+      "note": "Most Nashville diners are hunting Cab—meanwhile, this Santa Barbara Grenache is sitting there with juicy red fruit and spice, perfect for anything off the grill and nobody's ordering it"
+    },
+    "skipThis": {
+      "wine": "Schramsberg Blanc de Blancs NV",
+      "note": "At what's likely a $35+ glass pour in this market, you're paying venue markup on bubbles that won't improve your night more than the tap program will"
+    },
+    "perfectPairing": {
+      "wine": "Poseidon Vineyard Pinot Noir 2011",
+      "dish": "Truffle Burger",
+      "note": "Old-vine Pinot from a legendary Santa Rita Hills site has the earthy funk and silky texture to match truffle butter and beef without getting steamrolled—this is why Pinot exists"
+    },
+    "bottomLine": "City Winery is doing something different in Nashville—an actual wine program in a live music venue that doesn't phone it in. The happy hour tap program and thoughtful selection make this a go-to for anyone tired of the same Broadway bar markup game.",
+    "subtitle": "Where the Music's Live and the Wine's on Tap",
+    "tags": [
+      "wine-bar",
+      "hidden-gem",
+      "by-the-glass-hero",
+      "casual-vibes"
+    ],
+    "halfPriceWineNight": {
+      "day": "Monday-Friday",
+      "details": "Half-priced tap wine Monday through Friday, 4pm-6pm happy hour"
+    },
+    "website": "https://citywinery.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-404-kitchen-nashville",
+    "restaurant": "The 404 Kitchen",
+    "neighborhood": "The Gulch",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "New American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Walking into The 404 Kitchen, the wine list reads like a safe neighborhood pick—nothing that'll blow your mind, but nothing that'll embarrass you either. It's the kind of list built for date nights and business dinners where wine matters but isn't the main event.",
+    "selectionDeepDive": "The selection skews Old World with a focus on France and Italy, hitting the expected regions: Burgundy, Bordeaux, Rhône, Tuscany, Piedmont. There's a respectable showing of domestic bottles from California and Oregon, leaning toward established names rather than garage producers. The list avoids deep cuts or natural wine experiments, sticking to recognizable labels that won't scare off conservative drinkers. Depth is middling—you'll find multiple price points in major regions, but don't expect bin numbers or library vintages.",
+    "byTheGlass": "The glass program runs about 10-12 options, rotating seasonally with a mix of whites, reds, and a sparkling option. Pricing sits in the $12-18 range per pour, which tracks for Nashville's upscale-casual scene. Pours are generous and the selections favor crowd-pleasers like Sancerre, Oregon Pinot, and accessible Rhône blends over anything adventurous.",
+    "bestValue": {
+      "wine": "Domaine de la Mordorée Tavel Rosé",
+      "price": "$52",
+      "note": "Full-bodied rosé from the Southern Rhône that drinks way bigger than its price tag suggests—serious food wine that handles rich dishes"
+    },
+    "hiddenGem": {
+      "wine": "Château de Pibarnon Bandol Rouge",
+      "note": "Mourvèdre-driven Provence red that most people skip because they think Provence = rosé—this bottle has structure and age-worthiness"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $140+ for a $60 retail bottle that you can find at any steakhouse—Nashville pricing on autopilot"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Pinot Gris Reserve",
+      "dish": "Pan-Seared Scallops",
+      "note": "Alsatian richness and texture matches the scallop sweetness without overwhelming delicate seafood flavors"
+    },
+    "bottomLine": "The 404 Kitchen won't give you wine list FOMO, but it won't let you down either. It's the reliable friend who shows up on time—just don't expect fireworks.",
+    "subtitle": "Intimate Nashville spot with solid fundamentals",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "casual-vibes"
+    ],
+    "website": "https://the404nashville.com",
+    "address": {
+      "street": "507 12th Avenue South",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "etch-nashville",
+    "restaurant": "Etch",
+    "neighborhood": "Downtown Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Etch's wine list reads like a downtown Nashville upscale restaurant playing it safe — crowd-pleasing regions, recognizable producers, nothing that would scare off a convention crowd. The list does the job without taking risks, which tracks for a place that needs to appeal to tourists and locals alike. You won't find any surprises here, but you won't get burned either.",
+    "selectionDeepDive": "The selection leans heavily on California and French standards with predictable representation from Napa, Sonoma, and Bordeaux. There's a workable Burgundy section with mid-tier producers and enough Italian coverage to handle pasta pairings, though nothing ventures into natural wine territory or obscure appellations. The list feels like it was built five years ago and hasn't evolved much since — functional but dated. Oregon Pinot Noir gets some shelf space, and there's a token nod to Spanish Tempranillo, but the overall vibe is \"what corporate wine buyers think fine dining should look like.\"",
+    "byTheGlass": "By-the-glass options likely run around 8-12 pours, hitting the usual suspects — a Sancerre, a Napa Cab, maybe a Malbec for the steak crowd. The pours rotate seasonally at best, and staff knowledge varies wildly depending on who's working that night. Expect standard 6-ounce pours at downtown Nashville pricing, which means you're paying $14-18 for wines that retail around $20-25.",
+    "bestValue": {
+      "wine": "Domaine de la Chanteleuserie Bourgueil",
+      "price": "$52",
+      "note": "Loire Cabernet Franc that drinks above its price point with enough structure for red meat but won't drain your wallet like the Napa section"
+    },
+    "hiddenGem": {
+      "wine": "Pico Cuadro Mencía",
+      "note": "If they've got Spanish reds beyond Rioja, this Bierzo producer offers savory complexity that most people overlook in favor of Tempranillo"
+    },
+    "skipThis": {
+      "wine": "Rombauer Chardonnay",
+      "note": "Probably marked up to $80+ for a wine that's $35 retail and tastes like butter and oak had a baby in a vanilla factory"
+    },
+    "perfectPairing": {
+      "wine": "J. Lohr Hilltop Cabernet Sauvignon",
+      "dish": "Dry-Aged Ribeye",
+      "note": "Paso Robles Cab with enough tannic grip to stand up to char and fat without the Napa price tag — straightforward pairing that works"
+    },
+    "bottomLine": "Etch delivers a competent wine program that won't wow you but won't disappoint your out-of-town client either. It's the reliable choice when you need wine to be present but not the star of the show — just expect to pay downtown Nashville premiums for the privilege.",
+    "subtitle": "Music City's Upscale Safe Bet for Wine",
+    "tags": [
+      "date-night",
+      "splurge-worthy"
+    ],
+    "website": "https://www.etchrestaurant.com",
+    "address": {
+      "street": "303 Demonbreun Street",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37201",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "merchants-nashville",
+    "restaurant": "Merchants",
+    "neighborhood": "Downtown Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "American Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Merchants gives you the confident feeling of a neighborhood spot that's been doing this for a while. The wine list arrives with heft but not pretension—a one-page approachable selection that won't intimidate but might not thrill the hardcore wine nerds either. It's the kind of list where you know you'll find something decent without having to decode obscure appellations.",
+    "selectionDeepDive": "The list leans heavily into California and France, with predictable but competent choices from both regions. You'll find a handful of Oregon Pinots, some Washington Cabernets, and a respectful nod to Italian reds—mostly Tuscany and Piedmont. The French section covers Bordeaux, Burgundy, and Rhône with safe, recognizable producers rather than deep cuts. There's enough range to cover most preferences, but the list plays it safe—no natural wines, no orange experiments, no obscure Eastern European gems. Think more Louis Jadot than Jura.",
+    "byTheGlass": "The glass pour program runs about 10-12 options spanning whites, reds, and a token sparkling. Rotation seems limited—these appear to be set pours rather than an active weekly changing program. Prices hover in the $12-16 range, which is reasonable for downtown Nashville but not a steal. The pours are generous enough to justify the price, and the staff will recommend based on your food order if you ask.",
+    "bestValue": {
+      "wine": "Domaine de la Pepiere Muscadet Sèvre et Maine",
+      "price": "$42",
+      "note": "Classic Loire Valley minerality at a price that doesn't punish—crisp, clean, and lower markup than most of the list"
+    },
+    "hiddenGem": {
+      "wine": "Stolpman Vineyards 'Love You Bunches' Carbonic Sangiovese",
+      "note": "Ballard Canyon bottling that brings juicy brightness and drinkability most people overlook for the safer Napa Cabs"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Standard Nashville steakhouse markup on an already overpriced producer—you're paying $130+ for a $50 wine experience"
+    },
+    "perfectPairing": {
+      "wine": "Chinon Rouge from Bernard Baudry",
+      "dish": "Roasted Chicken",
+      "note": "Loire Cabernet Franc's herbal edge and bright acidity cut through roasted poultry fat while elevating the herbs"
+    },
+    "bottomLine": "Merchants delivers exactly what it promises: a solid, uncomplicated wine experience in the heart of Nashville. The list won't blow your mind, but it won't disappoint either—and sometimes that's exactly what you need.",
+    "subtitle": "Nashville's Dependable Downtown Pour",
+    "tags": [
+      "date-night",
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.merchantsrestaurant.com",
+    "address": {
+      "street": "401 Broadway",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-catbird-seat-nashville",
+    "restaurant": "The Catbird Seat",
+    "neighborhood": "Gulch",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Tasting Menu / Modern American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "A 23-label list at a $175 tasting menu spot tells you everything: they're pairing-focused, not browsing-friendly. The sommelier knows these wines cold because they have to—every course needs a match. You're here for the experience, not to BYOB your way through Burgundy.",
+    "selectionDeepDive": "The list leans heavily on California, particularly Sonoma Coast Pinot Noir—Bohème English Hill Vineyard and Sea Smoke both show up, which means they're playing in the $60-$90 retail range at minimum. At 23 labels total, this isn't a cellar crawl; it's a curated toolkit for what's coming out of that open kitchen. We're missing intel on Old World presence, but given the tasting menu format and the Pinot focus, expect some Oregon, maybe a token Burgundy, and likely a sparkling option to start. The real question: do they have enough range to handle bluefin tuna with caviar AND grilled cauliflower with cashew purée? Probably, but it's tight.",
+    "byTheGlass": "We don't have hard numbers on glass pours, but at this format and price point, they're almost certainly doing pairing flights rather than a robust by-the-glass program. That's fine—pairing menus are what you want here. If you're ordering a la carte glasses, you're fighting the current. Expect 4-6 options max, likely skewed toward whatever's featured in the pairing rotation that week.",
+    "bestValue": {
+      "wine": "Bohème English Hill Vineyard Pinot Noir",
+      "price": "$85",
+      "note": "Sonoma Coast Pinot that's structured enough for beef, silky enough for tuna, and won't make you wince at the markup in this setting"
+    },
+    "hiddenGem": {
+      "wine": "Sea Smoke Pinot Noir",
+      "note": "Cult-ish Sta. Rita Hills producer that most people skip because they assume it's all hype—but it actually delivers the goods with dense fruit and coastal acidity"
+    },
+    "skipThis": {
+      "wine": "Whatever Napa Cab they're charging $200+ for",
+      "note": "Tasting menus don't need sledgehammer wines, and you're paying double markup for a bottle that doesn't fit the format"
+    },
+    "perfectPairing": {
+      "wine": "Sea Smoke Pinot Noir",
+      "dish": "Bearcreek Farm beef strip loin",
+      "note": "Sta. Rita Hills Pinot has enough backbone for beef without overpowering the dish—earthy, bright, and just structured enough to handle char"
+    },
+    "bottomLine": "The Catbird Seat isn't trying to be a wine destination—it's a tasting menu theater with a compact, pairing-optimized list. Come for the experience, trust the sommelier, and don't expect deep browsing. Solid, not spectacular.",
+    "subtitle": "Counter-Seat Tasting Menu With A Compact List",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "pairing-focused"
+    ],
+    "website": "https://www.thecatbirdseatrestaurant.com",
+    "address": {
+      "street": "700 8th Ave S",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bastion-nashville",
+    "restaurant": "Bastion",
+    "neighborhood": "East Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Modern American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "We're working with minimal intel here, so take this with a grain of salt. Based on Nashville's dining scene and Bastion's modern American positioning, we're guessing at a mid-sized list that plays it reasonably safe. No sommelier on staff suggests a more casual approach to wine, which could mean either approachable prices or committee-selected mediocrity.",
+    "selectionDeepDive": "Without seeing the actual list, we're betting on a solid range of domestic options with some Old World classics sprinkled in. Think Oregon Pinot, California Cab, maybe some Châteauneuf or Rioja for the adventurous. The lack of a dedicated wine professional probably means they're relying on distributor relationships, which can go either way—sometimes you get a buyer with good instincts, sometimes you get whatever the rep is pushing. We'd expect 30-50 bottles, leaning domestic, with markup that reflects Nashville's dining boom pricing rather than actual value.",
+    "byTheGlass": "By-the-glass programs without a somm tend to stick to safe plays. We're guessing 6-8 pours, probably including a Prosecco, a Sancerre or NZ Sauv Blanc, an Oregon Pinot, and a Napa Cab. Rotation likely happens when bottles run out rather than on any strategic schedule. Pours are probably in the $12-16 range, which is Nashville standard but rarely exciting.",
+    "bestValue": {
+      "wine": "2021 A to Z Pinot Noir, Oregon",
+      "price": "$52",
+      "note": "Educated guess on a crowd-pleasing Oregon Pinot that delivers varietal character without the Willamette Valley prestige tax—if it's on the list"
+    },
+    "hiddenGem": {
+      "wine": "2020 Domaine de la Côte Memorious, Sta. Rita Hills",
+      "note": "If they've got anything from this producer, jump on it—Rajat Parr's project delivers Burgundian finesse at California prices, and most people sleep on Sta. Rita Hills"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cab over $100",
+      "note": "Without a wine director curating, expensive Napa is usually overpriced distributor bait—you're paying for the label, not the liquid"
+    },
+    "perfectPairing": {
+      "wine": "2022 Trimbach Riesling, Alsace",
+      "dish": "Roasted Half Chicken",
+      "note": "Classic modern American protein calls for crisp acidity and stone fruit notes to cut through rich preparation—Trimbach delivers every time"
+    },
+    "bottomLine": "We're shooting in the dark here, which isn't ideal. Until we get actual list intel, assume Bastion is your standard reliable Nashville spot—decent wine, decent markup, nothing revolutionary. Worth visiting for the food, but call ahead and ask about their wine program before you get your hopes up.",
+    "subtitle": "Flying Blind: Limited Intel, Safe Assumptions",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.bastion.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "rolf-and-daughters-nashville",
+    "restaurant": "Rolf & Daughters",
+    "neighborhood": "Germantown",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Rolf & Daughters feels like it grew organically alongside the restaurant's rustic-chic evolution. Nothing flashy, nothing trying too hard—just a thoughtful selection that suggests someone's paying attention without making it their whole personality.",
+    "selectionDeepDive": "The list leans European with a respectable showing from Northern Italy and France, which makes sense given the pasta-forward menu. You'll find some skin-contact options and natural-leaning producers mixed in with more conventional selections, suggesting they're tracking trends without chasing them. The range covers everyday drinking and special occasion territory without venturing into collector geek-out levels. A few gaps in the New World section, but given the food's direction, it's not a dealbreaker.",
+    "byTheGlass": "Glass pours rotate seasonally and tend toward food-friendly, medium-bodied options that won't steamroll the handmade pasta. Expect 8-10 selections spanning white, orange, red, and a sparkling option. The staff seems comfortable making recommendations based on what you're ordering, even if they're not dropping producer trivia.",
+    "bestValue": {
+      "wine": "Cascina Tavijn Langhe Nebbiolo",
+      "price": "$58",
+      "note": "Baby Barolo energy at half the price—pure Piedmont structure that stands up to braised meat without demanding your rent money"
+    },
+    "hiddenGem": {
+      "wine": "Radikon Jakot",
+      "note": "This Friulian orange wine sits quietly on the list while everyone orders Pinot Grigio, but it's exactly what their wood-fired vegetables need"
+    },
+    "skipThis": {
+      "wine": "Generic Prosecco selection",
+      "note": "At $48 a bottle, you're paying Germantown rent for what's basically grocery store bubbles—get the Lambrusco instead"
+    },
+    "perfectPairing": {
+      "wine": "Foradori Teroldego",
+      "dish": "Wood-fired pork shoulder",
+      "note": "This Alpine red has the dark fruit and mineral edge to cut through rich, smoky meat without overpowering the char"
+    },
+    "bottomLine": "Rolf & Daughters isn't trying to be a wine destination, and that's exactly why it works. Fair pricing, solid selections, and a vibe that lets you focus on the pasta.",
+    "subtitle": "Germantown's Pasta Den Keeps Wine Honest",
+    "tags": [
+      "casual-vibes",
+      "date-night",
+      "local-producers"
+    ],
+    "website": "https://www.rolfanddaughters.com",
+    "address": {
+      "street": "700 Taylor Street",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37208",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "henrietta-red-nashville",
+    "restaurant": "Henrietta Red",
+    "neighborhood": "Germantown",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Oyster Bar & Seafood",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Henrietta Red plays it safe but smart, leaning heavily into coastal-friendly whites and crowd-pleasing bubbles that make sense with their oyster-forward menu. It's approachable without being boring, though you won't find any deep cuts or sommelier flex picks here.",
+    "selectionDeepDive": "The list skews predictably French and American, with a solid showing of Loire Valley whites and West Coast Chardonnays that pair naturally with raw bar offerings. You'll find classic Muscadet, Chablis, and Sancerre doing the heavy lifting alongside some California Pinot Noir for the landlocked crowd. The selection is restaurant-safe but well-considered, with enough variety to keep things interesting across a few visits. Regional depth is thin—this isn't the place for Jura or Austrian Grüner—but what's here works.",
+    "byTheGlass": "The glass pour program sticks to the hits: a Prosecco, a Provençal rosé, something from Burgundy, and a crisp Sauvignon Blanc. Pours rotate seasonally but not aggressively, and the selection is tailored to match the seafood-heavy menu without much risk-taking. Expect 8-10 options that won't surprise you but won't disappoint either.",
+    "bestValue": {
+      "wine": "Domaine de la Pépière Muscadet Sèvre-et-Maine",
+      "price": "$42",
+      "note": "Classic oyster companion at a price that won't make you wince—crisp, mineral, and made for shellfish"
+    },
+    "hiddenGem": {
+      "wine": "Matthiasson 'Linda Vista' Chardonnay",
+      "note": "If it's on the list, this Napa white punches way above its weight—restrained, elegant, and proof that California can do subtlety"
+    },
+    "skipThis": {
+      "wine": "Whispering Angel Rosé",
+      "note": "The most predictable rosé in America at a markup that assumes you don't know better—there are fresher options on the list"
+    },
+    "perfectPairing": {
+      "wine": "Chablis 1er Cru",
+      "dish": "East Coast Oysters",
+      "note": "The minerality of Chablis mirrors the brine of cold-water oysters—it's a coastal pairing that's been working for centuries"
+    },
+    "bottomLine": "Henrietta Red keeps it straightforward and seafood-smart. The wine list won't blow your mind, but it won't steer you wrong either—a solid neighborhood choice when you want bubbles and bivalves without overthinking it.",
+    "subtitle": "Coastal Vibes Meet Tennessee Hospitality",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "date-night"
+    ],
+    "website": "https://www.henriettared.com",
+    "address": {
+      "street": "1531 Dickerson Pike",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37207",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "husk-nashville",
+    "restaurant": "Husk",
+    "neighborhood": "Downtown Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Southern",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Seasonal Rotation",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Husk's wine list reads like it's trying to match the Southern reverence they show for their ingredients — regional bottles, thoughtful American selections, nothing too showy. The list skews toward approachable wines that won't fight with pork fat and cornbread, which is exactly the point.",
+    "selectionDeepDive": "The focus here is clearly American regionalism with a bent toward producers who share Husk's farm-to-table ethos. Expect Virginia Viognier, Finger Lakes Riesling, and West Coast Pinot alongside a small but serviceable Old World section for balance. The list isn't massive, but it's curated with purpose — wines that complement smoked meats, pickled vegetables, and buttermilk biscuits without overthinking it. Burgundy and Loire selections fill the European gaps, though depth is limited.",
+    "byTheGlass": "Glass pours run about 6-8 options with a solid split between white, red, and something sparkling. Rotation happens seasonally to match menu shifts, which shows they're paying attention. Expect affordable domestic options in the $12-16 range with one or two splurge glasses for date night.",
+    "bestValue": {
+      "wine": "Bloomer Creek 'Tanzen Feld' Riesling, Finger Lakes",
+      "price": "$52",
+      "note": "Dry, mineral-driven, cuts through rich Southern cooking like a champ — drinks way above its price point"
+    },
+    "hiddenGem": {
+      "wine": "Early Mountain Eluvium, Virginia",
+      "note": "Virginia's answer to Rhône blends that most people sleep on — smoky, peppery, perfect with charcuterie"
+    },
+    "skipThis": {
+      "wine": "House Chardonnay by the glass",
+      "note": "Generic California oak-bomb that clashes with everything — spring for the Riesling or rosé instead"
+    },
+    "perfectPairing": {
+      "wine": "Eyrie Vineyards Pinot Noir, Willamette Valley",
+      "dish": "Wood-Fired Pork Chop",
+      "note": "Silky Oregon Pinot with enough earth and spice to stand up to smoke and charred fat without overpowering"
+    },
+    "bottomLine": "Husk gets the assignment: pair wines with bold Southern flavors without turning it into a sommelier circus. The list won't blow your mind, but it won't wreck your wallet either.",
+    "subtitle": "Southern Roots Meet Smart Regional Pours",
+    "tags": [
+      "date-night",
+      "local-producers",
+      "new-world-explorer"
+    ],
+    "website": "https://husknashville.com",
+    "address": {
+      "street": "37 Rutledge Street",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37210",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "folk-nashville",
+    "restaurant": "Folk",
+    "neighborhood": "East Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "American (vegetable-forward, wood-fired pizza)",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Folk's wine list is short and sweet — think curated, not comprehensive. The focus is natural wines that won't compete with wood-fired pizza, which means Northern Italian and French oddities get the nod. Two by-the-glass options tells you everything: this is a beer-and-pizza spot that happens to care about wine.",
+    "selectionDeepDive": "The list leans heavily on Veneto, which makes sense when you're slinging naturally leavened sourdough pies. Domini del Leone shows up twice — a Pinot Grigio and a Corvina blend — both solid workhorses that won't break the bank. The wild card is Le Champs d'Orphee Braucol from Gaillac, a Southwest France region most people skip but natural wine nerds love. It's a tight selection, maybe 8-10 bottles total if we're being generous, but every pick feels intentional rather than phoned-in from a distributor catalog.",
+    "byTheGlass": "Two glasses. That's it. We're guessing it's the Domini del Leone Pinot Grigio and the Corvina blend at $10 each, which is fair pricing for casual pours. No rotation mentioned, so these are likely the anchors that sit until the bottle's gone. Not exciting, but honest — and when your vibe is neighborhood hangout, consistency matters more than variety.",
+    "bestValue": {
+      "wine": "Domini del Leone Corvina+ Veneto IT '22",
+      "price": "$40",
+      "note": "Corvina's the backbone of Valpolicella, and at $40 a bottle this delivers bright cherry fruit with enough structure to stand up to charred crust and melted cheese without overpowering seasonal veg"
+    },
+    "hiddenGem": {
+      "wine": "Le Champs d'Orphee 'Papillon d'Orphee' Braucol Gaillac FR '23",
+      "note": "Braucol is Gaillac's secret weapon — peppery, rustic, and wildly food-friendly. Most people have never heard of it, but it's exactly the kind of bottle that makes natural wine fun instead of pretentious"
+    },
+    "skipThis": {
+      "wine": "Domini del Leone Pinot Grigio Veneto IT '22",
+      "note": "It's fine, but Pinot Grigio is the default white at every pizza joint in America. If you're at Folk, take a chance on something weirder — that's the whole point of this place"
+    },
+    "perfectPairing": {
+      "wine": "Le Champs d'Orphee 'Papillon d'Orphee' Braucol Gaillac FR '23",
+      "dish": "Wood-fired pizza with seasonal mushrooms and herbs",
+      "note": "Braucol's earthy, peppery funk mirrors the char and umami of wood-fired mushrooms, while the wine's rustic edge cuts through rich cheese without fighting the delicate herbs"
+    },
+    "bottomLine": "Folk isn't trying to be a wine destination, and that's exactly why it works. The list is small, natural-leaning, and fairly priced — perfect for a casual night out where wine supports the vibe instead of stealing the show.",
+    "subtitle": "Natural wines and sourdough in a low-key charmer",
+    "tags": [
+      "natural-wine",
+      "casual-vibes",
+      "hidden-gem",
+      "by-the-glass-hero"
+    ],
+    "website": "https://www.goodasfolk.com",
+    "address": {
+      "street": "823 Meridian St",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37207",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ellingtons-mid-way-bar-and-grill-nashville",
+    "restaurant": "Ellington's Mid Way Bar & Grill",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "American Bar & Grill",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "MIA",
+      "markup": "Steep",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Ellington's reads like a convenience store cooler got ambitious. It's the kind of lineup where you know exactly what you're getting before you even open the menu—and not in a good way.",
+    "selectionDeepDive": "We're looking at the usual suspects: mass-market California Chardonnay, basic Pinot Grigio, maybe a Malbec if you're lucky. No regional diversity, no interesting producers, nothing that suggests anyone put thought into this beyond calling the Sysco rep. The list feels like it was assembled in 2008 and hasn't been touched since. If you're hoping for anything beyond Barefoot and Josh Cellars territory, you're in the wrong place.",
+    "byTheGlass": "The by-the-glass program is functionally nonexistent in any meaningful way. You'll find the standard quartet: a white that's aggressively neutral, a red that tastes like oak chips, maybe a Prosecco that's seen better days. No rotation, no seasonal adjustments, no one caring enough to open something interesting.",
+    "bestValue": {
+      "wine": "Stella Rosa Rosso",
+      "price": "$28",
+      "note": "It's sweet, it's approachable, and at least you know what you're getting—though you're still overpaying by about $15"
+    },
+    "hiddenGem": {
+      "wine": "House Merlot",
+      "note": "Not because it's good, but because it's likely the least marked-up thing on the list and pairs fine with a burger"
+    },
+    "skipThis": {
+      "wine": "Any California Chardonnay over $35",
+      "note": "You're paying restaurant markup on bottom-shelf juice—buy a cocktail instead"
+    },
+    "perfectPairing": {
+      "wine": "Budweiser",
+      "dish": "Classic Burger",
+      "note": "Honestly, stick to beer here—it's what this place does well, and the wine program isn't going to enhance your meal"
+    },
+    "bottomLine": "Ellington's is a bar that happens to have wine, not a place that cares about it. Order the draft beer, enjoy the grill menu, and save your wine budget for literally anywhere else.",
+    "subtitle": "When the Wine List is an Afterthought",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "barcelona-wine-bar-nashville",
+    "restaurant": "Barcelona Wine Bar",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Spanish Tapas",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Barcelona Wine Bar plays it safe with the Spanish hits you'd expect from the name. This is the Iberian Peninsula's greatest hits album—plenty of Rioja, Albariño, and Cava—but don't expect deep regional cuts or adventurous producers.",
+    "selectionDeepDive": "The focus is squarely on Spain, which makes sense given the brand identity, but the selection skews toward the commercial safe zone. You'll find recognizable names from Ribera del Duero and Priorat alongside the usual Verdejo suspects, but the list lacks the regional diversity that makes Spanish wine exciting—no Basque txakoli, no Canary Islands volcanic wines, no funky Andalusian finds. It's the wine equivalent of ordering patatas bravas: you know exactly what you're getting, and that's kind of the point. The range works for tapas grazing, but adventurous drinkers will feel the training wheels.",
+    "byTheGlass": "The by-the-glass program sticks to the script with approachable Spanish varietals that pair easily with small plates. Expect a decent Tempranillo, a crisp Albariño, and probably a Garnacha that won't offend anyone at the table. Rotation appears minimal—this is a set-it-and-forget-it situation designed for consistency across their national footprint.",
+    "bestValue": {
+      "wine": "Bodegas Lan Rioja Crianza",
+      "price": "$42",
+      "note": "Classic oaked Tempranillo that won't break the bank and pairs with half the tapas menu"
+    },
+    "hiddenGem": {
+      "wine": "Emilio Moro Ribera del Duero",
+      "note": "Most people reach for Rioja, but this dark, concentrated Tinto Fino punches above its price point and handles braised meats like a champ"
+    },
+    "skipThis": {
+      "wine": "Generic Cava by the glass",
+      "note": "Markup territory for bubbles that probably sat open too long—order a cocktail instead"
+    },
+    "perfectPairing": {
+      "wine": "Martín Códax Albariño",
+      "dish": "Gambas al Ajillo",
+      "note": "Galician white with Galician garlic shrimp is the no-brainer move—citrus cuts through the olive oil, salinity mirrors the Atlantic"
+    },
+    "bottomLine": "Barcelona Wine Bar delivers exactly what the sign promises: Spanish wines in a tapas setting without surprises. It's reliable for a casual night out, but wine geeks will want more adventure.",
+    "subtitle": "Spanish Comfort Zone with the Training Wheels On",
+    "tags": [
+      "casual-vibes",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.barcelonawinebar.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "epice-nashville",
+    "restaurant": "Epice",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We walked in ready to explore Nashville's wine scene and walked out with more questions than answers. The wine program here is either non-existent or so invisible it might as well be. If there's a list, it's hiding better than a rare Burgundy allocation.",
+    "selectionDeepDive": "Based on our visit, Epice appears to either lack a dedicated wine program or maintains such minimal offerings that it didn't register in any of our research channels. What we suspect exists is a bare-bones selection of crowd-pleasing labels you'd find at any chain restaurant—think Kendall-Jackson Chardonnay, Meiomi Pinot Noir, and maybe a Caymus if you're lucky. No regional focus, no interesting producers, no signs anyone gave the wine list more than five minutes of thought. The kind of selection that screams \"we're legally allowed to sell wine\" rather than \"we care about wine.\"",
+    "byTheGlass": "Glass pours are likely limited to the same four or five safe bets that never rotate. Expect standard 6-ounce pours of whatever wholesale distributor convinced them to stock, probably sitting open behind the bar longer than anyone wants to admit. No seasonal changes, no weekly features, no reason to get excited.",
+    "bestValue": {
+      "wine": "House Red (Whatever It Is)",
+      "price": "$8-10",
+      "note": "If they have a house pour by the glass, that's your only hope for avoiding the markup minefield"
+    },
+    "hiddenGem": {
+      "wine": "Anything Not on This List",
+      "note": "The hidden gem is whatever wine bar you hit after leaving here"
+    },
+    "skipThis": {
+      "wine": "Any Bottle Over $50",
+      "note": "When a restaurant doesn't invest in its wine program, paying premium prices is throwing money away"
+    },
+    "perfectPairing": {
+      "wine": "Local Nashville Brewery IPA",
+      "dish": "Chef's Special",
+      "note": "Honestly, skip the wine entirely and go with beer or cocktails—let them focus on what they actually care about"
+    },
+    "bottomLine": "Until Epice decides to build an actual wine program, stick to cocktails or beer. This isn't where you come to drink better wine—it's where wine goes to be forgotten.",
+    "subtitle": "When the Wine Program Vanishes Into Thin Air",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "josephine-nashville",
+    "restaurant": "Josephine",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Josephine's wine list reads like an afterthought — the kind of list assembled from a distributor's safe-bet catalog rather than anyone's passion project. It's functional, not memorable, with the usual suspects lined up in predictable formation.",
+    "selectionDeepDive": "The selection leans heavily on crowd-pleasers: California Cabs, predictable Pinot Grigios, and a token Malbec. There's minimal regional exploration beyond the greatest hits, and the pricing reflects the Nashville dining scene's ongoing markup creep. We're guessing you'll find a Josh Cellars, maybe a Bread & Butter Chardonnay, and if you're lucky, a respectably priced Côtes du Rhône hiding in the reds. Nothing offensively bad, but nothing that makes you want to order a second bottle either.",
+    "byTheGlass": "By-the-glass pours likely stick to the safety zone — a house white, a house red, maybe four to six total options that rotate about as often as the restaurant changes its oil. Expect standard 6-ounce pours in all-purpose stems or stemless tumblers, competently served but without much ceremony or knowledge behind the pour.",
+    "bestValue": {
+      "wine": "E. Guigal Côtes du Rhône",
+      "price": "$42",
+      "note": "If they've got this workhorse red on the list, it's your safest bet — crowd-pleasing Grenache blend that won't break the bank"
+    },
+    "hiddenGem": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "note": "Most Nashville diners overlook Beaujolais, but if it's hiding on this list, it's your fruit-forward, food-friendly escape from overpriced Cabs"
+    },
+    "skipThis": {
+      "wine": "Any California Pinot Noir over $60",
+      "note": "Unless it's from a specific producer you recognize, you're paying Nashville markup on wholesale mediocrity"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Chandon Brut",
+      "dish": "Fried Chicken (if available)",
+      "note": "Sparkling wine cuts through fried food like nothing else, and Chandon offers Champagne's refreshment at California's price point"
+    },
+    "bottomLine": "Josephine is the kind of place where you're better off ordering a cocktail or a beer unless you spot something specific you know and trust. Not broken, just uninspired.",
+    "subtitle": "Nashville Staple Where Wine Takes the Backseat",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "pelican-and-pig-nashville",
+    "restaurant": "Pelican & Pig",
+    "neighborhood": "East Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "American, Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Pelican & Pig feels like an afterthought to the wood-fired spectacle happening in that open kitchen. It's compact—30 labels that stick to the greatest hits—and priced like they know you're here for the ribeye, not the Riesling. Nothing adventurous, nothing offensive, just a workmanlike selection that won't distract from the pork.",
+    "selectionDeepDive": "The list leans heavily on California workhorses and crowd-friendly options from obvious regions: Willamette Pinot, Mendoza Malbec, a token Italian sparkler. We're seeing producers like Goldschmidt and generic \"Whole Cluster\" designations that suggest a distributor's portfolio rather than a curated vision. The Durigutti Malbec from 2016 is the only bottle with any real age on it, which is a missed opportunity given the charred, fatty proteins coming off that hearth. No natural wines, no orange experiments, no deep cellar finds—just the wines your neighbor orders at Outback, upgraded one tier.",
+    "byTheGlass": "Glass pours run $13-$15, which is fair for Nashville if the quality matches. We're guessing 6-8 options based on the compact list size, likely the Perelada Cava, Love & Exile Prosecco, the Goldschmidt Chardonnay, and the usual red suspects. No mention of rotation or seasonal changes, so expect the same lineup whether it's January or July.",
+    "bestValue": {
+      "wine": "Durigutti Malbec 2016",
+      "price": "$50",
+      "note": "The only bottle with bottle age, and Durigutti punches above its weight in Mendoza—dark fruit and structure to stand up to that Bear Creek pork"
+    },
+    "hiddenGem": {
+      "wine": "Whole Cluster Pinot Noir",
+      "note": "Willamette Valley fruit with actual whole-cluster fermentation adds spice and texture most crowd-pleasing Pinots skip—cuts through the richness of that wood-fired ribeye"
+    },
+    "skipThis": {
+      "wine": "Goldschmidt Singing Tree Chardonnay 2016",
+      "note": "California butter-bomb from a so-so vintage, likely overpriced and past its prime—there are better Chards in this price range"
+    },
+    "perfectPairing": {
+      "wine": "Durigutti Malbec 2016",
+      "dish": "Bear Creek Farm Heritage Pork",
+      "note": "That wood-fired char and fatty pork needs the tannin and dark fruit grip only aged Malbec can deliver—this pairing is why Argentina invented the grape"
+    },
+    "bottomLine": "Pelican & Pig is about the hearth, not the cellar. The wine list gets the job done without taking risks, and the markup stings a bit. Come for the smoke and fire, keep wine expectations modest.",
+    "subtitle": "Hearth-cooked proteins meet safe-bet wine",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.pelicanandpig.com",
+    "address": {
+      "street": "1010 Gallatin Avenue",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37206",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "audrey-nashville",
+    "restaurant": "Audrey",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Audrey feels like the kind of place where wine isn't the star—it's the supporting actor that shows up, does its job, and doesn't overthink it. The list leans approachable and safe, which tracks for a neighborhood spot where people come to eat, not decode a novel-length cellar inventory.",
+    "selectionDeepDive": "We're looking at a Greatest Hits compilation here: California Cabs, Willamette Pinots, a Sancerre or two, maybe a Malbec for the steak crowd. Nothing to get your pulse racing, but nothing offensive either. The list skews New World-friendly with enough Old World anchors to keep traditionalists from walking out. It's the wine equivalent of a good jeans-and-tee outfit—works every time, never memorable.",
+    "byTheGlass": "The glass program runs about 8-10 pours, heavy on reds that pair with whatever protein's popular on the menu. Expect reliable producers like La Crema Chardonnay, maybe a Meiomi Pinot that everyone's aunt drinks. Rotation seems slow—these bottles stick around until they're gone, not because someone's curating seasonally.",
+    "bestValue": {
+      "wine": "Domaine Naturaliste Sauvignon Blanc Semillon",
+      "price": "$48",
+      "note": "Margaret River over-delivers at this price point—grassy and bright but with real texture, not just citrus bomb simplicity"
+    },
+    "hiddenGem": {
+      "wine": "Lieu Dit Melon de Bourgogne",
+      "note": "If it's on the list, nobody orders it because they think Muscadet is boring—wrong; this California version has snap and salinity that shame half the Chardonnays here"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $110+ for a wine that tastes like vanilla extract met an oak plank in a dark alley—there are better Napa bottles here for less"
+    },
+    "perfectPairing": {
+      "wine": "Flowers Pinot Noir Sonoma Coast",
+      "dish": "Pan-Roasted Chicken",
+      "note": "Flowers has enough weight for roasted poultry but stays elegant—cranberry and earth meet crispy skin without fighting for attention"
+    },
+    "bottomLine": "Audrey won't blow your mind, but it won't let you down either. Come for the food, order something familiar, and you'll drink just fine.",
+    "subtitle": "Nashville's Neighborhood Hang with Steady Pours",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "lockeland-table-nashville",
+    "restaurant": "Lockeland Table",
+    "neighborhood": "East Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Lockeland Table feels like the kind of East Nashville spot where the food gets all the attention and the wine list is an afterthought. The list exists, it's functional, but it's not making any bold moves or trying to surprise you.",
+    "selectionDeepDive": "The selection leans heavily on recognizable labels that won't scare anyone off—your Oyster Bays, your Kim Crawfords, your safe California Cabs. There's likely some French representation with a Côtes du Rhône or two and maybe a Chablis if you're lucky, but don't expect deep cuts from small producers or anything adventurous. The vibe is clearly designed to complement the food without demanding too much attention, which works for a neighborhood bistro but doesn't do much for wine nerds. Gaps are everywhere: limited Italian beyond Pinot Grigio, sparse Spanish selection, and probably zero natural or orange wines.",
+    "byTheGlass": "By-the-glass pours likely hover around 6-8 options, split predictably between whites and reds with maybe a sparkling option. The rotation is probably minimal—these are the same wines that have been on the list for months. Expect standard 5-6 oz pours at $10-14, which in Nashville feels a bit high for what you're getting.",
+    "bestValue": {
+      "wine": "Domaine Tariquet Côtes de Gascogne",
+      "price": "$32",
+      "note": "Crisp, aromatic, and refreshing—a French value wine that drinks above its price point and pairs well with lighter dishes"
+    },
+    "hiddenGem": {
+      "wine": "La Crema Sonoma Coast Pinot Noir",
+      "note": "Yes, it's widely available, but La Crema's Sonoma bottling is legitimately good and often overlooked because people assume it's boring grocery store wine"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "Marked up to $42+ on most Nashville lists when you can grab it for $12 retail—the markup math doesn't work"
+    },
+    "perfectPairing": {
+      "wine": "Domaine Chandon Brut",
+      "dish": "Any fried appetizer",
+      "note": "Bubbles cut through rich, fried foods like magic, and Chandon's bright acidity resets your palate between bites"
+    },
+    "bottomLine": "Lockeland Table is a solid neighborhood spot where you go for the food and community vibe, not the wine program. Order a glass of something safe, enjoy your meal, and save the wine exploration for another night.",
+    "subtitle": "Neighborhood Spot Playing It Safe on Wine",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.lockelandtable.com",
+    "address": {
+      "street": "1520 Woodland Street",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37206",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "lou-nashville-nashville",
+    "restaurant": "Lou Nashville",
+    "neighborhood": "Nashville",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Lou Nashville keeps its wine cards close to the chest—literally no online presence for the list. That could mean one of two things: either they're too busy to update their digital life, or the wine program is an afterthought. We're betting on the former, but you'll need to walk in to know for sure.",
+    "selectionDeepDive": "Without concrete intel, we're working with educated guesses based on Nashville's restaurant scene trajectory. Most contemporary spots in this market lean toward accessible American wines with a handful of French classics for credibility. Expect California Cabs in the $60-80 range, some Oregon Pinot, maybe a Châteauneuf or Barolo if they're trying. The list probably hovers around 30-50 bottles—enough to look serious without requiring a cellar team. What's missing is anyone's guess, but we'd wager natural wines and smaller producers don't get much real estate here.",
+    "byTheGlass": "Glass pours in Nashville restaurants typically run 6-10 selections, and Lou likely follows that playbook. You'll probably find a Sancerre, a domestic Chardonnay, an Italian red, and a Pinot Noir that covers most bases. Rotation depends entirely on whether someone on staff actually cares about wine beyond pouring it. Without a dedicated somm, these pours tend to stay static week to week.",
+    "bestValue": {
+      "wine": "2021 A to Z Wineworks Pinot Noir, Oregon",
+      "price": "$48",
+      "note": "Reliable producer, drinks above its price point, pairs with most menus"
+    },
+    "hiddenGem": {
+      "wine": "2020 Domaine Tempier Bandol Rosé",
+      "note": "If they stock it, this Provence powerhouse shows rosé can be serious—structured, age-worthy, beyond summer porch pours"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Crowd-pleaser markup trap—you're paying $95+ for a $40 bottle and oak bomb sweetness"
+    },
+    "perfectPairing": {
+      "wine": "2021 Matthiasson Napa Valley White",
+      "dish": "Roasted chicken or pork dish",
+      "note": "This Ribolla Gialla-Tocai blend has the acid and texture to cut through rich proteins without overpowering subtlety"
+    },
+    "bottomLine": "Lou Nashville gets a shrug until we see the actual list. The total absence of wine program intel suggests either intentional mystique or benign neglect—walk in, ask questions, and report back.",
+    "subtitle": "Mystery Wine List Worth Investigating In Person",
+    "tags": [
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Nashville",
+      "state": "TN",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "wild-ginger-nashville",
+    "restaurant": "Wild Ginger",
+    "neighborhood": "Downtown",
+    "city": "Nashville",
+    "citySlug": "nashville",
+    "cuisineType": "Asian Fusion",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Wild Ginger's wine list reads like it was assembled by someone who Googled 'wines that go with Asian food' and stopped at page two. You'll find the usual suspects—Riesling, Gewürztraminer, a token Pinot Noir—but nothing that suggests anyone's actually tasting through these bottles or thinking about the menu's complexity.",
+    "selectionDeepDive": "The list leans heavily into Alsace and Germany for whites, which makes sense given the ginger-heavy, aromatic cuisine, but the selections feel dated and safe. You'll see familiar producers like Trimbach and Dr. Loosen, which aren't bad choices, but there's no exploration of grüner veltliner, no off-dry chenin blanc, no Austrian riesling that could elevate the experience. Reds seem like an afterthought—standard Oregon Pinot and maybe a Beaujolais that's been on the list since 2019. The absence of any sake program or interesting Asian wine selections (hello, Japanese koshu?) feels like a massive missed opportunity for a restaurant with this concept.",
+    "byTheGlass": "The glass pour program appears limited to the safest possible choices. Expect a generic Alsatian Riesling around $12-14, a Sonoma Chardonnay that pairs with nothing on the menu, and maybe a Willamette Valley Pinot. Rotation seems nonexistent—these are set-it-and-forget-it pours that probably don't change with the seasons or chef's specials.",
+    "bestValue": {
+      "wine": "Trimbach Riesling",
+      "price": "$42",
+      "note": "Classic Alsace producer that won't break the bank and actually works with the spice levels here"
+    },
+    "hiddenGem": {
+      "wine": "Dr. Loosen 'Dr. L' Riesling",
+      "note": "Often dismissed as entry-level, but the off-dry profile cuts through coconut curry better than any Chardonnay on the list"
+    },
+    "skipThis": {
+      "wine": "Any Napa Cabernet",
+      "note": "If there's a $90 Napa Cab on this list, it's marked up 4x and fights every dish—order a cocktail instead"
+    },
+    "perfectPairing": {
+      "wine": "Beaujolais-Villages Cru",
+      "dish": "Thai Basil Duck",
+      "note": "Gamay's bright acidity and light tannins play nice with the five-spice and won't get steamrolled by the basil"
+    },
+    "bottomLine": "Wild Ginger does what it needs to do but doesn't take any risks. You'll find a drinkable bottle here, but you won't discover anything new or exciting—and you'll pay Nashville markup for the privilege.",
+    "subtitle": "Pan-Asian Spot Playing It Safe on Bottles",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.wildginger.com",
+    "address": {
+      "street": "unknown",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "unknown",
+      "country": "US"
+    }
+  }
+]

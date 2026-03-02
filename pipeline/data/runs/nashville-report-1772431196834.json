@@ -1,0 +1,186 @@
+{
+  "city": "Nashville",
+  "citySlug": "nashville",
+  "startedAt": "2026-03-02T05:52:54.570Z",
+  "completedAt": "2026-03-02T05:59:56.508Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 29,
+  "reviewsPublished": 29,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "360 Bistro",
+      "slug": "360-bistro-nashville",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Jeff Ruby's Steakhouse",
+      "slug": "jeff-rubys-steakhouse-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cork & Cow",
+      "slug": "cork-and-cow-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bad Idea",
+      "slug": "bad-idea-nashville",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Le Loup",
+      "slug": "le-loup-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sixty Vines Nashville",
+      "slug": "sixty-vines-nashville-nashville",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Carne Mare Nashville",
+      "slug": "carne-mare-nashville-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Eddie V's Prime Seafood",
+      "slug": "eddie-vs-prime-seafood-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Trattoria Il Mulino Nashville",
+      "slug": "trattoria-il-mulino-nashville-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Authentique",
+      "slug": "the-authentique-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "City Winery",
+      "slug": "city-winery-nashville",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "The 404 Kitchen",
+      "slug": "the-404-kitchen-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Etch",
+      "slug": "etch-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Merchants",
+      "slug": "merchants-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Catbird Seat",
+      "slug": "the-catbird-seat-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bastion",
+      "slug": "bastion-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Rolf & Daughters",
+      "slug": "rolf-and-daughters-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Henrietta Red",
+      "slug": "henrietta-red-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Husk",
+      "slug": "husk-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Folk",
+      "slug": "folk-nashville",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Ellington's Mid Way Bar & Grill",
+      "slug": "ellingtons-mid-way-bar-and-grill-nashville",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Barcelona Wine Bar",
+      "slug": "barcelona-wine-bar-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Epice",
+      "slug": "epice-nashville",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Josephine",
+      "slug": "josephine-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Pelican & Pig",
+      "slug": "pelican-and-pig-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Audrey",
+      "slug": "audrey-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Lockeland Table",
+      "slug": "lockeland-table-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Lou Nashville",
+      "slug": "lou-nashville-nashville",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Wild Ginger",
+      "slug": "wild-ginger-nashville",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}

@@ -148,7 +148,9 @@
     "citySlug": "nashville",
     "state": "Tennessee",
     "priority": 14,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-03-02T05:59:56.508Z",
+    "reviewCount": 29
   },
   {
     "city": "Charlotte",
