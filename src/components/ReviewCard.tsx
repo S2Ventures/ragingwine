@@ -36,27 +36,27 @@ export default function ReviewCard({ review }: { review: Review }) {
           {review.metrics && (
             <div className="grid grid-cols-3 gap-x-3 gap-y-1.5 text-xs border-t border-gray-100 pt-3">
               <div>
-                <span className="text-gray-400">Variety</span>
+                <span className="text-gray-500">Variety</span>
                 <p className="font-medium text-gray-600 truncate">{review.metrics.variety}</p>
               </div>
               <div>
-                <span className="text-gray-400">Markup</span>
+                <span className="text-gray-500">Markup</span>
                 <p className="font-medium text-gray-600">{review.metrics.markup}</p>
               </div>
               <div>
-                <span className="text-gray-400">Glassware</span>
+                <span className="text-gray-500">Glassware</span>
                 <p className="font-medium text-gray-600 truncate">{review.metrics.glassware}</p>
               </div>
               <div>
-                <span className="text-gray-400">Staff</span>
+                <span className="text-gray-500">Staff</span>
                 <p className="font-medium text-gray-600 truncate">{review.metrics.staff}</p>
               </div>
               <div>
-                <span className="text-gray-400">Specials</span>
+                <span className="text-gray-500">Specials</span>
                 <p className="font-medium text-gray-600 truncate">{review.metrics.specials}</p>
               </div>
               <div>
-                <span className="text-gray-400">Storage</span>
+                <span className="text-gray-500">Storage</span>
                 <p className="font-medium text-gray-600">{review.metrics.storage}</p>
               </div>
             </div>
