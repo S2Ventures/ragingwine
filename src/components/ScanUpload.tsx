@@ -122,11 +122,26 @@ export default function ScanUpload({ onResult }: ScanUploadProps) {
         }
       }
 
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 55000);
+
       const res = await fetch('/api/scan', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ image: base64, mimeType }),
+        signal: controller.signal,
       });
+
+      clearTimeout(timeout);
+
+      // Handle non-JSON responses (e.g. Vercel HTML error pages)
+      const contentType = res.headers.get('content-type') || '';
+      if (!contentType.includes('application/json')) {
+        const text = await res.text();
+        console.error('Non-JSON response:', res.status, text.slice(0, 200));
+        setError(`Server error (${res.status}). Try again in a moment.`);
+        return;
+      }
 
       const data = await res.json();
 
@@ -143,8 +158,13 @@ export default function ScanUpload({ onResult }: ScanUploadProps) {
       }
 
       onResult(data as ScanResult);
-    } catch {
-      setError('Scan timed out or failed. Try a smaller image or try again.');
+    } catch (err) {
+      if (err instanceof DOMException && err.name === 'AbortError') {
+        setError('Scan timed out after 55 seconds. Try a smaller or clearer image.');
+      } else {
+        console.error('Scan error:', err);
+        setError('Scan failed. Check your connection and try again.');
+      }
     } finally {
       setLoading(false);
     }

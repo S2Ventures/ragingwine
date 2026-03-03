@@ -91,8 +91,9 @@ export async function POST(request: Request) {
     return NextResponse.json(result);
   } catch (error) {
     console.error('Scan API error:', error);
+    const msg = error instanceof Error ? error.message : 'Unknown error';
     return NextResponse.json(
-      { code: 'api_error', message: 'Something went wrong. Please try again.' },
+      { code: 'api_error', message: msg },
       { status: 500 }
     );
   }
