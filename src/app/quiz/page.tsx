@@ -374,7 +374,7 @@ export default function QuizPage() {
 
       {/* Progress bar */}
       <div className="mb-8">
-        <div className="flex justify-between text-xs text-gray-400 mb-1.5">
+        <div className="flex justify-between text-xs text-gray-500 mb-1.5">
           <span>Question {currentQ + 1} of {questions.length}</span>
           <span>{Math.round(progress)}%</span>
         </div>
@@ -391,7 +391,7 @@ export default function QuizPage() {
         <h2 className="text-xl font-bold text-brand-dark mb-1">
           {q.question}
         </h2>
-        <p className="text-sm text-gray-400 italic">{q.subtitle}</p>
+        <p className="text-sm text-gray-500 italic">{q.subtitle}</p>
       </div>
 
       {/* Options */}

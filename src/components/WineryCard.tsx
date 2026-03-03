@@ -36,7 +36,7 @@ export default function WineryCard({ winery }: { winery: Winery }) {
           </div>
           <div className="text-right flex-shrink-0">
             <p className="text-sm font-bold text-wine-700">{winery.rating}</p>
-            <p className="text-xs text-gray-400">{winery.ratingSource}</p>
+            <p className="text-xs text-gray-500">{winery.ratingSource}</p>
           </div>
         </div>
 
@@ -60,7 +60,7 @@ export default function WineryCard({ winery }: { winery: Winery }) {
               </span>
             ))}
             {!expanded && winery.highlights.length > 3 && (
-              <span className="text-xs text-gray-400">+{winery.highlights.length - 3} more</span>
+              <span className="text-xs text-gray-500">+{winery.highlights.length - 3} more</span>
             )}
           </div>
         )}
@@ -68,19 +68,19 @@ export default function WineryCard({ winery }: { winery: Winery }) {
         {/* Quick Details Grid */}
         <div className={`grid grid-cols-2 gap-x-4 gap-y-2 text-xs border-t border-gray-100 pt-3 ${expanded ? '' : ''}`}>
           <div>
-            <span className="text-gray-400">Grapes</span>
+            <span className="text-gray-500">Grapes</span>
             <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.grapes}</p>
           </div>
           <div>
-            <span className="text-gray-400">Hours</span>
+            <span className="text-gray-500">Hours</span>
             <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.hours}</p>
           </div>
           <div>
-            <span className="text-gray-400">Food</span>
+            <span className="text-gray-500">Food</span>
             <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.food}</p>
           </div>
           <div>
-            <span className="text-gray-400">Entertainment</span>
+            <span className="text-gray-500">Entertainment</span>
             <p className={`font-medium text-gray-600 ${expanded ? '' : 'line-clamp-1'}`}>{winery.entertainment}</p>
           </div>
         </div>
@@ -88,7 +88,7 @@ export default function WineryCard({ winery }: { winery: Winery }) {
         {/* Expanded: Tasting Details */}
         {expanded && winery.tastingDetails && (
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <span className="text-xs text-gray-400">Tasting Details</span>
+            <span className="text-xs text-gray-500">Tasting Details</span>
             <p className="text-xs font-medium text-gray-600 mt-0.5">{winery.tastingDetails}</p>
           </div>
         )}
@@ -108,7 +108,7 @@ export default function WineryCard({ winery }: { winery: Winery }) {
           ) : (
             <span />
           )}
-          <span className="text-xs text-gray-400">
+          <span className="text-xs text-gray-500">
             {expanded ? 'Click to collapse' : 'Click to expand'}
           </span>
         </div>

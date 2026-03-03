@@ -57,7 +57,7 @@ export default function SubmitRestaurantPage() {
           We&apos;ve got your info. If your wine program catches our attention
           (and it sounds like it will), we&apos;ll reach out to schedule a visit.
         </p>
-        <p className="text-gray-400 text-sm mb-8">
+        <p className="text-gray-500 text-sm mb-8">
           Every restaurant gets a fair, honest review. We call it like we see it.
           And we always lead with what works.
         </p>
@@ -238,7 +238,7 @@ export default function SubmitRestaurantPage() {
           {status === 'submitting' ? 'Submitting...' : 'Request a Vibe-Check'}
         </button>
 
-        <p className="text-xs text-gray-400 text-center">
+        <p className="text-xs text-gray-500 text-center">
           Submissions are reviewed weekly. We prioritize restaurants in our
           active markets (Atlanta, Greenville, Key West, Charleston) but accept
           submissions from anywhere.

@@ -76,7 +76,7 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
     <ReviewJsonLd review={review} />
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-12">
       {/* Breadcrumb */}
-      <nav className="text-xs text-gray-400 mb-6 flex items-center gap-1">
+      <nav className="text-xs text-gray-500 mb-6 flex items-center gap-1">
         <Link href="/reviews" className="hover:text-wine-600 transition-colors">Reviews</Link>
         <span>/</span>
         <Link href={`/cities/${review.citySlug}`} className="hover:text-wine-600 transition-colors">{review.city}</Link>
@@ -118,7 +118,7 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
             ))}
           </div>
         )}
-        <p className="text-xs text-gray-400 mt-3">
+        <p className="text-xs text-gray-500 mt-3">
           Reviewed {new Date(review.publishedAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
         </p>
       </div>
@@ -126,7 +126,7 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
       {/* Wingman Metrics */}
       {review.metrics && (
         <div className="bg-white rounded-xl border border-gray-200 p-6 mb-10">
-          <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-4">Wingman Metrics</p>
+          <p className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Wingman Metrics</p>
           <WingmanMetrics metrics={review.metrics} />
         </div>
       )}

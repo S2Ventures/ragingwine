@@ -46,7 +46,7 @@ export default async function WineriesPage() {
                   </div>
                   <div className="text-right flex-shrink-0">
                     <p className="text-2xl font-bold text-brand-dark">{state.wineryCount}</p>
-                    <p className="text-xs text-gray-400 uppercase tracking-wider">Wineries</p>
+                    <p className="text-xs text-gray-500 uppercase tracking-wider">Wineries</p>
                   </div>
                 </div>
 
@@ -54,15 +54,15 @@ export default async function WineriesPage() {
                 <div className="flex flex-wrap gap-4 mb-4">
                   <div>
                     <p className="text-sm font-bold text-brand-dark">{state.avas.length}</p>
-                    <p className="text-xs text-gray-400">AVAs</p>
+                    <p className="text-xs text-gray-500">AVAs</p>
                   </div>
                   <div>
                     <p className="text-sm font-bold text-brand-dark">{state.regions.length}</p>
-                    <p className="text-xs text-gray-400">Regions</p>
+                    <p className="text-xs text-gray-500">Regions</p>
                   </div>
                   <div>
                     <p className="text-sm font-bold text-brand-dark">{state.keyGrapes.length}</p>
-                    <p className="text-xs text-gray-400">Key Grapes</p>
+                    <p className="text-xs text-gray-500">Key Grapes</p>
                   </div>
                 </div>
 
@@ -74,7 +74,7 @@ export default async function WineriesPage() {
                     </span>
                   ))}
                   {state.keyGrapes.length > 5 && (
-                    <span className="text-xs text-gray-400">+{state.keyGrapes.length - 5} more</span>
+                    <span className="text-xs text-gray-500">+{state.keyGrapes.length - 5} more</span>
                   )}
                 </div>
               </div>
@@ -86,8 +86,8 @@ export default async function WineriesPage() {
       {/* Coming Soon placeholder for states without data yet */}
       {wineryStates.length < 5 && (
         <div className="text-center py-12 mb-12">
-          <p className="text-lg font-medium text-gray-400 mb-2">More states coming soon</p>
-          <p className="text-sm text-gray-400">
+          <p className="text-lg font-medium text-gray-500 mb-2">More states coming soon</p>
+          <p className="text-sm text-gray-500">
             Subscribe below to get notified as we add new state winery guides.
           </p>
         </div>

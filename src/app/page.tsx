@@ -22,7 +22,7 @@ export default async function Home() {
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold mb-6 leading-tight">
             Stop guessing.<br />Start drinking better.
           </h1>
-          <p className="text-gray-400 text-lg max-w-2xl mx-auto mb-10">
+          <p className="text-gray-500 text-lg max-w-2xl mx-auto mb-10">
             We review restaurant wine lists so you don&apos;t waste $60 on a $15 bottle.
             Real reviews, real metrics, zero pretension.
           </p>

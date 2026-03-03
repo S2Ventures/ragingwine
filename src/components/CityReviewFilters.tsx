@@ -134,7 +134,7 @@ export default function CityReviewFilters({ reviews }: CityReviewFiltersProps) {
 
       {/* Results Count */}
       {isFiltered && (
-        <p className="text-xs text-gray-400 mb-4">
+        <p className="text-xs text-gray-500 mb-4">
           Showing {filtered.length} of {reviews.length} reviews
           {activeBadge !== 'all' && <span> &middot; {BADGE_CONFIG[activeBadge].label}</span>}
           {activeNeighborhood !== 'all' && <span> &middot; {activeNeighborhood}</span>}
@@ -151,7 +151,7 @@ export default function CityReviewFilters({ reviews }: CityReviewFiltersProps) {
         </div>
       ) : (
         <div className="text-center py-12 mb-12">
-          <p className="text-sm text-gray-400">No reviews match these filters.</p>
+          <p className="text-sm text-gray-500">No reviews match these filters.</p>
           <button
             onClick={() => { setActiveBadge('all'); setActiveNeighborhood('all'); setHalfPriceOnly(false); }}
             className="text-wine-600 text-sm mt-2 hover:underline"

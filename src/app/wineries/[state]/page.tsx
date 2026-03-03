@@ -30,7 +30,7 @@ export default async function WineryStatePage({ params }: { params: { state: str
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
       {/* Breadcrumb */}
-      <nav className="text-xs text-gray-400 mb-6 flex items-center gap-1">
+      <nav className="text-xs text-gray-500 mb-6 flex items-center gap-1">
         <Link href="/" className="hover:text-wine-600 transition-colors">Home</Link>
         <span>/</span>
         <Link href="/wineries" className="hover:text-wine-600 transition-colors">Wineries</Link>
@@ -79,7 +79,7 @@ export default async function WineryStatePage({ params }: { params: { state: str
       {/* AVAs and Key Grapes */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
         <div className="bg-white rounded-xl border border-gray-200 p-6">
-          <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">
+          <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-3">
             Recognized AVAs
           </h2>
           {state.avas.length > 0 ? (
@@ -89,11 +89,11 @@ export default async function WineryStatePage({ params }: { params: { state: str
               ))}
             </div>
           ) : (
-            <p className="text-sm text-gray-400 italic">No designated AVAs yet</p>
+            <p className="text-sm text-gray-500 italic">No designated AVAs yet</p>
           )}
         </div>
         <div className="bg-white rounded-xl border border-gray-200 p-6">
-          <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">
+          <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-3">
             Key Grapes
           </h2>
           <div className="flex flex-wrap gap-1.5">
@@ -132,7 +132,7 @@ export default async function WineryStatePage({ params }: { params: { state: str
           <div key={region} className="mb-12">
             <div className="flex items-center gap-3 mb-6">
               <h2 className="text-xl font-display font-bold text-brand-dark">{region}</h2>
-              <span className="text-xs text-gray-400 bg-gray-100 px-2 py-0.5 rounded">
+              <span className="text-xs text-gray-500 bg-gray-100 px-2 py-0.5 rounded">
                 {regionWineries.length} {regionWineries.length === 1 ? 'winery' : 'wineries'}
               </span>
             </div>

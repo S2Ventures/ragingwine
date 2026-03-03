@@ -61,7 +61,7 @@ export default function AdventuresPage() {
               <span className="text-xs font-bold uppercase tracking-wider text-wine-600 bg-wine-50 px-2 py-1 rounded-full">
                 {idea.tag}
               </span>
-              <span className="text-xs text-gray-400">{idea.city}</span>
+              <span className="text-xs text-gray-500">{idea.city}</span>
             </div>
             <h3 className="font-bold text-brand-dark mb-2">{idea.title}</h3>
             <p className="text-gray-500 text-sm">{idea.description}</p>

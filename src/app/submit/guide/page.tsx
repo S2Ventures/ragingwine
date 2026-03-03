@@ -123,7 +123,7 @@ export default function GuideToSuccessPage() {
           <h3 className="text-xl font-bold text-brand-dark mb-2">
             1. List Variety
           </h3>
-          <p className="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">
+          <p className="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
             Deep &amp; Eclectic · Solid Range · Plays It Safe · Grocery Store
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
@@ -157,7 +157,7 @@ export default function GuideToSuccessPage() {
           <h3 className="text-xl font-bold text-brand-dark mb-2">
             2. Markup Fairness
           </h3>
-          <p className="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">
+          <p className="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
             Fair · Steep · Gouge
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
@@ -183,7 +183,7 @@ export default function GuideToSuccessPage() {
           <h3 className="text-xl font-bold text-brand-dark mb-2">
             3. Staff Knowledge
           </h3>
-          <p className="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">
+          <p className="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
             Knowledgeable &amp; Friendly · Willing but Green · Gatekeeper · MIA
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
@@ -210,7 +210,7 @@ export default function GuideToSuccessPage() {
           <h3 className="text-xl font-bold text-brand-dark mb-2">
             4. Glassware
           </h3>
-          <p className="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">
+          <p className="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
             Varietal Specific · Stemless Casual · Red Flag
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
@@ -235,7 +235,7 @@ export default function GuideToSuccessPage() {
           <h3 className="text-xl font-bold text-brand-dark mb-2">
             5. Specials &amp; Deals
           </h3>
-          <p className="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">
+          <p className="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
             Active Program · Occasional · Set &amp; Forget
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
@@ -261,7 +261,7 @@ export default function GuideToSuccessPage() {
           <h3 className="text-xl font-bold text-brand-dark mb-2">
             6. Storage &amp; Temperature
           </h3>
-          <p className="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">
+          <p className="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
             Proper · Acceptable · Hot Mess
           </p>
           <p className="text-gray-700 leading-relaxed mb-3">
@@ -358,7 +358,7 @@ export default function GuideToSuccessPage() {
         >
           Request a Vibe-Check
         </Link>
-        <p className="text-xs text-gray-400 mt-3">
+        <p className="text-xs text-gray-500 mt-3">
           Every restaurant gets a fair, honest review. We call it like we see it.
         </p>
       </section>

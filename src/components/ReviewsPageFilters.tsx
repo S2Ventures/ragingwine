@@ -78,7 +78,7 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
       {/* Search Input */}
       <div className="relative mb-5">
         <div className="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none">
-          <svg className="h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="h-4 w-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
         </div>
@@ -92,7 +92,7 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
         {searchQuery && (
           <button
             onClick={() => setSearchQuery('')}
-            className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-gray-400 hover:text-gray-600"
+            className="absolute inset-y-0 right-0 pr-3.5 flex items-center text-gray-500 hover:text-gray-600"
           >
             <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -212,7 +212,7 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
       {/* Results Count */}
       {isFiltered && (
         <div className="flex items-center gap-3 mb-4">
-          <p className="text-xs text-gray-400">
+          <p className="text-xs text-gray-500">
             Showing {filtered.length} of {reviews.length} reviews
             {searchQuery && <span> &middot; &ldquo;{searchQuery}&rdquo;</span>}
             {activeBadge !== 'all' && <span> &middot; {BADGE_CONFIG[activeBadge].label}</span>}
@@ -238,7 +238,7 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
         </div>
       ) : (
         <div className="text-center py-16">
-          <p className="text-sm text-gray-400">
+          <p className="text-sm text-gray-500">
             {searchQuery ? `No reviews match "${searchQuery}"` : 'No reviews match these filters.'}
           </p>
           <button

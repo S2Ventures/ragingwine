@@ -27,7 +27,7 @@ export default async function ReviewsPage() {
 
       {/* Badge Legend */}
       <div className="bg-white rounded-xl border border-gray-200 p-6 mb-10">
-        <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3">Rating System</p>
+        <p className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3">Rating System</p>
         <div className="flex flex-wrap gap-3">
           {badgeTypes.map(badge => (
             <div key={badge} className="flex items-center gap-2">

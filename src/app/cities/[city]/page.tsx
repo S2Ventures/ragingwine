@@ -38,7 +38,7 @@ export default async function CityPage({ params }: { params: { city: string } })
     <CityJsonLd city={city.name} state={city.state} citySlug={city.slug} reviewCount={cityReviews.length} />
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
       {/* Breadcrumb */}
-      <nav className="text-xs text-gray-400 mb-6 flex items-center gap-1">
+      <nav className="text-xs text-gray-500 mb-6 flex items-center gap-1">
         <Link href="/" className="hover:text-wine-600 transition-colors">Home</Link>
         <span>/</span>
         <span className="text-gray-600">{city.name}</span>
@@ -105,8 +105,8 @@ export default async function CityPage({ params }: { params: { city: string } })
         <CityReviewFilters reviews={cityReviews} />
       ) : !city.comingSoon ? (
         <div className="text-center py-16 mb-12">
-          <p className="text-lg font-medium text-gray-400 mb-2">Reviews coming soon for {city.name}</p>
-          <p className="text-sm text-gray-400">Subscribe to get notified when we publish our first review here.</p>
+          <p className="text-lg font-medium text-gray-500 mb-2">Reviews coming soon for {city.name}</p>
+          <p className="text-sm text-gray-500">Subscribe to get notified when we publish our first review here.</p>
         </div>
       ) : null}
 

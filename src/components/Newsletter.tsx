@@ -76,7 +76,7 @@ export default function Newsletter({ variant = 'default' }: { variant?: 'default
   return (
     <div className="bg-brand-dark rounded-xl p-8 text-center">
       <h3 className="text-white font-bold text-xl mb-2">Get the Weekly Wingman</h3>
-      <p className="text-gray-400 text-sm mb-6 max-w-md mx-auto">
+      <p className="text-gray-500 text-sm mb-6 max-w-md mx-auto">
         One wine list review, one adventure pick, one quick tip, and a personal note. Every week. Under 500 words.
       </p>
       <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">

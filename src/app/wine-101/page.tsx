@@ -82,7 +82,7 @@ export default function Wine101Page() {
                       {article.title}
                     </h3>
                     <p className="text-gray-500 text-sm mb-3 line-clamp-2">{article.description}</p>
-                    <span className="text-xs text-gray-400">{article.readTime} read</span>
+                    <span className="text-xs text-gray-500">{article.readTime} read</span>
                   </Link>
                 ))}
               </div>

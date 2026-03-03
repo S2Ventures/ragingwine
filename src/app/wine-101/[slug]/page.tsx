@@ -55,7 +55,7 @@ export default async function Wine101ArticlePage({ params }: PageProps) {
           <span className="text-xs font-bold uppercase tracking-wider text-brand-blue bg-blue-50 px-3 py-1 rounded-full">
             {article.category}
           </span>
-          <span className="text-sm text-gray-400">{article.readTime} read</span>
+          <span className="text-sm text-gray-500">{article.readTime} read</span>
         </div>
         <h1 className="text-3xl sm:text-4xl font-bold text-brand-dark leading-tight mb-4">
           {article.title}
@@ -83,7 +83,7 @@ export default async function Wine101ArticlePage({ params }: PageProps) {
                   <span className="text-xs font-bold uppercase tracking-wider text-brand-blue">
                     {r.category}
                   </span>
-                  <span className="text-xs text-gray-400">{r.readTime}</span>
+                  <span className="text-xs text-gray-500">{r.readTime}</span>
                 </div>
                 <h3 className="font-semibold text-brand-dark">{r.title}</h3>
                 <p className="text-sm text-gray-500 mt-1">{r.description}</p>

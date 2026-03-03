@@ -103,7 +103,7 @@ export default function SuggestPage() {
           We&apos;ve added this restaurant to our list. If it makes the cut,
           we&apos;ll do a full Vibe-Check review and publish it on the site.
         </p>
-        <p className="text-gray-400 text-sm mb-8">
+        <p className="text-gray-500 text-sm mb-8">
           Want to know when we review it? Make sure you&apos;re subscribed to the newsletter.
         </p>
         <div className="flex gap-4 justify-center">
@@ -260,7 +260,7 @@ export default function SuggestPage() {
             </svg>
             Share Your Wingman Observations (Optional)
           </button>
-          <p className="text-gray-400 text-sm mt-1 ml-7">
+          <p className="text-gray-500 text-sm mt-1 ml-7">
             Already been? Share what you noticed about the wine program.
             These help us prioritize and prep for the review.
           </p>
@@ -279,7 +279,7 @@ export default function SuggestPage() {
                 >
                   {metric.label}
                 </label>
-                <p className="text-xs text-gray-400 mb-1">{metric.description}</p>
+                <p className="text-xs text-gray-500 mb-1">{metric.description}</p>
                 <input
                   id={metric.key}
                   type="text"
@@ -309,7 +309,7 @@ export default function SuggestPage() {
           {status === 'submitting' ? 'Submitting...' : 'Submit Suggestion'}
         </button>
 
-        <p className="text-xs text-gray-400 text-center">
+        <p className="text-xs text-gray-500 text-center">
           We read every submission. Not every restaurant makes the cut, but every suggestion
           helps us decide where to eat next. Which is basically the best job ever.
         </p>
