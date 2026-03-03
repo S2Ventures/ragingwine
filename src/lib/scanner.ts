@@ -100,7 +100,9 @@ export async function analyzeScanImage(
         type: 'image',
         source: {
           type: 'base64',
-          media_type: request.mimeType,
+          media_type: (request.mimeType === 'image/heic' || request.mimeType === 'image/heif')
+            ? 'image/jpeg'
+            : request.mimeType as 'image/jpeg' | 'image/png' | 'image/webp' | 'image/gif',
           data: request.image,
         },
       },

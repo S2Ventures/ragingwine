@@ -5,7 +5,10 @@ import { getReviews } from '@/lib/sanity';
 import { analyzeScanImage } from '@/lib/scanner';
 import type { ScanRequest, ScanResult, ScanError } from '@/lib/scan-types';
 
-const VALID_MIME_TYPES = ['image/jpeg', 'image/png', 'image/webp', 'image/gif'];
+// Extend Vercel function timeout (Pro plan: up to 60s, Hobby: 10s)
+export const maxDuration = 60;
+
+const VALID_MIME_TYPES = ['image/jpeg', 'image/png', 'image/webp', 'image/gif', 'image/heic', 'image/heif'];
 const MAX_IMAGE_SIZE = 10 * 1024 * 1024; // 10 MB base64 ≈ 7.5 MB raw
 const RATE_LIMIT_MAX = 10;
 const RATE_LIMIT_WINDOW_MS = 60 * 60 * 1000; // 1 hour

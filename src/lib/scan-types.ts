@@ -3,7 +3,7 @@ import type { BadgeType } from './types';
 // --- Request ---
 export interface ScanRequest {
   image: string; // base64-encoded
-  mimeType: 'image/jpeg' | 'image/png' | 'image/webp' | 'image/gif';
+  mimeType: 'image/jpeg' | 'image/png' | 'image/webp' | 'image/gif' | 'image/heic' | 'image/heif';
   context?: {
     partySize?: number;
     budget?: 'low' | 'moderate' | 'splurge';
