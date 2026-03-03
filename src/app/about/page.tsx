@@ -3,7 +3,7 @@ import Newsletter from '@/components/Newsletter';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About | Raging Wine',
+  title: 'About',
   description: 'We review restaurant wine lists so you stop guessing and start drinking better. Meet the team behind Raging Wine.',
 };
 

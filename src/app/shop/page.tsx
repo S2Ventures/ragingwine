@@ -2,7 +2,7 @@ import Newsletter from '@/components/Newsletter';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Shop | Raging Wine',
+  title: 'Shop',
   description: 'Raging Wine merch is coming soon. Gear up to drink boldly.',
 };
 

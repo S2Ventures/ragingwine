@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: { state: string } }
   const state = await getWineryStateBySlug(params.state);
   if (!state) return { title: 'State Not Found' };
   return {
-    title: `${state.name} Wineries | Raging Wine`,
+    title: `${state.name} Wineries`,
     description: `Explore ${state.wineryCount} wineries across ${state.name}. ${state.tagline}`,
   };
 }

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'How to Build a Wine Program That Earns The Rager | Raging Wine',
+  title: 'How to Build a Wine Program That Earns The Rager',
   description:
     'A straight-talk guide for restaurant operators on building a wine program worth bragging about. The six metrics we evaluate and how to nail every one.',
 };

@@ -75,6 +75,12 @@ async function publishReview(
   cityRefId: string
 ): Promise<{ published: boolean; error?: string }> {
   try {
+    // Quality gate: refuse to publish reviews flagged as skipped
+    if (review.skipped) {
+      log.warn(`Refusing to publish skipped review: ${review.restaurant} — ${review.skipReason || 'insufficient data'}`);
+      return { published: false, error: 'insufficient-data' };
+    }
+
     // Dedup check
     if (await reviewExists(review.slug)) {
       log.warn(`Skipping duplicate: ${review.slug}`);

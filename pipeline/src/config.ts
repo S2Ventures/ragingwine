@@ -39,4 +39,10 @@ export const config = {
   // Pipeline
   restaurantsPerCity: parseInt(optional('RESTAURANTS_PER_CITY', '30'), 10),
   dryRun: process.argv.includes('--dry-run'),
+
+  // Quality gates
+  minSourcesRequired: parseInt(optional('MIN_SOURCES_REQUIRED', '3'), 10),
+  minDataCompleteness: parseInt(optional('MIN_DATA_COMPLETENESS', '40'), 10),
+  deepDiveBatchSize: parseInt(optional('DEEP_DIVE_BATCH_SIZE', '3'), 10),
+  maxReplacementAttempts: parseInt(optional('MAX_REPLACEMENT_ATTEMPTS', '2'), 10),
 } as const;

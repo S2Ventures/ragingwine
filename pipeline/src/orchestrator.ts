@@ -15,7 +15,7 @@ import { researchCity } from './research.js';
 import { writeReviews } from './writer.js';
 import { publishReviews } from './publisher.js';
 import { sendReport } from './report.js';
-import type { CityQueueEntry, PipelineResult } from './types.js';
+import type { CityQueueEntry, SkippedRestaurant, PipelineResult } from './types.js';
 
 const log = createLogger('orchestrator');
 
@@ -84,6 +84,9 @@ async function runPipeline() {
   let restaurantsResearched = 0;
   let reviewsWritten = 0;
   let reviewsPublished = 0;
+  let restaurantsSkippedResearch = 0;
+  let restaurantsSkippedWriting = 0;
+  let allSkipped: SkippedRestaurant[] = [];
   let reviewResults: PipelineResult['reviews'] = [];
 
   try {
@@ -91,17 +94,23 @@ async function runPipeline() {
     log.info('═══ STAGE 1: PERPLEXITY RESEARCH ═══');
     const research = await researchCity(city.city, city.citySlug, city.state);
     restaurantsResearched = research.restaurants.length;
+    restaurantsSkippedResearch = research.skippedRestaurants?.length ?? 0;
+    allSkipped.push(...(research.skippedRestaurants ?? []));
     saveIntermediate(`${city.citySlug}-research-${Date.now()}.json`, research);
+    log.info(`Research: ${restaurantsResearched} kept, ${restaurantsSkippedResearch} skipped`);
 
     // ── Stage 2: Write Reviews ─────────────────────────────────────────
     log.info('═══ STAGE 2: CLAUDE REVIEW WRITING ═══');
-    const reviews = await writeReviews(research);
-    reviewsWritten = reviews.length;
-    saveIntermediate(`${city.citySlug}-reviews-${Date.now()}.json`, reviews);
+    const writerOutput = await writeReviews(research);
+    reviewsWritten = writerOutput.reviews.length;
+    restaurantsSkippedWriting = writerOutput.skipped.length;
+    allSkipped.push(...writerOutput.skipped);
+    saveIntermediate(`${city.citySlug}-reviews-${Date.now()}.json`, writerOutput);
+    log.info(`Writer: ${reviewsWritten} reviews, ${restaurantsSkippedWriting} skipped`);
 
     // ── Stage 3: Publish ───────────────────────────────────────────────
     log.info('═══ STAGE 3: SANITY PUBLISHING ═══');
-    const publishResults = await publishReviews(reviews, city.city, city.citySlug, city.state);
+    const publishResults = await publishReviews(writerOutput.reviews, city.city, city.citySlug, city.state);
     reviewsPublished = publishResults.filter(r => r.published).length;
     reviewResults = publishResults;
 
@@ -135,6 +144,9 @@ async function runPipeline() {
     restaurantsResearched,
     reviewsWritten,
     reviewsPublished,
+    restaurantsSkippedResearch,
+    restaurantsSkippedWriting,
+    skippedRestaurants: allSkipped,
     errors,
     reviews: reviewResults,
   };
@@ -147,6 +159,8 @@ async function runPipeline() {
   log.info('═══ PIPELINE COMPLETE ═══');
   log.info(`City: ${city.city}`);
   log.info(`Researched: ${restaurantsResearched}`);
+  log.info(`Skipped (research): ${restaurantsSkippedResearch}`);
+  log.info(`Skipped (writing): ${restaurantsSkippedWriting}`);
   log.info(`Written: ${reviewsWritten}`);
   log.info(`Published: ${reviewsPublished}`);
   log.info(`Errors: ${errors.length}`);

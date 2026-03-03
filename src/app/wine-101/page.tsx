@@ -4,7 +4,7 @@ import { getAllWine101Articles } from '@/lib/wine101';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Wine 101 | Raging Wine',
+  title: 'Wine 101',
   description: 'Learn wine without the snob factor. Practical guides for ordering wine at restaurants, understanding varietals, and drinking better.',
 };
 

@@ -9,7 +9,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { config } from './config.js';
 import { createLogger } from './logger.js';
 import { BRAND_VOICE_SYSTEM_PROMPT } from './system-prompt.js';
-import type { ResearchedRestaurant, CityResearch, GeneratedReview } from './types.js';
+import type { ResearchedRestaurant, SkippedRestaurant, CityResearch, GeneratedReview } from './types.js';
 
 const log = createLogger('writer');
 
@@ -33,6 +33,14 @@ function generateSlug(name: string, city: string): string {
 }
 
 // ---------------------------------------------------------------------------
+// Write result — discriminated union
+// ---------------------------------------------------------------------------
+type WriteResult =
+  | { type: 'review'; review: GeneratedReview }
+  | { type: 'skipped'; skipped: SkippedRestaurant }
+  | { type: 'error'; restaurant: string; error: string };
+
+// ---------------------------------------------------------------------------
 // Write a single review
 // ---------------------------------------------------------------------------
 async function writeReview(
@@ -40,8 +48,26 @@ async function writeReview(
   city: string,
   citySlug: string,
   state: string
-): Promise<GeneratedReview | null> {
+): Promise<WriteResult> {
   log.info(`Writing review for ${restaurant.name}`);
+
+  // Defense-in-depth: skip if data completeness is below threshold
+  if ((restaurant.dataCompleteness ?? 0) < config.minDataCompleteness) {
+    const reason = `Data completeness ${restaurant.dataCompleteness ?? 0}% below minimum ${config.minDataCompleteness}%`;
+    log.warn(`⚠ Skipping ${restaurant.name} at writer stage: ${reason}`);
+    return {
+      type: 'skipped',
+      skipped: {
+        name: restaurant.name,
+        neighborhood: restaurant.neighborhood || 'Unknown',
+        reason,
+        sourcesFound: restaurant.sourcesFound ?? 0,
+        confidenceLevel: restaurant.confidenceLevel || 'low',
+        dataCompleteness: restaurant.dataCompleteness ?? 0,
+        phase: 'writing',
+      },
+    };
+  }
 
   const researchContext = `
 RESTAURANT: ${restaurant.name}
@@ -60,6 +86,9 @@ WINE PROGRAM INTEL:
 - Sommelier on staff: ${restaurant.sommelierOnStaff ?? 'Unknown'}
 - Half-price wine night: ${restaurant.halfPriceNight || 'None found'}
 - Half-price details: ${restaurant.halfPriceDetails || 'N/A'}
+${restaurant.citationLinks?.length ? `\nCITATION SOURCES:\n${restaurant.citationLinks.map(l => `- ${l}`).join('\n')}` : ''}
+${restaurant.markupSampling?.length ? `\nMARKUP SAMPLING:\n${restaurant.markupSampling.map(m => `- ${m.wine}: Restaurant ${m.restaurantPrice}, Retail ${m.retailPrice}${m.markupPercent ? ` (${m.markupPercent}% markup)` : ''}`).join('\n')}` : ''}
+WINE LIST SOURCE: ${restaurant.wineListSource || 'unknown'}
 
 GENERAL:
 - Vibe: ${restaurant.vibeDescription || 'Unknown'}
@@ -67,7 +96,8 @@ GENERAL:
 - Reservations recommended: ${restaurant.reservationRecommended ?? 'Unknown'}
 - Average entree price: ${restaurant.averageEntreePrice || 'Unknown'}
 
-RESEARCH CONFIDENCE: ${restaurant.confidenceLevel} (${restaurant.sourcesFound} sources)`;
+RESEARCH CONFIDENCE: ${restaurant.confidenceLevel} (${restaurant.sourcesFound} sources)
+DATA COMPLETENESS: ${restaurant.dataCompleteness ?? 'unscored'}%`;
 
   const userPrompt = `Using the research data below, write a Raging Wine review for this restaurant.
 
@@ -98,15 +128,16 @@ Return a SINGLE JSON object (no markdown fencing) with this exact structure:
   "bottomLine": "1-2 sentence verdict",
   "tags": ["tag1", "tag2"],
   "halfPriceWineNight": { "day": "Tuesday", "details": "Details" } or null,
-  "website": "Restaurant's official website URL. Most restaurants have one. Only use null if truly none exists.",
+  "website": "URL or null",
   "address": { "street": "...", "city": "...", "state": "...", "zip": "...", "country": "US" } or null
 }
 
 RULES:
 - Use ONLY the exact metric values listed in your instructions
-- Name SPECIFIC wines in all pick cards — real producers, real bottles
+- Name SPECIFIC wines in all pick cards — only wines that appear in the research data above
+- NEVER fabricate wine names, producers, or prices
 - Badge must be justified by metrics pattern
-- If research confidence is "low", lean toward "reliable" badge and note limited intel in the writing
+- If the research data is insufficient for a credible, specific review, return a skip response instead (see system instructions)
 - Return ONLY valid JSON`;
 
   try {
@@ -124,6 +155,23 @@ RULES:
 
     const cleaned = text.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
     const parsed = JSON.parse(cleaned);
+
+    // Check if Claude returned a skip response
+    if (parsed.skipped === true) {
+      log.warn(`⚠ Claude skipped ${restaurant.name}: ${parsed.skipReason || 'insufficient data'}`);
+      return {
+        type: 'skipped',
+        skipped: {
+          name: parsed.restaurant || restaurant.name,
+          neighborhood: parsed.neighborhood || restaurant.neighborhood || 'Unknown',
+          reason: parsed.skipReason || 'Claude determined insufficient data for credible review',
+          sourcesFound: restaurant.sourcesFound ?? 0,
+          confidenceLevel: parsed.researchConfidence || restaurant.confidenceLevel || 'low',
+          dataCompleteness: parsed.dataCompleteness ?? restaurant.dataCompleteness ?? 0,
+          phase: 'writing',
+        },
+      };
+    }
 
     // Build the full review object
     const review: GeneratedReview = {
@@ -150,23 +198,32 @@ RULES:
       address: parsed.address || (restaurant.address
         ? { ...restaurant.address, country: 'US' }
         : undefined),
+      dataCompleteness: restaurant.dataCompleteness,
+      researchConfidence: restaurant.confidenceLevel,
     };
 
     log.info(`Review written: ${review.restaurant} → ${review.badge}`);
-    return review;
+    return { type: 'review', review };
   } catch (err) {
     log.error(`Failed to write review for ${restaurant.name}`, String(err));
-    return null;
+    return { type: 'error', restaurant: restaurant.name, error: String(err) };
   }
 }
 
 // ---------------------------------------------------------------------------
 // Write all reviews for a city
 // ---------------------------------------------------------------------------
-export async function writeReviews(research: CityResearch): Promise<GeneratedReview[]> {
+export interface WriteReviewsResult {
+  reviews: GeneratedReview[];
+  skipped: SkippedRestaurant[];
+}
+
+export async function writeReviews(research: CityResearch): Promise<WriteReviewsResult> {
   log.info(`Writing reviews for ${research.city} — ${research.restaurants.length} restaurants`);
 
   const reviews: GeneratedReview[] = [];
+  const skipped: SkippedRestaurant[] = [];
+  const errors: string[] = [];
   const concurrency = 3; // Process 3 at a time to stay within rate limits
 
   for (let i = 0; i < research.restaurants.length; i += concurrency) {
@@ -176,8 +233,13 @@ export async function writeReviews(research: CityResearch): Promise<GeneratedRev
     );
 
     for (const result of batchResults) {
-      if (result.status === 'fulfilled' && result.value) {
-        reviews.push(result.value);
+      if (result.status === 'fulfilled') {
+        const wr = result.value;
+        if (wr.type === 'review') reviews.push(wr.review);
+        else if (wr.type === 'skipped') skipped.push(wr.skipped);
+        else errors.push(`${wr.restaurant}: ${wr.error}`);
+      } else {
+        errors.push(`Promise rejected: ${result.reason}`);
       }
     }
 
@@ -187,8 +249,9 @@ export async function writeReviews(research: CityResearch): Promise<GeneratedRev
     }
   }
 
-  log.info(`Completed: ${reviews.length}/${research.restaurants.length} reviews written`);
-  return reviews;
+  log.info(`Completed: ${reviews.length} reviews, ${skipped.length} skipped, ${errors.length} errors`);
+  if (errors.length > 0) log.error(`Writer errors: ${errors.join('; ')}`);
+  return { reviews, skipped };
 }
 
 // ---------------------------------------------------------------------------

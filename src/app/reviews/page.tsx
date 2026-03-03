@@ -7,7 +7,7 @@ import type { Metadata } from 'next';
 export const revalidate = 60;
 
 export const metadata: Metadata = {
-  title: 'Wine List Reviews | Raging Wine',
+  title: 'Wine List Reviews',
   description: 'Honest restaurant wine list reviews with our Vibe-Check badge system and Wingman Metrics. No scores, no BS.',
 };
 

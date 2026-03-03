@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { getCities, getReviewsByCity, getCityBySlug } from '@/lib/sanity';
 import CityReviewFilters from '@/components/CityReviewFilters';
 import Newsletter from '@/components/Newsletter';
+import { CityJsonLd } from '@/components/JsonLd';
 import type { Metadata } from 'next';
 
 export const revalidate = 60;
@@ -15,9 +16,14 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { city: string } }): Promise<Metadata> {
   const city = await getCityBySlug(params.city);
   if (!city) return { title: 'City Not Found' };
+  const title = `${city.name} Wine List Reviews`;
+  const description = `Restaurant wine list reviews in ${city.name}, ${city.state}. ${city.tagline}`;
+  const url = `https://ragingwine.com/cities/${city.slug}`;
   return {
-    title: `${city.name} Wine List Reviews | Raging Wine`,
-    description: `Restaurant wine list reviews in ${city.name}, ${city.state}. ${city.tagline}`,
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: { title, description, url, siteName: 'Raging Wine', type: 'website' },
   };
 }
 
@@ -28,6 +34,8 @@ export default async function CityPage({ params }: { params: { city: string } })
   const cityReviews = await getReviewsByCity(city.slug);
 
   return (
+    <>
+    <CityJsonLd city={city.name} state={city.state} citySlug={city.slug} reviewCount={cityReviews.length} />
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
       {/* Breadcrumb */}
       <nav className="text-xs text-gray-400 mb-6 flex items-center gap-1">
@@ -104,5 +112,6 @@ export default async function CityPage({ params }: { params: { city: string } })
 
       <Newsletter />
     </div>
+    </>
   );
 }

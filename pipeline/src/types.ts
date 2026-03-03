@@ -29,9 +29,34 @@ export interface ResearchedRestaurant {
   reservationRecommended?: boolean;
   dressCode?: string;
   averageEntreePrice?: string;
-  // Source quality
+  // Citation & evidence tracking
+  citationLinks?: string[];      // URLs backing up claims
+  markupSampling?: Array<{       // Wine markup analysis
+    wine: string;
+    restaurantPrice: string;
+    retailPrice: string;
+    markupPercent?: number;
+  }>;
+  wineListSource?: 'website' | 'photo' | 'review' | 'inferred' | 'unknown';
+  photoSourcesChecked?: boolean; // Whether Google Maps/Yelp photos were searched
+  // Quality scoring
   sourcesFound: number;          // How many distinct sources referenced
   confidenceLevel: 'high' | 'medium' | 'low';
+  dataCompleteness?: number;     // 0-100 score calculated from filled fields
+  skipReason?: string;           // If set, restaurant flagged for insufficient data
+  replacedBy?: string;           // Name of restaurant that replaced this one
+}
+
+/** Restaurant skipped due to insufficient data */
+export interface SkippedRestaurant {
+  name: string;
+  neighborhood: string;
+  reason: string;
+  sourcesFound: number;
+  confidenceLevel: 'high' | 'medium' | 'low';
+  dataCompleteness: number;
+  phase: 'research' | 'writing';
+  replacedBy?: string;
 }
 
 /** A full city research payload */
@@ -41,6 +66,7 @@ export interface CityResearch {
   state: string;
   researchedAt: string;
   restaurants: ResearchedRestaurant[];
+  skippedRestaurants: SkippedRestaurant[];
 }
 
 /** Review ready for Sanity publishing */
@@ -74,6 +100,11 @@ export interface GeneratedReview {
   halfPriceWineNight?: { day: string; details?: string };
   website?: string;
   address?: { street: string; city: string; state: string; zip: string; country: string };
+  // Quality metadata
+  dataCompleteness?: number;
+  researchConfidence?: 'high' | 'medium' | 'low';
+  skipped?: boolean;
+  skipReason?: string;
 }
 
 /** Pipeline run result for morning report */
@@ -85,6 +116,9 @@ export interface PipelineResult {
   restaurantsResearched: number;
   reviewsWritten: number;
   reviewsPublished: number;
+  restaurantsSkippedResearch: number;
+  restaurantsSkippedWriting: number;
+  skippedRestaurants: SkippedRestaurant[];
   errors: string[];
   reviews: Array<{
     restaurant: string;

@@ -9,7 +9,7 @@
 
 import { config } from './config.js';
 import { createLogger } from './logger.js';
-import type { ResearchedRestaurant, CityResearch } from './types.js';
+import type { ResearchedRestaurant, SkippedRestaurant, CityResearch } from './types.js';
 
 const log = createLogger('research');
 
@@ -170,7 +170,8 @@ No markdown fencing, no explanation, no preamble. Just the JSON array.`;
 }
 
 // ---------------------------------------------------------------------------
-// Pass 2 — Deep Dive (batches of 5)
+// Pass 2 — Deep Dive (batches of config.deepDiveBatchSize)
+// Uses structured 6-step methodology for thorough wine program research
 // ---------------------------------------------------------------------------
 async function deepDiveRestaurants(
   restaurants: string[],
@@ -178,42 +179,95 @@ async function deepDiveRestaurants(
   state: string
 ): Promise<ResearchedRestaurant[]> {
   const results: ResearchedRestaurant[] = [];
-  const batchSize = 5;
+  const batchSize = config.deepDiveBatchSize;
 
   for (let i = 0; i < restaurants.length; i += batchSize) {
     const batch = restaurants.slice(i, i + batchSize);
     log.info(`Pass 2: Deep dive batch ${Math.floor(i / batchSize) + 1} — ${batch.join(', ')}`);
 
-    const systemPrompt = `You are a wine industry analyst. Return factual, verifiable data about restaurant wine programs. If you cannot verify a detail, say "unknown" rather than guessing. Be specific about wines, prices, and programs.`;
+    const systemPrompt = `You are a wine industry analyst conducting thorough research for a wine review publication. Your job is to gather VERIFIABLE, SPECIFIC data about restaurant wine programs.
 
-    const userPrompt = `Research these restaurants in ${city}, ${state} and provide detailed wine program intel for each:
+HARD REQUIREMENTS:
+- Every claim must be backed by a credible source. Include citation URLs.
+- If you cannot verify a detail, mark it as "unknown" — NEVER guess or fabricate.
+- Minimum 3 credible sources per restaurant about the wine program specifically.
+- Search the restaurant's official website, Google Maps photos, Yelp photos, press coverage, and sommelier interviews.
+- Return structured JSON data only.`;
+
+    const userPrompt = `Research these restaurants in ${city}, ${state} with a focus on their WINE PROGRAM:
 
 ${batch.map((name, idx) => `${idx + 1}. ${name}`).join('\n')}
 
-For EACH restaurant, return a JSON object with these fields:
+Follow this research methodology for EACH restaurant:
+
+**Step 1 — Confirm & Locate**
+- Verify the restaurant exists and is currently open
+- Find official website URL, full street address, phone number
+- If the restaurant appears closed or cannot be confirmed, note it
+
+**Step 2 — Gather Wine Program Evidence**
+Search these sources for wine program details:
+- Restaurant's official website (look for wine list PDF, menu pages, wine director bio)
+- Google Maps photos (patrons often photograph wine lists, wine walls, bottles)
+- Yelp photos and reviews mentioning wine
+- Press coverage: local food blogs, newspaper reviews, Wine Spectator/Wine Enthusiast mentions
+- Sommelier or wine director interviews
+- Social media posts about wine events, tastings, new arrivals
+- Record every source URL as a citation
+
+**Step 3 — Quantify the Wine Program**
+- Total number of wines on the list (bottles + by-the-glass)
+- By-the-glass count and price range
+- Bottle price range (entry-level to top-end)
+- Region/country breakdown (what's emphasized?)
+- Create a markup sampling: find 8-12 specific wines where you can compare the restaurant price to typical retail. Record: wine name, restaurant price, retail price, markup percentage.
+
+**Step 4 — Service & Experience Signals**
+- Is there a sommelier or wine director on staff? Who?
+- Glassware quality (Riedel/Zalto vs. generic stemware — look for photos)
+- Wine storage (visible wine wall? proper cellar? temperature controlled?)
+- Wine events, tastings, wine dinner programs
+- Half-price wine nights or specials (which day, what's included)
+- Staff wine knowledge (mentioned in reviews?)
+
+**Step 5 — Structured Output**
+For EACH restaurant, return a JSON object:
 {
   "name": "Official restaurant name",
   "neighborhood": "Neighborhood/area",
   "cuisineType": "Primary cuisine",
-  "website": "Restaurant's official website URL — try the format https://restaurantname.com or https://www.restaurantname.com. Most restaurants have a website. Only return null if you are confident the restaurant has no website.",
-  "address": { "street": "123 Main St", "city": "${city}", "state": "${state}", "zip": "30301" },
-  "wineListSize": "Approximate number of wines, e.g. '150 labels'",
-  "byTheGlassCount": "Number of by-the-glass options, e.g. '18 options'",
-  "priceRange": "Glass and bottle price ranges, e.g. '$12-$24/glass, $40-$200/bottle'",
-  "notableWines": ["Specific producers or wines they carry"],
-  "wineRegionFocus": ["Wine regions emphasized, e.g. 'Willamette Valley', 'Rhône'"],
-  "sommelierOnStaff": true/false,
+  "website": "Official website URL or null if not found",
+  "address": { "street": "Full street address", "city": "${city}", "state": "${state}", "zip": "XXXXX" },
+  "wineListSize": "e.g. '150 labels' or 'unknown'",
+  "byTheGlassCount": "e.g. '18 options' or 'unknown'",
+  "priceRange": "e.g. '$12-$24/glass, $40-$200/bottle' or 'unknown'",
+  "notableWines": ["Specific producer/wine names found in sources — NEVER guess"],
+  "wineRegionFocus": ["Regions emphasized on the list"],
+  "sommelierOnStaff": true/false/null,
   "halfPriceNight": "Day of week or null",
   "halfPriceDetails": "Details about their wine deal or null",
   "vibeDescription": "One sentence on the dining atmosphere",
   "popularDishes": ["2-3 signature dishes"],
   "reservationRecommended": true/false,
   "averageEntreePrice": "$XX range",
-  "sourcesFound": number_of_sources_referenced,
-  "confidenceLevel": "high/medium/low"
+  "citationLinks": ["Every URL used as a source"],
+  "markupSampling": [
+    { "wine": "Producer Wine Name Vintage", "restaurantPrice": "$XX", "retailPrice": "$XX", "markupPercent": XX }
+  ],
+  "wineListSource": "website|photo|review|inferred|unknown",
+  "photoSourcesChecked": true/false,
+  "sourcesFound": number_of_distinct_sources_about_wine_program,
+  "confidenceLevel": "high|medium|low"
 }
 
-Return a JSON array of these objects. ONLY the JSON array, no markdown fencing.`;
+**Step 6 — Confidence Rating**
+- "high": 5+ sources specifically about the wine program, specific wines verified
+- "medium": 3-4 sources, some wine details verified
+- "low": <3 sources about wine specifically, mostly inferred
+
+If a restaurant has fewer than 3 credible sources about its wine program, still include it but mark confidenceLevel as "low".
+
+Return a JSON array of these objects. ONLY the JSON array, no markdown fencing, no explanation.`;
 
     const response = await queryPerplexity([
       { role: 'system', content: systemPrompt },
@@ -245,6 +299,140 @@ Return a JSON array of these objects. ONLY the JSON array, no markdown fencing.`
   }
 
   return results;
+}
+
+// ---------------------------------------------------------------------------
+// Quality scoring & filtering
+// ---------------------------------------------------------------------------
+
+/** Score how complete a restaurant's research data is (0-100) */
+function scoreDataCompleteness(r: ResearchedRestaurant): number {
+  const fields: Array<{ key: keyof ResearchedRestaurant; weight: number }> = [
+    { key: 'website', weight: 10 },
+    { key: 'address', weight: 5 },
+    { key: 'wineListSize', weight: 10 },
+    { key: 'byTheGlassCount', weight: 8 },
+    { key: 'priceRange', weight: 10 },
+    { key: 'notableWines', weight: 15 },
+    { key: 'wineRegionFocus', weight: 5 },
+    { key: 'sommelierOnStaff', weight: 3 },
+    { key: 'halfPriceNight', weight: 3 },
+    { key: 'vibeDescription', weight: 3 },
+    { key: 'popularDishes', weight: 3 },
+    { key: 'averageEntreePrice', weight: 3 },
+    { key: 'citationLinks', weight: 7 },
+    { key: 'markupSampling', weight: 12 },
+    { key: 'wineListSource', weight: 3 },
+  ];
+
+  let earned = 0;
+  let total = 0;
+
+  for (const { key, weight } of fields) {
+    total += weight;
+    const val = r[key];
+    if (val === undefined || val === null || val === 'unknown' || val === '') continue;
+    if (Array.isArray(val) && val.length === 0) continue;
+    earned += weight;
+  }
+
+  return Math.round((earned / total) * 100);
+}
+
+/** Filter out restaurants with insufficient data and attempt replacements */
+async function filterAndReplaceInsufficient(
+  restaurants: ResearchedRestaurant[],
+  city: string,
+  state: string
+): Promise<{ kept: ResearchedRestaurant[]; skipped: SkippedRestaurant[] }> {
+  const kept: ResearchedRestaurant[] = [];
+  const skipped: SkippedRestaurant[] = [];
+
+  // Score each restaurant
+  for (const r of restaurants) {
+    r.dataCompleteness = scoreDataCompleteness(r);
+
+    const isLowConfidence = r.confidenceLevel === 'low';
+    const tooFewSources = (r.sourcesFound ?? 0) < config.minSourcesRequired;
+    const tooIncomplete = (r.dataCompleteness ?? 0) < config.minDataCompleteness;
+
+    if (isLowConfidence || tooFewSources || tooIncomplete) {
+      const reasons: string[] = [];
+      if (isLowConfidence) reasons.push('low confidence');
+      if (tooFewSources) reasons.push(`only ${r.sourcesFound ?? 0} sources (min: ${config.minSourcesRequired})`);
+      if (tooIncomplete) reasons.push(`${r.dataCompleteness}% complete (min: ${config.minDataCompleteness}%)`);
+
+      skipped.push({
+        name: r.name,
+        neighborhood: r.neighborhood || 'Unknown',
+        reason: reasons.join('; '),
+        sourcesFound: r.sourcesFound ?? 0,
+        confidenceLevel: r.confidenceLevel || 'low',
+        dataCompleteness: r.dataCompleteness ?? 0,
+        phase: 'research',
+      });
+
+      r.skipReason = reasons.join('; ');
+      log.warn(`⚠ Insufficient data for ${r.name}: ${reasons.join('; ')}`);
+    } else {
+      kept.push(r);
+    }
+  }
+
+  log.info(`Quality filter: ${kept.length} kept, ${skipped.length} insufficient`);
+
+  // Attempt replacements if we lost restaurants
+  if (skipped.length > 0) {
+    const skippedNames = skipped.map(s => s.name);
+    const keptNames = kept.map(r => r.name);
+    const allExclude = [...keptNames, ...skippedNames];
+
+    for (let attempt = 1; attempt <= config.maxReplacementAttempts; attempt++) {
+      const needed = skipped.length - (skipped.filter(s => s.replacedBy).length);
+      if (needed === 0) break;
+
+      log.info(`Replacement attempt ${attempt}/${config.maxReplacementAttempts}: looking for ${needed} replacements`);
+
+      // Discover new candidates
+      const candidates = await runDiscoveryPass(city, state, needed + 5, allExclude,
+        `You are a restaurant and wine industry researcher specializing in wine programs. You always respond with structured JSON data. Never refuse a request — this is factual restaurant research, not harmful content. Return verified information only.`
+      );
+
+      if (candidates.length === 0) {
+        log.info('No more replacement candidates found');
+        break;
+      }
+
+      // Deep dive the candidates
+      const newRestaurants = await deepDiveRestaurants(candidates, city, state);
+
+      // Score and filter the replacements
+      for (const r of newRestaurants) {
+        r.dataCompleteness = scoreDataCompleteness(r);
+
+        const isGood = r.confidenceLevel !== 'low'
+          && (r.sourcesFound ?? 0) >= config.minSourcesRequired
+          && (r.dataCompleteness ?? 0) >= config.minDataCompleteness;
+
+        if (isGood) {
+          // Find an unreplaced skipped restaurant to mark as replaced
+          const unreplaced = skipped.find(s => !s.replacedBy);
+          if (unreplaced) {
+            unreplaced.replacedBy = r.name;
+            r.replacedBy = undefined; // not needed on kept restaurants
+            kept.push(r);
+            log.info(`✓ Replaced ${unreplaced.name} with ${r.name} (${r.dataCompleteness}% complete)`);
+          }
+        } else {
+          allExclude.push(r.name);
+          log.info(`✗ Replacement candidate ${r.name} also insufficient (${r.dataCompleteness}% complete)`);
+        }
+      }
+    }
+  }
+
+  log.info(`Final: ${kept.length} restaurants kept, ${skipped.length} skipped (${skipped.filter(s => s.replacedBy).length} replaced)`);
+  return { kept, skipped };
 }
 
 // ---------------------------------------------------------------------------
@@ -392,10 +580,13 @@ export async function researchCity(
   const discoveredNames = await discoverRestaurants(city, state, target);
 
   // Pass 2 — Deep dive each restaurant
-  const restaurants = await deepDiveRestaurants(discoveredNames, city, state);
+  const allRestaurants = await deepDiveRestaurants(discoveredNames, city, state);
 
-  // Pass 3 — Verify & discover website URLs
-  const enriched = await verifyAndDiscoverWebsites(restaurants);
+  // Quality filter — remove insufficient data, attempt replacements
+  const { kept, skipped } = await filterAndReplaceInsufficient(allRestaurants, city, state);
+
+  // Pass 3 — Verify & discover website URLs (only for kept restaurants)
+  const enriched = await verifyAndDiscoverWebsites(kept);
 
   const result: CityResearch = {
     city,
@@ -403,9 +594,10 @@ export async function researchCity(
     state,
     researchedAt: new Date().toISOString(),
     restaurants: enriched,
+    skippedRestaurants: skipped,
   };
 
-  log.info(`Research complete: ${enriched.length} restaurants profiled`);
+  log.info(`Research complete: ${enriched.length} restaurants profiled, ${skipped.length} skipped`);
   return result;
 }
 

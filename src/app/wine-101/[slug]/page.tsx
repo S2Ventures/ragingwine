@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { getAllWine101Articles, getWine101Article, getRelatedArticles } from '@/lib/wine101';
 import MarkdownContent from '@/components/MarkdownContent';
 import Newsletter from '@/components/Newsletter';
+import { Wine101JsonLd } from '@/components/JsonLd';
 import type { Metadata } from 'next';
 
 interface PageProps {
@@ -17,10 +18,14 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const article = getWine101Article(slug);
-  if (!article) return { title: 'Article Not Found | Raging Wine' };
+  if (!article) return { title: 'Article Not Found' };
+  const title = article.title;
+  const url = `https://ragingwine.com/wine-101/${slug}`;
   return {
-    title: `${article.title} | Raging Wine`,
+    title,
     description: article.description,
+    alternates: { canonical: url },
+    openGraph: { title, description: article.description, url, siteName: 'Raging Wine', type: 'article' },
   };
 }
 
@@ -32,6 +37,8 @@ export default async function Wine101ArticlePage({ params }: PageProps) {
   const related = getRelatedArticles(article.related);
 
   return (
+    <>
+    <Wine101JsonLd title={article.title} description={article.description} slug={article.slug} publishedAt={article.publishedAt} />
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-12">
       {/* Breadcrumb */}
       <nav className="mb-8 text-sm text-gray-500">
@@ -96,5 +103,6 @@ export default async function Wine101ArticlePage({ params }: PageProps) {
         </Link>
       </div>
     </div>
+    </>
   );
 }

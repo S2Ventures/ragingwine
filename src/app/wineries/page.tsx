@@ -6,7 +6,7 @@ import type { Metadata } from 'next';
 export const revalidate = 60;
 
 export const metadata: Metadata = {
-  title: 'Winery Guide | Raging Wine',
+  title: 'Winery Guide',
   description: 'Explore wineries across the U.S. with honest profiles, tasting details, and the info you actually need before you visit.',
 };
 

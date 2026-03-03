@@ -78,6 +78,10 @@ function buildReportHtml(result: PipelineResult): string {
       <div style="font-size:28px;font-weight:bold;color:#722F37">${result.reviewsPublished}</div>
       <div style="font-size:12px;color:#666;margin-top:4px">Published</div>
     </div>
+    <div style="flex:1;min-width:120px;background:${(result.skippedRestaurants?.length ?? 0) > 0 ? '#fef3c7' : '#f8f8f8'};padding:16px;border-radius:8px;text-align:center">
+      <div style="font-size:28px;font-weight:bold;color:#b45309">${(result.restaurantsSkippedResearch ?? 0) + (result.restaurantsSkippedWriting ?? 0)}</div>
+      <div style="font-size:12px;color:#666;margin-top:4px">Skipped</div>
+    </div>
     <div style="flex:1;min-width:120px;background:#f8f8f8;padding:16px;border-radius:8px;text-align:center">
       <div style="font-size:28px;font-weight:bold;color:#722F37">${duration}m</div>
       <div style="font-size:12px;color:#666;margin-top:4px">Runtime</div>
@@ -101,6 +105,28 @@ function buildReportHtml(result: PipelineResult): string {
 
   ${errorSection}
 
+  ${(result.skippedRestaurants?.length ?? 0) > 0 ? `
+  <h3 style="color:#b45309;margin-top:28px">⏭️ Skipped Restaurants (${result.skippedRestaurants!.length})</h3>
+  <table style="width:100%;border-collapse:collapse;font-size:13px;margin-bottom:16px">
+    <thead>
+      <tr style="background:#fef3c7">
+        <th style="padding:6px 10px;text-align:left">Restaurant</th>
+        <th style="padding:6px 10px;text-align:left">Phase</th>
+        <th style="padding:6px 10px;text-align:left">Reason</th>
+        <th style="padding:6px 10px;text-align:left">Replaced By</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${result.skippedRestaurants!.map(s => `<tr>
+        <td style="padding:5px 10px;border-bottom:1px solid #f0e6c0">${s.name}</td>
+        <td style="padding:5px 10px;border-bottom:1px solid #f0e6c0"><span style="background:${s.phase === 'research' ? '#dbeafe' : '#ede9fe'};color:${s.phase === 'research' ? '#1e40af' : '#5b21b6'};padding:2px 6px;border-radius:4px;font-size:11px">${s.phase}</span></td>
+        <td style="padding:5px 10px;border-bottom:1px solid #f0e6c0;color:#92400e;font-size:12px">${s.reason}</td>
+        <td style="padding:5px 10px;border-bottom:1px solid #f0e6c0">${s.replacedBy || '—'}</td>
+      </tr>`).join('\n')}
+    </tbody>
+  </table>
+  ` : ''}
+
   <hr style="border:none;border-top:1px solid #eee;margin:24px 0" />
   <p style="font-size:12px;color:#999;text-align:center">
     Raging Wine Nightly Pipeline v1.0 — ${config.dryRun ? '🧪 DRY RUN' : '🚀 LIVE'}
@@ -120,13 +146,17 @@ export async function sendReport(result: PipelineResult): Promise<void> {
       researched: result.restaurantsResearched,
       written: result.reviewsWritten,
       published: result.reviewsPublished,
+      skippedResearch: result.restaurantsSkippedResearch ?? 0,
+      skippedWriting: result.restaurantsSkippedWriting ?? 0,
       errors: result.errors.length,
     });
     return;
   }
 
   const html = buildReportHtml(result);
-  const subject = `🍷 Pipeline Report: ${result.reviewsPublished} reviews published for ${result.city}`;
+  const skipCount = (result.restaurantsSkippedResearch ?? 0) + (result.restaurantsSkippedWriting ?? 0);
+  const skipNote = skipCount > 0 ? `, ${skipCount} skipped` : '';
+  const subject = `🍷 Pipeline Report: ${result.reviewsPublished} published${skipNote} — ${result.city}`;
 
   try {
     const res = await fetch('https://api.resend.com/emails', {

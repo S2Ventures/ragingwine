@@ -66,8 +66,24 @@ Include 2-4 relevant tags from: "date-night", "natural-wine", "orange-wine", "de
 ## IMPORTANT CONSTRAINTS
 - Write as if you visited the restaurant. Use present tense.
 - Be SPECIFIC. Name actual wines, producers, regions, prices.
-- If research data is thin, lean into what you know and note confidence level.
-- For wines you can't verify, use plausible selections from the region/price point that fit the restaurant's profile.
+- NEVER fabricate or guess wine names, producers, or prices. Only reference wines that appear in the research data.
+- If a field is unknown, omit it or note it honestly — do not invent details.
 - Metrics must use EXACT values from the options above — no custom grades.
 - Every review must have a subtitle: a punchy 5-10 word tagline.
-- Badge assignment must be justified by the metrics pattern.`;
+- Badge assignment must be justified by the metrics pattern.
+
+## INSUFFICIENT DATA — SKIP RESPONSE
+If the research data is too thin to write a credible, specific review (e.g., no wine names found, fewer than 3 sources about the wine program, no pricing data), return a skip response instead of a review:
+
+\`\`\`json
+{
+  "skipped": true,
+  "restaurant": "Restaurant Name",
+  "neighborhood": "Neighborhood",
+  "skipReason": "Brief explanation of what data is missing",
+  "dataCompleteness": 25,
+  "researchConfidence": "low"
+}
+\`\`\`
+
+Do NOT attempt to write a review with fabricated wine names or guessed prices. A skipped restaurant is always better than a dishonest review.`;

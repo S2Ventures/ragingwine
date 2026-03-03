@@ -5,6 +5,7 @@ import { BADGE_CONFIG } from '@/lib/types';
 import Badge from '@/components/Badge';
 import WingmanMetrics from '@/components/WingmanMetrics';
 import Newsletter from '@/components/Newsletter';
+import { ReviewJsonLd } from '@/components/JsonLd';
 import type { Metadata } from 'next';
 
 export const revalidate = 60;
@@ -19,9 +20,25 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const review = await getReviewBySlug(params.slug);
   if (!review) return { title: 'Review Not Found' };
   const config = BADGE_CONFIG[review.badge];
+  const title = `${review.restaurant} Wine List Review`;
+  const description = `${config.icon} ${config.label} — ${review.bottomLine}`;
+  const url = `https://ragingwine.com/reviews/${review.slug}`;
   return {
-    title: `${review.restaurant} Wine List Review | Raging Wine`,
-    description: `${config.icon} ${config.label} — ${review.bottomLine}`,
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+      siteName: 'Raging Wine',
+      type: 'article',
+    },
+    twitter: {
+      card: 'summary',
+      title,
+      description,
+    },
   };
 }
 
@@ -55,6 +72,8 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
   const isEditorial = !!review.editorial;
 
   return (
+    <>
+    <ReviewJsonLd review={review} />
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-12">
       {/* Breadcrumb */}
       <nav className="text-xs text-gray-400 mb-6 flex items-center gap-1">
@@ -195,5 +214,6 @@ export default async function ReviewPage({ params }: { params: { slug: string } 
       {/* Newsletter CTA */}
       <Newsletter />
     </div>
+    </>
   );
 }
