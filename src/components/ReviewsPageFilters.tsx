@@ -14,6 +14,7 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
   const [searchQuery, setSearchQuery] = useState('');
   const [activeBadge, setActiveBadge] = useState<BadgeType | 'all'>('all');
   const [activeCity, setActiveCity] = useState<string>('all');
+  const [activeCuisine, setActiveCuisine] = useState<string>('all');
   const [halfPriceOnly, setHalfPriceOnly] = useState(false);
 
   const halfPriceCount = useMemo(() => {
@@ -22,6 +23,11 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
 
   const cities = useMemo(() => {
     const set = new Set(reviews.map(r => r.city));
+    return Array.from(set).sort();
+  }, [reviews]);
+
+  const cuisines = useMemo(() => {
+    const set = new Set(reviews.map(r => r.cuisineType).filter(Boolean));
     return Array.from(set).sort();
   }, [reviews]);
 
@@ -51,17 +57,19 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
       }
       if (activeBadge !== 'all' && r.badge !== activeBadge) return false;
       if (activeCity !== 'all' && r.city !== activeCity) return false;
+      if (activeCuisine !== 'all' && r.cuisineType !== activeCuisine) return false;
       if (halfPriceOnly && !r.halfPriceWineNight) return false;
       return true;
     });
-  }, [reviews, searchQuery, activeBadge, activeCity, halfPriceOnly]);
+  }, [reviews, searchQuery, activeBadge, activeCity, activeCuisine, halfPriceOnly]);
 
-  const isFiltered = searchQuery !== '' || activeBadge !== 'all' || activeCity !== 'all' || halfPriceOnly;
+  const isFiltered = searchQuery !== '' || activeBadge !== 'all' || activeCity !== 'all' || activeCuisine !== 'all' || halfPriceOnly;
 
   const clearAll = () => {
     setSearchQuery('');
     setActiveBadge('all');
     setActiveCity('all');
+    setActiveCuisine('all');
     setHalfPriceOnly(false);
   };
 
@@ -131,8 +139,30 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
         })}
       </div>
 
-      {/* City + Half-Price Row */}
+      {/* City + Cuisine + Half-Price Row */}
       <div className="flex flex-wrap items-center gap-2 mb-8">
+        {cuisines.length > 1 && (
+          <select
+            value={activeCuisine}
+            onChange={e => setActiveCuisine(e.target.value)}
+            className={`px-3 py-1.5 text-xs rounded-full border transition-all appearance-none cursor-pointer pr-7 bg-no-repeat bg-[length:12px] bg-[position:right_8px_center] ${
+              activeCuisine !== 'all'
+                ? 'bg-amber-600 text-white border-amber-600'
+                : 'bg-white text-gray-500 border-gray-200 hover:border-gray-300'
+            }`}
+            style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='${activeCuisine !== 'all' ? 'white' : '%236b7280'}' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E")` }}
+          >
+            <option value="all">All Cuisines</option>
+            {cuisines.map(c => (
+              <option key={c} value={c}>{c}</option>
+            ))}
+          </select>
+        )}
+
+        {cuisines.length > 1 && halfPriceCount > 0 && (
+          <span className="text-gray-300 text-xs">|</span>
+        )}
+
         {halfPriceCount > 0 && (
           <button
             onClick={() => setHalfPriceOnly(!halfPriceOnly)}
@@ -187,6 +217,7 @@ export default function ReviewsPageFilters({ reviews }: ReviewsPageFiltersProps)
             {searchQuery && <span> &middot; &ldquo;{searchQuery}&rdquo;</span>}
             {activeBadge !== 'all' && <span> &middot; {BADGE_CONFIG[activeBadge].label}</span>}
             {activeCity !== 'all' && <span> &middot; {activeCity}</span>}
+            {activeCuisine !== 'all' && <span> &middot; {activeCuisine}</span>}
             {halfPriceOnly && <span> &middot; Half-Price Wine Night</span>}
           </p>
           <button
