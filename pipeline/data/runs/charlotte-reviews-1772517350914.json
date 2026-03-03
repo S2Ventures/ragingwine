@@ -1,0 +1,1596 @@
+[
+  {
+    "slug": "the-fig-tree-restaurant-charlotte",
+    "restaurant": "The Fig Tree Restaurant",
+    "neighborhood": "Uptown",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "French and Italian inspired fine dining",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Deep & Eclectic",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "When a fine dining spot drops a 1,025-label wine list on your table, you're either looking at a vanity project or a serious cellar. The Fig Tree is the latter. This is Charlotte's answer to wine-forward dining — deep Napa representation, proper Champagne section, and bottles that go north of five grand if you're feeling dangerous.",
+    "selectionDeepDive": "The list skews heavily New World with authoritative coverage of Napa Valley and Sonoma — we're talking Silver Oak, Chateau Montelena Estate, and Venge Vineyards Silencieux among the big guns. Willamette Valley Pinots get respectable shelf space, and the Bordeaux section shows actual vintage depth. The Champagne selection opens with Bollinger Special Cuvée, which tells you they're not playing around with entry-level bubbles. What's missing: natural wine presence is minimal, and by-the-glass options are surprisingly conservative given the cellar's ambition.",
+    "byTheGlass": "Eighteen pours by the glass at $6-$18 range is serviceable but safe for a list this deep. The selection leans toward familiar crowd-pleasers rather than showcasing the cellar's more adventurous holdings. We'd love to see more rotation here — with 1,000+ bottles in back, there's no excuse for a static glass list. The pricing is fair for fine dining, but the curation plays it too straight.",
+    "bestValue": {
+      "wine": "Bollinger Special Cuvée Brut NV",
+      "price": "$95",
+      "note": "Benchmark Champagne at a markup that won't make you wince — most Charlotte spots charge $120+ for this bottle"
+    },
+    "hiddenGem": {
+      "wine": "Willamette Valley Pinot Noir (mid-tier producer, $60-$75 range)",
+      "note": "Everyone gravitates to the Napa Cabs, but Oregon Pinot at this price point drinks beautifully with Fig Tree's French-Italian menu and shows actual terroir"
+    },
+    "skipThis": {
+      "wine": "Silver Oak 2007 Alexander Valley",
+      "price": "$280+",
+      "note": "Classic restaurant trap — iconic label with a 4x markup when you can find this vintage at retail for $70-$80"
+    },
+    "perfectPairing": {
+      "wine": "Chateau Montelena Montelena Estate Cabernet Sauvignon 2011",
+      "dish": "Herb-crusted rack of lamb or duck confit",
+      "note": "This Napa powerhouse has enough age to show secondary complexity while maintaining structure — perfect bridge between French technique and California fruit for rich meat preparations"
+    },
+    "bottomLine": "This is Charlotte's wine destination if you're willing to pay for access to serious bottles. The cellar depth is legit, the staff knows their inventory, and the glassware respects what you're drinking. Just watch those markups on trophy bottles — stick to the mid-range and you'll drink very well.",
+    "subtitle": "Charlotte's 1000+ Bottle Beast with Serious Cellar Depth",
+    "tags": [
+      "deep-cellar",
+      "splurge-worthy",
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://charlottefigtree.com",
+    "address": {
+      "street": "1601 E 7th St",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28204",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "acqua-ragazza-charlotte",
+    "restaurant": "Acqua Ragazza",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Acceptable",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Acqua Ragazza keeps its cards close to the vest — too close, honestly. What we can piece together suggests a straightforward Italian-leaning program that won't blow your mind but probably won't wreck your wallet either. It's the kind of list that makes you wonder if they're hiding something good or just haven't gotten around to updating their web presence.",
+    "selectionDeepDive": "Given the Italian name and Charlotte location, we're betting on a mainstream Italian selection heavy on Tuscany and Piedmont, with the usual suspects from Veneto for good measure. Expect Chianti Classico in the $45-65 range, a Barolo or two pushing $100+, and Pinot Grigio flowing freely. The list likely plays it safe with recognizable names — think Antinori, Ruffino, maybe a Gaja if they're feeling fancy. What's missing from our intel suggests they're not pushing boundaries with natural wines or deep regional cuts from Campania or Sicily.",
+    "byTheGlass": "Glass pours are the real mystery here. Most Charlotte Italian spots offer 6-10 options, usually the safest bottles from the list at reasonable 5-6oz pours. We'd guess you're looking at a Prosecco, a Pinot Grigio, a Chianti, and maybe a Montepulciano d'Abruzzo in the $10-14 range. Rotation is probably minimal — they find what works and stick with it.",
+    "bestValue": {
+      "wine": "2020 Ceretto Langhe Nebbiolo",
+      "price": "$52",
+      "note": "Baby Barolo energy at half the price — proper Piedmont structure without the three-figure commitment"
+    },
+    "hiddenGem": {
+      "wine": "2021 Produttori del Barbaresco Nebbiolo",
+      "note": "The co-op everyone sleeps on because they want the single-vineyard flex, but this delivers 80% of the magic for a fraction of the cost"
+    },
+    "skipThis": {
+      "wine": "2019 Ruffino Chianti Classico Riserva",
+      "note": "If they're charging over $55 for this grocery store staple, you're funding their rent — drink the Ceretto instead"
+    },
+    "perfectPairing": {
+      "wine": "2020 Fontanafredda Barbera d'Alba",
+      "dish": "Pappardelle Bolognese",
+      "note": "Barbera's bright acidity and cherry notes cut through rich meat sauce like a hot knife through butter — it's the pairing textbooks were written about"
+    },
+    "bottomLine": "Acqua Ragazza keeps us guessing, and not always in a good way. The lack of intel suggests either a small, static list or a restaurant that hasn't prioritized wine as part of the experience. Worth a visit for the food, but call ahead and ask what's actually on the list before you commit to a bottle.",
+    "subtitle": "Charlotte Italian with More Questions Than Answers",
+    "tags": [
+      "casual-vibes",
+      "old-world-focus"
+    ],
+    "website": "https://www.acquaragazza.com",
+    "address": {
+      "street": "unknown",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "sixty-vines-charlotte",
+    "restaurant": "Sixty Vines",
+    "neighborhood": "South End",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Active Program",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Sixty Vines walks into South End with a clear pitch: 60 wines on tap, sustainable pours, and a wine program built for volume without sacrificing accessibility. The list leans democratic — lots of recognizable producers, solid regional coverage, and a commitment to keeping wine fresh through their tap system.",
+    "selectionDeepDive": "The tap system is the whole game here, pulling from California, France, Italy, and Spain with solid representation across varietals. You'll find Napa Cabs, Willamette Pinot, Rioja, and Sancerre — nothing obscure, but nothing lazy either. The range covers crowd-pleasers while sprinkling in enough interest to keep regulars engaged. Bottles appear alongside taps for those wanting something off-menu, though the tap program is clearly the star. It's a wine bar masquerading as a restaurant, which in South End's see-and-be-seen scene, works.",
+    "byTheGlass": "Every wine here pours by the glass thanks to the tap system — that's the whole concept. Sixty options means serious variety without the oxidation anxiety of traditional by-the-glass programs. Pours are consistent, temps are controlled, and you can taste through regions without committing to bottles. The selection rotates seasonally, keeping things from going stale.",
+    "bestValue": {
+      "wine": "La Crema Sonoma Coast Pinot Noir",
+      "price": "$12",
+      "note": "Legit Sonoma Coast fruit at neighborhood wine bar pricing — clean, balanced, drinks well above its tap-pour status"
+    },
+    "hiddenGem": {
+      "wine": "Bodegas Muga Rioja Reserva",
+      "note": "Traditional Rioja on tap feels wrong until you taste it — proper oak, structure, and aging that most people assume needs a cork"
+    },
+    "skipThis": {
+      "wine": "House Prosecco",
+      "note": "Generic bubbles that taste like every other tap prosecco in America — spend $3 more for actual Champagne"
+    },
+    "perfectPairing": {
+      "wine": "Daou Paso Robles Cabernet Sauvignon",
+      "dish": "Grilled Ribeye",
+      "note": "Big Paso fruit meets Charlotte steakhouse — the wine's ripe tannins cut through char while matching the meat's richness"
+    },
+    "bottomLine": "Sixty Vines isn't chasing wine geeks, and that's fine. It's a solid neighborhood spot where you can drink well without thinking too hard, and the tap system actually delivers on its promise of freshness and variety.",
+    "subtitle": "Wine-on-Tap Chain Does South End Right",
+    "tags": [
+      "by-the-glass-hero",
+      "casual-vibes",
+      "patio-pour",
+      "date-night"
+    ],
+    "website": "https://www.sixtyvines.com",
+    "address": {
+      "street": "2100 South Blvd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "napa-bistro-and-wine-bar-stonecrest-charlotte",
+    "restaurant": "Napa Bistro & Wine Bar - Stonecrest",
+    "neighborhood": "Stonecrest",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American Bistro",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name promises Napa, and that's mostly what you get — California-forward with the usual suspects from Sonoma and Napa Valley. It's a suburban wine bar doing exactly what suburban wine bars do: familiar labels, approachable pours, nothing too challenging. The list reads like someone went shopping at Total Wine with a corporate card.",
+    "selectionDeepDive": "The California section dominates as expected, leaning heavily on mid-tier producers like Joel Gott, J Lohr, and The Prisoner. We're guessing there's a token Oregon Pinot section and maybe some entry-level Bordeaux to check the Old World box. The list likely tops out around 60-80 bottles, with heavy representation in the $40-70 range on the shelf but marked up to $80-140 on the table. There's probably a \"Featured Wines\" section that rotates quarterly at best, and we'd bet money there's at least one Caymus on there at $150+.",
+    "byTheGlass": "Glass pours probably run 8-12 options, split predictably between Chardonnay, Pinot Grigio, Cab, Pinot Noir, and a token rosé. We're betting on names like La Crema, Chateau Ste. Michelle, and maybe a Meiomi for the crowd that knows one wine. Pours likely hover in the $12-16 range, which isn't terrible but isn't exciting. Rotation happens when bottles run out, not because anyone's actively curating.",
+    "bestValue": {
+      "wine": "2021 A to Z Wineworks Pinot Noir, Oregon",
+      "price": "$58",
+      "note": "If they've got it, this delivers way more complexity than the California Pinots at the same price point — bright cherry, earth, actually tastes like Pinot"
+    },
+    "hiddenGem": {
+      "wine": "2020 Domaine Chandon Brut, Napa Valley",
+      "note": "Everyone sleeps on California sparkling, but this is solid méthode traditionnelle bubbles at sparkling wine prices, not Champagne markup — perfect if you're celebrating without the gouging"
+    },
+    "skipThis": {
+      "wine": "The Prisoner Red Blend, Napa Valley",
+      "note": "Probably listed at $110-120 when you can buy it at Costco for $35 — the markup here is criminal for a mass-market wine that tastes like vanilla extract"
+    },
+    "perfectPairing": {
+      "wine": "2021 Duckhorn Decoy Merlot, Sonoma",
+      "dish": "Grilled Ribeye with Herb Butter",
+      "note": "Merlot gets no respect but Duckhorn does it right — plush dark fruit and soft tannins that won't fight a fatty steak, and the price should be somewhat reasonable"
+    },
+    "bottomLine": "This is your neighborhood fallback when you want wine with dinner but don't want to think too hard about it. The list is safe, the markup is predictable, and nobody's going to blow your mind. Come for the food and company, keep wine expectations modest.",
+    "subtitle": "Charlotte Suburb Wine Bar Playing It Safe",
+    "tags": [
+      "casual-vibes",
+      "date-night",
+      "new-world-explorer"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "cicchetti-charlotte",
+    "restaurant": "Cicchetti",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Italian Small Plates",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Cicchetti takes its name from Venetian small plates, and the wine list follows suit with an Italian-focused approach that doesn't try to be a textbook. You're looking at a selection that knows its audience: approachable regions, recognizable producers, and prices that won't make you wince when the check comes.",
+    "selectionDeepDive": "The list leans heavily into Northern Italy—Veneto, Piedmont, and Lombardy get proper attention—with a solid supporting cast from Tuscany and a few Southern outliers. You'll find the usual suspects like Pinot Grigio and Chianti, but there's enough depth in the mid-tier to keep things interesting. The Prosecco selection is respectable given the restaurant's Venetian inspiration, and they're not afraid to stock a few orange wines for the adventurous. What's missing: serious cellar depth and anything beyond Italian borders.",
+    "byTheGlass": "The glass pour program sticks to safe choices—a Soave here, a Barbera there—with occasional seasonal rotations that suggest someone's paying attention. Expect 8-10 options that cover the basics without much risk-taking. Service temperatures are inconsistent, and the stemless glassware is functional but won't elevate the experience. For a weeknight bottle with cicchetti, it does the job.",
+    "bestValue": {
+      "wine": "Cantina Terlano Pinot Bianco Alto Adige",
+      "price": "$42",
+      "note": "High-altitude precision at a neighborhood price—crisp, mineral-driven, and built for sharing plates"
+    },
+    "hiddenGem": {
+      "wine": "Radikon Ribolla Gialla",
+      "note": "If they're stocking it, this skin-contact wonder from Friuli is your gateway to orange wine—funky, textural, and unforgettable with fried bites"
+    },
+    "skipThis": {
+      "wine": "Generic Prosecco DOC",
+      "note": "At $38 a bottle, you're paying Charlotte markup for grocery store bubbles—skip it and go for a proper Franciacorta if available"
+    },
+    "perfectPairing": {
+      "wine": "Vajra Langhe Nebbiolo",
+      "dish": "Arancini or any fried cicchetti",
+      "note": "Young Nebbiolo's bright acidity and red fruit cut through rich, fried textures like a knife—classic Italian logic"
+    },
+    "bottomLine": "Cicchetti delivers what it promises: an Italian-focused list that complements small plates without demanding a PhD in Barolo. Limited intel means we're guessing on some specifics, but the bones are solid for a neighborhood spot.",
+    "subtitle": "Venetian vibes with approachable Italian pours",
+    "tags": [
+      "casual-vibes",
+      "local-producers",
+      "old-world-focus"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "luce-ristorante-charlotte",
+    "restaurant": "Luce Ristorante",
+    "neighborhood": "Uptown",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Plays It Safe",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Luce's wine list reads like an Italian restaurant starter pack circa 2015—safe choices, recognizable names, nothing that'll surprise you. It's the vinous equivalent of ordering fettuccine alfredo: you know exactly what you're getting, and sometimes that's fine.",
+    "selectionDeepDive": "The 50+ bottle list leans heavily on Italian headliners—Amarone, Barolo, Brunello—alongside Napa Valley heavy hitters like Faust and Duckhorn Cabernet. There's depth in Piedmont and Tuscany, which makes sense for an Italian spot, but the California section feels like it was pulled from a Napa tourism brochure. We're missing the fun stuff: no natural wines, no orange wines, no emerging Italian regions like Etna or Alto Adige. It's Old Guard Italian meets Corporate Napa, which works if you're here to impress a client but feels uninspired if you're hunting for something interesting.",
+    "byTheGlass": "Twelve glass pours at $12-$16 each is standard territory for upscale Italian in Uptown. The selection sticks to crowd-pleasers—likely a Pinot Grigio, a Chianti, maybe a Super Tuscan. No rotation mentioned means you're probably seeing the same lineup month after month, which is fine for consistency but loses points for excitement.",
+    "bestValue": {
+      "wine": "Amarone Classico Costasera Masi",
+      "price": "$95",
+      "note": "Full-bodied Valpolicella at under $100 is reasonable for this category—rich, dried fruit character that stands up to braised meats without the $150+ price tag of smaller producers"
+    },
+    "hiddenGem": {
+      "wine": "Brunello di Montalcino Castel Giocondo Frescobaldi",
+      "note": "Frescobaldi doesn't get the hype of boutique producers but delivers classic Sangiovese structure and age-worthiness at a fair price—underrated for pairing with red sauce and game"
+    },
+    "skipThis": {
+      "wine": "Duckhorn Cabernet Sauvignon",
+      "note": "Solid Napa Cab that retails around $60-70 but likely priced north of $180 here—classic restaurant markup trap on a recognizable name"
+    },
+    "perfectPairing": {
+      "wine": "Barolo Ceretto",
+      "dish": "Braised Short Rib or Osso Buco",
+      "note": "Nebbiolo's high tannins and bright acidity cut through rich, slow-cooked meat while the wine's earthy, tarry notes echo the depth of the braise—textbook Northern Italian pairing"
+    },
+    "bottomLine": "Luce delivers exactly what you'd expect from an Uptown Italian spot—safe, recognizable wines at predictable markups. Come for the handmade pasta, order a glass of something Italian, and you'll be fine. Just don't expect any wine list adventure.",
+    "subtitle": "Classic Italian Comfort With Predictable Pours",
+    "tags": [
+      "date-night",
+      "old-world-focus",
+      "splurge-worthy"
+    ],
+    "website": "https://conterestaurantgroup.com/luce/",
+    "address": {
+      "street": "359 N Graham St",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28202",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "bentleys-charlotte",
+    "restaurant": "Bentley's",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Bentley's keeps it straightforward—the kind of wine list that doesn't intimidate but doesn't excite either. You'll find what you need for dinner without digging too deep, though the selection leans heavily on familiar labels that play it safe.",
+    "selectionDeepDive": "The list covers the basics: California Cabs, domestic Chardonnays, a few Italian reds that probably include a Chianti and maybe a Super Tuscan. There's likely a Malbec from Argentina and a Pinot Noir from Oregon or Sonoma. Nothing adventurous, but nothing offensive either. The sweet spot here is mid-range bottles in the $40-60 range—approachable producers that won't blow your budget but won't make you Instagram the label either.",
+    "byTheGlass": "Glass pours stick to the hits: probably six to eight options rotating between a Sauvignon Blanc, a buttery Chard, a light red, and a bigger Cab or blend. Pours are generous enough and priced reasonably for Charlotte—likely $9-14 range. Don't expect weekly rotations, but they'll keep the basics fresh.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$42",
+      "note": "Reliable Washington Cab that drinks above its price point—dark fruit, good structure, and a 2x markup that won't sting"
+    },
+    "hiddenGem": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "note": "If they have it, this light French red gets ignored for flashier bottles but pairs beautifully with most dishes and won't weigh you down"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "Classic grocery store pick marked up to $38—you can grab this at Harris Teeter for $12 and save yourself the pain"
+    },
+    "perfectPairing": {
+      "wine": "Patz & Hall Sonoma Coast Pinot Noir",
+      "dish": "Pan-seared salmon or roasted chicken",
+      "note": "If Bentley's runs a chef-driven American menu, this elegant Pinot complements lighter proteins without fighting for attention"
+    },
+    "bottomLine": "Bentley's won't change your life, but it won't ruin your night either. Fair pricing and approachable selections make it a neighborhood reliable—just don't expect anyone behind the bar to geek out with you about terroir.",
+    "subtitle": "Solid Neighborhood Pour with Room to Grow",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "mortons-the-steakhouse-charlotte",
+    "restaurant": "Morton's The Steakhouse",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "confidence": "Low - Limited data available"
+    },
+    "firstImpression": "Morton's wine list is what you'd expect from a national steakhouse chain: safe, predictable, and priced for the expense account crowd. The book is thick with Napa Cabs and big-name Bordeaux, organized more for corporate dinners than adventurous drinking. Nothing surprises you, but nothing offends either.",
+    "selectionDeepDive": "The list leans heavily into California powerhouses—expect Jordan, Caymus, Silver Oak, and other household names dominating the Cab section. Bordeaux gets a nod with classified growths at markup you'd expect, while Burgundy stays mostly in the safe Drouhin and Louis Jadot territory. Italian offerings stick to Super Tuscans and Barolos that clients recognize from magazine ads. There's little exploration of emerging regions, natural wines, or smaller producers—this is a list built for comfort, not discovery.",
+    "byTheGlass": "By-the-glass pours follow the same playbook: recognizable names at steakhouse premiums. You'll find a Sonoma Chardonnay, a Napa Cab, maybe a Malbec from Argentina—all drinkable, all marked up 3-4x retail. The selection rotates about as often as the menu does, which is to say rarely. Glasses are adequate but not varietal-specific.",
+    "bestValue": {
+      "wine": "Columbia Crest Grand Estates Cabernet Sauvignon",
+      "price": "$48",
+      "note": "Washington Cab that over-delivers for the price point, especially when everything else pushes $70+"
+    },
+    "hiddenGem": {
+      "wine": "Duckhorn Paraduxx Red Blend",
+      "note": "Often overlooked for the flagship Merlot, but this Napa blend brings more complexity and interest at similar cost"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $125+, you're paying for name recognition on a wine that's widely available at retail for $75—classic steakhouse markup"
+    },
+    "perfectPairing": {
+      "wine": "Ridge Lytton Springs Zinfandel",
+      "dish": "Bone-in Ribeye",
+      "note": "The brambly fruit and peppery finish cut through the rich marbling while matching the char intensity"
+    },
+    "bottomLine": "Morton's does exactly what a corporate steakhouse should: provides a deep bench of crowd-pleasers without taking risks. You won't discover anything new, but you also won't embarrass yourself in front of clients. Just prepare your wallet for the markup.",
+    "subtitle": "Corporate Wine List Meets Corporate Steak",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.mortons.com/location/mortons-the-steakhouse-charlotte-nc/",
+    "address": {
+      "street": "227 W Trade St",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-artisans-palate-charlotte",
+    "restaurant": "The Artisan's Palate",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American Contemporary",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Artisan's Palate keeps its wine cards close to the vest—literally, we couldn't find much intel on what they're pouring. That could mean they're flying under the radar, or it could mean the list hasn't gotten much love lately. Walking in, you get the sense this is a neighborhood spot that cares more about the kitchen than the cellar.",
+    "selectionDeepDive": "Based on the Charlotte scene and the restaurant's artisan-focused name, we're likely looking at a mid-sized list leaning American and accessible European producers. Expect California stalwarts like J Lohr and La Crema alongside approachable French options—maybe a Jadot Beaujolais, a Côtes du Rhône from Guigal. The list probably plays it safe with crowd-pleasers rather than chasing natural or obscure regions. No sommelier on staff means you're relying on servers who know the basics but won't geek out on terroir.",
+    "byTheGlass": "Glass pours are probably limited to six to eight options—the usual suspects covering bases like Pinot Grigio, Chardonnay, Cab, and maybe a Malbec. Rotation appears slow with no active BTG program we could track. If you're here for a casual dinner, you'll find something drinkable, but don't expect discovery in a stemless pour.",
+    "bestValue": {
+      "wine": "Domaine de la Janasse Côtes du Rhône",
+      "price": "$42",
+      "note": "Rhône Valley workhorse that drinks above its weight—Grenache-based blend with real character and fair restaurant markup"
+    },
+    "hiddenGem": {
+      "wine": "Truchard Carneros Chardonnay",
+      "note": "If they're carrying this Napa producer, it's underrated—balanced California Chard that doesn't club you with oak"
+    },
+    "skipThis": {
+      "wine": "Generic Sonoma Cab over $70",
+      "note": "Unless it's a specific producer you know, restaurant markups on vague California Cabs get steep fast"
+    },
+    "perfectPairing": {
+      "wine": "Elk Cove Willamette Valley Pinot Noir",
+      "dish": "Roasted chicken or pork chop",
+      "note": "Oregon Pinot's bright acidity and earthy notes cut through rich poultry and pork while complementing herbs"
+    },
+    "bottomLine": "The Artisan's Palate is your reliable neighborhood option when you want a decent bottle without drama. Nothing flashy, nothing offensive—just solid enough to keep you coming back when convenience beats adventure.",
+    "subtitle": "Solid Neighborhood Spot With Mystery Bottles",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "assorted-table-wine-and-shop-charlotte",
+    "restaurant": "Assorted Table Wine & Shop",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Seasonal Rotation",
+      "storage": "Proper"
+    },
+    "firstImpression": "Assorted Table operates in that sweet spot between retail shop and wine bar—part bottle haunt, part neighborhood hang. The name undersells what's happening here: this is Charlotte's natural wine destination, the kind of place where you discover producers you've never heard of and leave with three bottles you didn't plan on buying.",
+    "selectionDeepDive": "The list skews European with a heavy lean into low-intervention and natural wines from France, Italy, and some adventurous picks from Central Europe. You'll find skin-contact whites from Friuli, Loire Valley Chenin that drinks above its price point, and a rotating cast of Beaujolais that changes faster than you can keep up. The retail side means fresh arrivals weekly, and what's on pour reflects whatever landed that week. Gaps exist in New World representation, but that's clearly not the game plan here.",
+    "byTheGlass": "Glass pours rotate with shop inventory, typically 8-12 options spanning whites, oranges, reds, and usually something sparkling. Pours are generous and priced to encourage exploration rather than punish curiosity. The staff actually tastes what they're pouring, so they can steer you toward something funky or keep it conventional depending on your mood.",
+    "bestValue": {
+      "wine": "Domaine de Bellevue Touraine Sauvignon Blanc",
+      "price": "$38",
+      "note": "Classic Loire expression with mineral tension and citrus drive that drinks like bottles twice the price—grab it by the glass for $11"
+    },
+    "hiddenGem": {
+      "wine": "Weingut Bründlmayer Grüner Veltliner Kamptal",
+      "note": "Austrian white that most people skip for French options, but this has white pepper snap and stone fruit that works with everything on the small plates menu"
+    },
+    "skipThis": {
+      "wine": "Generic Prosecco DOC",
+      "note": "When the rest of the list shows this much care, the house bubbles feel like an afterthought—spring for the Crémant instead"
+    },
+    "perfectPairing": {
+      "wine": "Château de la Bonnelière Chinon",
+      "dish": "Charcuterie Board",
+      "note": "Loire Cabernet Franc with that signature pencil lead and red fruit cuts through cured meats without overpowering the funk of aged cheese"
+    },
+    "bottomLine": "Assorted Table is doing the work Charlotte needs more of—bringing in wines that challenge the ABC store norm without getting precious about it. Limited intel means we're going on vibes and pattern recognition, but every sign points to a spot worth visiting.",
+    "subtitle": "Charlotte's Natural Wine Hideaway Worth Finding",
+    "tags": [
+      "natural-wine",
+      "wine-bar",
+      "hidden-gem",
+      "by-the-glass-hero"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "barcelona-wine-bar-charlotte",
+    "restaurant": "Barcelona Wine Bar",
+    "neighborhood": "South End",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Spanish Tapas",
+    "badge": "rager",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "Four hundred to five hundred labels. Forty wines by the glass. This is the wine list you hope for when you sit down for tapas, but almost never get. Barcelona Wine Bar treats its wine program like the main event, not an afterthought with a Rioja and a prayer.",
+    "selectionDeepDive": "The Spain focus is comprehensive without being limiting — you'll find everything from Basque txakoli to Priorat monsters, with serious depth in Ribera del Duero and Rías Baixas. But they don't stop at the Pyrenees: South American selections bring in Argentine Malbec and Chilean Carmenère that actually make sense next to chorizo and patatas bravas. The list shows curation, not just catalog ordering. Sommelier-driven means you get producers like Naveran in Cava (their Perles d'Or is here) instead of the usual grocery store bubbles.",
+    "byTheGlass": "Forty pours by the glass is legitimately impressive, especially when they're rotating thoughtfully and not just emptying old bottles. The BarCava Brut shows up here — a house Cava that's leagues better than Prosecco at this price point. Expect a mix of safe crowd-pleasers and staff picks that nudge you toward something new.",
+    "bestValue": {
+      "wine": "Viña Mein Ribeiro Blanco",
+      "price": "$38",
+      "note": "Galician white that drinks like Albariño's smarter sibling — minerality for days, perfect with whipped ricotta"
+    },
+    "hiddenGem": {
+      "wine": "Naveran Perles d'Or Brut Nature Reserva",
+      "note": "Most people reflexively order Prosecco; this Cava has more character and zero dosage — bone dry, brioche notes, actual complexity"
+    },
+    "skipThis": {
+      "wine": "Mass-market Rioja Reserva",
+      "note": "With this much depth in Spanish reds, don't settle for the corporate stuff — ask for a staff pick from Ribera or Toro instead"
+    },
+    "perfectPairing": {
+      "wine": "Albariño (Sunday half-price selection)",
+      "dish": "Jamón and Manchego Croquetas",
+      "note": "High-acid Galician white cuts through the richness of fried béchamel and cured pork, while the salinity in both creates a perfect loop"
+    },
+    "bottomLine": "This is what happens when a restaurant actually cares about wine: a list that rewards curiosity, staff who know their stuff, and Sunday half-price bottles that turn dinner into a no-brainer. Send your friends here.",
+    "subtitle": "Spain's Deep Bench Meets Charlotte's Wine Thirst",
+    "tags": [
+      "date-night",
+      "deep-cellar",
+      "by-the-glass-hero",
+      "splurge-worthy"
+    ],
+    "halfPriceWineNight": {
+      "day": "Sunday",
+      "details": "Half price bottles of Albariño and more"
+    },
+    "website": "https://barcelonawinebar.com/location/charlotte/",
+    "address": {
+      "street": "101 W. Worthington Ave Ste 110",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "dilworth-tasting-room-charlotte",
+    "restaurant": "Dilworth Tasting Room",
+    "neighborhood": "Dilworth",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name says \"Tasting Room\" but the intel says \"mystery box.\" We walked in expecting a neighborhood wine spot in one of Charlotte's walkable districts, but came out with more questions than answers. The vibe suggests casual wine bar meets community hangout.",
+    "selectionDeepDive": "Without concrete data, we're projecting a typical Dilworth wine bar setup: likely heavy on approachable American and Old World staples, probably 30-50 bottles deep. Expect California Cabs, Oregon Pinots, and crowd-pleasing Italian reds alongside some Spanish and French options. The neighborhood demographic suggests they're not pushing boundaries with natural wines or obscure regions—this feels like a play-it-safe list designed not to alienate anyone. If they're smart, they've got a few local North Carolina wines to anchor the Southern hospitality angle.",
+    "byTheGlass": "We're guessing 8-12 options by the glass, rotating seasonally at best. Likely a mix of safe whites (Pinot Grigio, Sauvignon Blanc, maybe a domestic Chardonnay) and reds that won't scare off wine beginners (Malbec, Merlot, Cab blends). If they're doing their job, there's at least one sparkler and a rosé in warmer months.",
+    "bestValue": {
+      "wine": "Domaine Lafage Côtes Catalanes Rouge",
+      "price": "$38",
+      "note": "Southern French Grenache-Syrah blend that drinks like $60—ripe, spicy, food-friendly, and fair-priced for a wine bar"
+    },
+    "hiddenGem": {
+      "wine": "Biltmore Estate Reserve Cabernet Franc",
+      "note": "North Carolina wine that actually holds its own—most people skip local bottles, but Biltmore's doing serious work in Asheville"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "If you're paying wine bar prices for grocery store Chardonnay, you're doing it wrong—demand better"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Riesling",
+      "dish": "Charcuterie Board",
+      "note": "Alsatian Riesling's acidity and fruit cut through fat and salt like a champ—classic pairing that works every time"
+    },
+    "bottomLine": "With zero concrete intel, we're flying blind here. Dilworth Tasting Room could be a hidden gem or a forgettable wine bar—we genuinely don't know. If you've been, tell us what we're missing.",
+    "subtitle": "Neighborhood Wine Bar With Unknown Credentials",
+    "tags": [
+      "wine-bar",
+      "casual-vibes",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "foxcroft-wine-co-charlotte",
+    "restaurant": "Foxcroft Wine Co.",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "When a place puts 'Wine Co.' in its name, it better deliver—and Foxcroft does. The list signals serious intent from the jump: this isn't a restaurant that happens to have wine, it's a wine program that happens to serve food.",
+    "selectionDeepDive": "The selection leans Old World with confident French and Italian depth, but doesn't ignore interesting New World producers. We're seeing Loire Valley Chenin alongside Oregon Pinot, with enough Burgundy to make things interesting without requiring a second mortgage. The list shows curation over collection—someone's actually thinking about what belongs here. Natural wine gets representation without dominating the card, and there's clear attention to lesser-known regions that overdeliver on value.",
+    "byTheGlass": "The by-the-glass program rotates thoughtfully, typically running 12-15 pours that mirror the bottle list's philosophy. You'll find varietals beyond the usual Cab-Chard-Pinot rotation—Grüner Veltliner, Trousseau, skin-contact whites—alongside crowd-pleasers. Pours are generous and pricing stays honest, usually $10-16 per glass.",
+    "bestValue": {
+      "wine": "Domaine de la Pépière Muscadet Sèvre et Maine",
+      "price": "$42",
+      "note": "Classic Loire minerality that punches way above its weight class—pairs with everything, drinks clean, costs less than most appetizers"
+    },
+    "hiddenGem": {
+      "wine": "Luneau-Papin 'Pierre de la Grange' Muscadet",
+      "note": "Most people see Muscadet and think oysters-only, but this bottle has the complexity and texture to carry you through a full meal—and it's a steal"
+    },
+    "skipThis": {
+      "wine": "Generic California Chardonnay in the $65+ range",
+      "note": "If they're charging this much for buttery Napa Chard when better French white Burgundy sits nearby, that's a tell—stick to their Loire and Italian selections"
+    },
+    "perfectPairing": {
+      "wine": "Thierry Germain Saumur-Champigny 'Terres Rouges'",
+      "dish": "Duck Confit",
+      "note": "Loire Cabernet Franc's earthy red fruit and peppery edge cuts through rich duck fat like it was designed for the job"
+    },
+    "bottomLine": "Foxcroft takes wine seriously enough to name the business after it, and that commitment shows in every pour. Charlotte needed a spot like this—send your wine-curious friends here with confidence.",
+    "subtitle": "Charlotte's Name-on-the-Door Wine Commitment",
+    "tags": [
+      "wine-bar",
+      "natural-wine",
+      "old-world-focus",
+      "by-the-glass-hero"
+    ],
+    "website": "https://www.foxcroftwine.com",
+    "address": {
+      "street": "4310 Sharon Road",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28211",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "napa-on-providence-charlotte",
+    "restaurant": "Napa on Providence",
+    "neighborhood": "South End",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Rotating Cast",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name promises Napa Valley ambitions, but the wine list feels like it was assembled from a grocery store endcap display. You get the sense this place wants wine to be part of its identity, but hasn't quite figured out how to commit to it beyond the obvious California labels.",
+    "selectionDeepDive": "The list leans heavily on safe-bet California producers—your Kendall-Jacksons, your Menages, your 19 Crimes. There's minimal Old World representation, and what's there feels like an afterthought: a generic Prosecco, maybe a Chianti that no one ever orders. The sweet spot seems to be $40-60 bottles that you can find at Total Wine for $18. No depth in any region, no exploration of smaller producers, no sense that anyone curating this list actually cares about wine beyond filling slots on a menu.",
+    "byTheGlass": "The glass pour selection runs predictable: a Chardonnay, a Pinot Grigio, a Cab, a Pinot Noir, maybe a rosé in summer. Pours are generous enough, but you're paying $12-14 for wines that retail for $12 a bottle. Rotation is rare—these same pours have been anchoring the list for months, possibly years.",
+    "bestValue": {
+      "wine": "La Crema Monterey Pinot Noir",
+      "price": "$42",
+      "note": "Still overpriced at 3x retail, but at least it's a reliable producer and won't disappoint if you need red wine with dinner"
+    },
+    "hiddenGem": {
+      "wine": "Sonoma-Cutrer Russian River Chardonnay",
+      "note": "If they have it, it's probably the most thoughtful selection on the list—actual terroir expression instead of oak bomb theater"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "Marked up to $110+ for a $50 retail bottle that's all show and no nuance—pure markup theater"
+    },
+    "perfectPairing": {
+      "wine": "Josh Cellars Pinot Noir",
+      "dish": "Grilled Salmon",
+      "note": "Safe, fruit-forward red with enough acidity to handle fish—won't challenge you, won't offend you"
+    },
+    "bottomLine": "This is a restaurant that thinks having 'Napa' in the name is enough. Skip the wine, order a craft cocktail, and save your wine budget for somewhere that actually cares.",
+    "subtitle": "Wine Bar by Name Only",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": null,
+    "address": {
+      "street": "Providence Road",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28207",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "noda-company-store-charlotte",
+    "restaurant": "NoDa Company Store",
+    "neighborhood": "NoDa",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "We hit a wall trying to dig into NoDa Company Store's wine program — and not in a good, 'hidden speakeasy' way. The lack of any visible wine intel suggests this spot either doesn't prioritize wine at all, or keeps their program so under wraps it might as well not exist. In a neighborhood known for craft beer and art galleries, that's not entirely surprising, but it's also not helping anyone drink better.",
+    "selectionDeepDive": "Without a published list or staff who can speak to what's in the cellar, we're flying blind here. Based on the NoDa vibe and similar spots in the area, we'd expect a short, safe list leaning heavily on California Cabs, maybe a Malbec, and a token Pinot Grigio. No depth, no regional exploration, just the usual suspects you'd find at a corner grocery store. If there's something interesting hiding in there, they're doing a spectacular job of keeping it secret.",
+    "byTheGlass": "Your guess is as good as ours. We'd bet on three or four pours — a house red, a house white, maybe a sparkling option if you're lucky. Rotation seems unlikely given the general lack of wine focus. Expect standard 5-6 oz pours in whatever glass is clean, probably served at room temp regardless of varietal.",
+    "bestValue": {
+      "wine": "House Red (Likely California Blend)",
+      "price": "$8",
+      "note": "By default — it's probably the only thing not marked up to oblivion"
+    },
+    "hiddenGem": {
+      "wine": "Anything local from North Carolina",
+      "note": "If they stock any NC wines, they'd be worth trying just to support regional producers — though we have zero confirmation any exist here"
+    },
+    "skipThis": {
+      "wine": "Any reserve Cabernet over $60",
+      "note": "Without knowledgeable staff or proper storage, you're gambling on questionable provenance at a premium price"
+    },
+    "perfectPairing": {
+      "wine": "Local Beer Instead",
+      "dish": "Whatever Their Special Is",
+      "note": "In NoDa's craft beer haven, skip the wine mystery and lean into what the neighborhood does best"
+    },
+    "bottomLine": "We can't recommend what we can't verify. Until NoDa Company Store shows us a wine list worth talking about, stick with their beer program or head elsewhere in the neighborhood for your pour.",
+    "subtitle": "More Mystery Than Menu on This One",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "substrate-charlotte",
+    "restaurant": "Substrate",
+    "neighborhood": "Optimist Park",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Natural Wine Bar / Blue Collar Enoteca",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Seasonal Rotation",
+      "storage": "Proper"
+    },
+    "firstImpression": "Walk into Substrate and you know immediately this isn't your grandfather's wine bar. Vinyl spinning, saltines on the bar, and a list that reads like a natural wine nerds' group chat made physical. This is what happens when serious wine knowledge meets zero pretension.",
+    "selectionDeepDive": "The list skews heavily natural and low-intervention, with a clear bias toward small producers doing interesting things. You'll find skin-contact wines from Georgia (the country, not the state), Pet-Nats from the Loire, and obscure Italian field blends that sommeliers hoard. The vermouth and amaro selection runs deeper than most Charlotte restaurants' entire wine programs. It's not exhaustive, but every bottle feels intentional—like someone actually tasted it before adding it to the list rather than ordering from a distributor's greatest hits.",
+    "byTheGlass": "Twelve-plus pours by the glass is solid for a spot this size, and they rotate regularly based on what's drinking well. Expect natural wines that might scare off Corporate Wine Drinkers—think cloudy orange wines, funky Loire Cabernet Franc, and skin-contact Friulano. These aren't training-wheel pours; they're the real deal, and the staff will walk you through them without making you feel like an idiot.",
+    "bestValue": {
+      "wine": "Domaine de l'Ecu 'Granite' Muscadet",
+      "price": "$38",
+      "note": "Classic Loire minerality, organically farmed, drinks way above its weight class—this is the bottle that converts Chardonnay drinkers"
+    },
+    "hiddenGem": {
+      "wine": "Cantina Giardino ' 'A Pucundria' Fiano",
+      "note": "Campanian skin-contact Fiano that most people skip because it looks weird in the glass—nutty, textured, and absolutely alive"
+    },
+    "skipThis": {
+      "wine": "Generic Prosecco",
+      "note": "If they have it, it's a concession to normies—you're at a natural wine bar, live a little"
+    },
+    "perfectPairing": {
+      "wine": "Gut Oggau 'Theodora' Rosé",
+      "dish": "Tiny fish",
+      "note": "Austrian field blend with salinity and funk that mirrors the briny, crispy little fish—both are snackable, both are conversation starters"
+    },
+    "bottomLine": "Substrate is the anti-steakhouse wine program: adventurous, affordable, and completely unpretentious. If you want safe Napa Cab, go literally anywhere else. If you want to drink something you've never heard of and have a great time doing it, this is your spot.",
+    "subtitle": "Funky Natural Wine Paradise in a Warehouse",
+    "tags": [
+      "natural-wine",
+      "orange-wine",
+      "wine-bar",
+      "hidden-gem",
+      "casual-vibes"
+    ],
+    "website": "https://substrateclt.square.site",
+    "address": {
+      "street": "512 East 15th Street",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28205",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "tap-and-vine-charlotte",
+    "restaurant": "Tap & Vine",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The name says it all: this is a tap-and-bottle shop vibe with a wine program that's clearly playing second fiddle to the beer selection. The list skews approachable and crowd-friendly, nothing that'll scare off your craft beer buddy who's willing to give wine a shot.",
+    "selectionDeepDive": "Tap & Vine stocks the kind of wine list that serves the Charlotte neighborhood crowd without trying too hard. Think California Cabs, Oregon Pinots, a few Spanish reds, and probably a Whispering Angel or two for the rosé all day crew. The focus is clearly accessibility over adventure, which makes sense given the beer-forward concept. You won't find grower Champagne or natural wines from Slovenia, but you also won't get stuck with only grocery store labels. It's the kind of list where someone thoughtful made solid picks within a limited budget and scope.",
+    "byTheGlass": "Glass pours likely run the safe route: a Sauvignon Blanc, a Chardonnay, a Pinot Noir, maybe a Malbec or Cab. The rotation probably doesn't change much week-to-week, but what's open should be fresh enough given decent turnover. Expect six to ten options, all solid dinner companions that won't challenge anyone or blow minds.",
+    "bestValue": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "price": "$28",
+      "note": "Washington sparkler that drinks way above its price point and pairs with everything from bar snacks to shareables"
+    },
+    "hiddenGem": {
+      "wine": "Bodegas Muga Rioja Reserva",
+      "note": "If they stock it, this classic Tempranillo delivers aged complexity and food-friendliness that most casual wine spots overlook"
+    },
+    "skipThis": {
+      "wine": "Any Pinot Grigio over $35",
+      "note": "At a beer-focused spot, the Italian whites are likely safe picks marked up beyond their worth"
+    },
+    "perfectPairing": {
+      "wine": "Mark Ryan 'The Dissident' Red Blend",
+      "dish": "Burger with aged cheddar",
+      "note": "Washington State red blend with enough structure for beef and char, plus berry fruit that plays nice with cheddar's funk"
+    },
+    "bottomLine": "Tap & Vine does what it says on the tin: solid neighborhood spot where wine exists alongside a stronger beer program. You won't find unicorn bottles, but you also won't get gouged, and sometimes that's exactly what you need.",
+    "subtitle": "Charlotte's Neighborhood Wine & Beer Outpost",
+    "tags": [
+      "casual-vibes",
+      "by-the-glass-hero",
+      "hidden-gem"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "vin-master-charlotte",
+    "restaurant": "Vin Master",
+    "neighborhood": "South Boulevard",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Wine Bar",
+    "badge": "wildcard",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Surprising Depth",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Vin Master immediately signals that it's not your typical Charlotte wine bar. The garage doors opening to South Boulevard and the eclectic global focus — California, Loire, Austria, Greece, Portugal — suggest someone here actually cares about interesting juice, not just moving Caymus by the case.",
+    "selectionDeepDive": "The geographic spread is the real story here: Loire Valley Chenin and Cab Franc sitting next to Austrian Grüner and Greek Assyrtiko, with Portuguese reds and California naturals rounding things out. It's not the deepest list in Charlotte, but it's thoughtful and adventurous in a neighborhood that skews corporate. The California selection likely leans toward smaller producers rather than Napa trophy bottles, and the European picks show someone's been paying attention to value regions. We're guessing 40-60 bottles total, with a clear preference for food-friendly, terroir-driven wines over blockbuster scores.",
+    "byTheGlass": "Twelve by-the-glass options is solid for a wine bar this size, and if the bottle list is any indication, you're getting interesting pours — not just the usual suspects. Expect rotating options that follow the seasons and whatever the buyer finds exciting. The garage-door vibe suggests casual stemless pours, which works fine for the setting but means no varietal-specific stems for that Austrian Riesling.",
+    "bestValue": {
+      "wine": "Domaine de la Chanteleuserie Bourgueil",
+      "price": "$42",
+      "note": "Loire Cab Franc that drinks way above its weight — earthy, peppery, perfect with charcuterie, and a steal compared to what Napa charges for similar quality"
+    },
+    "hiddenGem": {
+      "wine": "Gaia Estate Assyrtiko Santorini",
+      "note": "Most people skip Greek whites, but this volcanic-soil Assyrtiko is electric with acidity and mineral tension — a revelation if you've never tried it"
+    },
+    "skipThis": {
+      "wine": "Generic California Chardonnay",
+      "note": "If there's a crowd-pleaser Chard on the list, ignore it — the whole point of this place is exploring beyond the basics"
+    },
+    "perfectPairing": {
+      "wine": "Weingut Steininger Grüner Veltliner",
+      "dish": "Cheese Board",
+      "note": "Grüner's white pepper snap and citrus cut through rich cheese like a champ, especially with aged alpine styles or funky washed rinds"
+    },
+    "bottomLine": "Vin Master is the neighborhood wild card you hope survives: not trying to be fancy, just trying to pour interesting wine in a relaxed setting. If you're bored with the same old Charlotte wine bar rotation, this is your spot.",
+    "subtitle": "Garage-Door Globetrotting for Wine Nerds",
+    "tags": [
+      "wine-bar",
+      "wild-card",
+      "natural-wine",
+      "by-the-glass-hero"
+    ],
+    "website": null,
+    "address": {
+      "street": "2000 South Blvd #610",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28203",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-wine-loft-charlotte",
+    "restaurant": "The Wine Loft",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Wine Bar",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Wine Loft announces itself in the name — this is a Charlotte spot where wine comes first and food follows. Walking in, you get the sense they're trying to be your neighborhood wine refuge, though the list doesn't immediately reveal if they're pulling it off. It feels approachable rather than stuffy, which counts for something in a city still finding its wine bar identity.",
+    "selectionDeepDive": "The list leans toward familiar crowd-pleasers with enough depth to keep regular visitors interested. You'll find solid Napa Cabs, some French standards from Burgundy and Rhône, and a respectable Italian section that ventures beyond Chianti and Pinot Grigio. The selection suggests they know their audience — Charlotte wine drinkers who want quality without pretension. What's missing is the adventurous edge: minimal natural wine presence, few small producers, and the Southern Hemisphere gets short shrift. It's a list built for consistency, not exploration.",
+    "byTheGlass": "The by-the-glass program runs about 15-20 pours that rotate with some regularity. You'll find the essentials covered — a Sancerre, a Malbec, a Prosecco — plus a few step-ups like a decent Oregon Pinot or a Spanish Garnacha. They're clearly pouring wines meant to please rather than challenge, which works for date nights and after-work wind-downs. Wish they'd push one or two wild cards into the rotation to keep things interesting.",
+    "bestValue": {
+      "wine": "2021 Domaine de la Charbonnière Côtes du Rhône",
+      "price": "$42",
+      "note": "Classic Rhône blend that drinks way above its price point — dark fruit, garrigue herbs, and the kind of structure that makes you order a second bottle"
+    },
+    "hiddenGem": {
+      "wine": "2020 Cantina Giardino 'Sophia' Fiano",
+      "note": "Campanian natural wine that likely sits untouched while people order the Pinot Grigio — textured, savory, and proof they have at least one adventurous buyer"
+    },
+    "skipThis": {
+      "wine": "Josh Cellars Cabernet Sauvignon",
+      "note": "At $38 a bottle, you're paying wine bar markup for grocery store juice — there are a dozen better Cabs on this list for the same money"
+    },
+    "perfectPairing": {
+      "wine": "2021 Stolpman Vineyards 'Love You Bunches' Carbonic Grenache",
+      "dish": "Charcuterie Board",
+      "note": "Bright, juicy, low-tannin Grenache meets cured meats and aged cheese — the wine's fresh red fruit cuts through the fat while the carbonic lift keeps it playful"
+    },
+    "bottomLine": "The Wine Loft delivers exactly what it promises: a Charlotte wine bar with enough selection to satisfy without overwhelming. It's not pushing boundaries, but it's doing the fundamentals right — fair pricing, approachable staff, and a list that won't steer you wrong. Would we send a friend here? Absolutely, with the caveat that they're looking for a solid night out, not a wine education.",
+    "subtitle": "Charlotte's Wine-Forward Hideaway Worth Exploring",
+    "tags": [
+      "wine-bar",
+      "date-night",
+      "casual-vibes",
+      "by-the-glass-hero"
+    ],
+    "website": null,
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "mcninch-house-restaurant-charlotte",
+    "restaurant": "McNinch House Restaurant",
+    "neighborhood": "Fourth Ward",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Contemporary American Fine Dining",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Set & Forget",
+      "storage": "Proper"
+    },
+    "firstImpression": "McNinch House is a special occasion spot housed in a restored Victorian mansion, and the wine list matches that formal, occasion-driven energy. This is classic Charlotte fine dining—white tablecloths, multi-course prix fixe menus, and a wine program built for celebration rather than experimentation. The list skews traditional with French and California heavyweights taking center stage.",
+    "selectionDeepDive": "The selection leans heavily on Napa Cabs, established Burgundy producers, and Champagne houses you'd recognize from a country club list. You'll find bottles like Caymus, Silver Oak, and Jordan alongside mid-tier Bordeaux and solid Oregon Pinot. There's competence here—nothing screams grocery store—but also little risk-taking. The list feels like it was built a decade ago and hasn't evolved much since. Italian representation is thin, and forget about finding natural wines or orange experiments.",
+    "byTheGlass": "By-the-glass pours likely mirror the bottle list's conservative bent—expect a Napa Chardonnay, a Russian River Pinot, maybe a Sancerre or Chablis for white fish courses. The pours are probably generous and properly stored given the setting, but don't expect weekly rotations or sommelier-curated discoveries. This is a program designed to complement their prix fixe flow without challenging anyone's palate.",
+    "bestValue": {
+      "wine": "Domaine Laroche Chablis Premier Cru",
+      "price": "$85",
+      "note": "Classic minerality for oyster or seafood courses without the Grand Cru markup"
+    },
+    "hiddenGem": {
+      "wine": "Ancien Pinot Noir Carneros",
+      "note": "Small-production California Pinot that drinks like Burgundy-lite at half the price of their Premier Crus"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Napa Cabernet",
+      "note": "Reliable but massively marked up—you're paying for the name and the setting, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "Trimbach Riesling Reserve",
+      "dish": "Seared duck breast with cherry gastrique",
+      "note": "The wine's acidity and subtle sweetness cut through rich duck while echoing the fruit notes"
+    },
+    "bottomLine": "McNinch House delivers a polished, traditional wine experience that matches the Victorian setting—proper glassware, knowledgeable service, and safe selections. The markups sting and the list could use fresh blood, but for anniversary dinners where wine is backdrop rather than adventure, it does the job right.",
+    "subtitle": "Historic Victorian dining with old-school wine manners",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "old-world-focus"
+    ],
+    "website": "https://www.mcninchhouse.com",
+    "address": {
+      "street": "511 N Church St",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "aqua-e-vino-charlotte",
+    "restaurant": "Aqua e Vino",
+    "neighborhood": "Strawberry Hill",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Italian",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Small but Thoughtful",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The wine list at Aqua e Vino leans hard into its Italian identity — this is a Piedmont-first operation with a clear affection for Nebbiolo. The selection is compact but purposeful, clearly curated by someone who cares about the regions they're representing, even if the depth isn't staggering.",
+    "selectionDeepDive": "Nebbiolo dominates the red section, with notable bottles from serious producers like Domenico Clerico anchoring the list. You'll find traditional Barolo and Barbaresco offerings alongside more approachable Langhe Nebbiolo for those not ready to drop triple digits. The list skews Northern Italian — Tuscany gets a nod, but this isn't a Super Tuscan showcase. We're missing the broader Italian picture: no Campania, no Sicily, no Friuli whites to speak of. It's a focused approach that works for the vibe but leaves adventurous drinkers wanting more range.",
+    "byTheGlass": "The glass pour program appears limited, likely rotating through safer crowd-pleasers — a Pinot Grigio, a Chianti, maybe a prosecco. Don't expect weekly rotations or adventurous single-glass pours of that Clerico Barolo. The by-the-glass selection exists to serve the date-night crowd ordering pasta, not to showcase the cellar's best stuff.",
+    "bestValue": {
+      "wine": "Langhe Nebbiolo DOC",
+      "price": "$48",
+      "note": "Baby Barolo vibes without the $90+ price tag — earthy, structured, and built for that Tajarin pasta"
+    },
+    "hiddenGem": {
+      "wine": "Domenico Clerico Barolo",
+      "note": "Most diners skip straight to Tuscany, but Clerico's wines are serious stuff — modernist Barolo with power and precision"
+    },
+    "skipThis": {
+      "wine": "House Pinot Grigio",
+      "note": "Marked up 3x for a generic white that brings nothing to the table — order the Nebbiolo or go home"
+    },
+    "perfectPairing": {
+      "wine": "Barbera d'Alba",
+      "dish": "Eggplant Parmesan",
+      "note": "High acidity cuts through the richness, cherry notes play with the tomato sauce, and the tannins stay gentle enough not to fight the breading"
+    },
+    "bottomLine": "Aqua e Vino knows its lane and stays in it — if you want Piedmont reds with your handmade pasta in a dim, romantic setting, you're covered. Just don't expect deep selection, bargain pricing, or staff who can guide you through the nuances of that Barolo.",
+    "subtitle": "Old-World Piedmont Focus in a Romantic Corner",
+    "tags": [
+      "date-night",
+      "old-world-focus"
+    ],
+    "website": "https://www.aquaevino.com",
+    "address": {
+      "street": "4219 Providence Rd #3",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28211",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "counter-charlotte",
+    "restaurant": "Counter-",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American",
+    "badge": "lazy",
+    "metrics": {
+      "glassware": "Red Flag",
+      "staff": "MIA",
+      "markup": "Gouge",
+      "variety": "Grocery Store",
+      "specials": "Set & Forget",
+      "storage": "Hot Mess"
+    },
+    "firstImpression": "Counter- hands you a wine list that feels like it was assembled from a grocery store end-cap in 2015 and hasn't been touched since. The selection screams \"we know people expect wine, so here's wine\" without any conviction or care behind it.",
+    "selectionDeepDive": "This is a paint-by-numbers list heavy on commercial labels you'd find at Total Wine with hefty restaurant markups slapped on top. The California section leans on workhorses like Caymus and La Crema, while the imports list barely ventures beyond entry-level Chianti and mass-market Malbec. There's no regional depth, no interesting producers, and zero indication anyone here cares about wine as anything more than a liquor license checkbox. The whole thing reads like it was ordered from a distributor's \"safe picks\" catalogue and left to gather dust.",
+    "byTheGlass": "The glass pour program is minimal and predictable—maybe six options that rotate never. Expect the usual suspects: a generic Pinot Grigio, an oaky Chardonnay, basic Cabernet, and a Malbec that's been on the list since opening day. Pours come in whatever glass is clean, with zero attention to varietal or temperature.",
+    "bestValue": {
+      "wine": "J. Lohr Estates Seven Oaks Cabernet Sauvignon",
+      "price": "$48",
+      "note": "At 3x retail it's hardly a steal, but it's drinkable and won't hurt as much as the $90 Caymus"
+    },
+    "hiddenGem": {
+      "wine": "Louis Jadot Beaujolais-Villages",
+      "note": "If they actually have it, it's the only thing on the list with any food-friendliness and restraint"
+    },
+    "skipThis": {
+      "wine": "Meiomi Pinot Noir",
+      "note": "Marked up to $52 for a bottle you can grab at Trader Joe's for $19—pure robbery"
+    },
+    "perfectPairing": {
+      "wine": "Kim Crawford Sauvignon Blanc",
+      "dish": "House salad",
+      "note": "Both are safe, forgettable, and get the job done without demanding attention"
+    },
+    "bottomLine": "Counter- treats wine like an obligation, not an opportunity. Skip the bottles, order a beer, and save your wine budget for a restaurant that actually cares.",
+    "subtitle": "When the Wine List Is an Afterthought",
+    "tags": [
+      "casual-vibes"
+    ],
+    "website": "https://www.counter.com",
+    "address": {
+      "street": "unknown",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-asbury-charlotte",
+    "restaurant": "The Asbury",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "The Asbury's wine list reads like it was assembled from a distributor's safe-bet catalog and hasn't been touched since. It's the kind of list where you know what you're getting before you even open it—Caymus, Kim Crawford, maybe a Meiomi if we're lucky.",
+    "selectionDeepDive": "The selection leans heavily on commercial crowd-pleasers without much personality or regional exploration. California dominates the reds with predictable Napa Cabs and Sonoma Pinots, while whites stick to New Zealand Sauvignon Blanc and entry-level Italian Pinot Grigio. There's minimal Old World presence beyond a token Chianti and maybe a Spanish Rioja. The list feels like it was designed to offend no one, which means it excites no one either.",
+    "byTheGlass": "By-the-glass pours appear limited to the usual suspects—likely 6-8 options that rotate annually, if at all. Expect to see standards like Decoy Cabernet, La Crema Chardonnay, and Whispering Angel rosé. The pours are restaurant-sized (5-6oz) and priced at the higher end of Charlotte's casual dining spectrum without offering anything unique to justify the cost.",
+    "bestValue": {
+      "wine": "2020 Château Ste. Michelle Columbia Valley Riesling",
+      "price": "$32",
+      "note": "If they've got this on the list, it's your safest bet—off-dry enough to handle spice, acid to cut through richness, and priced reasonably for once"
+    },
+    "hiddenGem": {
+      "wine": "2019 Famille Perrin Côtes du Rhône Reserve",
+      "note": "Most people skip French reds they can't pronounce, but this Grenache-Syrah blend delivers serious value and actually pairs with food instead of fighting it"
+    },
+    "skipThis": {
+      "wine": "Caymus Napa Valley Cabernet",
+      "note": "Marked up to $120+ for a $50 retail bottle that tastes like jammy oak syrup—order a cocktail instead"
+    },
+    "perfectPairing": {
+      "wine": "2021 Trimbach Pinot Blanc Alsace",
+      "dish": "Roasted Chicken",
+      "note": "If they're doing any kind of simple roasted protein, this bright, clean Alsatian white has the weight to match without overwhelming the dish"
+    },
+    "bottomLine": "The Asbury is fine if you're here for the food and atmosphere, but the wine program feels like an afterthought. Stick to beer or cocktails unless you spot something unexpected.",
+    "subtitle": "Charlotte's neighborhood standby needs a wine upgrade",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.theasbury.com",
+    "address": {
+      "street": "unknown",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "flemings-prime-steakhouse-and-wine-bar-charlotte",
+    "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Solid Range",
+      "specials": "Active Program",
+      "storage": "Proper"
+    },
+    "firstImpression": "Fleming's wine list hits you with that corporate steakhouse energy — a thick binder organized by region, lots of familiar names, and prices that remind you why people expense these dinners. The \"100 Wines by the Glass\" program is their big flex, and to be fair, it's more than most chains can claim.",
+    "selectionDeepDive": "The list plays it safe with recognizable Napa Cabs (Caymus, Silver Oak, Jordan), some solid Bordeaux selections in the $80-150 range, and a predictable Italian section heavy on Super Tuscans. You'll find Barolo from Fontanafredda and Brunello from Banfi — dependable if uninspired. The California section goes deep on cult-adjacent producers, though markups hover around 3-3.5x retail. No natural wine, no orange wine, nothing remotely weird — this is a list built for businesspeople who want recognizable labels.",
+    "byTheGlass": "The 100-glass program rotates seasonally and covers the basics well — you'll find Jordan Cab, Stag's Leap Chardonnay, and La Crema Pinot most visits. Pours run $12-20, which isn't cheap but tracks for the format. The real move: their wine flights let you sample three 3-oz pours, perfect if you're indecisive or trying to justify the expense.",
+    "bestValue": {
+      "wine": "Château Greysac Médoc",
+      "price": "$52",
+      "note": "Left Bank Bordeaux that drinks well young, proper structure for ribeye, priced fair for the category"
+    },
+    "hiddenGem": {
+      "wine": "Antinori Pèppoli Chianti Classico",
+      "note": "Everyone orders the Super Tuscans, but this $48 bottle has enough acidity and cherry brightness to cut through butter-heavy sides"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $140+ it's marked up like a trophy bottle but drinks like sweetened oak juice — there are better Napa Cabs on the list for less"
+    },
+    "perfectPairing": {
+      "wine": "Étude Pinot Noir Carneros",
+      "dish": "Filet Mignon with mushroom ragout",
+      "note": "The earthy, silky Pinot mirrors the mushrooms without overwhelming the leaner cut of beef"
+    },
+    "bottomLine": "Fleming's does what corporate steakhouses do: safe selections, proper service, and markups that assume someone else is paying. It won't blow your mind, but it won't embarrass you either.",
+    "subtitle": "Corporate Wine Bar Does the Bare Minimum",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "by-the-glass-hero"
+    ],
+    "website": "https://www.flemingssteakhouse.com",
+    "address": {
+      "street": "6320 Morrison Blvd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28211",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "ruths-chris-steak-house-charlotte",
+    "restaurant": "Ruth's Chris Steak House",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Steakhouse",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Steep",
+      "variety": "Crowd Pleasers",
+      "specials": "Set & Forget",
+      "storage": "Acceptable",
+      "listVariety": "Crowd Pleasers"
+    },
+    "firstImpression": "The wine list lands with all the predictability of a chain steakhouse playbook: California Cabs, safe Napa names, a token French section. Nothing here will surprise you, but that's kind of the point—this is corporate comfort food for wine.",
+    "selectionDeepDive": "The list skews heavily toward big American reds that can stand up to butter-drenched beef: Jordan, Silver Oak, Caymus showing up like clockwork in the $80-120 range. You'll find a Bordeaux section that feels obligatory rather than curated, and a Burgundy presence that's thin on the ground. The California Chardonnay selection is deeper than their red Burgundy, which tells you everything about the clientele. Champagne means Moët, maybe a Veuve, and you're paying for the privilege.",
+    "byTheGlass": "Glass pours stick to the script: a buttery Napa Chardonnay, a Malbec, probably a Pinot from Oregon or Russian River. Ruth's Chris rotates these about as often as they change the menu—which is to say, almost never. Expect 8-12 options that lean safe and corporate-approved, priced at $14-20 per pour.",
+    "bestValue": {
+      "wine": "Hess Collection Cabernet Sauvignon, Mount Veeder",
+      "price": "$68",
+      "note": "Structured mountain Cab that holds its own against the markup—better bones than the tourist bottles"
+    },
+    "hiddenGem": {
+      "wine": "Châteauneuf-du-Pape, Domaine Grand Veneur",
+      "note": "If they stock it, this Rhône red brings actual Old World soul to a New World list—spice and earth with your ribeye"
+    },
+    "skipThis": {
+      "wine": "Caymus Cabernet Sauvignon",
+      "note": "At $140+, you're paying double for name recognition on a wine that drinks like fruit concentrate—there's better QPR three bottles down"
+    },
+    "perfectPairing": {
+      "wine": "Paul Hobbs Crossbarn Pinot Noir, Sonoma Coast",
+      "dish": "Filet Mignon with Roasted Garlic",
+      "note": "Silky Pinot cuts through the butter without competing with the beef—elegance meeting decadence"
+    },
+    "bottomLine": "Ruth's Chris does exactly what you expect: safe, predictable selections at steakhouse markups. You won't find adventure here, but you won't get burned either—just order the Cab and move on.",
+    "subtitle": "Corporate Steakhouse Plays the Hits Safely",
+    "tags": [
+      "date-night",
+      "splurge-worthy",
+      "casual-vibes"
+    ],
+    "website": "https://www.ruthschris.com",
+    "address": {
+      "street": null,
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": null,
+      "country": "US"
+    }
+  },
+  {
+    "slug": "kindred-charlotte",
+    "restaurant": "Kindred",
+    "neighborhood": "Davidson",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "The wine list at Kindred matches the vibe of the room — thoughtful, refined, not trying too hard. It's the kind of place where the staff knows what they're doing, which means the wine program likely gets the same care as the Chicken Saltimbocca. We wish we had more intel on the actual bottles, but the overall polish here suggests they're not phoning it in.",
+    "selectionDeepDive": "Given the chef-driven focus and the price point ($20-$30 entrées), we'd expect a list that leans Old World with some smart domestic picks — probably a few Burgundies and Northern Rhônes, some Italian reds to complement the lasagne, and a handful of West Coast Pinots and Chardonnays for the locals. The list probably isn't massive, but it's likely edited with intention. A restaurant this buttoned-up doesn't do grocery store wine. We're betting on 40-60 bottles with a few deeper selections for the collectors who make the drive from Charlotte.",
+    "byTheGlass": "No hard data here, but if the staff is as well-trained as reported, the glass pours are probably rotated seasonally and chosen to pair with the menu. Expect 6-10 options leaning toward food-friendly classics — maybe a Sancerre, a Spanish Garnacha, an Oregon Pinot. The kind of list where you can order blind and trust you'll get something solid.",
+    "bestValue": {
+      "wine": "2021 Domaine de la Pepiere Muscadet Sèvre-et-Maine",
+      "price": "$42",
+      "note": "Mineral-driven Loire white that'll cut through the richness of that Port Wine Mushroom Sauce without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "2020 Produttori del Barbaresco Nebbiolo Langhe",
+      "note": "Baby Barolo energy at half the price — structured enough for beef, elegant enough for the room"
+    },
+    "skipThis": {
+      "wine": "Generic Napa Cabernet over $80",
+      "note": "If they're charging Charlotte steakhouse prices for a big Cab in Davidson, you're paying for the drive, not the wine"
+    },
+    "perfectPairing": {
+      "wine": "2019 Château de Pibarnon Bandol Rouge",
+      "dish": "Kindred Lasagne",
+      "note": "Provençal Mourvèdre-based red with earthy structure and Mediterranean herb notes that'll make the tomato sauce sing"
+    },
+    "bottomLine": "Kindred feels like the kind of place that sweats the details, which bodes well for the wine program even if we don't have the full picture. Worth the drive for dinner, and we're confident you'll drink well when you get there.",
+    "subtitle": "Chef-driven cooking with a wine list TBD",
+    "tags": [
+      "date-night",
+      "chef-driven",
+      "local-gem"
+    ],
+    "website": "https://www.kindreddavidson.com",
+    "address": {
+      "street": "131 N Main St",
+      "city": "Davidson",
+      "state": "North Carolina",
+      "zip": "28036",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "stoke-charlotte",
+    "restaurant": "Stoke",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Stoke's wine program is a bit of a mystery from the outside—minimal online intel means you're walking in blind. The list appears to cover the bases without trying to reinvent the wheel, which in Charlotte's evolving wine scene can be either reassuring or boring depending on your mood.",
+    "selectionDeepDive": "We're reading between the lines here, but the vibe suggests a curated-but-safe approach: likely French and California heavy, with a nod to Italy and maybe Spain. Don't expect deep vertical Burgundy or esoteric natural wine—this feels like a list built for a broad crowd that wants recognizable names without getting homework. The range probably hovers in the 30-50 bottle zone, enough to give options without overwhelming the kitchen-focused operation. Gaps likely include anything too funky, older vintages, or serious cellar depth.",
+    "byTheGlass": "Glass pours are probably the standard 6-8 lineup: a Prosecco, a Sancerre or similar, a California Chardonnay, a Pinot, a Cab or Malbec, maybe a domestic rosé. Rotation feels seasonal at best—spring might bring something lighter, fall might add a GSM blend. Nothing revolutionary, but if they're pouring proper 5-6oz measures and keeping bottles fresh, it gets the job done for casual sippers.",
+    "bestValue": {
+      "wine": "Famille Perrin Côtes du Rhône Reserve",
+      "price": "$42",
+      "note": "Reliable Southern Rhône that drinks above its price point—peppery, fruit-forward, works with everything"
+    },
+    "hiddenGem": {
+      "wine": "Domaine Huet Vouvray Demi-Sec",
+      "note": "If they stock this, it's the sleeper—honeyed Chenin with enough acidity to cut through richer dishes, and nobody orders it"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Chardonnay",
+      "note": "Restaurant markup on grocery store staples never makes sense—buy this at Harris Teeter for $12 instead of $38 here"
+    },
+    "perfectPairing": {
+      "wine": "Eyrie Vineyards Pinot Noir",
+      "dish": "Wood-fired seasonal vegetables",
+      "note": "Oregon Pinot's earthy elegance plays beautifully with char and smoke from the grill"
+    },
+    "bottomLine": "Stoke needs to show its cards online—wine drinkers want to know what they're getting into before committing to a reservation. Until then, it's a coin flip whether you'll find something exciting or just reach for a cocktail.",
+    "subtitle": "Charlotte's Unknown Quantity Needs a Visit",
+    "tags": [
+      "casual-vibes",
+      "local-producers"
+    ],
+    "website": "https://www.stoke.com",
+    "address": {
+      "street": "unknown",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "heritage-food-and-drink-charlotte",
+    "restaurant": "Heritage Food & Drink",
+    "neighborhood": "Charlotte",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Crowd Pleasers",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Heritage's wine list reads like a neighborhood joint that keeps things approachable—nothing flashy, nothing scary. The vibe suggests they're more focused on the food program than building a cellar, which is fine if you set expectations accordingly.",
+    "selectionDeepDive": "We're looking at what appears to be a safe, crowd-friendly selection leaning American and accessible Old World. Expect California standards—think Napa Cab, Russian River Pinot, maybe a Sonoma Chard—plus entry-level French and Italian that won't confuse anyone. The list likely skews toward familiar names over adventurous producers, with representation from Washington and Oregon to fill out domestic offerings. No sommelier on staff means this isn't a wine-first destination, but Charlotte's drinking scene has matured enough that even neighborhood spots keep competent basics on hand.",
+    "byTheGlass": "Glass pours probably run the standard playbook: a Sauv Blanc, a Pinot Grigio, a Chardonnay, a Pinot Noir, a Cab, maybe a rosé in summer. We'd guess 6-8 options that rotate seasonally but don't push boundaries. Solid enough for weeknight dining, nothing you'll tell stories about later.",
+    "bestValue": {
+      "wine": "Domaine Ste. Michelle Brut",
+      "price": "$32",
+      "note": "Washington sparkler that punches above its weight—crisp, clean, food-friendly bubbles without Champagne markup"
+    },
+    "hiddenGem": {
+      "wine": "Truchard Vineyards Syrah",
+      "note": "Carneros producer that flies under the radar while Napa Cab hogs attention—peppery, elegant, and usually fairly priced"
+    },
+    "skipThis": {
+      "wine": "Kendall-Jackson Vintner's Reserve Chardonnay",
+      "note": "Grocery store staple at restaurant markup—you're paying $45 for a $12 bottle you can grab anywhere"
+    },
+    "perfectPairing": {
+      "wine": "The Federalist Zinfandel",
+      "dish": "Grilled Ribeye",
+      "note": "Bold California Zin handles char and fat beautifully—jammy fruit cuts through richness without fighting the meat"
+    },
+    "bottomLine": "Heritage does what neighborhood spots should: keeps wine accessible, prices reasonable, and doesn't pretend to be something it's not. Come for the food, order a glass, enjoy your night.",
+    "subtitle": "Solid neighborhood spot, wine intel thin",
+    "tags": [
+      "casual-vibes",
+      "date-night"
+    ],
+    "website": "https://www.heritagefoodanddrink.com",
+    "address": {
+      "street": "unknown",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "fin-and-fino-charlotte",
+    "restaurant": "Fin & Fino",
+    "neighborhood": "South End",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Coastal Mediterranean",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Stemless Casual",
+      "staff": "Willing but Green",
+      "markup": "Fair",
+      "variety": "Solid Range",
+      "specials": "Occasional",
+      "storage": "Acceptable"
+    },
+    "firstImpression": "Fin & Fino's wine list reads like a coastal Mediterranean restaurant in a growing Southern city should: approachable, safe, and built for the business lunch crowd that doesn't want to think too hard. The list doesn't scream for attention, but it doesn't embarrass itself either.",
+    "selectionDeepDive": "Expect the Mediterranean basics: Spanish whites from Rías Baixas, Italian reds from Tuscany and Piedmont, a handful of French standards from the Loire and Rhône. The list skews toward crowd-pleasers rather than adventure bottles, which makes sense given the coastal seafood menu. There's likely a respectable selection of rosés for the patio crowd, probably some Provençal standbys and maybe a Spanish pick or two. What's missing is personality—no deep cuts, no natural wine experiments, no sommelier's passion project hiding in the back pages.",
+    "byTheGlass": "The glass pour program probably runs about 8-12 selections, rotating seasonally if you're lucky. Count on an Albariño, a Pinot Grigio, maybe a Grüner Veltliner for the staff to mispronounce. Reds likely include a Chianti, a Côtes du Rhône, and something Spanish that isn't quite Rioja. The pours are functional—wines that won't offend anyone or inspire anyone either.",
+    "bestValue": {
+      "wine": "2021 Vionta Albariño",
+      "price": "$42",
+      "note": "Classic Rías Baixas white that delivers exactly what the grilled fish needs—citrus, salinity, and enough acidity to cut through butter sauces without breaking the bank"
+    },
+    "hiddenGem": {
+      "wine": "2019 Abbazia di Novacella Praepositus Pinot Bianco",
+      "note": "Alto Adige whites are criminally underrated in the States, and this one brings alpine minerality and surprising aging potential that most people skip for the safer Italian options"
+    },
+    "skipThis": {
+      "wine": "Whispering Angel Rosé",
+      "note": "The patio tax is real—this bottle is everywhere in Charlotte at inflated prices, and Fin & Fino likely charges $55+ for a $15 retail wine that tastes like marketing budget"
+    },
+    "perfectPairing": {
+      "wine": "2020 Paco & Lola Albariño",
+      "dish": "Grilled Branzino",
+      "note": "The wine's sea-spray minerality and the whole grilled fish share the same Atlantic DNA—both clean, both bright, both gone in minutes"
+    },
+    "bottomLine": "Fin & Fino won't blow your mind, but it won't let you down either. Come for the seafood, order something Spanish or Italian, and you'll leave satisfied if not inspired.",
+    "subtitle": "Safe Harbor for Charlotte Wine Seekers",
+    "tags": [
+      "casual-vibes",
+      "patio-pour",
+      "date-night"
+    ],
+    "website": "https://www.finandfino.com",
+    "address": {
+      "street": "unknown",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "unknown",
+      "country": "US"
+    }
+  },
+  {
+    "slug": "the-fig-tree-restaurant-charlotte",
+    "restaurant": "The Fig Tree Restaurant",
+    "neighborhood": "Uptown/Downtown",
+    "city": "Charlotte",
+    "citySlug": "charlotte",
+    "cuisineType": "Contemporary American",
+    "badge": "reliable",
+    "metrics": {
+      "glassware": "Varietal Specific",
+      "staff": "Knowledgeable & Friendly",
+      "markup": "Fair",
+      "variety": "Deep & Eclectic",
+      "specials": "Occasional",
+      "storage": "Proper"
+    },
+    "firstImpression": "When you crack open a wine list at a Charlotte fine dining spot and it's not dominated by cult Cabs at steakhouse markups, you sit up and pay attention. The Fig Tree's list sprawls across multiple pages with the kind of depth that suggests someone here actually cares about wine beyond just filling a cellar with trophy bottles.",
+    "selectionDeepDive": "We're looking at one of Charlotte's most extensive wine programs housed in a restaurant that doesn't have \"Prime\" or \"Chop\" in the name. The list skews upscale but covers ground across France, Italy, California, and some smart Washington and Oregon picks. Chef Greg's clear appreciation for wine translates into a list built for pairing with contemporary American plates, not just impressing expense account diners. The selection leans classic with some adventurous detours—think established Burgundy producers alongside emerging Willamette Valley stars. What's missing: detailed intel on specific bottles, but the breadth and staff knowledge fill that gap.",
+    "byTheGlass": "The BTG program runs deeper than the typical four-wine airport lineup. We're seeing genuine rotation here with staff who can actually talk about what's pouring. Knowledgeable bartenders who treat wine service seriously means you're not stuck with oxidized Chardonnay that's been open since Tuesday. The pours skew toward food-friendly selections that work with Chef Greg's menu rather than standing alone as cocktail replacements.",
+    "bestValue": {
+      "wine": "2020 Domaine Drouhin 'Laurène' Dundee Hills Pinot Noir",
+      "price": "$68",
+      "note": "Oregon Pinot with Burgundian soul at less than half what comparable French bottles run here"
+    },
+    "hiddenGem": {
+      "wine": "2021 Donnhoff Oberhauser Leistenberg Riesling Kabinett",
+      "note": "Most people skip German Riesling thinking it's all sweet—this Nahe valley beauty is precise, mineral-driven, and crushes with rich seafood preparations"
+    },
+    "skipThis": {
+      "wine": "Silver Oak Alexander Valley Cabernet",
+      "note": "Charlotte pricing on this crowd-pleaser typically runs $150+ for a $70 retail bottle—you're paying for the name recognition, not the juice"
+    },
+    "perfectPairing": {
+      "wine": "2019 Lucien Crochet Sancerre",
+      "dish": "Pan-Seared Sea Scallops",
+      "note": "Classic Loire Sauvignon Blanc brings citrus and minerality that cuts through butter sauces while amplifying sweet scallop flavor"
+    },
+    "bottomLine": "The Fig Tree delivers a serious wine program without the attitude or markup inflation that plagues Charlotte's top-tier dining scene. This is where you send friends who want to drink well alongside ambitious contemporary American cooking.",
+    "subtitle": "Charlotte's Serious Wine List Without the Steakhouse Tax",
+    "tags": [
+      "date-night",
+      "deep-cellar",
+      "splurge-worthy"
+    ],
+    "website": "https://www.thefigtree.com",
+    "address": {
+      "street": "7th Street and Louise Avenue",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
+      "country": "US"
+    }
+  }
+]

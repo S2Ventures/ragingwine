@@ -157,7 +157,9 @@
     "citySlug": "charlotte",
     "state": "North Carolina",
     "priority": 15,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-03-03T05:56:40.240Z",
+    "reviewCount": 29
   },
   {
     "city": "Austin",

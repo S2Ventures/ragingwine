@@ -1,0 +1,193 @@
+{
+  "city": "Charlotte",
+  "citySlug": "charlotte",
+  "startedAt": "2026-03-03T05:49:51.038Z",
+  "completedAt": "2026-03-03T05:56:40.241Z",
+  "restaurantsResearched": 30,
+  "reviewsWritten": 30,
+  "reviewsPublished": 29,
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "The Fig Tree Restaurant",
+      "slug": "the-fig-tree-restaurant-charlotte",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Acqua Ragazza",
+      "slug": "acqua-ragazza-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Sixty Vines",
+      "slug": "sixty-vines-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Napa Bistro & Wine Bar - Stonecrest",
+      "slug": "napa-bistro-and-wine-bar-stonecrest-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cicchetti",
+      "slug": "cicchetti-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Luce Ristorante",
+      "slug": "luce-ristorante-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Bentley's",
+      "slug": "bentleys-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Morton's The Steakhouse",
+      "slug": "mortons-the-steakhouse-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Artisan's Palate",
+      "slug": "the-artisans-palate-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Assorted Table Wine & Shop",
+      "slug": "assorted-table-wine-and-shop-charlotte",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Barcelona Wine Bar",
+      "slug": "barcelona-wine-bar-charlotte",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Dilworth Tasting Room",
+      "slug": "dilworth-tasting-room-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Foxcroft Wine Co.",
+      "slug": "foxcroft-wine-co-charlotte",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Napa on Providence",
+      "slug": "napa-on-providence-charlotte",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "NoDa Company Store",
+      "slug": "noda-company-store-charlotte",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "Substrate",
+      "slug": "substrate-charlotte",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Tap & Vine",
+      "slug": "tap-and-vine-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Vin Master",
+      "slug": "vin-master-charlotte",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "The Wine Loft",
+      "slug": "the-wine-loft-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "McNinch House Restaurant",
+      "slug": "mcninch-house-restaurant-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Aqua e Vino",
+      "slug": "aqua-e-vino-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Counter-",
+      "slug": "counter-charlotte",
+      "badge": "lazy",
+      "published": true
+    },
+    {
+      "restaurant": "The Asbury",
+      "slug": "the-asbury-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fleming's Prime Steakhouse & Wine Bar",
+      "slug": "flemings-prime-steakhouse-and-wine-bar-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Ruth's Chris Steak House",
+      "slug": "ruths-chris-steak-house-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Kindred",
+      "slug": "kindred-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Stoke",
+      "slug": "stoke-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Heritage Food & Drink",
+      "slug": "heritage-food-and-drink-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Fin & Fino",
+      "slug": "fin-and-fino-charlotte",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "The Fig Tree Restaurant",
+      "slug": "the-fig-tree-restaurant-charlotte",
+      "badge": "reliable",
+      "published": false,
+      "error": "duplicate"
+    }
+  ]
+}
