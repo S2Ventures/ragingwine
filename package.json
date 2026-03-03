@@ -10,9 +10,11 @@
     "publish-review": "npx tsx pipeline/scripts/publish-manual-review.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
     "@sanity/client": "^7.15.0",
     "@supabase/supabase-js": "^2.95.3",
     "gray-matter": "^4.0.3",
+    "nanoid": "^5.1.6",
     "next": "^14.2.0",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",

@@ -11,6 +11,7 @@ interface HeaderProps {
 
 const navItems = [
   { label: 'Reviews', href: '/reviews' },
+  { label: 'Scan', href: '/scan' },
   { label: 'Wineries', href: '/wineries' },
   { label: 'Quiz', href: '/quiz' },
   { label: 'Adventures', href: '/adventures' },
