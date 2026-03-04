@@ -14,8 +14,20 @@ export default async function Home() {
   return (
     <div>
       {/* Hero */}
-      <section className="bg-brand-dark text-white">
+      <section className="bg-brand-dark text-white relative">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-20 text-center">
+          {/* Scanner CTA */}
+          <div className="absolute top-4 right-4 sm:top-6 sm:right-6">
+            <Link
+              href="/scan"
+              className="inline-flex items-center gap-2 bg-wine-600 hover:bg-wine-700 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors shadow-lg"
+            >
+              <span>Try the Wine List Scanner</span>
+              <span className="text-[10px] font-bold uppercase tracking-wider bg-white/20 px-1.5 py-0.5 rounded">
+                Beta
+              </span>
+            </Link>
+          </div>
           <p className="text-wine-400 font-semibold text-sm uppercase tracking-wider mb-4">
             Your Wine Adventure Wingman
           </p>
