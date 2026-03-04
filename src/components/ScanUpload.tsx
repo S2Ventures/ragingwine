@@ -36,12 +36,12 @@ function getMimeType(file: File): string {
 
 function convertToJpegBase64(file: File): Promise<string> {
   return new Promise((resolve, reject) => {
-    // For HEIC or any type: load into an Image via object URL, draw to canvas, export as JPEG
+    // Load into Image via object URL, draw to canvas, export as JPEG
+    // Cap at 1600px and 0.75 quality to keep base64 under ~3MB (Vercel limit: 4.5MB body)
     const url = URL.createObjectURL(file);
     const img = new Image();
     img.onload = () => {
-      // Cap dimensions to reduce payload (max 2048px on longest side)
-      const MAX_DIM = 2048;
+      const MAX_DIM = 1600;
       let { width, height } = img;
       if (width > MAX_DIM || height > MAX_DIM) {
         const scale = MAX_DIM / Math.max(width, height);
@@ -54,7 +54,7 @@ function convertToJpegBase64(file: File): Promise<string> {
       const ctx = canvas.getContext('2d');
       if (!ctx) { reject(new Error('Canvas not supported')); return; }
       ctx.drawImage(img, 0, 0, width, height);
-      const dataUrl = canvas.toDataURL('image/jpeg', 0.85);
+      const dataUrl = canvas.toDataURL('image/jpeg', 0.75);
       URL.revokeObjectURL(url);
       resolve(dataUrl.split(',')[1]);
     };
@@ -103,24 +103,13 @@ export default function ScanUpload({ onResult }: ScanUploadProps) {
       const isHeic = file.type === 'image/heic' || file.type === 'image/heif'
         || file.name.toLowerCase().endsWith('.heic') || file.name.toLowerCase().endsWith('.heif');
 
+      // Always convert via canvas to keep payload under Vercel's 4.5MB body limit
+      // (base64 adds ~33%, so a 3MB raw file becomes ~4MB base64)
       let base64: string;
       let mimeType: string;
 
-      if (isHeic) {
-        // Convert HEIC to JPEG via canvas
-        base64 = await convertToJpegBase64(file);
-        mimeType = 'image/jpeg';
-      } else {
-        // Resize large images to reduce payload
-        const needsResize = file.size > 4 * 1024 * 1024; // > 4MB
-        if (needsResize) {
-          base64 = await convertToJpegBase64(file);
-          mimeType = 'image/jpeg';
-        } else {
-          base64 = await fileToBase64(file);
-          mimeType = getMimeType(file);
-        }
-      }
+      base64 = await convertToJpegBase64(file);
+      mimeType = 'image/jpeg';
 
       const controller = new AbortController();
       const timeout = setTimeout(() => controller.abort(), 55000);

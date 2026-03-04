@@ -127,7 +127,14 @@ export async function analyzeScanImage(
       return { code: 'api_error', message: 'No text response from Claude' };
     }
 
-    // Parse JSON
+    // Parse JSON — strip markdown code fences if present
+    let jsonText = textBlock.text.trim();
+    // Remove ```json ... ``` or ``` ... ``` wrappers
+    const fenceMatch = jsonText.match(/^```(?:json)?\s*\n?([\s\S]*?)\n?\s*```$/);
+    if (fenceMatch) {
+      jsonText = fenceMatch[1].trim();
+    }
+
     let parsed: {
       restaurantGuess: string | null;
       listSummary: ListSummary;
@@ -135,8 +142,9 @@ export async function analyzeScanImage(
     };
 
     try {
-      parsed = JSON.parse(textBlock.text);
+      parsed = JSON.parse(jsonText);
     } catch {
+      console.error('Failed to parse JSON:', jsonText.slice(0, 200));
       return { code: 'api_error', message: 'Failed to parse Claude response as JSON' };
     }
 
