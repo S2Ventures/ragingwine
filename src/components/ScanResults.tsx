@@ -16,19 +16,38 @@ export default function ScanResults({ result, onScanAnother }: ScanResultsProps)
     ? `${window.location.origin}/scan/${result.id}`
     : `/scan/${result.id}`;
 
-  const handleCopy = async () => {
+  const handleShare = async () => {
+    // Use Web Share API on mobile (works reliably on iOS Safari)
+    if (typeof navigator !== 'undefined' && navigator.share) {
+      try {
+        await navigator.share({
+          title: result.restaurantGuess
+            ? `${result.restaurantGuess} Wine Picks`
+            : 'Wine List Scan',
+          url: shareUrl,
+        });
+        return;
+      } catch {
+        // User cancelled or share failed — fall through to clipboard
+      }
+    }
+
+    // Desktop fallback: copy to clipboard
     try {
       await navigator.clipboard.writeText(shareUrl);
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     } catch {
-      // Fallback for older browsers
-      const input = document.createElement('input');
-      input.value = shareUrl;
-      document.body.appendChild(input);
-      input.select();
+      // Last resort fallback
+      const textarea = document.createElement('textarea');
+      textarea.value = shareUrl;
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
+      document.body.appendChild(textarea);
+      textarea.focus();
+      textarea.select();
       document.execCommand('copy');
-      document.body.removeChild(input);
+      document.body.removeChild(textarea);
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     }
@@ -62,7 +81,7 @@ export default function ScanResults({ result, onScanAnother }: ScanResultsProps)
       {/* Actions */}
       <div className="flex flex-wrap items-center gap-3 pt-4 border-t border-gray-200">
         <button
-          onClick={handleCopy}
+          onClick={handleShare}
           className="inline-flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-600 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
         >
           <svg width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
