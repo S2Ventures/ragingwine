@@ -1,0 +1,260 @@
+{
+  "reviews": [
+    {
+      "slug": "apt-115-austin",
+      "restaurant": "APT 115",
+      "neighborhood": "East Austin",
+      "city": "Austin",
+      "citySlug": "austin",
+      "cuisineType": "New American",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Deep & Eclectic",
+        "specials": "Active Program",
+        "storage": "Proper"
+      },
+      "firstImpression": "Over 400 bottles crammed into a space that feels like your coolest friend's apartment. The wine bookshelf isn't just decor — it's a browsable library of small-production bottles you won't find at the neighborhood bistro. This is a serious wine bar disguised as a cozy living room.",
+      "selectionDeepDive": "The list goes global with a low-intervention bent, pulling from classic regions and oddball pockets most restaurants ignore. You've got Savoie Jacquère from Domaine Charles Gonnet sitting next to Serbian Sauvignon Blanc from Bikicki, plus Santa Ynez Mourvèdre blends and Finger Lakes bubbles. It's clear someone here actually travels for wine and gives a damn about producers doing things the right way. The depth is legit — this isn't 400 labels of Napa Cab variations.",
+      "byTheGlass": "Only 10 options by the glass, but they rotate and lean adventurous. You'll find things like Quentin Harel Beaujolais-Villages and Railsback Frères' southern Rhône-style blend from California. It's a tight edit that changes often enough to keep regulars interested, though we'd love to see a few more pours given the bottle list's depth.",
+      "bestValue": {
+        "wine": "Quentin Harel Les Grandes Terres 2020 Beaujolais-Villages Gamay",
+        "price": "By the glass",
+        "note": "Serious Beaujolais by the glass at a wine bar this thoughtful usually means fair pricing and a staff that wants you to drink well without dropping serious cash"
+      },
+      "hiddenGem": {
+        "wine": "Bikicki S/O 2019 Srem Sauvignon Blanc",
+        "note": "Serbian Sauvignon Blanc from a region you've never heard of — exactly the kind of left-field pick that makes this list worth exploring beyond the usual suspects"
+      },
+      "skipThis": {
+        "wine": "Ercole 2021 Moscato d'Asti DOCG",
+        "note": "Moscato is fine for what it is, but in a 400-bottle program this deep, you're wasting your time on the safe dessert play when there's so much more interesting territory to cover"
+      },
+      "perfectPairing": {
+        "wine": "Domaine Charles Gonnet 2020 Chignin Savoie AOP Jacquère",
+        "dish": "King Salmon Crudo",
+        "note": "Alpine freshness and mineral tension from Savoie cuts through rich salmon while the wine's delicate citrus notes echo the crudo's brightness — textbook pairing for raw fish"
+      },
+      "bottomLine": "This is Austin's most ambitious wine program in a space small enough to feel like a secret. If you care about drinking interesting bottles from producers you can't pronounce, APT 115 is worth the reservation wait.",
+      "subtitle": "400-Bottle Deep Dive in a Living Room",
+      "tags": [
+        "wine-bar",
+        "deep-cellar",
+        "natural-wine",
+        "date-night"
+      ],
+      "website": "https://www.apartmentonefifteen.com",
+      "address": {
+        "street": "2025 E 7th St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78702",
+        "country": "US"
+      },
+      "dataCompleteness": 72,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "underdog-austin",
+      "restaurant": "Underdog",
+      "neighborhood": "Bouldin Creek",
+      "city": "Austin",
+      "citySlug": "austin",
+      "cuisineType": "Korean-American wine bar",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Surprising Depth",
+        "specials": "Occasional",
+        "storage": "Proper"
+      },
+      "firstImpression": "A Korean wine bar in South Austin sounds like someone's fever dream, but Underdog pulls it off with a list that's as cheerful and thoughtful as the rescue-pup-themed space. The focus is European — Southwest France, Roussillon, Italy — with a smart emphasis on chilled reds and orange wines that actually make sense with kalbi and mandu.",
+      "selectionDeepDive": "The list leans heavily into grenaches and cinsaults from Southwest France, whites from Roussillon, and a deep Italian selection spanning Chianti to Brunello. There's a clear philosophy here: wines with structure and freshness that won't get steamrolled by gochugaru and fermented kimchi. The orange wine selection shows restraint — they're not just checking a box — and the chilled red program is legitimately exciting for a city that still thinks room temp means 78 degrees. Comando G and Stella di Campalto appearances signal someone's shopping beyond the distributor sampler pack.",
+      "byTheGlass": "We don't have the full glass list, but the sommelier-driven program and overall list quality suggest thoughtful pours that rotate seasonally. The emphasis on chilled reds and lighter-bodied wines means the BTG program likely mirrors the bottle list's philosophy — approachable, food-friendly, and built for Texas heat.",
+      "bestValue": {
+        "wine": "Comando G Camino del Pilar",
+        "price": "Unknown",
+        "note": "Spanish Garnacha from high-altitude vines in Gredos — bright, mineral, and built for grilled pork collar and scallion pancakes"
+      },
+      "hiddenGem": {
+        "wine": "Chateau Maris light skin contact orange",
+        "note": "Most people skip orange wines with Korean food, but this Languedoc producer's gentle skin contact adds texture without overwhelming the delicate pork mandu"
+      },
+      "skipThis": {
+        "wine": "Stella di Campalto Rosso di Montalcino",
+        "note": "Likely the priciest pour on the list, and while it's a beautiful wine, the markup at a wine bar probably puts it in splurge territory when the Comando G does similar work for less"
+      },
+      "perfectPairing": {
+        "wine": "Comando G Camino del Pilar",
+        "dish": "Grilled kalbi",
+        "note": "High-acid Spanish Garnacha cuts through the char and marinade sweetness while the wine's red fruit echoes the caramelization on the ribs"
+      },
+      "bottomLine": "A Korean wine bar with an Italian and French list shouldn't work this well, but Underdog's commitment to chilled reds and food-friendly bottles makes it a genuine South Austin wine destination. We'd send friends here specifically for the wine, not just the mandu.",
+      "subtitle": "Chilled Reds and Kalbi in South Austin",
+      "tags": [
+        "wine-bar",
+        "natural-wine",
+        "orange-wine",
+        "casual-vibes",
+        "hidden-gem"
+      ],
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "unknown",
+        "country": "US"
+      },
+      "dataCompleteness": 44,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "the-capital-grille-austin",
+      "restaurant": "The Capital Grille",
+      "neighborhood": "Downtown",
+      "city": "Austin",
+      "citySlug": "austin",
+      "cuisineType": "Steakhouse",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Willing but Green",
+        "markup": "Steep",
+        "variety": "Plays It Safe",
+        "specials": "Active Program",
+        "storage": "Proper"
+      },
+      "firstImpression": "The wine list at Capital Grille is thick — over 350 labels thick — but don't mistake volume for adventure. This is a steakhouse wine list in the corporate sense: heavy on California, heavier on recognizable names, and priced like they know you're expensing it.",
+      "selectionDeepDive": "California dominates the list with the usual suspects: Rombauer Chardonnay and Sauvignon Blanc, J Pinot Noir, Orin Swift Merlot, and J. Lohr's reserve tier wines. These are crowd-pleasers, not conversation starters. The list is built for people who want to recognize the label and feel safe about their choice. We didn't spot much Old World depth or natural wine exploration — this is Napa and Sonoma doing what they do best, which is comforting but predictable. The focus on big-name producers means you're paying for brand recognition as much as what's in the bottle.",
+      "byTheGlass": "The glass pour program exists but details are thin. Capital Grille runs wine tasting events like their 'Generous Pour' series, which suggests they rotate offerings and take their BTG program seriously enough to host events around it. Expect the glass list to mirror the bottle list: safe California picks that pair with dry-aged beef without raising eyebrows.",
+      "bestValue": {
+        "wine": "J. Lohr Reserve Wines",
+        "price": "Unknown",
+        "note": "J. Lohr's reserve tier offers solid quality without the Napa Valley tax, and they're hosting wine dinners here which means staff knows the portfolio"
+      },
+      "hiddenGem": {
+        "wine": "Palmera Bench Cabernet Sauvignon",
+        "note": "Less recognizable than Rombauer or Orin Swift, but a small-production Napa Cab that likely offers better value than the marquee names"
+      },
+      "skipThis": {
+        "wine": "Rombauer Carneros Chardonnay",
+        "note": "It's everywhere and it's marked up everywhere — you're paying steakhouse pricing for a wine you can find at Costco"
+      },
+      "perfectPairing": {
+        "wine": "Orin Swift Merlot",
+        "dish": "Dry-Aged Steak",
+        "note": "Orin Swift's fruit-forward, structured Merlot has the tannins and weight to stand up to a heavily marbled dry-aged cut without overwhelming it"
+      },
+      "bottomLine": "Capital Grille delivers what corporate steakhouses do: a safe, California-heavy list with proper service and glassware. You won't discover anything exciting, but you won't get burned either. It's the wine equivalent of ordering the filet — predictable, reliable, and marked up accordingly.",
+      "subtitle": "350 Labels of California Comfort Food",
+      "tags": [
+        "date-night",
+        "splurge-worthy",
+        "wine-dinner-events"
+      ],
+      "address": {
+        "street": "117 W 4th St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78701",
+        "country": "US"
+      },
+      "dataCompleteness": 64,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "north-italia-austin-2nd-street-austin",
+      "restaurant": "North Italia - Austin 2nd Street",
+      "neighborhood": "Downtown Austin",
+      "city": "Austin",
+      "citySlug": "austin",
+      "cuisineType": "Italian",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Steep",
+        "variety": "Solid Range",
+        "specials": "Active Program",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "North Italia's wine list reads like a greatest hits compilation of approachable Italian and Californian crowd-pleasers. The 40+ bottle list leans heavily on recognizable producers and safe choices, but they're clearly putting effort into the program with 18+ glass pours and a daily happy hour deal that actually matters.",
+      "selectionDeepDive": "The Italian side of the list shows genuine ambition—Barolo from Fontanafredda, Negroamaro from Li Veli, Sicilian Frappato from Donnafugata alongside the expected Pinot Grigio. California representation is solid with Duckhorn, La Follette, and a Napa Iconoclast Cab that punches above the chain restaurant playbook. The list doesn't dive deep into any single region, but it covers enough ground to satisfy both the pasta-and-Pinot-Grigio crowd and the date night splurger looking for something more substantial. Notably absent: any natural wine, orange wine, or truly adventurous producers.",
+      "byTheGlass": "Eighteen glass pours is legitimately generous for a chain Italian spot, spanning $11-$17 with solid variety from Sicilian Grillo to Napa Cab. The rotation includes both crowd-pleasers (Moscato d'Asti from Vietti) and slightly more interesting picks (Donnafugata Frappato, Li Veli Negroamaro). No indication these pours rotate frequently, so expect the same lineup visit to visit.",
+      "bestValue": {
+        "wine": "Delille Cellars 'D2' Proprietary Red Blend, Columbia Valley",
+        "price": "$68",
+        "note": "Washington's Delille makes serious Bordeaux-style blends that typically retail $24-30, so at $68 this is the fairest markup on the list and drinks like an $80+ bottle"
+      },
+      "hiddenGem": {
+        "wine": "Li Veli 'Pezzo Morgana' Negroamaro, Salice Salentino Riserva",
+        "note": "Most people skip Southern Italian reds for Chianti or Barolo, but this Puglian Negroamaro brings dark cherry, spice, and earthy complexity that works beautifully with their red sauce pasta"
+      },
+      "skipThis": {
+        "wine": "Pinot Grigio, Barone Fini, Valdadige",
+        "price": "$50",
+        "note": "This $12-15 grocery store pour marked up 250% to $50 is insulting—if you want Italian white, pay $6 more for the Sicilian Grillo and actually get some character"
+      },
+      "perfectPairing": {
+        "wine": "Donnafugata 'Bell'Assai' Frappato, Sicily",
+        "dish": "Margherita Pizza",
+        "note": "Frappato's bright red fruit, light body, and herbal notes mirror the fresh tomato and basil without overpowering the delicate mozzarella"
+      },
+      "bottomLine": "North Italia won't blow your mind, but the half-price bottle deal Monday-Thursday (3-6PM) turns those steep markups into reasonable pours. Stick to the Italian selections, avoid the obvious California markups, and this becomes a solid neighborhood option.",
+      "subtitle": "Chain Italian Does the Wine Thing Right",
+      "tags": [
+        "by-the-glass-hero",
+        "date-night",
+        "casual-vibes"
+      ],
+      "halfPriceWineNight": {
+        "day": "Monday-Thursday",
+        "details": "Half off bottles of wine (excludes reserve wine) served in the bar, 3PM-6PM"
+      },
+      "website": "https://www.northitalia.com/locations/austin-tx-2nd-street/",
+      "address": {
+        "street": "500 W 2nd St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78703",
+        "country": "US"
+      },
+      "dataCompleteness": 97,
+      "researchConfidence": "high"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "Wanderlust Wine Co.",
+      "neighborhood": "Multiple locations: Downtown, Barton Springs, East Austin",
+      "reason": "No specific wine names, producers, or pricing details found in research data. Self-pour tap concept confirmed but insufficient detail on actual wines offered to write credible recommendations.",
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 67,
+      "phase": "writing"
+    },
+    {
+      "name": "CRÚ Food & Wine Bar",
+      "neighborhood": "Warehouse District",
+      "reason": "No specific wine names, producers, or pricing data available. Cannot write credible picks without fabricating details.",
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 57,
+      "phase": "writing"
+    },
+    {
+      "name": "Eddie V's Prime Seafood",
+      "neighborhood": "Downtown",
+      "reason": "No specific wine names, producers, or pricing data found in research. Only generic '300+ wines' count and Wine Spectator listing available. Cannot write credible review without actual wine list details.",
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 47,
+      "phase": "writing"
+    }
+  ]
+}

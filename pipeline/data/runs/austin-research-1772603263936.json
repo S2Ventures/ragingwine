@@ -1,0 +1,684 @@
+{
+  "city": "Austin",
+  "citySlug": "austin",
+  "state": "Texas",
+  "researchedAt": "2026-03-04T05:47:43.936Z",
+  "restaurants": [
+    {
+      "name": "APT 115",
+      "neighborhood": "East Austin",
+      "cuisineType": "New American",
+      "website": "https://www.apartmentonefifteen.com",
+      "address": {
+        "street": "2025 E 7th St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78702"
+      },
+      "wineListSize": "over 400 labels",
+      "byTheGlassCount": "10 options",
+      "priceRange": "unknown",
+      "notableWines": [
+        "Domaine Charles Gonnet 2020 Chignin Savoie AOP Jacquere",
+        "Hermann J. Wiemer Cuvee Brut 2016 Seneca Lake Chardonnay Pinot Noir",
+        "Railsback Freres Les Rascasses 2021 Santa Ynez Mourvedre Carignan Cinsault",
+        "Bikicki S/O 2019 Srem Sauvignon Blanc",
+        "Quentin Harel Les Grandes Terres 2020 Beaujolais-Villages Gamay",
+        "Ercole 2021 Moscato d’Asti DOCG Moscato"
+      ],
+      "wineRegionFocus": [
+        "worldwide",
+        "small production low intervention",
+        "classic regions"
+      ],
+      "sommelierOnStaff": null,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Intimate apartment-like wine bar with vintage decor and wine bookshelf.",
+      "popularDishes": [
+        "Chef's Tasting Menu",
+        "Pork Belly Stew",
+        "King Salmon Crudo"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$6-31 a la carte",
+      "citationLinks": [
+        "https://fearlesscaptivations.com/apt-115-austin-wine-bar/",
+        "https://www.apartmentonefifteen.com",
+        "https://app.table22.com/product/apt-115-wine-club",
+        "https://www.apartmentonefifteen.com/wineclub/",
+        "https://www.apartmentonefifteen.com/team-member/do-you-offer-wine-tastings/",
+        "https://www.apartmentonefifteen.com/team-member/may-i-buy-wine-or-beer-to-go/",
+        "https://somuchlife.com/apt-115-my-favorite-new-austin-wine-bar/",
+        "https://www.austintexas.org/listings/apt-115/13558/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website|review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 72
+    },
+    {
+      "name": "Underdog",
+      "neighborhood": "Bouldin Creek, South Austin",
+      "cuisineType": "Korean-American wine bar",
+      "website": null,
+      "address": {
+        "street": "unknown",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [
+        "Stella di Campalto Rosso di Montalcino",
+        "Chateau Maris (light skin contact orange)",
+        "Comando G Camino del Pilar"
+      ],
+      "wineRegionFocus": [
+        "Southwest France (grenaches, cinsaults)",
+        "Roussillon (whites)",
+        "Italy (Chianti, Chianti Classico, Brunello, Sangiovese)",
+        "Orange wines",
+        "Chilled reds"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Cheerful South Austin wine bar with sunny space, clean lines, arches, and whimsical touches inspired by rescue pup Squid.",
+      "popularDishes": [
+        "Grilled kalbi",
+        "Pork and shrimp mandu with truffle soy",
+        "Scallion & shiitake pancake",
+        "Roasted pork collar with pickled shallot",
+        "Delicate pork-filled mandu dumplings",
+        "Cucumber kimchi",
+        "Fried chicken"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "unknown",
+      "citationLinks": [
+        "https://www.theworlds50best.com/discovery/Establishments/US/Austin/Underdog.html",
+        "https://www.wineandspiritsmagazine.com/feature-story/restaurant-poll-interviews/richard-hargreaves-of-austins-underdog-a-wine-bar-with-korean-restaurant-cred",
+        "https://austin.culturemap.com/news/restaurants-bars/underdog/",
+        "https://www.texasmonthly.com/restaurant/underdog/",
+        "https://romanticspotsaustin.com/spots/underdog/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 44
+    },
+    {
+      "name": "Wanderlust Wine Co.",
+      "neighborhood": "Multiple locations: Downtown, Barton Springs, East Austin",
+      "cuisineType": "Wine bar",
+      "website": "https://wanderlustwine.com",
+      "address": {
+        "street": "610 N Interstate Hwy 35; 1601 Barton Springs Rd; 702 Shady Ln",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78701; 78704; 78702"
+      },
+      "wineListSize": "54 wines on self-pour tap wall; 70+ wines curated list",
+      "byTheGlassCount": "54 options via self-pour taps",
+      "priceRange": "$2-$16 per pour (1-10 oz)",
+      "notableWines": [],
+      "wineRegionFocus": [
+        "USA (incl. Texas)",
+        "World",
+        "Spain",
+        "Italy",
+        "France",
+        "California"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Fun, upbeat wine bar with self-pour taps, drag brunches, and 'Keep Austin Weird' vibes.",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "citationLinks": [
+        "https://www.weddingwire.com/biz/wanderlust-wine-co-downtown/e3687f63a1b65be5.html",
+        "https://wanderlustwine.com",
+        "https://www.austintexas.org/listings/wanderlust-wine-co-(downtown)/13344/",
+        "https://txwinelover.com/2023/11/wanderlust-wine-co/",
+        "https://www.theknot.com/marketplace/wanderlust-wine-co-shady-lane-austin-tx-2080078",
+        "https://www.zola.com/wedding-vendors/wedding-venues/wanderlust-wine-co",
+        "https://thelongcenter.org/a-story-in-every-sip-behind-the-scenes-with-sammy-lam-austins-wanderlust-wine-co/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website|review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 67
+    },
+    {
+      "name": "CRÚ Food & Wine Bar",
+      "neighborhood": "Warehouse District",
+      "cuisineType": "American, International, Wine Bar",
+      "website": "https://cruwinebar.com",
+      "address": {
+        "street": "238 W 2nd St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78701"
+      },
+      "wineListSize": "over 300 bottles, 30 by the glass",
+      "byTheGlassCount": "30 options",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [
+        "global wines",
+        "boutique wines"
+      ],
+      "sommelierOnStaff": null,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Sophisticated and cozy atmosphere with wine flights and shareable plates.",
+      "popularDishes": [
+        "mussels",
+        "ahi app",
+        "chicken piccata",
+        "scallops with risotto"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$$ - $$$",
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g30196-d2188759-Reviews-CRU_Food_Wine_Bar-Austin_Texas.html",
+        "https://www.restaurantnews.com/cru-wine-bar-bistro-seasonal-menu-update-brunch-dinner-010826/",
+        "https://www.cru.training/wine-club/",
+        "https://cruwinebar.com",
+        "https://www.novacircle.com/spots/north-america/united-states/texas/austin/austin-tx/cru-food-wine-bar-the-domain-39eeda"
+      ],
+      "markupSampling": [],
+      "wineListSource": "press",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 57
+    },
+    {
+      "name": "The Capital Grille - Austin",
+      "neighborhood": "Downtown",
+      "cuisineType": "Steakhouse",
+      "address": {
+        "street": "117 W 4th St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78701"
+      },
+      "wineListSize": "over 350 labels",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [
+        "J. Lohr reserve wines",
+        "Rombauer Sauvignon Blanc",
+        "Rombauer Carneros Chardonnay",
+        "J Pinot Noir",
+        "Orin Swift Merlot",
+        "Palmera Bench Cabernet Sauvignon"
+      ],
+      "wineRegionFocus": [
+        "California"
+      ],
+      "sommelierOnStaff": null,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Upscale fine dining with dry-aged steaks and elegant ambiance.",
+      "popularDishes": [
+        "Dry-aged steaks",
+        "Clam chowder",
+        "Seabass"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$50-$100",
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g30196-d6621180-Reviews-The_Capital_Grille-Austin_Texas.html",
+        "https://www.jlohr.com/events/capital-grille-wine-dinner-2-20-2026",
+        "https://www.youtube.com/watch?v=JBIpFxcx_Yw",
+        "https://m.thecapitalgrille.com/events/the-generous-pour-wine-tasting"
+      ],
+      "markupSampling": [],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 64
+    },
+    {
+      "name": "North Italia - Austin 2nd Street",
+      "neighborhood": "Downtown Austin",
+      "cuisineType": "Italian",
+      "website": "https://www.northitalia.com/locations/austin-tx-2nd-street/",
+      "address": {
+        "street": "500 W 2nd St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78703"
+      },
+      "wineListSize": "40+ labels",
+      "byTheGlassCount": "18+ options",
+      "priceRange": "$11-$17/glass, $44-$68/bottle",
+      "notableWines": [
+        "Grillo, Feudo Montoni 'Timpa', Sicily",
+        "Riesling, Loosen Bros. 'Dr. L', Mosel",
+        "Moscato d'Asti, Vietti, Piedmont",
+        "Sauvignon Blanc, Vavasour, Awatere Valley, NZ",
+        "Sauvignon Blanc, Duckhorn, North Coast",
+        "Chardonnay, Edna Valley, Central Coast",
+        "Chardonnay, Bollini 'Barricato 40', Trentino",
+        "Chardonnay, La Follette 'Los Primeros', Sonoma County",
+        "Barolo, Fontanafredda 'Silver Label', Piedmont",
+        "Merlot, St. Francis, Sonoma County",
+        "Malbec, Portillo, Mendoza",
+        "Negroamaro, Li Veli 'Pezzo Morgana', Salice Salentino Riserva",
+        "Cabernet Sauvignon, Di Majo Norante, Molise",
+        "Cabernet Sauvignon, Paul Dolan Vineyards, Mendocino County",
+        "Cabernet Sauvignon, Iconoclast 'By Chimney Rock', Napa Valley",
+        "Proprietary Red Blend, Delille Cellars 'D2', Columbia Valley",
+        "Prosecco, Bottega 'Vino dei Poeti', Veneto",
+        "Pinot Grigio, Barone Fini, Valdadige",
+        "Frappato, Donnafugata 'Bell'Assai', Sicily",
+        "Pinot Noir, Bottega Vinaia, Trentino",
+        "Pinot Noir, Valravn, Sonoma County"
+      ],
+      "wineRegionFocus": [
+        "Italy (Piedmont, Tuscany, Sicily, Trentino, Veneto)",
+        "California (Sonoma County, Napa Valley, Mendocino County, Central Coast)",
+        "Argentina (Mendoza)",
+        "New Zealand (Awatere Valley)",
+        "Chile",
+        "Washington (Columbia Valley)"
+      ],
+      "sommelierOnStaff": null,
+      "halfPriceNight": "Monday-Thursday",
+      "halfPriceDetails": "Half off bottles of wine (excludes reserve wine) served in the bar, 3PM-6PM",
+      "vibeDescription": "Modern Italian restaurant with warm, inviting atmosphere and full beverage program including handcrafted cocktails and curated wine selection.",
+      "popularDishes": [
+        "Handmade pasta",
+        "Margherita pizza",
+        "Italian cuisine made from scratch"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "Unknown",
+      "citationLinks": [
+        "https://www.northitalia.com/locations/austin-tx-2nd-street/",
+        "https://www.opentable.com/r/north-italia-austin-2nd-street-austin",
+        "https://www.northitalia.com/wp-content/uploads/2025/08/North-Italia_HAPPY-HOUR_Fall-2025_3013-Austin-2nd-Street.pdf",
+        "https://www.austinrestaurantweeks.org/restaurants/p/maie-day-ccjm5-lrldr-j58fr-je6sk-79tsd",
+        "https://www.tripadvisor.com/Restaurant_Review-g30196-d13597680-Reviews-North_Italia-Austin_Texas.html"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Pinot Grigio, Barone Fini, Valdadige",
+          "restaurantPrice": "$50",
+          "retailPrice": "$12-15",
+          "markupPercent": 250
+        },
+        {
+          "wine": "Chardonnay, Bollini 'Barricato 40', Trentino",
+          "restaurantPrice": "$56",
+          "retailPrice": "$14-18",
+          "markupPercent": 250
+        },
+        {
+          "wine": "Cabernet Sauvignon, Paul Dolan Vineyards, Mendocino County",
+          "restaurantPrice": "$56",
+          "retailPrice": "$16-20",
+          "markupPercent": 210
+        },
+        {
+          "wine": "Cabernet Sauvignon, Iconoclast 'By Chimney Rock', Napa Valley",
+          "restaurantPrice": "$66",
+          "retailPrice": "$22-28",
+          "markupPercent": 180
+        },
+        {
+          "wine": "Proprietary Red Blend, Delille Cellars 'D2', Columbia Valley",
+          "restaurantPrice": "$68",
+          "retailPrice": "$24-30",
+          "markupPercent": 170
+        }
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 97
+    },
+    {
+      "name": "House Wine",
+      "neighborhood": "Bouldin Creek",
+      "cuisineType": "Wine Bar / Mediterranean",
+      "website": "https://www.housewineaustin.com",
+      "address": {
+        "street": "1711 S. 1st Street",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78704"
+      },
+      "wineListSize": "100 wines by the glass",
+      "byTheGlassCount": "100 options",
+      "priceRange": "$12-$24/glass (estimated from happy hour $2 off all glasses), $40-$200/bottle (estimated)",
+      "notableWines": "unknown - specific wine names not listed in available sources",
+      "wineRegionFocus": [
+        "Small production boutique wineries",
+        "Sustainable, natural, organic and biodynamic practices",
+        "International selection from multiple countries"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": "Sunday",
+      "halfPriceDetails": "1/2 Price Glasses on Sundays; Wednesday ALL NIGHT Happy Hour with $2 off all glasses and $6 off all bottles; Tuesday $49 Bottle & Board special",
+      "vibeDescription": "Unpretentious, inclusive, contemporary yet cozy wine bar in a home setting with locally sourced food.",
+      "popularDishes": [
+        "Cheese and charcuterie boards",
+        "Bola pizzas",
+        "Tapas and shared plates"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$15-$30 (estimated from board/plate pricing)",
+      "citationLinks": [
+        "https://www.housewineaustin.com",
+        "https://www.housewineaustin.com/eventguide",
+        "https://www.housewineaustin.com/wine-events"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "notes": "House Wine is confirmed as a women-owned, locally operated wine bar since 2008. Wine program details verified from official website. Sommelier team confirmed to lead wine classes and curate selections. Specific wine names and markup analysis unavailable from provided sources.",
+      "dataCompleteness": 88
+    },
+    {
+      "name": "Eddie V's Prime Seafood",
+      "neighborhood": "Downtown",
+      "cuisineType": "Steakhouse, Seafood",
+      "address": {
+        "street": "301 E 5th St",
+        "city": "Austin",
+        "state": "Texas",
+        "zip": "78701"
+      },
+      "wineListSize": "more than 300 wines",
+      "byTheGlassCount": "unknown",
+      "priceRange": "unknown",
+      "notableWines": [],
+      "wineRegionFocus": [],
+      "sommelierOnStaff": true,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Luxury dining destination with live music in the V Lounge and premium seafood and steaks.",
+      "popularDishes": [
+        "Seafood Tower",
+        "Chilean Sea Bass",
+        "Crab Fried Rice"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$50-$100",
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g30196-d469572-Reviews-Eddie_V_s_Prime_Seafood-Austin_Texas.html",
+        "https://www.winespectator.com/restaurants/801/eddie-v-s-prime-seafood",
+        "https://www.eddiev.com/menu/wine-selection",
+        "https://www.eddiev.com/locations/tx/austin/austin-5th-street/8501",
+        "https://m.eddiev.com/home"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 47
+    }
+  ],
+  "skippedRestaurants": [
+    {
+      "name": "Aviary Wine & Kitchen",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "The Capital Grille - Austin"
+    },
+    {
+      "name": "Birdie's",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "North Italia - Austin 2nd Street"
+    },
+    {
+      "name": "Bufalina",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research",
+      "replacedBy": "House Wine"
+    },
+    {
+      "name": "Bufalina Due",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research",
+      "replacedBy": "Eddie V's Prime Seafood"
+    },
+    {
+      "name": "Dai Due",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Flo's Wine Bar & Bottle Shop",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 43,
+      "phase": "research"
+    },
+    {
+      "name": "LoLo Wine Bar and Bottle Shop",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Sammie's Italian",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Winebelly",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "June's All Day",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Lenoir",
+      "neighborhood": "South Austin",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 54,
+      "phase": "research"
+    },
+    {
+      "name": "Wink Wine Bar",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "House Wine",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "The Austin Winery",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Texas Reds and Whites Tasting Room",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Asti Trattoria",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Nixta Taqueria",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "The Violet Crown",
+      "neighborhood": "Crestview/Brentwood",
+      "reason": "low confidence; only 0 sources (min: 3); 25% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 25,
+      "phase": "research"
+    },
+    {
+      "name": "Hestia",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Jeffrey's",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Comedor",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 1 sources (min: 3); 15% complete (min: 40%)",
+      "sourcesFound": 1,
+      "confidenceLevel": "low",
+      "dataCompleteness": 15,
+      "phase": "research"
+    },
+    {
+      "name": "Emmer & Rye",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Barley Swine",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Uchi",
+      "neighborhood": "Downtown Austin",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 51,
+      "phase": "research"
+    },
+    {
+      "name": "Odd Duck",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Fonda San Miguel",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    }
+  ]
+}

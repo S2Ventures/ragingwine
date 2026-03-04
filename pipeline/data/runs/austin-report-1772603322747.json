@@ -1,0 +1,305 @@
+{
+  "city": "Austin",
+  "citySlug": "austin",
+  "startedAt": "2026-03-04T05:42:54.384Z",
+  "completedAt": "2026-03-04T05:48:42.516Z",
+  "restaurantsResearched": 8,
+  "reviewsWritten": 4,
+  "reviewsPublished": 4,
+  "restaurantsSkippedResearch": 26,
+  "restaurantsSkippedWriting": 3,
+  "skippedRestaurants": [
+    {
+      "name": "Aviary Wine & Kitchen",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "The Capital Grille - Austin"
+    },
+    {
+      "name": "Birdie's",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "North Italia - Austin 2nd Street"
+    },
+    {
+      "name": "Bufalina",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research",
+      "replacedBy": "House Wine"
+    },
+    {
+      "name": "Bufalina Due",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research",
+      "replacedBy": "Eddie V's Prime Seafood"
+    },
+    {
+      "name": "Dai Due",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Flo's Wine Bar & Bottle Shop",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 43,
+      "phase": "research"
+    },
+    {
+      "name": "LoLo Wine Bar and Bottle Shop",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Sammie's Italian",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Winebelly",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "June's All Day",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Lenoir",
+      "neighborhood": "South Austin",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 54,
+      "phase": "research"
+    },
+    {
+      "name": "Wink Wine Bar",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "House Wine",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "The Austin Winery",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Texas Reds and Whites Tasting Room",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Asti Trattoria",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Nixta Taqueria",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "The Violet Crown",
+      "neighborhood": "Crestview/Brentwood",
+      "reason": "low confidence; only 0 sources (min: 3); 25% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 25,
+      "phase": "research"
+    },
+    {
+      "name": "Hestia",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Jeffrey's",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Comedor",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 1 sources (min: 3); 15% complete (min: 40%)",
+      "sourcesFound": 1,
+      "confidenceLevel": "low",
+      "dataCompleteness": 15,
+      "phase": "research"
+    },
+    {
+      "name": "Emmer & Rye",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Barley Swine",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Uchi",
+      "neighborhood": "Downtown Austin",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 51,
+      "phase": "research"
+    },
+    {
+      "name": "Odd Duck",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Fonda San Miguel",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Wanderlust Wine Co.",
+      "neighborhood": "Multiple locations: Downtown, Barton Springs, East Austin",
+      "reason": "No specific wine names, producers, or pricing details found in research data. Self-pour tap concept confirmed but insufficient detail on actual wines offered to write credible recommendations.",
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 67,
+      "phase": "writing"
+    },
+    {
+      "name": "CRÚ Food & Wine Bar",
+      "neighborhood": "Warehouse District",
+      "reason": "No specific wine names, producers, or pricing data available. Cannot write credible picks without fabricating details.",
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 57,
+      "phase": "writing"
+    },
+    {
+      "name": "Eddie V's Prime Seafood",
+      "neighborhood": "Downtown",
+      "reason": "No specific wine names, producers, or pricing data found in research. Only generic '300+ wines' count and Wine Spectator listing available. Cannot write credible review without actual wine list details.",
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 47,
+      "phase": "writing"
+    }
+  ],
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "APT 115",
+      "slug": "apt-115-austin",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Underdog",
+      "slug": "underdog-austin",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "The Capital Grille",
+      "slug": "the-capital-grille-austin",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "North Italia - Austin 2nd Street",
+      "slug": "north-italia-austin-2nd-street-austin",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}
