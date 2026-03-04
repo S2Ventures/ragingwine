@@ -73,20 +73,19 @@ export async function POST(request: Request) {
       return NextResponse.json(result, { status });
     }
 
-    // --- Log to Supabase (fire-and-forget) ---
-    void (async () => {
-      try {
-        await supabase.from('scan_logs').insert({
-          scan_id: result.id,
-          ip_address: ip,
-          restaurant_guess: result.restaurantGuess,
-          recommendation_count: result.recommendations.length,
-          result_json: result,
-        });
-      } catch (err: unknown) {
-        console.error('Failed to log scan:', err);
-      }
-    })();
+    // --- Log to Supabase (await so share links work) ---
+    const { error: insertError } = await supabase.from('scan_logs').insert({
+      scan_id: result.id,
+      ip_address: ip,
+      restaurant_guess: result.restaurantGuess,
+      recommendation_count: result.recommendations.length,
+      result_json: result,
+    });
+
+    if (insertError) {
+      console.error('Failed to log scan:', insertError);
+      // Still return the result — scan worked, just sharing won't work
+    }
 
     return NextResponse.json(result);
   } catch (error) {
