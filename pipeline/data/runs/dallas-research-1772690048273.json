@@ -1,0 +1,469 @@
+{
+  "city": "Dallas",
+  "citySlug": "dallas",
+  "state": "Texas",
+  "researchedAt": "2026-03-05T05:54:08.273Z",
+  "restaurants": [
+    {
+      "name": "Pappas Bros. Steakhouse Dallas",
+      "neighborhood": "Far North Dallas",
+      "cuisineType": "Steakhouse",
+      "website": "https://pappasbros.com",
+      "address": {
+        "street": "10477 Lombardy Lane",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75220"
+      },
+      "wineListSize": "4,100 labels",
+      "byTheGlassCount": "unknown",
+      "priceRange": "many bottles $100+",
+      "notableWines": [],
+      "wineRegionFocus": [
+        "Burgundy",
+        "Bordeaux",
+        "California",
+        "Piedmont",
+        "Rhône",
+        "Tuscany",
+        "Champagne",
+        "Germany",
+        "Austria",
+        "Spain",
+        "Port"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Classic steakhouse setting the standard for fine dining and superior service with a celebrated wine collection.",
+      "popularDishes": [
+        "USDA prime grilled steaks",
+        "in-house dry-aged beef"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$66+",
+      "citationLinks": [
+        "https://www.winespectator.com/restaurants/559/pappas-bros.-steakhouse-dallas",
+        "https://www.pappas.com/time-for-a-toast-to-the-restaurants-with-the-best-wine-programs-in-dallas/",
+        "https://starwinelist.com/wine-place/pappas-bros-steakhouse-dallas",
+        "https://pappasbros.com",
+        "https://pappasbros.com/events/",
+        "https://pappasbros.com/event_category/wine-dinner/",
+        "https://pappasbros.com/events/icons-around-the-world/",
+        "https://pappasbros.com/event_category/wine-tasting/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 62
+    },
+    {
+      "name": "Valle",
+      "neighborhood": "Bishop Arts",
+      "cuisineType": "Mexican Wine Bar & Cocktail Lounge",
+      "website": "https://www.vallebishoparts.com",
+      "address": {
+        "street": "509 N. Bishop Ave., Suite C",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "unknown"
+      },
+      "wineListSize": "12+ wines by the glass, 20+ wines by the bottle",
+      "byTheGlassCount": "12 options",
+      "priceRange": "$12-$22/glass, $30-$120/bottle",
+      "notableWines": [
+        "2019 Montepulciano from Piñamora (Chihuahua)",
+        "Sauvignon Blanc from Bodegas Magoni (Baja California)",
+        "Malbec, Syrah, Tempranillo, Merlot blend from Valle de Jaral de Berrios (Guanajuato)",
+        "2018 Gewurztraminer from Vinaltura (Baja California)",
+        "Wines from Xolo, Lagrimas, Henri Lurton, Vinaltura"
+      ],
+      "wineRegionFocus": [
+        "Valle de Guadalupe (Baja California)",
+        "Coahuila",
+        "Chihuahua",
+        "Querétaro",
+        "Guanajuato"
+      ],
+      "sommelierOnStaff": null,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Dark and cozy intimate lounge with deep green and gold palette, leather chairs, and coffee table seating.",
+      "popularDishes": [
+        "Chips & salsa",
+        "Nuts",
+        "Charcuterie with olives and chihuahua cheese"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "No food service; wine/cocktail focused",
+      "citationLinks": [
+        "https://www.dallasobserver.com/food-drink/valle-brings-mexico-city-bar-scene-to-dallas-21337747/",
+        "https://dallas.culturemap.com/news/restaurants-bars/valle-bishop-arts-vinito/",
+        "https://www.vallebishoparts.com",
+        "https://wanderlog.com/place/details/12722356/valle"
+      ],
+      "markupSampling": [
+        {
+          "wine": "2019 Montepulciano from Piñamora",
+          "restaurantPrice": "$22",
+          "retailPrice": "unknown",
+          "markupPercent": "unknown"
+        },
+        {
+          "wine": "Sauvignon Blanc from Bodegas Magoni",
+          "restaurantPrice": "$17",
+          "retailPrice": "unknown",
+          "markupPercent": "unknown"
+        },
+        {
+          "wine": "2018 Gewurztraminer from Vinaltura",
+          "restaurantPrice": "$70",
+          "retailPrice": "unknown",
+          "markupPercent": "unknown"
+        }
+      ],
+      "wineListSource": "website, review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 4,
+      "confidenceLevel": "high",
+      "notes": "Valle opened November 24, 2024 as a sibling to Vinito (Mexican wine retail shop). Offers wine club subscriptions starting at $30/month for one bottle to $70/month for three. Specializes exclusively in Mexican wines. No sommelier title mentioned in sources. Operates daily 4 p.m. – 2 a.m.",
+      "dataCompleteness": 94
+    },
+    {
+      "name": "55 Seventy",
+      "neighborhood": "Preston Center / Park Cities",
+      "cuisineType": "Fine Dining",
+      "website": "https://dallas.55seventy.com",
+      "address": {
+        "street": "Preston Center (exact street unknown)",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "unknown"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "unknown",
+      "priceRange": "retail price, no markup",
+      "notableWines": [
+        "Burgundies from Peter Wasserman"
+      ],
+      "wineRegionFocus": [
+        "Burgundy"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "Sophisticated private members' club for wine lovers with luxury wine storage and elevated dining.",
+      "popularDishes": [
+        "unknown"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "unknown",
+      "citationLinks": [
+        "https://dallas.55seventy.com",
+        "https://thescoutguide.com/dallas/editorial/a-toast-to-55-seventy-inside-dallas-premier-wine-club/",
+        "https://dallas.55seventy.com/membership",
+        "https://dallas.55seventy.com/wineprogram",
+        "https://www.55seventy.com/service-director",
+        "https://dallas.55seventy.com/faq"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 64
+    },
+    {
+      "name": "Fig & Favor",
+      "neighborhood": "Harwood District",
+      "cuisineType": "Grab-and-go market",
+      "website": "https://www.figandfavordal.com",
+      "address": {
+        "street": "2850 N. Harwood St., Suite 110",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75201"
+      },
+      "wineListSize": "unknown",
+      "byTheGlassCount": "at least 1 (house brand)",
+      "priceRange": "$5/glass (house brand), bottle prices unknown",
+      "notableWines": [],
+      "wineRegionFocus": [
+        "global"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": null,
+      "halfPriceDetails": null,
+      "vibeDescription": "European-inspired cozy market feeling like a corner shop in Bordeaux, with grab-and-go meals, gelato, and espresso.",
+      "popularDishes": [
+        "crafted sandwiches",
+        "fresh salads",
+        "gelato"
+      ],
+      "reservationRecommended": false,
+      "averageEntreePrice": "unknown",
+      "citationLinks": [
+        "https://www.qsrmagazine.com/news/hardwood-hospitalitys-fig-favor-concept-opens-dallas/",
+        "https://dallas.culturemap.com/news/restaurants-bars/tastemaker-awards-2024-best-wine/",
+        "https://www.figandfavordal.com/harwoodwineclub",
+        "https://harwooddistrict.com/dine/",
+        "https://www.figandfavordal.com",
+        "https://www.dallasobserver.com/uncategorized/new-market-fig-and-favor-now-open-in-the-harwood-district-16329408/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "press|website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 57
+    }
+  ],
+  "skippedRestaurants": [
+    {
+      "name": "Al Biernat’s",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Fig & Favor"
+    },
+    {
+      "name": "The French Room",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Times Ten Cellars",
+      "neighborhood": "Lakewood/East Dallas",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 48,
+      "phase": "research"
+    },
+    {
+      "name": "Stoney's Wine Lounge",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Bodega",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Neighborhood Cellar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Palato Lounge",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Sixty Vines",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "The Mansion Bar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Tango Room",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Blind Bishop",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "The Wine Therapist",
+      "neighborhood": "East Dallas",
+      "reason": "low confidence; only 0 sources (min: 3); 25% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 25,
+      "phase": "research"
+    },
+    {
+      "name": "Ampelos Wines",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Barcelona Wine Bar",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Gorji Restaurant",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Georgie's Dallas",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Tre Mogli Cucina Italia",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Ellerbe Fine Foods",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Wayward Coffee Co.",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Mansion on Turtle Creek",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Pappas Bros. Steakhouse Fort Worth",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Al Biernat’s North",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Lavendou Bistro Provençal",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Eataly Dallas",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Carrabba’s Italian Grill",
+      "neighborhood": "North Dallas",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 51,
+      "phase": "research"
+    },
+    {
+      "name": "Del Frisco's Double Eagle Steak House",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 1 sources (min: 3); 35% complete (min: 40%)",
+      "sourcesFound": 1,
+      "confidenceLevel": "low",
+      "dataCompleteness": 35,
+      "phase": "research"
+    },
+    {
+      "name": "Fearing's",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    }
+  ]
+}

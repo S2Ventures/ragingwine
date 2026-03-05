@@ -1,0 +1,89 @@
+{
+  "reviews": [
+    {
+      "slug": "valle-dallas",
+      "restaurant": "Valle",
+      "neighborhood": "Bishop Arts",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Mexican Wine Bar & Cocktail Lounge",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Surprising Depth",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "You walk into Valle and realize you've been sleeping on Mexican wine. The list reads like a geography lesson through Mexico's emerging wine regions — Valle de Guadalupe, Coahuila, Chihuahua, Guanajuato — and suddenly the usual California suspects feel boring.",
+      "selectionDeepDive": "This is the most focused Mexican wine program in Dallas, maybe Texas. Valle spans 12 wines by the glass and over 20 bottles, pulling from producers like Xolo, Lagrimas, Henri Lurton, and Vinaltura across Baja California and beyond. You'll find a 2019 Montepulciano from Piñamora in Chihuahua, a Sauvignon Blanc from Bodegas Magoni, and even a Merlot blend from Valle de Jaral de Berrios in Guanajuato. It's not deep in the traditional sense, but it's deep in intention — every bottle tells a story about Mexican terroir that most people don't know exists.",
+      "byTheGlass": "Twelve by-the-glass options running $12-$22 is generous for a focused wine bar. The pours skew toward everyday drinking — Sauvignon Blanc at $17, Montepulciano at $22 — with enough variety to experiment without committing to a full bottle. No weekly rotations that we can see, but the standing lineup gives you plenty to explore across multiple visits.",
+      "bestValue": {
+        "wine": "Sauvignon Blanc from Bodegas Magoni",
+        "price": "$17",
+        "note": "Clean, bright Baja California white at a price that makes it an easy yes — perfect introduction to Mexican wine without the commitment"
+      },
+      "hiddenGem": {
+        "wine": "2019 Montepulciano from Piñamora",
+        "note": "Montepulciano from Chihuahua sounds like a punchline until you taste it — $22 gets you something unfamiliar and legitimately interesting"
+      },
+      "skipThis": {
+        "wine": "2018 Gewurztraminer from Vinaltura",
+        "note": "At $70 a bottle, this is the splurge play on the list, but Gewurz from Baja is a tough sell at that markup when you could grab two other bottles instead"
+      },
+      "perfectPairing": {
+        "wine": "Malbec from Valle de Jaral de Berrios",
+        "dish": "Charcuterie with chihuahua cheese and olives",
+        "note": "Mexican Malbec with Mexican cheese and cured meats is the move — keeps everything regionally honest and the wine has enough body for the salt and fat"
+      },
+      "bottomLine": "Valle isn't trying to be a catch-all wine bar — it's a love letter to Mexican wine, and if you're even slightly curious, this is your classroom. Fair pricing, smart curation, and a vibe that makes learning feel like a party.",
+      "subtitle": "Mexico's Wine Country Takes Over Dallas",
+      "tags": [
+        "wine-bar",
+        "hidden-gem",
+        "natural-wine",
+        "casual-vibes"
+      ],
+      "website": "https://www.vallebishoparts.com",
+      "address": {
+        "street": "509 N. Bishop Ave., Suite C",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": null,
+        "country": "US"
+      },
+      "dataCompleteness": 94,
+      "researchConfidence": "high"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "Pappas Bros. Steakhouse Dallas",
+      "neighborhood": "Far North Dallas",
+      "reason": "No specific wine names, producers, or prices found in research data. While the program size (4,100 labels) and regional focus are documented, we cannot write a credible review without concrete bottle examples and pricing details.",
+      "sourcesFound": 5,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 62,
+      "phase": "writing"
+    },
+    {
+      "name": "55 Seventy",
+      "neighborhood": "Preston Center / Park Cities",
+      "reason": "Insufficient wine-specific data: no specific wine names, producers, pricing details, or by-the-glass offerings found. Only general program structure (membership club, Burgundy focus, retail pricing) available. Cannot write credible review with specific wine picks without fabricating details.",
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 64,
+      "phase": "writing"
+    },
+    {
+      "name": "Fig & Favor",
+      "neighborhood": "Harwood District",
+      "reason": "Insufficient wine program data: no specific wine names, producers, or bottle prices found. Only $5 house brand glass pour mentioned. Cannot write credible specific review without fabricating details.",
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 57,
+      "phase": "writing"
+    }
+  ]
+}

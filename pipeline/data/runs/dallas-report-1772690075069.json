@@ -1,0 +1,293 @@
+{
+  "city": "Dallas",
+  "citySlug": "dallas",
+  "startedAt": "2026-03-05T05:48:24.181Z",
+  "completedAt": "2026-03-05T05:54:34.414Z",
+  "restaurantsResearched": 4,
+  "reviewsWritten": 1,
+  "reviewsPublished": 1,
+  "restaurantsSkippedResearch": 27,
+  "restaurantsSkippedWriting": 3,
+  "skippedRestaurants": [
+    {
+      "name": "Al Biernat’s",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Fig & Favor"
+    },
+    {
+      "name": "The French Room",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Times Ten Cellars",
+      "neighborhood": "Lakewood/East Dallas",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 48,
+      "phase": "research"
+    },
+    {
+      "name": "Stoney's Wine Lounge",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Bodega",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Neighborhood Cellar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Palato Lounge",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Sixty Vines",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "The Mansion Bar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Tango Room",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Blind Bishop",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "The Wine Therapist",
+      "neighborhood": "East Dallas",
+      "reason": "low confidence; only 0 sources (min: 3); 25% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 25,
+      "phase": "research"
+    },
+    {
+      "name": "Ampelos Wines",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Barcelona Wine Bar",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Gorji Restaurant",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Georgie's Dallas",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Tre Mogli Cucina Italia",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Ellerbe Fine Foods",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Wayward Coffee Co.",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Mansion on Turtle Creek",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Pappas Bros. Steakhouse Fort Worth",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Al Biernat’s North",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Lavendou Bistro Provençal",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Eataly Dallas",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Carrabba’s Italian Grill",
+      "neighborhood": "North Dallas",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 51,
+      "phase": "research"
+    },
+    {
+      "name": "Del Frisco's Double Eagle Steak House",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 1 sources (min: 3); 35% complete (min: 40%)",
+      "sourcesFound": 1,
+      "confidenceLevel": "low",
+      "dataCompleteness": 35,
+      "phase": "research"
+    },
+    {
+      "name": "Fearing's",
+      "neighborhood": "unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Pappas Bros. Steakhouse Dallas",
+      "neighborhood": "Far North Dallas",
+      "reason": "No specific wine names, producers, or prices found in research data. While the program size (4,100 labels) and regional focus are documented, we cannot write a credible review without concrete bottle examples and pricing details.",
+      "sourcesFound": 5,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 62,
+      "phase": "writing"
+    },
+    {
+      "name": "55 Seventy",
+      "neighborhood": "Preston Center / Park Cities",
+      "reason": "Insufficient wine-specific data: no specific wine names, producers, pricing details, or by-the-glass offerings found. Only general program structure (membership club, Burgundy focus, retail pricing) available. Cannot write credible review with specific wine picks without fabricating details.",
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 64,
+      "phase": "writing"
+    },
+    {
+      "name": "Fig & Favor",
+      "neighborhood": "Harwood District",
+      "reason": "Insufficient wine program data: no specific wine names, producers, or bottle prices found. Only $5 house brand glass pour mentioned. Cannot write credible specific review without fabricating details.",
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 57,
+      "phase": "writing"
+    }
+  ],
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Valle",
+      "slug": "valle-dallas",
+      "badge": "wildcard",
+      "published": true
+    }
+  ]
+}
