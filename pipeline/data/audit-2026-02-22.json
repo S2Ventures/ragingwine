@@ -1,0 +1,1101 @@
+{
+  "auditDate": "2026-02-22",
+  "summary": {
+    "totalReviews": 300,
+    "cleanReviews": 143,
+    "abbreviatedReviews": 134,
+    "textIssueReviews": 23,
+    "totalNeedingAction": 157
+  },
+  "actions": {
+    "autoRewrite": {
+      "description": "Abbreviated reviews that can be re-researched and rewritten via improved pipeline. All have websites.",
+      "count": 134,
+      "byCityBatch": {
+        "atlanta": {
+          "city": "Atlanta",
+          "citySlug": "atlanta",
+          "restaurants": [
+            {
+              "restaurant": "3 Parks Wine Shop",
+              "slug": "3-parks-wine-shop-atlanta",
+              "badge": "reliable",
+              "website": "https://3parkswine.com"
+            },
+            {
+              "restaurant": "Aria",
+              "slug": "aria-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.aria-atl.com"
+            },
+            {
+              "restaurant": "Arnette's Chop Shop",
+              "slug": "arnettes-chop-shop-buford-highway",
+              "badge": "reliable",
+              "website": "https://www.arnetteschopshop.com"
+            },
+            {
+              "restaurant": "Atlanta Fish Market",
+              "slug": "atlanta-fish-market",
+              "badge": "reliable",
+              "website": "https://atlantafishmarket.com"
+            },
+            {
+              "restaurant": "Atlas",
+              "slug": "atlas-atlanta",
+              "badge": "rager",
+              "website": "https://atlasrestaurant.com"
+            },
+            {
+              "restaurant": "B&W Burgers, Buns & Brews",
+              "slug": "bw-burgers-atlanta",
+              "badge": "lazy",
+              "website": "https://bwburgers.com"
+            },
+            {
+              "restaurant": "Bacchanalia",
+              "slug": "bacchanalia-atlanta",
+              "badge": "rager",
+              "website": "https://www.starprovisions.com/bacchanalia"
+            },
+            {
+              "restaurant": "Barcelona Wine Bar",
+              "slug": "barcelona-wine-bar-atlanta",
+              "badge": "rager",
+              "website": "https://barcelonawinebar.com"
+            },
+            {
+              "restaurant": "Bones",
+              "slug": "bones-atlanta",
+              "badge": "rager",
+              "website": "https://bonesrestaurant.com"
+            },
+            {
+              "restaurant": "CRU Food & Wine Bar",
+              "slug": "cru-food-wine-bar-atlanta",
+              "badge": "reliable",
+              "website": "https://cruwinebar.com"
+            },
+            {
+              "restaurant": "Canoe",
+              "slug": "canoe-atlanta",
+              "badge": "reliable",
+              "website": "https://canoeatl.com"
+            },
+            {
+              "restaurant": "Capolinea",
+              "slug": "capolinea-atlanta",
+              "badge": "wildcard",
+              "website": "https://capolineaatlanta.com"
+            },
+            {
+              "restaurant": "Commune",
+              "slug": "commune-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.communeatl.com"
+            },
+            {
+              "restaurant": "Cooks & Soldiers",
+              "slug": "cooks-and-soldiers-atlanta",
+              "badge": "rager",
+              "website": "https://www.cooksandsoldiers.com"
+            },
+            {
+              "restaurant": "El Vinedo Local",
+              "slug": "el-vinedo-local-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.elvinedolocal.com"
+            },
+            {
+              "restaurant": "Fawn Wine & Amaro Bar",
+              "slug": "fawn-wine-amaro-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.fawnwineamaro.com"
+            },
+            {
+              "restaurant": "H&W Steakhouse",
+              "slug": "hw-steakhouse-atlanta",
+              "badge": "rager",
+              "website": "https://www.hwsteakhouse.com"
+            },
+            {
+              "restaurant": "Haven Restaurant",
+              "slug": "haven-restaurant-buford-highway",
+              "badge": "reliable",
+              "website": "https://www.havenrestaurant.com"
+            },
+            {
+              "restaurant": "Indaco",
+              "slug": "indaco-atlanta",
+              "badge": "reliable",
+              "website": "https://www.indacorestaurant.com"
+            },
+            {
+              "restaurant": "Iron Horse Tavern",
+              "slug": "iron-horse-tavern-atlanta",
+              "badge": "lazy",
+              "website": "https://www.iron-horse-tavern.com"
+            },
+            {
+              "restaurant": "Kyma",
+              "slug": "kyma-atlanta",
+              "badge": "wildcard",
+              "website": "https://kymaatlanta.com"
+            },
+            {
+              "restaurant": "La Grotta",
+              "slug": "la-grotta-atlanta",
+              "badge": "rager",
+              "website": "https://www.lagrottaatlanta.com"
+            },
+            {
+              "restaurant": "Larakin",
+              "slug": "larakin-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.larakinwineandcoffee.com"
+            },
+            {
+              "restaurant": "Le Bilboquet",
+              "slug": "le-bilboquet-atlanta",
+              "badge": "rager",
+              "website": "https://www.lebilboquetatlanta.com"
+            },
+            {
+              "restaurant": "Le Bon Nosh",
+              "slug": "le-bon-nosh-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.lebonnosh.com"
+            },
+            {
+              "restaurant": "Le Colonial",
+              "slug": "le-colonial-atlanta",
+              "badge": "reliable",
+              "website": "https://www.lecolonial.com/atlanta"
+            },
+            {
+              "restaurant": "Little Bear",
+              "slug": "little-bear-atlanta",
+              "badge": "wildcard",
+              "website": "https://littlebearatl.com"
+            },
+            {
+              "restaurant": "Lyla Lila",
+              "slug": "lyla-lila-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.lylalilaatl.com"
+            },
+            {
+              "restaurant": "Madeira Park",
+              "slug": "madeira-park-atlanta",
+              "badge": "rager",
+              "website": "https://www.madeiraparkatl.com"
+            },
+            {
+              "restaurant": "Marcel",
+              "slug": "marcel-atlanta",
+              "badge": "rager",
+              "website": "https://marcelatl.com"
+            },
+            {
+              "restaurant": "Marietta Proper",
+              "slug": "marietta-proper-atlanta",
+              "badge": "wildcard",
+              "website": "https://mariettaproper.com"
+            },
+            {
+              "restaurant": "Masterpiece",
+              "slug": "masterpiece-buford-highway",
+              "badge": "wildcard",
+              "website": "https://www.masterpiecerestaurant.com"
+            },
+            {
+              "restaurant": "Miller Union",
+              "slug": "miller-union-atlanta",
+              "badge": "rager",
+              "website": "https://www.millerunion.com"
+            },
+            {
+              "restaurant": "Mojitos Cuban American Bistro",
+              "slug": "mojitos-cuban-bistro-atlanta",
+              "badge": "lazy",
+              "website": "https://mojitosbistro.com"
+            },
+            {
+              "restaurant": "Nam Phuong",
+              "slug": "nam-phuong-buford-highway",
+              "badge": "wildcard",
+              "website": "https://www.namphuongga.com"
+            },
+            {
+              "restaurant": "Northern China Eatery",
+              "slug": "northern-china-eatery-buford-highway",
+              "badge": "wildcard",
+              "website": "https://www.northernchinaeatery.com"
+            },
+            {
+              "restaurant": "Panahar Bangladeshi Cuisine",
+              "slug": "panahar-buford-highway",
+              "badge": "wildcard",
+              "website": "https://panaharbangladeshicuisine.com"
+            },
+            {
+              "restaurant": "Petite Violette",
+              "slug": "petite-violette-atlanta",
+              "badge": "rager",
+              "website": "https://www.petitevioletterestaurant.com"
+            },
+            {
+              "restaurant": "Postino",
+              "slug": "postino-atlanta",
+              "badge": "reliable",
+              "website": "https://www.postinowinecafe.com"
+            },
+            {
+              "restaurant": "Ray's in the City",
+              "slug": "rays-in-the-city-atlanta",
+              "badge": "rager",
+              "website": "https://www.raysinthecity.com"
+            },
+            {
+              "restaurant": "Ray's on the River",
+              "slug": "rays-on-the-river-atlanta",
+              "badge": "reliable",
+              "website": "https://www.raysontheriver.com"
+            },
+            {
+              "restaurant": "Side Saddle Wine Saloon",
+              "slug": "side-saddle-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.sidesaddle.wine"
+            },
+            {
+              "restaurant": "Sotto Sotto",
+              "slug": "sotto-sotto-atlanta",
+              "badge": "reliable",
+              "website": "https://sottosottoatl.com"
+            },
+            {
+              "restaurant": "Stem Wine Bar",
+              "slug": "stem-wine-bar-atlanta",
+              "badge": "rager",
+              "website": "https://www.stemwinebar.com"
+            },
+            {
+              "restaurant": "Taste Wine Bar and Market",
+              "slug": "taste-wine-bar-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.tastewinebarandmarket.com"
+            },
+            {
+              "restaurant": "Terra Terroir",
+              "slug": "terra-terroir-buford-highway",
+              "badge": "rager",
+              "website": "https://www.terraterroir.com"
+            },
+            {
+              "restaurant": "The Alden",
+              "slug": "the-alden-buford-highway",
+              "badge": "wildcard",
+              "website": "https://thealdenrestaurant.com"
+            },
+            {
+              "restaurant": "The Crossing Steakhouse",
+              "slug": "the-crossing-steakhouse-atlanta",
+              "badge": "reliable",
+              "website": "https://thecrossingofnorcross.com"
+            },
+            {
+              "restaurant": "The Vibrary: Wine & Bookbar",
+              "slug": "the-vibrary-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.thevibrary.co"
+            },
+            {
+              "restaurant": "Valenza Restaurant",
+              "slug": "valenza-buford-highway",
+              "badge": "rager",
+              "website": "https://www.valenzarestaurant.com"
+            },
+            {
+              "restaurant": "VinoTeca",
+              "slug": "vinoteca-atlanta",
+              "badge": "wildcard",
+              "website": "https://www.shopvinoteca.com"
+            },
+            {
+              "restaurant": "White Oak Kitchen & Cocktails",
+              "slug": "white-oak-kitchen-atlanta",
+              "badge": "rager",
+              "website": "https://www.whiteoakkitchen.com"
+            },
+            {
+              "restaurant": "Zapata Tacos & Tequila Bar",
+              "slug": "zapata-tacos-tequila-atlanta",
+              "badge": "lazy",
+              "website": "https://www.zapataatl.com"
+            },
+            {
+              "restaurant": "di Paolo Italian Kitchen",
+              "slug": "di-paolo-atlanta",
+              "badge": "rager",
+              "website": "https://www.dipaolorestaurant.com"
+            }
+          ]
+        },
+        "charleston": {
+          "city": "Charleston",
+          "citySlug": "charleston",
+          "restaurants": [
+            {
+              "restaurant": "Bar Vaut\u00e9",
+              "slug": "bar-vaute-charleston",
+              "badge": "wildcard",
+              "website": "https://www.brasserielabanque.com/bar-vaute"
+            },
+            {
+              "restaurant": "Bin 152",
+              "slug": "bin-152-charleston",
+              "badge": "wildcard",
+              "website": "https://bin152.com"
+            },
+            {
+              "restaurant": "Brasserie La Banque",
+              "slug": "brasserie-la-banque-charleston",
+              "badge": "reliable",
+              "website": "https://www.brasserielabanque.com"
+            },
+            {
+              "restaurant": "Charleston Grill",
+              "slug": "charleston-grill-charleston",
+              "badge": "rager",
+              "website": "https://charlestongrill.com"
+            },
+            {
+              "restaurant": "Chez Nous",
+              "slug": "chez-nous-charleston",
+              "badge": "wildcard",
+              "website": "https://www.cheznouschs.com"
+            },
+            {
+              "restaurant": "Chubby Fish",
+              "slug": "chubby-fish-charleston",
+              "badge": "wildcard",
+              "website": "https://www.chubbyfishcharleston.com"
+            },
+            {
+              "restaurant": "Circa 1886",
+              "slug": "circa-1886-charleston",
+              "badge": "rager",
+              "website": "https://circa1886.com"
+            },
+            {
+              "restaurant": "Costa",
+              "slug": "costa-charleston",
+              "badge": "reliable",
+              "website": "https://www.costacharleston.com"
+            },
+            {
+              "restaurant": "Estadio Charleston",
+              "slug": "estadio-charleston",
+              "badge": "wildcard",
+              "website": "https://www.estadio-chs.com"
+            },
+            {
+              "restaurant": "FIG",
+              "slug": "fig-charleston",
+              "badge": "rager",
+              "website": "https://eatatfig.com"
+            },
+            {
+              "restaurant": "Graft Wine Shop & Bar",
+              "slug": "graft-wine-shop-charleston",
+              "badge": "wildcard",
+              "website": "https://www.graftchs.com"
+            },
+            {
+              "restaurant": "Honeysuckle Rose",
+              "slug": "honeysuckle-rose-charleston",
+              "badge": "rager",
+              "website": "https://www.honeysucklerosechs.com"
+            },
+            {
+              "restaurant": "Husk",
+              "slug": "husk-charleston",
+              "badge": "wildcard",
+              "website": "https://huskcharleston.com"
+            },
+            {
+              "restaurant": "Indaco",
+              "slug": "indaco-charleston",
+              "badge": "reliable",
+              "website": "https://www.indacorestaurant.com"
+            },
+            {
+              "restaurant": "Park & Grove",
+              "slug": "park-and-grove-charleston",
+              "badge": "wildcard",
+              "website": "https://www.parkandgrovechs.com"
+            },
+            {
+              "restaurant": "Peninsula Grill",
+              "slug": "peninsula-grill-charleston",
+              "badge": "rager",
+              "website": "https://peninsulagrill.com"
+            },
+            {
+              "restaurant": "Renzo",
+              "slug": "renzo-charleston",
+              "badge": "wildcard",
+              "website": "https://www.renzochs.com"
+            },
+            {
+              "restaurant": "Roseline",
+              "slug": "roseline-charleston",
+              "badge": "wildcard",
+              "website": "https://roselinechs.com"
+            },
+            {
+              "restaurant": "Sorelle",
+              "slug": "sorelle-charleston",
+              "badge": "rager",
+              "website": "https://www.sorellecharleston.com"
+            },
+            {
+              "restaurant": "Stems & Skins",
+              "slug": "stems-and-skins-charleston",
+              "badge": "wildcard",
+              "website": "https://www.stemsandskins.com"
+            },
+            {
+              "restaurant": "The Establishment",
+              "slug": "the-establishment-charleston",
+              "badge": "reliable",
+              "website": "https://establishmentchs.com"
+            },
+            {
+              "restaurant": "The Restaurant at Zero George",
+              "slug": "zero-george-charleston",
+              "badge": "rager",
+              "website": "https://zerorestaurantcharleston.com"
+            },
+            {
+              "restaurant": "The Tippling House",
+              "slug": "the-tippling-house-charleston",
+              "badge": "wildcard",
+              "website": "https://thetipplinghousechs.com"
+            },
+            {
+              "restaurant": "The Watch Rooftop",
+              "slug": "the-watch-charleston",
+              "badge": "reliable",
+              "website": "https://thewatchcharleston.com"
+            },
+            {
+              "restaurant": "Uncork Charleston",
+              "slug": "uncork-charleston",
+              "badge": "reliable",
+              "website": "https://www.uncorkchs.com"
+            },
+            {
+              "restaurant": "Vern's",
+              "slug": "verns-charleston",
+              "badge": "wildcard",
+              "website": "https://www.vernschs.com"
+            },
+            {
+              "restaurant": "Vintage Lounge",
+              "slug": "vintage-lounge-charleston",
+              "badge": "wildcard",
+              "website": "https://www.vintagechs.com"
+            },
+            {
+              "restaurant": "Wild Common",
+              "slug": "wild-common-charleston",
+              "badge": "rager",
+              "website": "https://www.wildcommoncharleston.com"
+            }
+          ]
+        },
+        "greenville": {
+          "city": "Greenville",
+          "citySlug": "greenville",
+          "restaurants": [
+            {
+              "restaurant": "Between the Trees",
+              "slug": "between-the-trees-greenville",
+              "badge": "reliable",
+              "website": "https://www.betweenthetrees.com"
+            },
+            {
+              "restaurant": "CAMP",
+              "slug": "camp-greenville",
+              "badge": "rager",
+              "website": "https://campgvl.com"
+            },
+            {
+              "restaurant": "Fork and Plough",
+              "slug": "fork-and-plough-greenville",
+              "badge": "reliable",
+              "website": "https://www.forkandplough.com"
+            },
+            {
+              "restaurant": "Giardino",
+              "slug": "giardino-greenville",
+              "badge": "reliable",
+              "website": "https://italiangardengvl.com"
+            },
+            {
+              "restaurant": "Jianna",
+              "slug": "jianna-greenville",
+              "badge": "wildcard",
+              "website": "https://jiannagreenville.com"
+            },
+            {
+              "restaurant": "Jones Oyster Co.",
+              "slug": "jones-oyster-co-greenville",
+              "badge": "wildcard",
+              "website": "https://www.thejonesoysterco.com"
+            },
+            {
+              "restaurant": "Northampton Wine + Dine",
+              "slug": "northampton-wine-dine-greenville",
+              "badge": "rager",
+              "website": "https://northamptonwineanddine.com"
+            },
+            {
+              "restaurant": "Nose Dive",
+              "slug": "nose-dive-greenville",
+              "badge": "reliable",
+              "website": "https://thenosedive.com"
+            },
+            {
+              "restaurant": "Paseo Tapas & Wine Bar",
+              "slug": "paseo-tapas-wine-bar-greenville",
+              "badge": "wildcard",
+              "website": "https://paseogvl.com"
+            },
+            {
+              "restaurant": "Passerelle Bistro",
+              "slug": "passerelle-bistro-greenville",
+              "badge": "wildcard",
+              "website": "https://www.passerelleinthepark.com"
+            },
+            {
+              "restaurant": "Pomegranate on Main",
+              "slug": "pomegranate-on-main-greenville",
+              "badge": "wildcard",
+              "website": "https://www.pomegranateonmain.com"
+            },
+            {
+              "restaurant": "SIP Whiskey & Wine Bar",
+              "slug": "sip-whiskey-wine-bar-greenville",
+              "badge": "reliable",
+              "website": "https://sipgvl.com"
+            },
+            {
+              "restaurant": "Sassafras Southern Bistro",
+              "slug": "sassafras-southern-bistro-greenville",
+              "badge": "reliable",
+              "website": "https://sassafrasbistro.com"
+            },
+            {
+              "restaurant": "The Anchorage",
+              "slug": "the-anchorage-greenville",
+              "badge": "rager",
+              "website": "https://www.theanchoragerestaurant.com"
+            },
+            {
+              "restaurant": "The Lazy Goat",
+              "slug": "the-lazy-goat-greenville",
+              "badge": "rager",
+              "website": "https://thelazygoat.com"
+            },
+            {
+              "restaurant": "Topsoil Kitchen and Market",
+              "slug": "topsoil-greenville",
+              "badge": "wildcard",
+              "website": "https://www.topsoilrestaurant.com"
+            },
+            {
+              "restaurant": "Trattoria Giorgio",
+              "slug": "trattoria-giorgio-greenville",
+              "badge": "reliable",
+              "website": "https://www.trattoriagiorgio.com"
+            },
+            {
+              "restaurant": "Urban Wren",
+              "slug": "urban-wren-greenville",
+              "badge": "wildcard",
+              "website": "https://www.urbanwren.com"
+            },
+            {
+              "restaurant": "Vault & Vator",
+              "slug": "vault-and-vator-greenville",
+              "badge": "wildcard",
+              "website": "https://www.vaultandvator.com"
+            },
+            {
+              "restaurant": "Wine House",
+              "slug": "wine-house-greenville",
+              "badge": "wildcard",
+              "website": "https://www.winehousegvl.com"
+            }
+          ]
+        },
+        "clayton": {
+          "city": "Clayton",
+          "citySlug": "clayton",
+          "restaurants": [
+            {
+              "restaurant": "Billy Goat Island Pizza Bar",
+              "slug": "billy-goat-island-pizza-bar-clayton",
+              "badge": "wildcard",
+              "website": "https://billygoatislandpizzabar.com"
+            },
+            {
+              "restaurant": "Bleu Canoe",
+              "slug": "bleu-canoe-clayton",
+              "badge": "wildcard",
+              "website": "https://bleucanoe.com"
+            },
+            {
+              "restaurant": "Clayton Cafe",
+              "slug": "clayton-cafe-clayton",
+              "badge": "lazy",
+              "website": "https://theclaytoncafe.com"
+            },
+            {
+              "restaurant": "Fortify Pizza & Burger Bar",
+              "slug": "fortify-pizza-and-burger-bar-clayton",
+              "badge": "reliable",
+              "website": "https://fortifyclayton.com"
+            },
+            {
+              "restaurant": "Friends Clayton Grill",
+              "slug": "friends-clayton-grill-clayton",
+              "badge": "lazy",
+              "website": "https://friendsamericangrill.com/locations/clayton/"
+            },
+            {
+              "restaurant": "Lake Burton Cafe",
+              "slug": "lake-burton-cafe-clayton",
+              "badge": "lazy",
+              "website": "https://www.thelakeburtoncafe.com"
+            },
+            {
+              "restaurant": "Mama G's Italian",
+              "slug": "mama-gs-italian-clayton",
+              "badge": "reliable",
+              "website": "https://loveisgoodfood.net"
+            },
+            {
+              "restaurant": "Rabun Social",
+              "slug": "rabun-social-clayton",
+              "badge": "reliable",
+              "website": "https://www.rabunsocial.com"
+            },
+            {
+              "restaurant": "Stekoa Creek",
+              "slug": "stekoa-creek-clayton",
+              "badge": "rager",
+              "website": "https://stekoacreek.com"
+            },
+            {
+              "restaurant": "The Chophouse at LaPrade's Marina",
+              "slug": "the-chophouse-at-laprades-clayton",
+              "badge": "rager",
+              "website": "https://murphyschophouse.com/laprades/"
+            },
+            {
+              "restaurant": "The Hush Cuban Kitchen",
+              "slug": "the-hush-cuban-kitchen-clayton",
+              "badge": "reliable",
+              "website": "https://hushcubankitchen.com"
+            },
+            {
+              "restaurant": "The Vandiver",
+              "slug": "the-vandiver-clayton",
+              "badge": "wildcard",
+              "website": "https://www.thevandiverclayton.com"
+            },
+            {
+              "restaurant": "Universal Joint",
+              "slug": "universal-joint-clayton",
+              "badge": "lazy",
+              "website": "https://www.ujclayton.com"
+            }
+          ]
+        },
+        "blue-ridge": {
+          "city": "Blue Ridge",
+          "citySlug": "blue-ridge",
+          "restaurants": [
+            {
+              "restaurant": "Black Sheep Restaurant",
+              "slug": "black-sheep-blue-ridge",
+              "badge": "rager",
+              "website": "https://blacksheepblueridge.com"
+            },
+            {
+              "restaurant": "Chester Brunnenmeyer's Bar & Grill",
+              "slug": "chester-brunnenmeyers-blue-ridge",
+              "badge": "reliable",
+              "website": "https://www.chestersblueridge.com"
+            },
+            {
+              "restaurant": "Ferraro's Kitchen",
+              "slug": "ferraros-kitchen-blue-ridge",
+              "badge": "rager",
+              "website": "https://www.ferraroskitchen.com/blueridge"
+            },
+            {
+              "restaurant": "Grace Prime Steakhouse",
+              "slug": "grace-prime-blue-ridge",
+              "badge": "wildcard",
+              "website": "https://graceprime.com"
+            },
+            {
+              "restaurant": "Harvest on Main",
+              "slug": "harvest-on-main-blue-ridge",
+              "badge": "reliable",
+              "website": "https://harvestonmain.com"
+            },
+            {
+              "restaurant": "Mona Lisa's Dessert House",
+              "slug": "mona-lisas-dessert-house-blue-ridge",
+              "badge": "reliable",
+              "website": "https://mona-lisas-dessert-house.bartgrocerybbq.com/"
+            },
+            {
+              "restaurant": "The Dogwood",
+              "slug": "the-dogwood-blue-ridge",
+              "badge": "lazy",
+              "website": "https://dogwoodblueridge.com"
+            },
+            {
+              "restaurant": "The General Ledger",
+              "slug": "the-general-ledger-blue-ridge",
+              "badge": "reliable",
+              "website": "https://generalledgerblueridge.com"
+            },
+            {
+              "restaurant": "The Lookout",
+              "slug": "the-lookout-blue-ridge",
+              "badge": "lazy",
+              "website": "https://www.thelookoutblueridge.com"
+            },
+            {
+              "restaurant": "The Vine Wine Bar and Eatery",
+              "slug": "the-vine-wine-bar-blue-ridge",
+              "badge": "wildcard",
+              "website": "https://www.blueridgemountains.com/directory/the-vine-and-eatery/"
+            },
+            {
+              "restaurant": "Twisted Tomato",
+              "slug": "twisted-tomato-blue-ridge",
+              "badge": "rager",
+              "website": "https://twistedtomatoga.com/blue-ridge/"
+            },
+            {
+              "restaurant": "Whiskey & Water",
+              "slug": "whiskey-and-water-blue-ridge",
+              "badge": "reliable",
+              "website": "https://www.whiskeywaterbr.com"
+            }
+          ]
+        },
+        "key-west": {
+          "city": "Key West",
+          "citySlug": "key-west",
+          "restaurants": [
+            {
+              "restaurant": "Cafe Marquesa",
+              "slug": "cafe-marquesa-key-west",
+              "badge": "rager",
+              "website": "https://marquesa.com/cafe-marquesa/"
+            },
+            {
+              "restaurant": "El Siboney",
+              "slug": "el-siboney-key-west",
+              "badge": "wildcard",
+              "website": "https://www.elsiboneyrestaurant.com"
+            },
+            {
+              "restaurant": "Latitudes on the Beach",
+              "slug": "latitudes-sunset-key",
+              "badge": "rager",
+              "website": "https://www.opalcollection.com/sunset-key-cottages/restaurants/latitudes/"
+            },
+            {
+              "restaurant": "Lola's Bistro",
+              "slug": "lolas-bistro-key-west",
+              "badge": "rager",
+              "website": "https://lolasbistro.net"
+            },
+            {
+              "restaurant": "Louie's Backyard",
+              "slug": "louies-backyard-key-west",
+              "badge": "rager",
+              "website": "https://www.louiesbackyard.com"
+            },
+            {
+              "restaurant": "Santiago's Bodega",
+              "slug": "santiagos-bodega-key-west",
+              "badge": "wildcard",
+              "website": "https://santiagosbodega.com"
+            },
+            {
+              "restaurant": "The Little Pearl",
+              "slug": "the-little-pearl-key-west",
+              "badge": "rager",
+              "website": "https://littlepearlkeywest.com"
+            }
+          ]
+        }
+      }
+    },
+    "websiteLookup": {
+      "description": "Full reviews missing website URLs. Need manual website lookup, then re-research.",
+      "count": 19,
+      "restaurants": [
+        {
+          "restaurant": "Allelo",
+          "slug": "allelo-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website",
+            "details scarce"
+          ]
+        },
+        {
+          "restaurant": "Asheville Guitar Bar",
+          "slug": "asheville-guitar-bar-asheville",
+          "city": "Asheville",
+          "badge": "lazy",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Bacchus Wine Bistro",
+          "slug": "bacchus-wine-bistro-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Bodega",
+          "slug": "bodega-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Casa Vigil Miami",
+          "slug": "casa-vigil-miami-miami",
+          "city": "Miami",
+          "badge": "wildcard",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Commissary",
+          "slug": "commissary-miami",
+          "city": "Miami",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "East Coast Ale House",
+          "slug": "east-coast-ale-house-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "lazy",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Fleet Street Kitchen",
+          "slug": "fleet-street-kitchen-savannah",
+          "city": "Savannah",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Henrys",
+          "slug": "henrys-savannah",
+          "city": "Savannah",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Il Tartufo",
+          "slug": "il-tartufo-savannah",
+          "city": "Savannah",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "La Dolce Vita",
+          "slug": "la-dolce-vita-savannah",
+          "city": "Savannah",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Osteria 617",
+          "slug": "osteria-617-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Pacifico Italian Steakhouse",
+          "slug": "pacifico-italian-steakhouse-savannah",
+          "city": "Savannah",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Rococo Steak House",
+          "slug": "rococo-steak-house-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Sous Chef CTK",
+          "slug": "sous-chef-ctk-asheville",
+          "city": "Asheville",
+          "badge": "lazy",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "The Asbury",
+          "slug": "the-asbury-asheville",
+          "city": "Asheville",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "The Avenue Eat + Drink",
+          "slug": "the-avenue-eat-drink-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "The Library Restaurant",
+          "slug": "the-library-restaurant-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "lazy",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        },
+        {
+          "restaurant": "Tryst Gastropub",
+          "slug": "tryst-gastropub-st.-petersburg",
+          "city": "St. Petersburg",
+          "badge": "reliable",
+          "website": null,
+          "issues": [
+            "missing website"
+          ]
+        }
+      ]
+    },
+    "textQualityReview": {
+      "description": "Full reviews with text quality issues (not website-related). May need manual review.",
+      "count": 4,
+      "restaurants": [
+        {
+          "restaurant": "Benne on Eagle",
+          "slug": "benne-on-eagle-asheville",
+          "city": "Asheville",
+          "badge": "reliable",
+          "website": "https://www.benneoneagle.com",
+          "issues": [
+            "details scarce"
+          ]
+        },
+        {
+          "restaurant": "CW's Gin Joint",
+          "slug": "cws-gin-joint-tampa",
+          "city": "Tampa",
+          "badge": "lazy",
+          "website": "https://cwginjoint.com/",
+          "issues": [
+            "couldn't find"
+          ]
+        },
+        {
+          "restaurant": "Fooq's",
+          "slug": "fooqs-miami",
+          "city": "Miami",
+          "badge": "lazy",
+          "website": "https://fooqsmiami.com/",
+          "issues": [
+            "couldn't find"
+          ]
+        },
+        {
+          "restaurant": "Pastis",
+          "slug": "pastis-miami",
+          "city": "Miami",
+          "badge": "reliable",
+          "website": "https://pastismiami.com/",
+          "issues": [
+            "remains unclear"
+          ]
+        }
+      ]
+    }
+  }
+}
