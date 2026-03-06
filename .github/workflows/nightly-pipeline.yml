@@ -57,11 +57,16 @@ jobs:
           fi
           npx tsx src/orchestrator.ts $ARGS
 
-      - name: Commit queue updates
+      - name: Commit and push queue updates
         run: |
           git config user.name "Raging Wine Pipeline"
           git config user.email "pipeline@ragingwine.com"
           git add pipeline/data/
-          git diff --staged --quiet || git commit -m "pipeline: update city queue after $(date +%Y-%m-%d) run"
-          git pull --rebase
-          git push
+          # Exit early if nothing to commit
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          # Fetch latest, reset to remote tip, re-stage pipeline data
+          git fetch origin main
+          git reset --soft origin/main
+          git add pipeline/data/
+          git commit -m "pipeline: update city queue after $(date +%Y-%m-%d) run"
+          git push origin main
