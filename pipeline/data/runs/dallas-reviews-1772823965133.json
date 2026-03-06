@@ -1,0 +1,736 @@
+{
+  "reviews": [
+    {
+      "slug": "valle-dallas",
+      "restaurant": "Valle",
+      "neighborhood": "Bishop Arts District",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Modern Mexican",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Surprising Depth",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "The wine list at Valle reads like a geography lesson through Mexico's emerging wine regions — and we mean that as the highest compliment. This is the most ambitious all-Mexican wine program we've seen in Dallas, spanning Valle de Guadalupe to Chihuahua to Guanajuato. It's a bold move that immediately signals this isn't your typical margarita-and-cerveza spot.",
+      "selectionDeepDive": "Valle commits fully to the concept with zero hedging: every bottle comes from Mexico. You'll find 12 by-the-glass options pulling from Baja California's Valle de Guadalupe (the obvious starting point), but also deeper cuts from Coahuila, Querétaro, and Guanajuato. The list showcases producers like Monte Xanic, Vinaltura, and Bodegas Magoni alongside lesser-known operations like Piñamora out of Chihuahua and Valle de Jaral de Berrios in Guanajuato. It's an education in what Mexican viticulture is capable of beyond the usual suspects, with varietals ranging from Tempranillo and Malbec to Gewurztraminer and Montepulciano.",
+      "byTheGlass": "With 12 glass pours, Valle gives you plenty of room to explore without committing to a full bottle. The selections span white, red, and blends, letting you bounce between a Sauvignon Blanc from Baja and a Syrah-Merlot-Tempranillo blend from central Mexico. It's a smart way to discover what Mexican wine is all about, though we wish there was more rotation to keep regulars coming back.",
+      "bestValue": {
+        "wine": "2019 Piñamora Montepulciano",
+        "price": "$22",
+        "note": "A 10% markup on a Chihuahua-grown Italian varietal that drinks clean and honest — practically retail pricing in a full-service restaurant"
+      },
+      "hiddenGem": {
+        "wine": "Sauvignon Blanc from Bodegas Magoni",
+        "note": "Most people sleep on Baja Sauvignon Blanc, but Magoni's coastal fruit brings the crisp minerality you'd expect from Loire without the Euro price tag"
+      },
+      "skipThis": {
+        "wine": "Monte Xanic Gran Ricardo 2021",
+        "note": "At $120 for a $40 retail bottle, you're paying a 200% markup for name recognition — there are better values on this list"
+      },
+      "perfectPairing": {
+        "wine": "Malbec-Syrah-Tempranillo-Merlot blend from Valle de Jaral de Berrios",
+        "dish": "Any grilled meat or mole dish",
+        "note": "This Guanajuato blend has the fruit-forward richness to stand up to char and spice while keeping enough acidity to cut through complex sauces"
+      },
+      "bottomLine": "Valle takes a risk most Dallas restaurants won't: committing entirely to Mexican wine. The markup stings on some bottles, but the educational value and sheer novelty of the list earn it Wild Card status. Come curious, leave converted.",
+      "subtitle": "All-Mexican Wine List in the Heart of Dallas",
+      "tags": [
+        "hidden-gem",
+        "new-world-explorer",
+        "date-night",
+        "local-producers"
+      ],
+      "website": "https://www.vallebishoparts.com",
+      "address": {
+        "street": null,
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75208",
+        "country": "US"
+      },
+      "dataCompleteness": 88,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "pappas-bros-steakhouse-dallas",
+      "restaurant": "Pappas Bros. Steakhouse",
+      "neighborhood": "Love Field",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Steakhouse",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Deep & Eclectic",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "The wine list lands on your table like a small phone book, and it's not compensating — this is a legitimate 3,500+ bottle cellar with serious depth. First Growths, DRC, Screaming Eagle sit alongside thoughtful producers across Burgundy, Bordeaux, Napa, and the Rhône. This is the kind of place where someone at the next table is ordering a $2,000 bottle without blinking.",
+      "selectionDeepDive": "The Bordeaux section alone could stock most wine bars, with verticals of Pauillac and Saint-Julien that go back decades. Napa gets equal treatment — Harlan Estate, Opus One, and cult Cab programs are well-represented. Burgundy heads beyond the obvious Grand Crus into serious producer territory. The Rhône section shows they're not just chasing trophy bottles — there's actual curation happening here across all major regions.",
+      "byTheGlass": "With 50-60 pours available, the by-the-glass program is more robust than most restaurants' entire lists. You'll find serious wines here, not just entry-level crowd pleasers. The rotation appears steady rather than adventurous, which makes sense for a steakhouse clientele that wants consistency over experimentation.",
+      "bestValue": {
+        "wine": "Unable to specify without concrete pricing data",
+        "price": "Research incomplete",
+        "note": "With this markup level and luxury positioning, 'value' is relative — focus on wine quality over bargain hunting here"
+      },
+      "hiddenGem": {
+        "wine": "Rhône section producers",
+        "note": "While everyone fights over the Bordeaux and Napa allocations, the Rhône offerings likely deliver serious quality at less eye-watering prices"
+      },
+      "skipThis": {
+        "wine": "Entry-level Napa Cabernet",
+        "note": "At steakhouse markup on a list this deep, the generic Napa Cabs are going to hurt — trade up or pivot to another region entirely"
+      },
+      "perfectPairing": {
+        "wine": "Bordeaux First Growth (Pauillac)",
+        "dish": "Filet Mignon",
+        "note": "Classic pairing for a reason — the structured tannins of aged Pauillac soften beautifully against butter-tender beef"
+      },
+      "bottomLine": "If you're celebrating something big or entertaining a client with an expense account, this is where you go in Dallas. The markup stings, but the cellar depth and sommelier expertise justify the premium for serious wine occasions.",
+      "subtitle": "Dallas's 3,500-bottle power move for serious collectors",
+      "tags": [
+        "deep-cellar",
+        "splurge-worthy",
+        "date-night",
+        "old-world-focus"
+      ],
+      "website": "https://pappasbros.com",
+      "address": {
+        "street": "10477 Lombardy Ln",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75220",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "the-mansion-restaurant-dallas",
+      "restaurant": "The Mansion Restaurant",
+      "neighborhood": "Turtle Creek",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Contemporary American",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Deep & Eclectic",
+        "specials": "Occasional",
+        "storage": "Proper"
+      },
+      "firstImpression": "You open the list and immediately realize you're in serious territory — Romanée-Conti, Screaming Eagle, Château Margaux sit alongside 1000+ other bottles. But then the by-the-glass section hits: 30-40 pours including Le Mesnil Blanc de Blancs at $25 and Graham's 20 Year Tawny at $19. This is how you do luxury without the attitude.",
+      "selectionDeepDive": "The cellar goes absurdly deep with blue-chip Burgundy and Bordeaux, but the real story is the breadth beyond the trophy bottles. They're exploring rising French regions and Atlantic Spanish wines from Galicia and Castilla y León — not just checking boxes with Rioja and Priorat. The Penfolds Grange signals serious Australian representation. With over 1000 bottles, there's room for both the collectors chasing DRC and the curious exploring Pigato from Liguria. This isn't a greatest-hits compilation; it's a cellar built by someone who actually drinks wine.",
+      "byTheGlass": "Thirty to forty glass pours at a fine dining hotel is almost unheard of, and they're not pouring house plonk. Le Mesnil Blanc de Blancs Champagne for $25 is stunning value, Vietti Moscato d'Asti at $13 shows range, and the Claudio Vio Pigato at $20 proves they're taking risks on lesser-known producers. The glass program alone could carry a neighborhood wine bar.",
+      "bestValue": {
+        "wine": "Le Mesnil Blanc de Blancs Grand Cru Champagne NV",
+        "price": "$25",
+        "note": "Grower Champagne at retail prices — this bottle goes for $60 in shops, and they're pouring it by the glass for less than half that"
+      },
+      "hiddenGem": {
+        "wine": "Claudio Vio Pigato Riviera Ligure di Ponente",
+        "note": "Ligurian white that nobody orders because they don't know it exists — minerally, herbal, electric with seafood, and priced at $20 glass when it should cost more"
+      },
+      "skipThis": {
+        "wine": "Royal Tokaji Red Label",
+        "note": "At $25 glass it's the only wine on the list marked up above retail — everything else is shockingly fair, so why overpay for the dessert wine?"
+      },
+      "perfectPairing": {
+        "wine": "Graham's 20 Year Tawny Port",
+        "dish": "Tortilla Soup",
+        "note": "Sounds wrong until you try it — the caramelized fruit in aged tawny echoes the soup's roasted peppers and the slight oxidation cuts through cream while the sweetness plays off smoke and spice"
+      },
+      "bottomLine": "This is what happens when a luxury property actually respects wine drinkers instead of gouging them. A 1000-bottle cellar with fair pricing and a glass program that rivals dedicated wine bars — we'd send anyone here, from first-timers to collectors.",
+      "subtitle": "Dallas's 1000-Bottle Palace With Shocking Glass Pours",
+      "tags": [
+        "splurge-worthy",
+        "deep-cellar",
+        "by-the-glass-hero",
+        "date-night"
+      ],
+      "website": "https://www.themansion.com",
+      "address": {
+        "street": "2821 Turtle Creek Boulevard",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75219",
+        "country": "US"
+      },
+      "dataCompleteness": 94,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "lavendou-bistro-provencal-dallas",
+      "restaurant": "Lavendou Bistro Provencal",
+      "neighborhood": "North Dallas",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "French",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Solid Range",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "This is a French bistro that actually commits to the bit. The wine list leans heavily into Provence and the Southern Rhône, with a respectful nod to Burgundy and a few international outliers. It's clear someone here cares about pairing wine with cassoulet, not just filling slots on a menu.",
+      "selectionDeepDive": "The list runs 100-150 bottles with a strong Provençal rosé game and Southern Rhône depth that makes sense for the cuisine. You'll find solid Burgundy selections for those willing to spend, plus some international bottles to keep things from feeling too one-note. The focus is unapologetically French, which is exactly what you want in a place called Lavendou. No gimmicks, no Australian Shiraz for the sake of completion—just wines that belong on a French bistro table.",
+      "byTheGlass": "With 15-20 pours available, the by-the-glass program is more than serviceable. The selections skew toward approachable French wines in the $30-60 bottle range, meaning glasses are priced to drink without wincing. They rotate seasonally but don't go wild with obscure picks—this is about reliable quality, not sommelier flexing.",
+      "bestValue": {
+        "wine": "Provençal Rosé (mid-list selection)",
+        "price": "$35-45",
+        "note": "Classic food-friendly rosé at bistro pricing—perfect with moules frites and won't wreck your wallet"
+      },
+      "hiddenGem": {
+        "wine": "Southern Rhône red (Côtes du Rhône or similar)",
+        "note": "Everyone sleeps on these workhorses, but they're built for rich French bistro fare and priced like they want you to actually drink them"
+      },
+      "skipThis": {
+        "wine": "Top-shelf Burgundy selections",
+        "note": "If you're splurging on Burgundy, do it somewhere with a deeper cellar—these feel like obligatory list-fillers"
+      },
+      "perfectPairing": {
+        "wine": "Bandol Rosé",
+        "dish": "Moules Marinières et Frites",
+        "note": "Provence's answer to mussels and fries—the wine's structure and salinity meet the briny shellfish head-on"
+      },
+      "bottomLine": "Lavendou gets the assignment. The list is thoughtful, fairly priced, and actually matches what's on the plate. If you want to drink French wine with French food in North Dallas, this is your spot.",
+      "subtitle": "Provençal Charm With a Wine List to Match",
+      "tags": [
+        "date-night",
+        "old-world-focus",
+        "patio-pour"
+      ],
+      "address": {
+        "street": "19009 Preston Rd Suite 200",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75252",
+        "country": "US"
+      },
+      "dataCompleteness": 85,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "monarch-dallas",
+      "restaurant": "Monarch",
+      "neighborhood": "Downtown",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Italian Steakhouse",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Deep & Eclectic",
+        "specials": "Active Program",
+        "storage": "Proper"
+      },
+      "firstImpression": "You're 49 floors up looking at a leather-bound tome with 300+ bottles, and the server actually knows what's in it. This is the kind of list that makes you consider ordering wine before you look at food—if you've got the credit limit for it.",
+      "selectionDeepDive": "The list leans hard into Napa Valley with serious depth—we're talking verticals from top producers and library selections that most restaurants wouldn't touch. Schramsberg anchors the sparkling section with their Blanc de Blancs, while Cain Vineyards gets hand-selected representation that you won't find at your corner wine shop. The Italian section backs up the cuisine credibly, though Napa clearly gets top billing. At 300+ bottles, there's enough range to keep collectors and casual drinkers both engaged, even if the price tags skew toward expense-account territory.",
+      "byTheGlass": "25-30 pours by the glass is generous for a restaurant at this level, and they're rotating things with wine dinners featuring producers like Cain Vineyards. The selection runs the spectrum from approachable bubbles to serious Napa Cabs, so you're not stuck with house pours if you're not committing to a full bottle. Expect proper stemware and knowledgeable pours—they're taking the glass program seriously.",
+      "bestValue": {
+        "wine": "Schramsberg Blanc de Blancs",
+        "price": "$65",
+        "note": "Producer-direct sparkling that drinks way above its price point and pairs with everything from caviar service to those dry-aged steaks"
+      },
+      "hiddenGem": {
+        "wine": "Cain Vineyards hand-selected bottlings",
+        "note": "Most people default to the obvious Napa names, but Cain's Bordeaux-blend approach offers complexity you won't find in fruit-bomb Cabs at similar price points"
+      },
+      "skipThis": {
+        "wine": "J. Davies Cabernet Sauvignon",
+        "price": "$150+",
+        "note": "Solid producer but the markup at this altitude gets steep—you're paying for the view as much as the vineyard"
+      },
+      "perfectPairing": {
+        "wine": "Schramsberg Blanc de Blancs",
+        "dish": "Caviar Service",
+        "note": "Classic pairing that works because the bubbles cut through the richness while the wine's elegance matches the luxury"
+      },
+      "bottomLine": "If you've got the budget and you're serious about Napa Valley, Monarch delivers the depth and service to justify the splurge. Just know you're paying a premium for that 49th-floor cellar.",
+      "subtitle": "Sky-High Steaks Meet Napa's Finest",
+      "tags": [
+        "splurge-worthy",
+        "deep-cellar",
+        "date-night",
+        "wine-dinner-events"
+      ],
+      "website": "https://www.monarchrestaurants.com",
+      "address": {
+        "street": "2401 N Akard St",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75201",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "the-standard-pour-dallas",
+      "restaurant": "The Standard Pour",
+      "neighborhood": "Uptown",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Modern American",
+      "badge": "lazy",
+      "metrics": {
+        "glassware": "Acceptable",
+        "staff": "MIA",
+        "markup": "Gouge",
+        "variety": "Grocery Store",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "The Standard Pour knows what it is: a neighborhood cocktail bar with exposed brick and bourbon vibes. The wine list reads like someone ordered the basics from a restaurant supply catalog and called it a day.",
+      "selectionDeepDive": "You're looking at about 12 wines total—mostly entry-level crowd pleasers from supermarket brands like Villa Pozzi, Matua, and JP Chenet. There's a token nod to variety with picks from New Zealand, Italy, France, and Germany, but nothing shows any curatorial effort. No serious producers, no vintage depth, no local love. This is a list designed to exist, not to excite.",
+      "byTheGlass": "Five by-the-glass options at $10-$12 cover the basics: Crowded House Sauvignon Blanc, Villa Pozzi Pinot Grigio, Macon Villages Chardonnay, Zeppelin Riesling, and a rosé. They're drinkable and inoffensive, but there's zero rotation and nothing you couldn't find at Target for less.",
+      "bestValue": {
+        "wine": "Zeppelin Riesling",
+        "price": "$11",
+        "note": "Mosel Riesling by the glass for $11 isn't offensive—it's off-dry, food-friendly, and won't wreck your wallet before the bourbon pours start"
+      },
+      "hiddenGem": {
+        "wine": "Bichot Macon Villages Chardonnay",
+        "note": "Still overpriced but it's actual Burgundy from a real producer, which makes it the most serious wine on the list by default"
+      },
+      "skipThis": {
+        "wine": "JP Chenet Rosé Bottle",
+        "note": "They're charging $40 for a bottle that retails for $10—a 300% markup on bottom-shelf pink wine is insulting"
+      },
+      "perfectPairing": {
+        "wine": "Voga Prosecco",
+        "dish": "Tuna Tostadas",
+        "note": "Bright bubbles cut through the sesame-soy flavors and avocado richness—plus at $11/glass it's the safest bet on the list"
+      },
+      "bottomLine": "Come for the bourbon bacon chicken and waffle, stay for the Old Fashioneds, but order wine only if you've already had three cocktails and stopped caring about value. This is a cocktail bar that tolerates wine, not celebrates it.",
+      "subtitle": "Cocktail Bar with an Afterthought Wine List",
+      "tags": [
+        "casual-vibes",
+        "patio-pour"
+      ],
+      "website": "https://www.tspdallas.com",
+      "address": {
+        "street": "2900 McKinney Ave",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75204",
+        "country": "US"
+      },
+      "dataCompleteness": 97,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "ravenna-italian-grille-and-bar-dallas",
+      "restaurant": "Ravenna Italian Grille & Bar",
+      "neighborhood": "Downtown Dallas",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Italian",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Fair",
+        "variety": "Plays It Safe",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "The wine list feels like it was built by someone who went to Tuscany once and never looked back. It's heavy on Italian crowd-pleasers — Chianti, Barolo, Amarone — with a few California standards to keep the steak crowd happy. Nothing adventurous, but nothing offensive either.",
+      "selectionDeepDive": "With 50-75 bottles, Ravenna's list sticks to the classics: Tuscany dominates with Ruffino Chianti and Querceto Chianti Classico, while Piedmont brings Rocche Costamagna Barolo and Veneto offers Recchia Amarone. The American side leans predictable with Joseph Carr and Stags' Leap Cabernets from Napa, plus Four Graces Pinot from Willamette. You won't find any natural wines, orange wines, or boundary-pushing producers here. It's a list designed not to confuse anyone ordering the Filet Mignon.",
+      "byTheGlass": "Eight glass pours ranging $9-$15 is workable but not inspiring. The selection appears to mirror the bottle list's safe approach — expect Chianti, a Napa Cab, maybe a Pinot. No evidence of rotation or seasonal changes, so you're likely getting the same pours in January as you are in July.",
+      "bestValue": {
+        "wine": "Colores Del Sol Malbec",
+        "price": "$45",
+        "note": "Argentina fruit at a 200% markup sounds steep until you realize this retails for $15 — that's actually restaurant-fair pricing in Dallas, and it'll handle the Lobster Ravioli's richness"
+      },
+      "hiddenGem": {
+        "wine": "Rocche Costamagna Barolo",
+        "note": "Most people skip Barolo at an Italian-American spot, assuming it's overpriced or poorly stored, but Costamagna is a serious producer and if they're keeping it properly, it's the most interesting wine on the list"
+      },
+      "skipThis": {
+        "wine": "Ruffino Chianti",
+        "note": "Fine wine, but you can buy this at Target for $12 — order something you can't grab on grocery day"
+      },
+      "perfectPairing": {
+        "wine": "Querceto Chianti Classico",
+        "dish": "Lasagna",
+        "note": "Sangiovese's bright acidity cuts through the ricotta and red sauce without fighting the tomato — this is why Chianti exists"
+      },
+      "bottomLine": "Ravenna plays it safe with fair markups and a Tuscan-heavy list that won't surprise anyone. It's a solid neighborhood choice when you want Italian wine with your Italian food, but don't expect the staff to guide you beyond the basics or the list to change much year to year.",
+      "subtitle": "Tuscan-focused list with safe picks and fair pricing",
+      "tags": [
+        "date-night",
+        "casual-vibes",
+        "old-world-focus"
+      ],
+      "website": "https://www.ravennadallas.com",
+      "address": {
+        "street": "115 S Field St",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75202",
+        "country": "US"
+      },
+      "dataCompleteness": 97,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "perrys-steakhouse-and-grille-park-district-dallas",
+      "restaurant": "Perry's Steakhouse & Grille - Park District",
+      "neighborhood": "Park District",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Steakhouse",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Steep",
+        "variety": "Solid Range",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "Perry's hits you with a 300-bottle list that reads like a corporate buying guide done competently—heavy on California prestige names and safe Old World picks. The glass program is robust at 18+ pours, and prices start reasonable ($9) before climbing fast into trophy territory.",
+      "selectionDeepDive": "The list spans California's greatest hits (Napa, Sonoma, Monterey), France's classic regions (Burgundy, Bordeaux, Rhône, Alsace), and Italian heavy-hitters from Tuscany to Piedmont, plus solid Northwest and New Zealand representation. Perry's house wines anchor the affordable end—their Reserve line covers Champagne, Chardonnay, Rosé, Pinot, and Cab from respectable producers. The top shelf flexes predictably: Opus One at $550, Caymus Special Selection at $400, Far Niente spanning $139-$265. It's a steakhouse playbook executed with more depth than most chains, but don't expect sommelier-curated surprises or cult producers.",
+      "byTheGlass": "Eighteen-plus options by the glass is genuinely useful, ranging from $9 to $26. The spread covers Perry's Reserve line plus rotating selections that hit the usual suspects—California Cab, French Burgundy, Italian reds. It's corporate wine insurance: you won't find anything exciting, but you won't get burned either.",
+      "bestValue": {
+        "wine": "Perry's Reserve Cabernet Sauvignon",
+        "price": "$40",
+        "note": "Sonoma Cab at entry-level bottle pricing—solid fruit and structure without the Napa tax, perfect for their Prime steaks"
+      },
+      "hiddenGem": {
+        "wine": "Perry's Reserve Rosé",
+        "note": "Monterey Rosé at a steakhouse? Sounds wrong but cuts beautifully through their Famous Pork Chop's richness—most people skip straight to red and miss it"
+      },
+      "skipThis": {
+        "wine": "Opus One",
+        "note": "$550 for a bottle that retails around $350—this is trophy hunting markup at its worst, pure steakhouse flex pricing"
+      },
+      "perfectPairing": {
+        "wine": "Far Niente Chardonnay",
+        "dish": "Perry's Signature Fried Asparagus",
+        "note": "Buttery Napa Chard meets crispy fried asparagus with hollandaise—textbook California steakhouse decadence that actually works"
+      },
+      "bottomLine": "Perry's delivers a safe, competent wine program that won't embarrass you at a client dinner but won't thrill the wine geeks either. Fair enough for a chain steakhouse—just watch those markup landmines on the prestige bottles.",
+      "subtitle": "Corporate Done Right: Bottles That Match the Beef",
+      "tags": [
+        "date-night",
+        "splurge-worthy",
+        "deep-cellar"
+      ],
+      "website": "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+      "address": {
+        "street": "2100 Olive St Suite #100",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75201",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "don-artemio-mexican-heritage-dallas",
+      "restaurant": "Don Artemio Mexican Heritage",
+      "neighborhood": "West 7th",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Mexican",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Acceptable",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Deep & Eclectic",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "Nearly 150 bottles at an upscale Mexican spot in Fort Worth — and they're leaning hard into wines from northern Mexico's Coahuila region alongside heavy-hitting Spanish and Californian producers. A sommelier on staff signals they're taking this seriously, but those markups tell a different story.",
+      "selectionDeepDive": "This list swings for the fences with Mexican producers like Casa Madero and Tuma from Coahuila's wine country — a genuinely cool angle that most Mexican restaurants ignore entirely. They back it up with serious Spanish firepower from Vega Sicilia and Bodegas Ordóñez, plus California names like Aperture and Chimney Rock. The bubbles section alone runs from accessible Campo Viejo to proper Champagne like Taittinger and Moët & Chandon. It's ambitious and eclectic, but 150 selections means some bottles are sitting around collecting dust.",
+      "byTheGlass": "The research doesn't reveal specific by-the-glass options, which is a red flag for a list this deep. With a sommelier on staff and this much inventory, we'd expect a rotating BTG program to showcase those Mexican producers and move wine. If it exists, they're not advertising it — and that's a missed opportunity.",
+      "bestValue": {
+        "wine": "Casa Madero Cabernet",
+        "price": "Unknown",
+        "note": "Northern Mexico's oldest winery delivers serious Cabernet that'll surprise doubters — and it's likely one of the more fairly priced bottles here given the markup pattern elsewhere"
+      },
+      "hiddenGem": {
+        "wine": "Tuma Shiraz",
+        "note": "Mexican Shiraz from Coahuila sounds like a gimmick until you try it — bold, sun-soaked fruit with actual structure, and nobody else in Dallas-Fort Worth is pouring it"
+      },
+      "skipThis": {
+        "wine": "Campo Viejo Brut",
+        "note": "At $36 for a $12 retail bottle, this is a 200% markup on grocery store bubbles — there are better sparkling options on this list that justify the spend"
+      },
+      "perfectPairing": {
+        "wine": "Casa Madero Cabernet",
+        "dish": "Tacos de Lengua",
+        "note": "Mexican beef tongue meets Mexican Cabernet — the wine's structure and dark fruit cut through the richness while the regional connection makes it a no-brainer pairing"
+      },
+      "bottomLine": "Don Artemio is doing something genuinely interesting with Mexican wine, but those steep markups (hello, $58 for a $20 bottle of El Bajío) keep it from being a full Rager. Still, for the adventurous drinker willing to pay the premium, this is the most exciting Mexican wine program in the Fort Worth area.",
+      "subtitle": "150 bottles deep with Mexican wine swagger",
+      "tags": [
+        "hidden-gem",
+        "old-world-focus",
+        "splurge-worthy",
+        "date-night"
+      ],
+      "website": "https://www.donartemio.us",
+      "address": {
+        "street": "3268 W 7th St",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "zip": "76107",
+        "country": "US"
+      },
+      "dataCompleteness": 79,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "gorji-restaurant-dallas",
+      "restaurant": "Gorji Restaurant",
+      "neighborhood": "North Dallas",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "New Mediterranean with Persian influences",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Surprising Depth",
+        "specials": "Active Program",
+        "storage": "Proper"
+      },
+      "firstImpression": "This is not your typical Dallas wine list. Chef Gorji's curated selection reads like a passport stamp collection — Lebanese reds, Georgian whites, Greek Nebbiolo — matched to his New Mediterranean cooking. The list is small but deliberate, with a sommelier-driven focus on lesser-known regions that actually make sense with the food.",
+      "selectionDeepDive": "You'll find maybe 30-40 bottles total, but the range is genuinely exciting. There's Texas representation (Reddy Vineyard, Texas Hills Sangiovese from High Plains), classic French touchstones (Sancerre, Alsace), and then the wild cards: Ktima Karipidis Nebbiolo from Greece, Chateau Ksara from Lebanon, Spanish Ribera del Duero. The list tilts Old World and Mediterranean-adjacent, which tracks perfectly with pomegranate-glazed beef and stuffed eggplants. No bloated Napa Cab section here — this is a list built around the food, not ego.",
+      "byTheGlass": "Ten to fifteen pours rotate through, priced $10-$15, which feels honest for a fine dining spot. The glass selection mirrors the bottle list's global bent — you're as likely to see Spanish Cava or Texas wine as California standards. The sommelier clearly adjusts the pour menu based on what's working, and with regular wine dinners, the by-the-glass options stay fresh.",
+      "bestValue": {
+        "wine": "Avinyo Cava Brut Reserva",
+        "price": "$40-45",
+        "note": "Traditional method sparkler from Catalonia that drinks like Champagne for half the price — perfect with Gorji's seafood-forward paella"
+      },
+      "hiddenGem": {
+        "wine": "Ktima Karipidis Nebbiolo 2010",
+        "note": "Greek Nebbiolo sounds like a gimmick until you taste it — earthy, structured, and a conversation starter that actually pairs with Persian-spiced lamb"
+      },
+      "skipThis": {
+        "wine": "Sartori Amarone 2013",
+        "price": "$90-100",
+        "note": "Likely marked up 3.5x+ retail and too heavy for most of the menu — save your money for something more list-appropriate"
+      },
+      "perfectPairing": {
+        "wine": "Dominio de Atauta Parada 2014",
+        "dish": "Prime beef tenderloin with pomegranate sauce",
+        "note": "Ribera del Duero's earthy Tempranillo has the structure for beef and the fruit-forward profile that bridges to pomegranate's sweet-tart punch"
+      },
+      "bottomLine": "Gorji is the wine geek's secret weapon in Dallas — a small, thoughtfully chosen list that prioritizes Mediterranean and Middle Eastern bottles you won't find at the steakhouse next door. The sommelier knows their stuff, the pricing is fair, and the wine dinners prove this isn't just windowdressing. Send your adventurous friends here.",
+      "subtitle": "Mediterranean Soul Meets Unexpected Global Pours",
+      "tags": [
+        "wine-dinner-events",
+        "hidden-gem",
+        "date-night",
+        "old-world-focus"
+      ],
+      "website": "https://www.chefgorji.com",
+      "address": {
+        "street": "5100 Belt Line Rd #402",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75254",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "isla-and-co-dallas",
+      "restaurant": "Isla & Co.",
+      "neighborhood": "Dallas",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Coastal-Inspired Contemporary",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Fair",
+        "variety": "Solid Range",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "Isla & Co. brings a thoughtful, approachable wine program that mirrors their coastal-casual dining concept. The list jumps from Texas producers to classic French regions with enough by-the-glass options to keep things interesting without overwhelming.",
+      "selectionDeepDive": "The list balances local pride with Old World credibility — you'll find Duchman representing Texas alongside proper Burgundy from Mat Roty. Their natural and organic wine focus shows intention, even if the execution leans safe. The Gascony white suggests someone on the team knows their way around lesser-known French regions. Glass pours run $12-$13, bottles $45-$80, which tracks fair for Dallas.",
+      "byTheGlass": "Twenty to thirty glass pours is a solid spread for a restaurant of this style. The range hits the expected crowd-pleasers like Kim Crawford Sauvignon Blanc but also swings for Meursault at $13 a glass. No evidence of active rotation, but the breadth means you won't get bored on repeat visits.",
+      "bestValue": {
+        "wine": "Kim Crawford Sauvignon Blanc, Marlborough",
+        "price": "$12 glass / $45 bottle",
+        "note": "Standard bearer done right — crisp New Zealand SB at a fair price for both glass and bottle service"
+      },
+      "hiddenGem": {
+        "wine": "Duchman Texas Wine",
+        "note": "Texas wine still gets underestimated nationally, and Duchman makes serious bottles worth exploring beyond the coastal fish dishes"
+      },
+      "skipThis": {
+        "wine": "Mat Roty Meursault, Burgundy",
+        "note": "$80 bottle for Meursault isn't outrageous, but at $13/glass the markup stings when you could get more interesting white Burgundy elsewhere"
+      },
+      "perfectPairing": {
+        "wine": "Gascon White",
+        "dish": "Fish and Chips",
+        "note": "Gascony whites have that bright acidity and mineral edge to cut through fried batter while their body stands up to the richness"
+      },
+      "bottomLine": "Isla & Co. delivers a wine program that won't blow your mind but won't disappoint either. Fair prices, smart regional picks, and enough variety to make coastal dining more interesting than the usual suspects.",
+      "subtitle": "Coastal Vibes with Smart Texas-to-France Range",
+      "tags": [
+        "local-producers",
+        "casual-vibes",
+        "natural-wine"
+      ],
+      "website": "https://www.islaandco.com",
+      "address": {
+        "street": null,
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": null,
+        "country": "US"
+      },
+      "dataCompleteness": 79,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "55-seventy-dallas",
+      "restaurant": "55 Seventy",
+      "neighborhood": "Preston Hollow",
+      "city": "Dallas",
+      "citySlug": "dallas",
+      "cuisineType": "Fine Dining",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steal",
+        "variety": "Deep & Eclectic",
+        "specials": "Active Program",
+        "storage": "Proper"
+      },
+      "firstImpression": "Walk into 55 Seventy and you'll immediately notice this isn't your typical Dallas steakhouse. This private members' club operates on a model so radical it sounds like a wine lover's fever dream: retail pricing on a 200-300 bottle list packed with allocated Burgundy, rare Napa cabs, and Austrian unicorns. The room feels like someone's sophisticated living room, because it basically is—membership required.",
+      "selectionDeepDive": "The list leans hard into boutique and allocated bottles you won't find at your neighborhood Total Wine. Burgundies sourced through Peter Wasserman's network sit alongside serious Napa Valley reds and a surprisingly deep Austrian selection that shows someone on staff actually cares about Grüner and Blaufränkisch. Billecart-Salmon anchors the Champagne section with proper vintage bottles, not just the entry-level brut. The 20-30 glass pours rotate thoughtfully, giving you a real taste of the cellar without committing to a full bottle. This is a list built for wine geeks who know what they're looking for, not casual drinkers hoping for a safe Caymus.",
+      "byTheGlass": "Twenty to thirty rotating glass pours is ambitious for any restaurant, let alone one doing retail pricing. The selection mirrors the bottle list's philosophy—serious, thoughtful, and focused on producers with a point of view. Expect Austrian whites, boutique Burgundy villages, and the occasional allocated Napa pour that would cost you $45 anywhere else but rings in at actual retail here.",
+      "bestValue": {
+        "wine": "Peter Wasserman Burgundy Selection",
+        "price": "Retail",
+        "note": "Any Burgundy at retail pricing is borderline theft, but Wasserman's sourcing means you're getting producer-direct quality without the usual 3x-4x restaurant markup"
+      },
+      "hiddenGem": {
+        "wine": "Austrian Wines",
+        "note": "Most Dallas diners sleep on Austria, but 55 Seventy's selection shows real depth—these are food-friendly, age-worthy bottles that pair brilliantly with their steaks and won't drain your wallet"
+      },
+      "skipThis": {
+        "wine": "Entry-Level Selections",
+        "note": "With access to allocated and rare bottles at retail, why waste the trip on safe, widely available wines you could buy at any shop?"
+      },
+      "perfectPairing": {
+        "wine": "Billecart-Salmon Champagne",
+        "dish": "Prime Beef",
+        "note": "The acidity and minerality in Billecart cuts through the richness of prime steaks like a knife, and the vintage expression adds enough weight to stand up to serious meat"
+      },
+      "bottomLine": "If you can score a membership, 55 Seventy is the best wine deal in Dallas, period. Retail pricing on allocated bottles in a setting where the staff actually knows what they're pouring? That's not just rare—it's practically unheard of.",
+      "subtitle": "Members-Only Wine Paradise at Retail Prices",
+      "tags": [
+        "deep-cellar",
+        "splurge-worthy",
+        "wine-dinner-events",
+        "old-world-focus"
+      ],
+      "website": "https://dallas.55seventy.com",
+      "address": {
+        "street": "6130 Berkshire Ln",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75225",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "high"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "Bodega Wine Bar",
+      "neighborhood": "Lakewood",
+      "reason": "No specific wine names, producers, or pricing for individual bottles found in research data. Only generic varietals (Pinot Noir, Cabernet Blend, Nebbiolo) and flight pricing mentioned. Cannot write credible review with specific wine picks without fabricating details.",
+      "sourcesFound": 6,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82,
+      "phase": "writing"
+    },
+    {
+      "name": "Wayward Coffee Co.",
+      "neighborhood": "Dallas",
+      "reason": "This is a coffee roaster with a wine subscription service, not a restaurant with an on-premise wine list. No specific wine names, producers, or on-site dining program found. Cannot evaluate glassware, staff knowledge, or by-the-glass pours without restaurant context.",
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 43,
+      "phase": "writing"
+    },
+    {
+      "name": "Truluck's Ocean's Finest Seafood & Crab",
+      "neighborhood": "Uptown",
+      "reason": "Insufficient specific wine data — no actual wine names, prices, or producers beyond one Duckhorn mention. Cannot write credible pick cards without fabricating details.",
+      "sourcesFound": 6,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82,
+      "phase": "writing"
+    },
+    {
+      "name": "Bridlewood Restaurant",
+      "neighborhood": "Flower Mound",
+      "reason": "No specific wine names, producers, or pricing data found in research sources. Only generic program details (list size, region focus) available. Cannot write credible review without actual wine references.",
+      "sourcesFound": 7,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 67,
+      "phase": "writing"
+    },
+    {
+      "name": "Sky Creek Ranch Golf Club",
+      "neighborhood": "Keller",
+      "reason": "No specific wine names, producers, or pricing data available. Only general program size and region focus known — insufficient for credible pick cards and specific recommendations.",
+      "sourcesFound": 5,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 67,
+      "phase": "writing"
+    },
+    {
+      "name": "Sachet",
+      "neighborhood": "Oak Lawn",
+      "reason": "No specific wine names, producers, or bottle details found in research data — only general program structure available",
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 67,
+      "phase": "writing"
+    },
+    {
+      "name": "Vinito",
+      "neighborhood": "Bishop Arts District",
+      "reason": "This is a retail wine shop, not a restaurant. Raging Wine reviews wine lists for dining establishments where wine is consumed on-premise with food. No menu, no by-the-glass program, no restaurant context.",
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 68,
+      "phase": "writing"
+    }
+  ]
+}

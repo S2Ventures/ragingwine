@@ -1,0 +1,1214 @@
+{
+  "city": "Dallas",
+  "citySlug": "dallas",
+  "state": "Texas",
+  "researchedAt": "2026-03-06T19:03:33.328Z",
+  "restaurants": [
+    {
+      "name": "Valle",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "website": "https://www.vallebishoparts.com",
+      "address": {
+        "street": null,
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75208"
+      },
+      "wineListSize": "12+ by-the-glass options, bottle list size not specified",
+      "byTheGlassCount": "12 options",
+      "priceRange": "$$-$$$",
+      "notableWines": [
+        "2019 Montepulciano from Piñamora (Chihuahua)",
+        "Sauvignon Blanc from Bodegas Magoni (Baja California)",
+        "Malbec, Syrah, Tempranillo and Merlot red blend from Valle de Jaral de Berrios (Guanajuato)",
+        "2018 Gewurztraminer from Vinaltura (Baja California)",
+        "Monte Xanic Gran Ricardo vintage 2021"
+      ],
+      "wineRegionFocus": [
+        "Valle de Guadalupe (Baja California)",
+        "Coahuila",
+        "Chihuahua",
+        "Querétaro",
+        "Guanajuato",
+        "Mexico (all regions)"
+      ],
+      "vibeDescription": "Modern Mexican restaurant in Bishop Arts District with a curated focus on Mexican wines and natural selections.",
+      "popularDishes": [],
+      "citationLinks": [
+        "https://www.vallebishoparts.com",
+        "https://dallas.culturemap.com/news/restaurants-bars/valle-bishop-arts-vinito/",
+        "https://www.dallasobserver.com/food-drink/valle-brings-mexico-city-bar-scene-to-dallas-21337747/"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Vinaltura Gewurztraminer 2018",
+          "restaurantPrice": "$70",
+          "retailPrice": "$25",
+          "markupPercent": 180
+        },
+        {
+          "wine": "Monte Xanic Gran Ricardo 2021",
+          "restaurantPrice": "$120",
+          "retailPrice": "$40",
+          "markupPercent": 200
+        },
+        {
+          "wine": "Piñamora Montepulciano 2019",
+          "restaurantPrice": "$22",
+          "retailPrice": "$20",
+          "markupPercent": 10
+        }
+      ],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 88
+    },
+    {
+      "name": "Bodega Wine Bar",
+      "neighborhood": "Unknown",
+      "cuisineType": "Wine Bar",
+      "website": "https://bodegawinebar.square.site",
+      "address": {
+        "street": "6434 E Mockingbird Ln #109",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75214"
+      },
+      "wineListSize": "40-60",
+      "byTheGlassCount": "12 options (flights)",
+      "priceRange": "$22-$40/flight",
+      "notableWines": [
+        "Pinot Noir",
+        "Cabernet Sauvignon Blend",
+        "Nebbiolo"
+      ],
+      "wineRegionFocus": [
+        "Old World",
+        "New World"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Cozy, cave-like atmosphere with cushy armchairs, couches, and a warm, earthy fragrance reminiscent of an old wine cellar.",
+      "popularDishes": [
+        "Cheese plates",
+        "Charcuterie"
+      ],
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d8439703-Reviews-Bodega_Wine_Bar-Dallas_Texas.html",
+        "https://bodegawinebar.square.site",
+        "https://www.dallasobserver.com/location/bodega-wine-bar-8638581/",
+        "https://www.dallasites101.com/blog/post/bodega-wine-bar/",
+        "https://www.dallasobserver.com/best-of-dallas/2024/food-and-drink/best-wine-bar-20601793",
+        "https://www.winewaterandwords.com/?p=165"
+      ],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Wayward Coffee Co.",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "address": {
+        "street": null,
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": null
+      },
+      "priceRange": "$25-$60/month subscription (1-3 bottles curated)",
+      "wineRegionFocus": [
+        "International - described as 'unique bottles from excellent winemakers around the world'"
+      ],
+      "vibeDescription": "Coffee roaster with wine subscription service offering curated monthly selections.",
+      "popularDishes": [],
+      "citationLinks": [
+        "https://www.waywardcoffee.co/shop/p/lucky-draw-wine-club-1-bottle-plan",
+        "https://www.waywardcoffee.co/shop/p/lucky-draw-wine-club-3-bottle-subscription",
+        "https://www.waywardcoffee.co/wine-club"
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 43
+    },
+    {
+      "name": "Pappas Bros. Steakhouse Dallas",
+      "neighborhood": "Unknown",
+      "cuisineType": "Steakhouse",
+      "website": "https://pappasbros.com",
+      "address": {
+        "street": "10477 Lombardy Ln",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75220"
+      },
+      "wineListSize": "3500+",
+      "byTheGlassCount": "50-60",
+      "priceRange": "$$$$$",
+      "notableWines": [
+        "Bordeaux First Growths",
+        "Screaming Eagle",
+        "Domaine de la Romanée-Conti",
+        "Harlan Estate",
+        "Opus One"
+      ],
+      "wineRegionFocus": [
+        "Bordeaux",
+        "Napa Valley",
+        "Burgundy",
+        "Rhône"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Elegant, award-winning steakhouse with superior service ideal for milestones and fine dining.",
+      "popularDishes": [
+        "Filet Mignon",
+        "Lobster Bisque",
+        "Live Maine Lobster"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$$$$",
+      "citationLinks": [
+        "https://pappasbros.com/locations/dallas/menu/",
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d649839-Reviews-Pappas_Bros_Steakhouse-Dallas_Texas.html",
+        "https://pappasbros.com",
+        "https://pappasbros.com/locations/dallas/reservations/"
+      ],
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "The Mansion Restaurant",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "website": "https://www.themansion.com",
+      "address": {
+        "street": null,
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": null
+      },
+      "wineListSize": "1000+",
+      "byTheGlassCount": "30-40",
+      "priceRange": "$$$$$",
+      "notableWines": [
+        "Château Margaux",
+        "Domaine de la Romanée-Conti",
+        "Screaming Eagle",
+        "Penfolds Grange"
+      ],
+      "wineRegionFocus": [
+        "France (New France - Rising Regions & Emerging Styles)",
+        "Spain (Atlantic & Altitude - Galicia and Castilla y León)"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Elegant fine dining restaurant at the historic Rosewood Mansion on Turtle Creek offering contemporary American cuisine with French influences.",
+      "popularDishes": [
+        "Tortilla soup",
+        "Texas wagyu",
+        "Seasonal tasting menus"
+      ],
+      "citationLinks": [
+        "https://www.opentable.com/r/the-rosewood-mansion-restaurant-on-turtle-creek-dallas",
+        "https://www.rosewoodhotels.com/en/mansion-on-turtle-creek-dallas/dining/mansion-restaurant",
+        "https://www.rosewoodhotels.com/en/mansion-on-turtle-creek-dallas/dining/mansion-bar",
+        "https://www.winespectator.com/restaurants/30/the-mansion-restaurant",
+        "https://www.rosewoodhotels.com/en/mansion-on-turtle-creek-dallas/dining/mansion-restaurant/menu",
+        "http://places.singleplatform.com/the-mansion-on-turtle-creek/menu"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Royal Tokaji Red Label Tokaji Hungary",
+          "restaurantPrice": "$25",
+          "retailPrice": "$20",
+          "markupPercent": 25
+        },
+        {
+          "wine": "Graham's 20 Year Tawny Port Portugal",
+          "restaurantPrice": "$19",
+          "retailPrice": "$55",
+          "markupPercent": -65
+        },
+        {
+          "wine": "Vietti La Cascinetta Moscato d'Asti Piedmont Italy",
+          "restaurantPrice": "$13",
+          "retailPrice": "$18",
+          "markupPercent": -28
+        },
+        {
+          "wine": "Rare Wine Company New York Malmsey Madeira Portugal",
+          "restaurantPrice": "$19",
+          "retailPrice": "$30",
+          "markupPercent": -37
+        },
+        {
+          "wine": "Le Mesnil Blanc de Blancs Grand Cru Champagne France NV",
+          "restaurantPrice": "$25",
+          "retailPrice": "$60",
+          "markupPercent": -58
+        },
+        {
+          "wine": "Claudio Vio Pigato Riviera Ligure di Ponente Italy",
+          "restaurantPrice": "$20",
+          "retailPrice": "$25",
+          "markupPercent": -20
+        }
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 94
+    },
+    {
+      "name": "Lavendou Bistro Provencal",
+      "neighborhood": "Unknown",
+      "cuisineType": "French",
+      "address": {
+        "street": "19009 Preston Rd Suite 200",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75252"
+      },
+      "wineListSize": "100-150",
+      "byTheGlassCount": "15-20",
+      "priceRange": "$30-60",
+      "notableWines": [
+        "Provençal rosés",
+        "Southern Rhône wines",
+        "Burgundy selections"
+      ],
+      "wineRegionFocus": [
+        "French",
+        "International"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Cozy and authentically French bistro atmosphere evoking the countryside of Provence with inviting decor and gracious service.",
+      "popularDishes": [
+        "Moules Marinières et Frites",
+        "Escargots à la Bourguignonne",
+        "Salade de Mesclum au Chèvre Chaud"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$15-$25",
+      "citationLinks": [
+        "https://www.opentable.com/lavendou-bistro",
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d464753-Reviews-Lavendou-Dallas_Texas.html",
+        "https://dfwrestaurantweek.com/restaurant/lavendou-bistro-provencal",
+        "https://www.winespectator.com/restaurants/2455/lavendou-bistro-provencal",
+        "https://cravedfw.com/2021/12/23/a-fortunate-feast-lavendou-bistro-provencal/"
+      ],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 85
+    },
+    {
+      "name": "Monarch",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "address": {
+        "street": "2401 N Akard St",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75201"
+      },
+      "wineListSize": "300+",
+      "byTheGlassCount": "25-30",
+      "priceRange": "$50-150+",
+      "notableWines": [
+        "Schramsberg Vineyards (Blanc de Blancs, J. Davies Cabernet Sauvignon)",
+        "Cain Vineyards (hand-selected wines)"
+      ],
+      "wineRegionFocus": [
+        "Napa Valley"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Ultra-luxury Italian steakhouse atop a downtown high-rise with an extensive, high-end wine program and dramatic city views.",
+      "popularDishes": [
+        "Dry-aged steaks",
+        "Italian-influenced dishes",
+        "Caviar service"
+      ],
+      "citationLinks": [
+        "https://www.monarchrestaurants.com/social-events/",
+        "https://www.localprofile.com/food-drink/monarch-to-host-exclusive-cain-vineyards-wine-dinner-9256089",
+        "https://www.winespectator.com/restaurants/6384/monarch-restaurant"
+      ],
+      "wineListSource": "inferred",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "The Standard Pour",
+      "neighborhood": "Unknown",
+      "cuisineType": "Modern American",
+      "website": "https://www.tspdallas.com",
+      "address": {
+        "street": "2900 McKinney Ave",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75204"
+      },
+      "wineListSize": "40-60",
+      "byTheGlassCount": "5 options",
+      "priceRange": "$10-$12/glass, $37-$45/bottle",
+      "notableWines": [
+        "CROWDED HOUSE S.BLANC",
+        "VILLA POZZI P.G.",
+        "MACON VILLAGES",
+        "STILL ROSE",
+        "ZEPPELIN RIESLING",
+        "PINOT NOIR MATUA MARLBROUGH, NEW ZEALAND",
+        "CABERNET SAUVIGNON HIGH VALLEY LAKE COUNTY, CA",
+        "SAUVIGNON BLANC SACRED HILL MARLBROUGH, NEW ZEALAND",
+        "PINOT GRIGIO VILLA POZZI FRUILI, ITALY",
+        "CHARDONNAY BICHOT MACON VILLAGES FRANCE",
+        "RIESLING MULHEIMER ZEPPELIN MOSEL, GERMANY",
+        "VOGA PROSECCO, ITALY"
+      ],
+      "wineRegionFocus": [
+        "New Zealand",
+        "Italy",
+        "France",
+        "Germany"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "A timeless, casual yet sophisticated neighborhood cocktail den with exposed brick walls and a nostalgic vibe in the heart of Uptown.",
+      "popularDishes": [
+        "Bourbon Bacon Glazed Chicken & Waffle",
+        "Tuna Tostadas",
+        "Spinach & Artichoke Dip"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$15-$23 range",
+      "citationLinks": [
+        "https://www.tspdallas.com",
+        "https://www.opentable.com/r/the-standard-pour-dallas",
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d4053428-Reviews-The_Standard_Pour-Dallas_Texas.html",
+        "https://order.toasttab.com/online/the-standard-pour-2900-mckinney-avenue",
+        "https://wnam-cdn.menuweb.menu/storage/media/companies_menu_pdf/114723544/the-standard-pour-dallas-menu.pdf",
+        "https://www.toasttab.com/local/order/the-standard-pour-2900-mckinney-avenue/item-loumar_69094f09-5ef3-403e-8b75-7a8dd52711a4"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Voga Prosecco Italy",
+          "restaurantPrice": "$10",
+          "retailPrice": "$15",
+          "markupPercent": 33
+        },
+        {
+          "wine": "Moët & Chandon Impérial Brut Champagne France",
+          "restaurantPrice": "$21",
+          "retailPrice": "$50",
+          "markupPercent": 58
+        },
+        {
+          "wine": "Veuve Clicquot Yellow Label Champagne France",
+          "restaurantPrice": "$150",
+          "retailPrice": "$55",
+          "markupPercent": 173
+        },
+        {
+          "wine": "Voga Prosecco",
+          "restaurantPrice": "$11",
+          "retailPrice": "$15",
+          "markupPercent": 27
+        },
+        {
+          "wine": "JP Chenet Rosé",
+          "restaurantPrice": "$11",
+          "retailPrice": "$10",
+          "markupPercent": 10
+        },
+        {
+          "wine": "Voga Prosecco bottle",
+          "restaurantPrice": "$40",
+          "retailPrice": "$15",
+          "markupPercent": 167
+        },
+        {
+          "wine": "JP Chenet Rosé bottle",
+          "restaurantPrice": "$40",
+          "retailPrice": "$10",
+          "markupPercent": 300
+        }
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 97
+    },
+    {
+      "name": "Ravenna Italian Grille & Bar",
+      "neighborhood": "Unknown",
+      "cuisineType": "Italian",
+      "website": "https://www.ravennadallas.com",
+      "address": {
+        "street": "115 S Field St, corner of Main St. & Field St.",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75202"
+      },
+      "wineListSize": "50-75 bottles",
+      "byTheGlassCount": "8 options",
+      "priceRange": "$9-$15/glass, $45-$95/bottle",
+      "notableWines": [
+        "Ruffino Chianti Tuscany",
+        "Brightlands Cabernet Sauvignon Sicily",
+        "Querceto Chianti Classico Tuscany",
+        "Four Graces Pinot Noir Willamette Valley",
+        "Joseph Carr Cabernet Sauvignon Napa Valley",
+        "Recchia Amarone della Valpolicella Veneto",
+        "Stags’ Leap Cabernet Sauvignon Napa Valley",
+        "Rocche Costamagna Barolo Piedmonte"
+      ],
+      "wineRegionFocus": [
+        "Tuscany Italy",
+        "Piedmonte Italy",
+        "Veneto Italy",
+        "Sicily Italy",
+        "California USA",
+        "Oregon USA",
+        "Argentina",
+        "Washington USA"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Upscale casual dining with a spacious patio, attentive service, and classic Italian ambiance perfect for business lunches, romantic dinners, and family gatherings.",
+      "popularDishes": [
+        "Lobster Ravioli",
+        "Filet Mignon (Filetto Toscano)",
+        "Lasagna"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$25 - $60",
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d2027588-Reviews-Ravenna_Italian_Grille_Bar-Dallas_Texas.html",
+        "https://www.ravennadallas.com",
+        "https://www.dallasrestaurants.com/ravenna-italian-grill/",
+        "https://www.ravennadallas.com/about",
+        "https://www.ravennadallas.com/wine-list",
+        "https://www.ravennadallas.com/pdfs/ravennawinelistwebsite.pdf",
+        "https://www.ravennadallas.com/pdfs/WINELIST45556575.pdf"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Colores Del Sol Malbec Argentina",
+          "restaurantPrice": "$45",
+          "retailPrice": "$15",
+          "markupPercent": 200
+        }
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "dataCompleteness": 97
+    },
+    {
+      "name": "Perry's Steakhouse & Grille - Park District",
+      "neighborhood": "Unknown",
+      "cuisineType": "Steakhouse, Seafood",
+      "website": "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+      "address": {
+        "street": "2100 Olive St Suite #100",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75201"
+      },
+      "wineListSize": "250-350 bottles",
+      "byTheGlassCount": "18+ options",
+      "priceRange": "$9-$26/glass, $40-$550/bottle",
+      "notableWines": [
+        "Perry's Reserve Champagne (Premier Cru)",
+        "Perry's Reserve Chardonnay (Sonoma County)",
+        "Perry's Reserve Rosé (Monterey)",
+        "Perry's Reserve Pinot Noir (Monterey)",
+        "Perry's Reserve Big Red Blend (Napa Valley)",
+        "Perry's Reserve Cabernet Sauvignon (Sonoma)",
+        "Opus One (Napa Valley, $550)",
+        "Caymus Special Selection ($400)",
+        "Far Niente ($139-$265)"
+      ],
+      "wineRegionFocus": [
+        "California (Napa Valley, Sonoma, Monterey)",
+        "France (Burgundy, Bordeaux, Rhône Valley, Alsace)",
+        "Italy (Tuscany, Piedmont, Veneto)",
+        "Oregon",
+        "Washington",
+        "New Zealand"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Perry's Park District is upscale and lively, a classic fine-dining steakhouse with modern touches and an elegant dining room featuring striking skyline views.",
+      "popularDishes": [
+        "Perry's Famous Pork Chop",
+        "Filet Perry",
+        "Perry's Signature Fried Asparagus"
+      ],
+      "reservationRecommended": true,
+      "citationLinks": [
+        "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+        "https://www.opentable.com/r/perrys-steakhouse-and-grille-park-district-dallas",
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d1835277-Reviews-Perry_s_Steakhouse_Grille_Park_District-Dallas_Texas.html",
+        "https://perryssteakhouse.com/wp-content/uploads/2022/02/21PER01-001_Menu_Dinner-Drinks_Main.pdf",
+        "https://perryssteakhouse.com/wp-content/uploads/2023/03/WINE-MAIN.pdf"
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Truluck's Ocean's Finest Seafood & Crab",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "address": {
+        "street": "2401 McKinney Ave",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75201"
+      },
+      "wineListSize": "300-400",
+      "byTheGlassCount": "25-30",
+      "priceRange": "$$$-$$$$",
+      "notableWines": [
+        "Duckhorn Vineyards (Napa)"
+      ],
+      "wineRegionFocus": [
+        "Italy",
+        "Napa"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Upscale seafood-focused restaurant chain with extensive wine program emphasizing California whites and food-friendly selections.",
+      "popularDishes": [
+        "Stone Crab Claws",
+        "Florida Lobster Tail",
+        "Crab Cakes",
+        "Fresh Fish preparations"
+      ],
+      "citationLinks": [
+        "https://dallas.culturemap.com/eventdetail/trulucks-presents-duckhorn-vineyards-wine-dinner/",
+        "https://trulucks.com/stories/beverage-managers-qa/",
+        "https://trulucks.com/stories/category/wine/",
+        "https://www.opentable.com/r/trulucks-oceans-finest-seafood-and-crab-dallas-uptown",
+        "https://trulucks.com/locations/dallas-texas/",
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d464847-Reviews-Truluck_s_Ocean_s_Finest_Seafood_and_Crab_Dallas-Dallas_Texas.html"
+      ],
+      "markupSampling": [],
+      "wineListSource": "inferred",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Bridlewood Restaurant",
+      "neighborhood": "Unknown",
+      "cuisineType": "American, Bar-B-Q, Italian, Pasta",
+      "website": "https://www.bridlewoodgolf.com/",
+      "address": {
+        "street": "4000 W Windsor Dr",
+        "city": "Flower Mound",
+        "state": "Texas",
+        "zip": "75028"
+      },
+      "wineListSize": "50-100",
+      "byTheGlassCount": "10-15",
+      "priceRange": "$$-$$$",
+      "wineRegionFocus": [
+        "California",
+        "Italy"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Casual golf club dining atmosphere with friendly service, exceptional food quality, and features like full bar, outdoor seating, and live entertainment.",
+      "popularDishes": [
+        "BBQ items",
+        "Pasta dishes",
+        "American grill fare"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "Very Inexpensive",
+      "citationLinks": [
+        "https://tableagent.com/dallas/bridlewood-restaurant/",
+        "https://www.bridlewoodgolf.com/pizza/restaurant",
+        "https://www.dallasrestaurants.com/bridlewood-restaurant/",
+        "https://www.bridlewoodgolf.com/images/Bridlewood_Menu_5.pdf",
+        "https://www.bridlewoodgolf.com/images/Menus/Bridlewood_October_2024_2.pdf",
+        "https://www.dallasrestaurants.com/feature/winning-wine-list/",
+        "https://www.bridlewoodgolf.com/21-main-articles/334-to-go-menu"
+      ],
+      "markupSampling": [],
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "dataCompleteness": 67
+    },
+    {
+      "name": "Sky Creek Ranch Golf Club",
+      "neighborhood": "Unknown",
+      "cuisineType": "American, Bar-B-Q",
+      "website": "https://www.skycreekranch.com",
+      "address": {
+        "street": "600 Promontory Dr",
+        "city": "Keller",
+        "state": "Texas",
+        "zip": "76248"
+      },
+      "wineListSize": "30-50",
+      "byTheGlassCount": "8-12",
+      "priceRange": "$$",
+      "wineRegionFocus": [
+        "California",
+        "Texas"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Casual golf club grill offering house smoked BBQ with panoramic views in a relaxed, public course setting.",
+      "popularDishes": [
+        "house smoked BBQ",
+        null,
+        null
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$$",
+      "citationLinks": [
+        "https://www.dallasrestaurants.com/sky-creek-ranch-golf-club/",
+        "https://www.skycreekranch.com/",
+        "https://tableagent.com/dallas/sky-creek-ranch-golf-club/",
+        "https://www.skycreekranch.com/the-club/sky-creek-grill",
+        "https://www.skycreekranch.com"
+      ],
+      "markupSampling": [],
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 67
+    },
+    {
+      "name": "Don Artemio Mexican Heritage",
+      "neighborhood": "Unknown",
+      "cuisineType": "Mexican",
+      "website": "https://www.donartemio.us",
+      "address": {
+        "street": "3268 W 7th St",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "zip": "76107"
+      },
+      "wineListSize": "nearly 150 selections",
+      "notableWines": [
+        "El Bajío Sparkling Brut",
+        "Campo Viejo Brut",
+        "Tattinger Moet Chandon",
+        "Cabernet from Casa Madero (northern Mexico’s Coahuila region)",
+        "Shiraz from Tuma (northern Mexico’s Coahuila region)",
+        "wines from Aperture",
+        "wines from Chimney Rock",
+        "Spanish wines from Vega Sicilia",
+        "Spanish wines from Bodegas Ordóñez"
+      ],
+      "wineRegionFocus": [
+        "northern Mexico (Coahuila region)",
+        "California",
+        "Spain"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "An upscale Mexican experience with modern urban style in a culturally transformed space featuring Mexican décor like terra-cotta bricks and wooden weaving looms.",
+      "popularDishes": [
+        "Nopalitos Fritos",
+        "Tacos de Lengua",
+        "Ceviche Tatemado"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$18-$92 range",
+      "citationLinks": [
+        "https://www.donartemio.us",
+        "https://www.donartemio.us/menus/",
+        "https://www.donartemio.us/our-story/",
+        "https://www.tripadvisor.com/Restaurant_Review-g55857-d25307631-Reviews-Don_Artemio-Fort_Worth_Texas.html",
+        "https://www.dallasobserver.com/uncategorized/first-look-don-artemio-fort-worth-17356542/",
+        "https://www.donartemio.us/location/don-artemio/",
+        "https://www.opentable.com/r/don-artemio-fort-worth",
+        "https://resy.com/cities/dallas-fort-worth-tx/venues/don-artemio",
+        "https://www.winespectator.com/articles/restaurant-guide-great-wine-dallas-fort-worth-texas",
+        "https://www.donartemio.us/menu/cocktailmenu/",
+        "https://www.toasttab.com/local/order/don-artemio-3268-w-7th-street/r-cae1ef8f-e3db-4511-a409-f58d8ee23dfe/item-modelo_23ad40cb-1a50-42b2-b033-3528d4c060fc"
+      ],
+      "markupSampling": [
+        {
+          "wine": "El Bajío Sparkling Brut",
+          "restaurantPrice": "$58",
+          "retailPrice": "$20",
+          "markupPercent": 190
+        },
+        {
+          "wine": "Campo Viejo Brut",
+          "restaurantPrice": "$36",
+          "retailPrice": "$12",
+          "markupPercent": 200
+        },
+        {
+          "wine": "Tattinger Brut",
+          "restaurantPrice": "$110",
+          "retailPrice": "$40",
+          "markupPrice": 175
+        }
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 11,
+      "confidenceLevel": "high",
+      "dataCompleteness": 79
+    },
+    {
+      "name": "Gorji Restaurant",
+      "neighborhood": "Unknown",
+      "cuisineType": "New Mediterranean Cuisine with Persian influences",
+      "website": "https://www.chefgorji.com",
+      "address": {
+        "street": "5100 Belt Line Rd #402",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75254"
+      },
+      "wineListSize": "small and curated",
+      "byTheGlassCount": "10-15",
+      "priceRange": "$40-$100/bottle, $10-$15/glass",
+      "notableWines": [
+        "Lynmar Estate Winery wines",
+        "Reddy Vineyard Wines (Texas)",
+        "Chianti (Italy)",
+        "Rheinhessen (Germany)",
+        "Napa Valley (California)",
+        "Charles De Cazanove Brut Rosé Champagne (France)",
+        "Michael David Ancient Vine Cinsault 2015 (Lodi, California)",
+        "Ktima Karipidis Nebbiolo 2010 (Thessalia, Greece)",
+        "Sartori Amarone 2013 (Veneto, Italy)",
+        "Dominio de Atauta Parada 2014 (Ribera del Duero, Spain)",
+        "Domaine Jean Paul Balland Grande Cuvee Sancerre 2014 (Loire, France)",
+        "Chateau Ksara Wines (Lebanon)",
+        "Merriman Vineyard Cummins Road Pinot Noir (Oregon)",
+        "Texas Hills Vineyard Sangiovese 2010 Newsom Vineyard (Texas High Plains)",
+        "Avinyo Cava Brut Reserva (Catalonia, Spain)",
+        "Domaine Marcel Deiss Alsace Complantation 2023 (Alsace, France)",
+        "Warre’s Port Otima ‘92 Single Year Tawny Colheita Porto (Douro, Portugal)"
+      ],
+      "wineRegionFocus": [
+        "International (France, Spain, Italy, Germany, Greece, Lebanon, Morocco, Israel, Turkey, Azerbaijan, Georgia)",
+        "Domestic (Texas, California, Oregon)"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Intimate minimalist fine dining with a child-free atmosphere, no-tipping policy, and leisurely unrushed dining experience.",
+      "popularDishes": [
+        "Prime beef tenderloin with pomegranate sauce",
+        "Epic paella with rabbit, chorizo, mussels, and shrimp",
+        "Baby eggplants stuffed with gorgonzola and Pomodoro sauce"
+      ],
+      "reservationRecommended": true,
+      "citationLinks": [
+        "https://www.chefgorji.com",
+        "https://www.chefgorji.com/contact-us/",
+        "https://www.chefgorji.com/new-mediterranean-cuisine/",
+        "https://www.chefgorji.com/wine-dinners/",
+        "https://cravedfw.com/2026/03/04/gorji-wine-dinner/",
+        "https://www.chefgorji.com/wines/",
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d942393-Reviews-Gorji_Restaurant-Dallas_Texas.html"
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Sachet",
+      "neighborhood": "Unknown",
+      "cuisineType": "Mediterranean",
+      "website": "https://www.sachetdallas.com",
+      "address": {
+        "street": "4270 Oak Lawn Ave",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75219"
+      },
+      "wineListSize": "100-150 selections",
+      "byTheGlassCount": "15-20",
+      "priceRange": "$45-$150/bottle, $12-$20/glass",
+      "notableWines": [],
+      "wineRegionFocus": [
+        "France",
+        "Italy",
+        "Spain",
+        "Greece",
+        "California"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Warm, open and modern setting with a beautiful glass temperature-controlled wine cellar as the main focal point.",
+      "popularDishes": [
+        "Orecchiette with fennel sausage, rapini, chile, pecorino romano",
+        "Grilled Lamb Chops with fingerling potatoes, tzatziki, grilled scallions, cherry tomato",
+        "Wagyu Petite Tender with greek fries, zhoug, shishito peppers"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$27-$47 range",
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g55711-d12993098-Reviews-Sachet-Dallas_Texas.html",
+        "https://www.sachetdallas.com",
+        "https://www.sachetdallas.com/menus/",
+        "https://www.opentable.com/r/sachet-dallas?originId=9b0d185e-1519-480c-a1f6-4726cf46f6a1&corrid=9b0d185e-1519-480c-a1f6-4726cf46f6a1&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ",
+        "https://www.opentable.com/r/sachet-dallas?originId=9eb922b6-ab61-49f4-98c5-1916aaa1512b&corrid=9eb922b6-ab61-49f4-98c5-1916aaa1512b&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ"
+      ],
+      "markupSampling": [],
+      "wineListSource": "unknown",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 67
+    },
+    {
+      "name": "Isla & Co.",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "website": "https://www.islaandco.com",
+      "address": {
+        "street": null,
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": null
+      },
+      "wineListSize": "extensive",
+      "byTheGlassCount": "20-30",
+      "priceRange": "$12-$13/glass, $45-$80/bottle",
+      "notableWines": [
+        "Sauvignon Blanc, Kim Crawford, Marlborough ($12 glass / $45 bottle)",
+        "Meursault, Mat Roty, Burgundy, France ($13 glass / $80 bottle)",
+        "Duchman (Texas wine)",
+        "Gascon white"
+      ],
+      "wineRegionFocus": [
+        "Natural and organic wines",
+        "Texas",
+        "Gascony",
+        "New Zealand",
+        "Burgundy, France"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Contemporary upscale-casual dining with coastal-inspired cuisine and approachable wine program featuring both classic and Texas selections.",
+      "popularDishes": [],
+      "citationLinks": [
+        "https://www.isla-co.com/dallas-1",
+        "https://www.isla-co.com/press",
+        "https://www.dallasobserver.com/best-of-dallas/2023/food-and-drink/best-fish-and-chips-17519960"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website|review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 79
+    },
+    {
+      "name": "Vinito",
+      "neighborhood": "Unknown",
+      "cuisineType": "Mexican Wine Retail (Not a Restaurant)",
+      "address": {
+        "street": "Corner of Jefferson and Polk Street",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": null
+      },
+      "wineListSize": "100+ labels (retail, every varietal)",
+      "priceRange": "$30-$120/bottle",
+      "notableWines": [
+        "Monte Xanic Gran Ricardo vintage 2021",
+        "Lagrimas San Vincente 2022 Chardonnay",
+        "Barrigón’s 2021 organic tinto"
+      ],
+      "wineRegionFocus": [
+        "Mexico"
+      ],
+      "vibeDescription": "An intimate, educational wine shop dedicated to showcasing Mexican wines with a welcoming, non-intimidating atmosphere for the Hispanic community.",
+      "citationLinks": [
+        "https://oakcliff.advocatemag.com/2024/07/vinito-mexican-wine/",
+        "https://dallas.culturemap.com/news/restaurants-bars/valle-bishop-arts-vinito/",
+        "https://diningout.com/dallas/dallas-wine-clubs-to-join-now/",
+        "https://www.dmagazine.com/food-drink/2024/03/vinito-is-the-little-wine-shop-that-could-sell-mexican-wine/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 68
+    },
+    {
+      "name": "55 Seventy",
+      "neighborhood": "Unknown",
+      "cuisineType": "Fine dining",
+      "website": "https://dallas.55seventy.com",
+      "address": {
+        "street": "6130 Berkshire Ln",
+        "city": "Dallas",
+        "state": "Texas",
+        "zip": "75225"
+      },
+      "wineListSize": "200-300 bottles",
+      "byTheGlassCount": "20-30 glasses",
+      "priceRange": "retail price, no markup",
+      "notableWines": [
+        "Billecart Salmon",
+        "Burgundies from Peter Wasserman",
+        "Napa Valley reds",
+        "Austrian wines"
+      ],
+      "wineRegionFocus": [
+        "Boutique, rare, and allocated wines",
+        "Burgundy",
+        "Napa Valley",
+        "Austria"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "A sophisticated, relaxing atmosphere in a private members' club for food and wine lovers.",
+      "popularDishes": [
+        "Steaks",
+        "Prime beef",
+        "Seafood"
+      ],
+      "citationLinks": [
+        "https://dallas.55seventy.com",
+        "https://dallas.55seventy.com/contact",
+        "https://dallas.55seventy.com/faq",
+        "https://thescoutguide.com/dallas/editorial/a-toast-to-55-seventy-inside-dallas-premier-wine-club/",
+        "https://dallas.55seventy.com/pastevents",
+        "https://dallas.55seventy.com/wineprogram",
+        "https://dallas.55seventy.com/membership",
+        "https://dallas.55seventy.com/drink-menu-1",
+        "https://dallas.55seventy.com/lunch-menu"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 9,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    }
+  ],
+  "skippedRestaurants": [
+    {
+      "name": "Tango Room",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Ravenna Italian Grille & Bar"
+    },
+    {
+      "name": "Blind Bishop",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Perry's Steakhouse & Grille - Park District"
+    },
+    {
+      "name": "Stoney’s Wine Lounge",
+      "neighborhood": "Unknown",
+      "reason": "28% complete (min: 40%)",
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "dataCompleteness": 28,
+      "phase": "research",
+      "replacedBy": "Truluck's Ocean's Finest Seafood & Crab"
+    },
+    {
+      "name": "The Wine Therapist",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Bridlewood Restaurant"
+    },
+    {
+      "name": "Ampelos Wines",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Sky Creek Ranch Golf Club"
+    },
+    {
+      "name": "Neighborhood Cellar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Don Artemio Mexican Heritage"
+    },
+    {
+      "name": "Barcelona Wine Bar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research",
+      "replacedBy": "Gorji Restaurant"
+    },
+    {
+      "name": "Al Biernat’s",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Sachet"
+    },
+    {
+      "name": "Del Frisco’s Double Eagle Steakhouse",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research",
+      "replacedBy": "Isla & Co."
+    },
+    {
+      "name": "Avanti Restaurant",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research",
+      "replacedBy": "Vinito"
+    },
+    {
+      "name": "Times Ten Cellars",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "55 Seventy"
+    },
+    {
+      "name": "St. Martin's Wine Bistro",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Knife",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Micum",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Loro",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 76,
+      "phase": "research"
+    },
+    {
+      "name": "Sammy's Italian",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 10% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 10,
+      "phase": "research"
+    },
+    {
+      "name": "Vidorra",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Crown Block",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Fearing's",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Rustic Kitchen",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 1 sources (min: 3); 7% complete (min: 40%)",
+      "sourcesFound": 1,
+      "confidenceLevel": "low",
+      "dataCompleteness": 7,
+      "phase": "research"
+    },
+    {
+      "name": "Winewood Grill",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Sonny Bryan's",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 52,
+      "phase": "research"
+    }
+  ]
+}
