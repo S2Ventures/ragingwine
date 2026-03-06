@@ -184,7 +184,7 @@
     "citySlug": "fort-worth",
     "state": "Texas",
     "priority": 18,
-    "status": "pending"
+    "status": "failed"
   },
   {
     "city": "Washington",

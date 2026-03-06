@@ -1,0 +1,16 @@
+{
+  "city": "Fort Worth",
+  "citySlug": "fort-worth",
+  "startedAt": "2026-03-06T05:44:41.477Z",
+  "completedAt": "2026-03-06T05:46:40.385Z",
+  "restaurantsResearched": 0,
+  "reviewsWritten": 0,
+  "reviewsPublished": 0,
+  "restaurantsSkippedResearch": 0,
+  "restaurantsSkippedWriting": 0,
+  "skippedRestaurants": [],
+  "errors": [
+    "Pipeline error: Error: Discovery failed after 3 attempts. Last error: Error: Parsed array contained no restaurant names"
+  ],
+  "reviews": []
+}
