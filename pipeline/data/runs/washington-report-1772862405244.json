@@ -1,0 +1,307 @@
+{
+  "city": "Washington",
+  "citySlug": "washington",
+  "startedAt": "2026-03-07T05:36:38.702Z",
+  "completedAt": "2026-03-07T05:46:44.754Z",
+  "restaurantsResearched": 16,
+  "reviewsWritten": 13,
+  "reviewsPublished": 13,
+  "restaurantsSkippedResearch": 20,
+  "restaurantsSkippedWriting": 3,
+  "skippedRestaurants": [
+    {
+      "name": "Fiola Mare",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 1 sources (min: 3)",
+      "sourcesFound": 1,
+      "confidenceLevel": "low",
+      "dataCompleteness": 91,
+      "phase": "research",
+      "replacedBy": "Easy Company"
+    },
+    {
+      "name": "Blue Duck Tavern",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Little Blackbird"
+    },
+    {
+      "name": "Le Diplomate",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Eddie Merlot's Prime Aged Beef & Seafood"
+    },
+    {
+      "name": "Bourbon Steak",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Capitol Cider House"
+    },
+    {
+      "name": "RPM Italian",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Morton's The Steakhouse - Reston"
+    },
+    {
+      "name": "District Winery",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Zeffirelli Ristorante Italiano"
+    },
+    {
+      "name": "Lulu's Winegarden",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Barcelona Wine Bar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Primrose",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Cynthia Bar & Bistro",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Kinship",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Flight Wine Bar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Sushi Nakazawa DC",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Cafe du Parc",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 94,
+      "phase": "research"
+    },
+    {
+      "name": "Central Michel Richard",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Barcelona Wine Bar Cathedral Heights",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Grand Cata",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Uncorked Chevy Chase",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Maxwell Park",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Nero",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Masseria",
+      "neighborhood": "Union Market",
+      "reason": "No specific wine names, producers, or pricing data available despite strong program indicators. List size and region focus known, but cannot write credible review without actual bottle references.",
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82,
+      "phase": "writing"
+    },
+    {
+      "name": "Capitol Cider House",
+      "neighborhood": "Petworth",
+      "reason": "This is primarily a cidery/cider production facility, not a wine-focused restaurant. The research data contains only their own cider products with no evidence of an actual wine list, wine producers, or wine program details beyond vague mentions of 'natural wines' and 'European wines' without specific bottles, pricing, or selection depth.",
+      "sourcesFound": 8,
+      "confidenceLevel": "high",
+      "dataCompleteness": 79,
+      "phase": "writing"
+    },
+    {
+      "name": "Zeffirelli Ristorante Italiano",
+      "neighborhood": "Herndon",
+      "reason": "No specific wine names, producers, or pricing data found in research sources. Cannot write credible review without concrete wine list details.",
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 67,
+      "phase": "writing"
+    }
+  ],
+  "errors": [],
+  "reviews": [
+    {
+      "restaurant": "Fiola",
+      "slug": "fiola-washington",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Del Mar",
+      "slug": "del-mar-washington",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Joe's Seafood, Prime Steak & Stone Crab",
+      "slug": "joes-seafood-prime-steak-and-stone-crab-washington",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Alhambra",
+      "slug": "alhambra-washington",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Cork Wine Bar & Market",
+      "slug": "cork-wine-bar-and-market-washington",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Barkada Wine Bar",
+      "slug": "barkada-wine-bar-washington",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Metier",
+      "slug": "metier-washington",
+      "badge": "rager",
+      "published": true
+    },
+    {
+      "restaurant": "Revel Restaurant",
+      "slug": "revel-restaurant-washington",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Sook DC",
+      "slug": "sook-dc-washington",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Easy Company",
+      "slug": "easy-company-washington",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Little Blackbird",
+      "slug": "little-blackbird-washington",
+      "badge": "wildcard",
+      "published": true
+    },
+    {
+      "restaurant": "Eddie Merlot's Prime Aged Beef & Seafood",
+      "slug": "eddie-merlots-prime-aged-beef-and-seafood-washington",
+      "badge": "reliable",
+      "published": true
+    },
+    {
+      "restaurant": "Morton's The Steakhouse",
+      "slug": "mortons-the-steakhouse-washington",
+      "badge": "reliable",
+      "published": true
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "reviews": [
+    {
+      "slug": "fiola-washington",
+      "restaurant": "Fiola",
+      "neighborhood": "Penn Quarter",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Contemporary Italian Fine Dining",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Deep & Eclectic",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "You open the wine book at Fiola and it's like opening a direct line to the Italian countryside. 800+ bottles deep, organized by region, heavy on Piedmont and Tuscany with serious depth in both. This is a list built by someone who actually travels to these estates and knows the difference between good and legendary.",
+      "selectionDeepDive": "The Piedmont section alone could be its own wine bar — top-tier Barolo and Barbaresco from producers who matter, not just the Instagram-famous names. The Super Tuscan game is equally serious: Sassicaia, Ornellaia, and proper Brunello di Montalcino sit alongside deeper cuts from smaller estates. Champagne gets real estate too, with prestige cuvées that justify the Penn Quarter location. The only gap? For an 800-bottle list, we'd love to see more adventurous Italian regions (where's the Sicily? the Campania?) beyond the Piedmont-Tuscany-Champagne holy trinity.",
+      "byTheGlass": "20-25 pours by the glass is respectable for fine dining, though we don't have the exact lineup. Given the bottle list's Italian focus and the presence of a sommelier team, expect regional Italian varietals that rotate with the seasons, plus a Champagne or two. The glass program feels secondary to the bottle flex here — this is a list designed for people ordering bottles with their pasta tasting menus.",
+      "bestValue": {
+        "wine": "Entry-level Brunello di Montalcino",
+        "price": "$80-$100",
+        "note": "Brunello at $80-100 in this setting is your best shot at prestige without the $200+ sticker shock — still gets you Sangiovese royalty"
+      },
+      "hiddenGem": {
+        "wine": "Mid-tier Barbaresco from lesser-known producer",
+        "note": "Everyone orders Barolo; Barbaresco delivers similar Nebbiolo magic with more elegance and less ego, often $30-50 cheaper per bottle"
+      },
+      "skipThis": {
+        "wine": "Sassicaia or Ornellaia",
+        "note": "At $500+ with typical DC fine dining markup, you're paying 4x retail for a name — save this one for a special occasion or buy it elsewhere"
+      },
+      "perfectPairing": {
+        "wine": "Piedmont Barolo",
+        "dish": "Osso buco",
+        "note": "Nebbiolo's tannins and acidity cut through braised veal like they were designed for each other — classic Northern Italian synergy"
+      },
+      "bottomLine": "This is where you take someone who actually cares about Italian wine, not just Instagram shots of pasta. The markup stings, but the depth and curation justify it if you're celebrating something that matters.",
+      "subtitle": "800-Bottle Italian Love Letter Near the Archives",
+      "tags": [
+        "deep-cellar",
+        "splurge-worthy",
+        "date-night",
+        "old-world-focus"
+      ],
+      "website": "https://www.fioladc.com",
+      "address": {
+        "street": "601 Pennsylvania Avenue NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20004",
+        "country": "US"
+      },
+      "dataCompleteness": 79,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "del-mar-washington",
+      "restaurant": "Del Mar",
+      "neighborhood": "The Wharf",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Spanish Seafood",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Deep & Eclectic",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "Del Mar's wine list reads like a love letter to the Iberian Peninsula, with 150-200 bottles that show serious curation and regional depth. You're not just getting Rioja and Albariño on repeat—this is Txakoli from Basque Country, Xarel-lo from Cangas, and Garnacha from Calatayud. They know what they're doing.",
+      "selectionDeepDive": "The Spanish focus is encyclopedic without being pretentious: you'll find both the crowd-pleasing Pazo Señoráns Albariño and the nerdy Monasterio de Corias Xarel-lo. Priorat gets proper respect with Clos Figueras and Ferrer Bobet, while bubbly lovers can choose between proper Champagne (Voirin-Jumel, Henriot) and Spanish sparklers like Ramon Canals Gran Reserva Cava. The Napa contingent—Quintessa, Duckhorn, Antica—feels like an afterthought, but honestly, why are you ordering California Cab at a Spanish seafood spot? Burgundy representation is slim but smart: Brocard's Montée de Tonnerre Chablis is the right white for this context.",
+      "byTheGlass": "With 18-24 options by the glass, Del Mar gives you room to explore without committing to a full bottle. The glass program mirrors the bottle list's Spanish focus, and with a sommelier on staff, you can trust the pours are fresh and the recommendations are solid. No lazy house wine program here—they're rotating through enough to keep regulars interested.",
+      "bestValue": {
+        "wine": "Gañeta Txakoli, Basque Country",
+        "price": "$52",
+        "note": "Crisp, saline, barely-there spritz—made for shellfish and costs what it should"
+      },
+      "hiddenGem": {
+        "wine": "Monasterio de Corias Vina Grandiella Xarel-lo, Cangas",
+        "note": "Most people skip Xarel-lo thinking it's just Cava filler, but this still version has minerality and weight that demolishes the grilled octopus"
+      },
+      "skipThis": {
+        "wine": "Duckhorn Merlot, Napa Valley",
+        "price": "$145",
+        "note": "Not bad wine, but wildly out of place at a Spanish seafood restaurant and priced like it's doing you a favor"
+      },
+      "perfectPairing": {
+        "wine": "Pazo Señoráns Albariño, Rías Baixas",
+        "dish": "Signature Paella",
+        "note": "This is the pairing that launched a thousand Spanish beach vacations—Albariño's citrus and salinity cuts through saffron-rich rice and amplifies sweet shellfish"
+      },
+      "bottomLine": "Del Mar is what happens when a restaurant actually cares about matching its wine program to its cuisine. If you're eating Spanish seafood on the Wharf, this is where you want to be drinking.",
+      "subtitle": "Spain's Greatest Hits with Potomac River Views",
+      "tags": [
+        "date-night",
+        "deep-cellar",
+        "old-world-focus",
+        "by-the-glass-hero"
+      ],
+      "website": "https://www.delmardc.com",
+      "address": {
+        "street": "791 Wharf Street SW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20024",
+        "country": "US"
+      },
+      "dataCompleteness": 85,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "joes-seafood-prime-steak-and-stone-crab-washington",
+      "restaurant": "Joe's Seafood, Prime Steak & Stone Crab",
+      "neighborhood": "Downtown",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Seafood & Steakhouse",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Deep & Eclectic",
+        "specials": "Active Program",
+        "storage": "Proper"
+      },
+      "firstImpression": "You open the wine list and immediately see the number: 450 selections. This is a serious program at a serious steakhouse, with the depth you'd expect from a Wine Spectator-approved spot. The sommelier on staff knows their bottles, and the Frank Family wine dinner series signals they're actively engaging with producers.",
+      "selectionDeepDive": "The list leans heavily California—think Napa Cabs, Russian River Pinots, Sonoma Chards—with a solid French supporting cast. There's real depth here: we're talking 4,640 bottles in inventory, not just a token cellar. You'll find accessible producers like Frank Family Vineyards and Zuccardi alongside splurge-worthy allocations. The downside? This is a corporate hospitality group (Lettuce Entertain You), so don't expect natural wine or orange wine adventures. It's classic, safe, and built for expense accounts.",
+      "byTheGlass": "25-30 pours by the glass is a strong showing for this category. The lineup includes approachable crowd-pleasers like Penfolds Max's Shiraz and Zuccardi Serie A Malbec, plus some thoughtful picks like Stags' Leap Winery Petite Sirah. They rotate seasonally and the staff can walk you through options without making you feel like you need a wine degree.",
+      "bestValue": {
+        "wine": "Zuccardi Serie A Malbec",
+        "price": "$12-14/glass",
+        "note": "Argentinian overdeliverer with bold fruit, available by the glass without the Napa tax"
+      },
+      "hiddenGem": {
+        "wine": "Stags' Leap Winery Petite Sirah",
+        "note": "Most people skip Petite Sirah for Cab, but this varietal pairs killer with prime steak and shows what Napa does beyond the usual suspects"
+      },
+      "skipThis": {
+        "wine": "Far Niente Chardonnay",
+        "note": "$108 for a $40 retail bottle is a 170% markup on a wine you can find everywhere—order something rarer at that price point"
+      },
+      "perfectPairing": {
+        "wine": "Frank Family Vineyards 2022 Carneros Pinot Noir",
+        "dish": "Florida Stone Crab",
+        "note": "The bright acidity and red fruit of Carneros Pinot cuts through rich crab butter without overwhelming the delicate meat"
+      },
+      "bottomLine": "Joe's delivers what you'd expect from a high-end chain steakhouse: a deep, polished list with knowledgeable staff and proper execution. The markups sting (200-300% is standard here), but if someone else is paying or you're celebrating, you'll drink well.",
+      "subtitle": "Deep list, steep markups, solid mainstream crowd-pleasers",
+      "tags": [
+        "deep-cellar",
+        "splurge-worthy",
+        "wine-dinner-events",
+        "date-night"
+      ],
+      "website": "https://www.joes.net",
+      "address": {
+        "street": "750 15th Street NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20005",
+        "country": "US"
+      },
+      "dataCompleteness": 94,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "alhambra-washington",
+      "restaurant": "Alhambra",
+      "neighborhood": "Downtown",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Mediterranean",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Solid Range",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "The St. Regis hotel dining room brings a 300-label list that takes itself seriously without being stuffy. This isn't a token wine program — there's a sommelier on staff and the list shows real curation, even if the prices reflect that K Street zip code.",
+      "selectionDeepDive": "The list splits its energy between California and Spain, which makes sense given the Mediterranean menu. You'll find Napa heavyweights like Caymus, Dunn, and Inglenook next to quality Spanish producers like Cuentaviñas from Rioja and Bodegas Emilio Moro from Ribera del Duero. The 18-22 glass pours show thoughtfulness too — Alsace Riesling and Miraval Rosé sit alongside the usual suspects. It's not the most adventurous list in town, but it covers the bases with actual depth rather than just checking boxes.",
+      "byTheGlass": "With nearly 20 options rotating through, the glass program is stronger than most hotel restaurants manage. The inclusion of Alsace Riesling shows someone's thinking beyond Chardonnay and Pinot Grigio. The Miraval Rosé is a crowd-pleaser that actually tastes good, not just Instagram-ready. Still, we'd love to see more rotation or seasonal programming to keep things fresh.",
+      "bestValue": {
+        "wine": "Cuentaviñas Rioja",
+        "price": "Price unavailable",
+        "note": "Classic Rioja that pairs beautifully with the Mediterranean menu without the Napa markup"
+      },
+      "hiddenGem": {
+        "wine": "Alsace Riesling",
+        "note": "Most people skip Riesling on hotel wine lists, but this one's got the acidity to cut through rich dishes and the quality to make you remember it"
+      },
+      "skipThis": {
+        "wine": "Caymus Cabernet",
+        "note": "It's everywhere for a reason, but you're paying hotel pricing on an already-premium bottle — the Spanish reds offer better bang"
+      },
+      "perfectPairing": {
+        "wine": "Bodegas Emilio Moro Ribera del Duero",
+        "dish": "Any lamb preparation",
+        "note": "Tempranillo and lamb is one of those combinations that just works — the wine's got structure and fruit to stand up to Mediterranean spices"
+      },
+      "bottomLine": "This is what a hotel wine list should be: professional, properly stored, fairly deep, and backed by staff who know their stuff. The markup stings, but you're paying for the St. Regis experience. If you're already dropping money on dinner here, the wine program won't let you down.",
+      "subtitle": "Hotel Wine List That Doesn't Phone It In",
+      "tags": [
+        "date-night",
+        "splurge-worthy",
+        "old-world-focus"
+      ],
+      "website": "https://www.alhambra.com",
+      "address": {
+        "street": "923 16th Street NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20006",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "cork-wine-bar-and-market-washington",
+      "restaurant": "Cork Wine Bar & Market",
+      "neighborhood": "Logan Circle",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Contemporary American, Wine Bar",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Deep & Eclectic",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "The wine list at Cork hits that sweet spot between serious and approachable — this is a neighborhood spot that takes wine seriously without making you feel like you need a degree to order. The by-the-glass program runs 18+ deep with a clear Old World bias, and pricing starts at $6 for a 2oz taste, which means you can actually explore without emptying your wallet.",
+      "selectionDeepDive": "Cork's list reads like a European wine map with real depth: Loire Valley gets proper attention (Sancerre, Anjou), Burgundy and Bordeaux anchors are solid, and there's thoughtful representation from Piedmont, Friuli, and Rioja. The bottle range tops out around $74, keeping things accessible while still offering serious wines like the Gueyrosse St. Émilion Grand Cru 2015. What stands out is the curation — these aren't just the usual suspects, but producers like Jean-Marc Brocard and Château Soucherie that show someone's actually tasting and choosing intentionally. The Italian selection runs deeper than most wine bars, with regions like Puglia and Friuli that often get skipped.",
+      "byTheGlass": "Eighteen-plus options by the glass is serious business, especially when they're pouring things like Lucien Crochet Sancerre Rouge and Vietti Perbacco alongside the Dumont Brut Champagne. The 2oz/4oz pour structure ($6-$14 / $7-$27) is smart — you can taste your way through half the list for the price of one bottle elsewhere. This is a by-the-glass program built for exploring, not just offering a token red and white.",
+      "bestValue": {
+        "wine": "Vietti Perbacco 2022",
+        "price": "$27",
+        "note": "Nebbiolo from one of Piedmont's top producers at this price point is a steal — entry-level Vietti that drinks well above its weight"
+      },
+      "hiddenGem": {
+        "wine": "Lucien Crochet Sancerre Rouge 2019",
+        "note": "Everyone orders Sancerre blanc, but this Pinot Noir from one of the Loire's best shows why the region does more than just Sauvignon Blanc"
+      },
+      "skipThis": {
+        "wine": "Dumont Brut Champagne",
+        "note": "Solid enough bubbles, but at this price point you could explore one of their more interesting Loire sparklers or go full Champagne somewhere else"
+      },
+      "perfectPairing": {
+        "wine": "Château Soucherie Anjou Blanc",
+        "dish": "Burrata",
+        "note": "Loire Chenin Blanc's texture and acidity cut through rich cream while the wine's subtle sweetness plays off the burrata's milky freshness"
+      },
+      "bottomLine": "Cork is what every neighborhood should have — a wine bar that knows its stuff but doesn't make you feel tested. The Old World focus is executed with real depth, prices are fair, and the by-the-glass program alone is worth the trip.",
+      "subtitle": "Old World by the glass, done right",
+      "tags": [
+        "by-the-glass-hero",
+        "old-world-focus",
+        "date-night",
+        "wine-bar"
+      ],
+      "website": "http://www.corkdc.com/",
+      "address": {
+        "street": "1805 14th St NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20009",
+        "country": "US"
+      },
+      "dataCompleteness": 85,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "barkada-wine-bar-washington",
+      "restaurant": "Barkada Wine Bar",
+      "neighborhood": "Shaw",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Wine Bar",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Small but Thoughtful",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "Barkada's list hits you with confident Italian focus — 80-120 bottles deep, all pointing to the boot. The vibe is neighborhood wine bar that knows what it's doing, not trying to be everything to everyone. Markups hover around 30-40%, which in DC is practically charity work.",
+      "selectionDeepDive": "The list is Italy or bust, with serious depth in Northern regions. You'll find Sesti Brunello verticals (2015, 2016, 2017) sitting alongside Northern Italian workhorses like ArPePe's Valtellina lineup and Benevelli Langhe. It's a focused program that goes deep rather than wide — you won't find California Cab or Australian Shiraz here. The selection skews toward smaller producers and classic regions, with bottles ranging from $68 to $120. There's clear curation happening, not just filling slots with distributor darlings.",
+      "byTheGlass": "The glass pour program runs 15-20 options, which is solid for a focused list. Expect Italian varietals front and center, with rotation that seems more seasonal than weekly. The glass selection mirrors the bottle list's Northern Italian lean, giving you a chance to taste through regions without committing to full bottles.",
+      "bestValue": {
+        "wine": "Benevelli Langhe 2020",
+        "price": "$60",
+        "note": "Nebbiolo from Langhe at $60 with only 33% markup is the kind of pricing that keeps you coming back. Entry point to serious Piedmont."
+      },
+      "hiddenGem": {
+        "wine": "ArPePe Stella Retica 2017",
+        "note": "Valtellina doesn't get the love it deserves, and this alpine Nebbiolo at $79 is proof. Mountain-grown freshness that most people skip for Barolo."
+      },
+      "skipThis": {
+        "wine": "ArPePe Rocca d Piro 2017",
+        "note": "At $79 with a 44% markup, it's the steepest pour on the list. Still fair by DC standards, but the Stella Retica is a better value."
+      },
+      "perfectPairing": {
+        "wine": "Castellucci Miano Shiara 2020",
+        "dish": "Pesto Hummus",
+        "note": "Sicilian white with the herbaceous funk to match that pesto-forward hummus. Mediterranean meeting Mediterranean."
+      },
+      "bottomLine": "Barkada knows its lane and stays in it. Fair pricing, Italian depth, and a cozy Shaw vibe make it your reliable Italian wine fix without the sommelier theater.",
+      "subtitle": "Italian-Focused Shaw Spot with Fair Pricing",
+      "tags": [
+        "wine-bar",
+        "casual-vibes",
+        "old-world-focus",
+        "date-night"
+      ],
+      "website": "https://www.barkadawinebar.com",
+      "address": {
+        "street": "1939 12th St NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20009",
+        "country": "US"
+      },
+      "dataCompleteness": 94,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "metier-washington",
+      "restaurant": "Metier",
+      "neighborhood": "Shaw",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Contemporary American Fine Dining",
+      "badge": "rager",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Steep",
+        "variety": "Deep & Eclectic",
+        "specials": "Seasonal Rotation",
+        "storage": "Proper"
+      },
+      "firstImpression": "You open Metier's wine list and immediately know you're in rare air. 500+ bottles including a 1982 Chasse-Spleen and serious Austrian Rieslings from Alzinger — this is Eric Ziebold's love letter to collectors who want something they can't find anywhere else in D.C.",
+      "selectionDeepDive": "The list spans the world's major wine regions with serious depth in French classics and domestic heavy-hitters, but it's the curveballs that impress. Natural wines from Leo Steen's Jurassic Park Chenin Blanc sit alongside Virginia Bordeaux blends from RDV and Washington Rhône-style reds from DeLille Cellars. Old World depth meets New World exploration, with Austrian Grüner Veltliner from producers like Wimmer-Czerny and Wachau Rieslings that most restaurants don't bother sourcing. This is a list built for the tasting menu format — wines that evolve over multiple courses, not crowd-pleasing one-glass wonders.",
+      "byTheGlass": "With 25-30 options by the glass, Metier gives you serious choice even if you're not committing to a full bottle. The glass pours lean toward the adventurous side of things, likely rotating with seasonal tasting menu shifts. For a restaurant at this price point, the BTG program shows they're not just pushing trophy bottles — they want you exploring even if you're dining solo.",
+      "bestValue": {
+        "wine": "Wimmer-Czerny Weelfel Alte Reben Grüner Veltliner",
+        "price": "$80-120 estimated",
+        "note": "Old-vine Austrian Grüner at the lower end of their range still delivers complexity and age-worthiness that punches above its weight"
+      },
+      "hiddenGem": {
+        "wine": "Leo Steen Jurassic Park Chenin Blanc, Santa Ynez Valley 2012",
+        "note": "California Chenin with age on it is rare enough, but from a natural wine producer in Santa Ynez? This is the kind of unexpected pick that makes sommelier-driven lists worth exploring"
+      },
+      "skipThis": {
+        "wine": "DeLille Cellars Doyenne Métier Rhône Blend, Yakima Valley 2014",
+        "note": "Custom cuvée with the restaurant's name feels like trophy bottle territory — likely marked up for the branding flex rather than the juice inside"
+      },
+      "perfectPairing": {
+        "wine": "Alzinger Loibenberg Riesling Smaragd, Wachau 2016",
+        "dish": "Seasonal tasting menu course with rich fish or poultry",
+        "note": "Smaragd-level Wachau Riesling has the weight and acidity to cut through butter sauces while lifting delicate proteins — textbook pairing for refined tasting menu cooking"
+      },
+      "bottomLine": "This is where you go when you want to drink bottles you can't find anywhere else and have the budget to match. The list justifies the steep prices with rarity and curation, but expect markups that reflect the fine dining setting. If you're chasing unicorns or want to let the somm guide you through something truly special, Metier delivers.",
+      "subtitle": "Deep Cellar Flex for Serious Wine Collectors",
+      "tags": [
+        "deep-cellar",
+        "splurge-worthy",
+        "wine-dinner-events",
+        "old-world-focus"
+      ],
+      "website": "https://www.metierdc.com",
+      "address": {
+        "street": "1015 7th St NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20001",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "revel-restaurant-washington",
+      "restaurant": "Revel Restaurant",
+      "neighborhood": "Logan Circle",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "American",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Fair",
+        "variety": "Small but Thoughtful",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "We walk in and immediately notice something unusual: half the wine list is from Revel itself, an urban winery attached to the restaurant. It's a bold move — you're drinking wines made a few rooms away, not imported from Napa or Burgundy.",
+      "selectionDeepDive": "The list runs 40-60 bottles with a clear two-tier strategy: Revel's own production (Sangiovese, Cab Franc, Carménère, Malbec, Pinot Gris, Dry Riesling) alongside carefully chosen international bottles that won't break the bank. The non-Revel selections lean Old World — Lambrusco from Cantina Settecani, Muscadet from Domaine de la Tourmaline, Spanish Tempranillo from Tridente — with a few South American wildcards like Pais Viejo from J. Bouchon in Chile. It's a small list, but every bottle has a point of view. What's missing: any serious depth in Burgundy, zero California presence beyond their own stuff, and no vintage variation to speak of.",
+      "byTheGlass": "With 25-35 glasses available, the by-the-glass program is surprisingly deep for a 40-60 bottle list. Most of Revel's own wines pour by the glass alongside rotating internationals — Vinho Verde from Arca Nova, Chenin Blanc from Wildekans, even a Cremant Rosé. The variety is solid, though we'd love to see more frequent rotation to keep regulars coming back.",
+      "bestValue": {
+        "wine": "Muscadet | Domaine de la Tourmaline",
+        "price": "$28",
+        "note": "Classic Loire minerality at entry-level pricing — perfect for shellfish or charcuterie boards without the markup you'd see at a wine bar"
+      },
+      "hiddenGem": {
+        "wine": "Pais Viejo | J. Bouchon",
+        "note": "Ancient Chilean grape variety that most people skip because they've never heard of it — earthy, light-bodied, drinks like Burgundy's scrappy cousin"
+      },
+      "skipThis": {
+        "wine": "Champagne | Collet",
+        "note": "At the top of their $28-$80 price range, you're paying for the Champagne name without the producer depth to justify it — stick to the Cremant Rosé or Kila Cava instead"
+      },
+      "perfectPairing": {
+        "wine": "Lambrusco | Cantina Settecani",
+        "dish": "Charcuterie Board",
+        "note": "Fizzy, slightly sweet Italian red cuts through fatty meats and resets your palate between bites — this is what Lambrusco was born to do"
+      },
+      "bottomLine": "Revel is doing something genuinely different in DC: making their own wines on-site and pricing them fairly alongside a curated international list. It's not a destination cellar, but it's a neighborhood spot that actually cares about what you're drinking.",
+      "subtitle": "Urban Winery Pouring Its Own Bottles",
+      "tags": [
+        "hidden-gem",
+        "local-producers",
+        "casual-vibes",
+        "by-the-glass-hero"
+      ],
+      "website": "https://www.revelrestaurant.com",
+      "address": {
+        "street": "1445 Church Street NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20005",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "medium"
+    },
+    {
+      "slug": "sook-dc-washington",
+      "restaurant": "Sook DC",
+      "neighborhood": "Logan Circle",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Middle Eastern Café & Wine Bar",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Fair",
+        "variety": "Surprising Depth",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "We walk into what looks like a neighborhood café and suddenly find ourselves staring at a wine list that name-drops Georgian qvevri wines and Lebanese Cinsault. The 40-50 bottle list reads like a natural wine bar's passport collection, which feels wonderfully unexpected in a casual all-day spot serving khachapuri and chicken wings.",
+      "selectionDeepDive": "This list goes deep on regions most DC wine bars ignore completely. Greece gets serious attention with producers like Domaine Glinavos and Argatia, while Georgia, Lebanon, Turkey, and Mexico all get meaningful representation beyond token bottles. The Italian and French selections lean natural and quirky—Lambrusco, Verdeca, Loire rosé—while Austria and Germany bring the funk with skin-contact elderflower wine and Riesling sekt. It's a thoughtful, adventurous list that clearly has a point of view, even if it's still finding its depth in each category.",
+      "byTheGlass": "Eight glass pours spanning $15-20 is the right size for a café-to-wine-bar operation. The range covers sparkling, white, orange, rosé, and red with genuine variety—not just safe crowd-pleasers. You can order Georgian amber wine or Lebanese Cinsault alongside Oregon Chardonnay-Aligote blends, which shows real ambition in the BTG program.",
+      "bestValue": {
+        "wine": "Lini 910 Lambrusco Rosso",
+        "price": "$15-20",
+        "note": "Emilia Romagna's favorite frizzante pairs perfectly with the potato chip nachos and won't break the bank"
+      },
+      "hiddenGem": {
+        "wine": "Teliani Valley Glekhuri Kisi Qvevri Amber",
+        "note": "Most people skip orange wines out of fear, but this Georgian skin-contact white is approachable, food-friendly, and pairs brilliantly with Middle Eastern spice"
+      },
+      "skipThis": {
+        "wine": "Maloof Wines 'Fancy Free' Chardonnay/Aligote",
+        "note": "Oregon whites are having a moment, but this blend feels pricey for what it delivers compared to the European selections"
+      },
+      "perfectPairing": {
+        "wine": "Mersel Red Velvet Cinsault",
+        "dish": "Syrian Seven-Spice Chicken Wings",
+        "note": "Lebanese Cinsault with Syrian spice is a no-brainer—the wine's bright red fruit cuts through the heat while honoring the regional connection"
+      },
+      "bottomLine": "This is the neighborhood spot that rewards curiosity with a wine list that actually goes somewhere interesting. Fair prices, adventurous selections, and a café vibe that makes natural wine feel accessible rather than precious.",
+      "subtitle": "Middle Eastern Flavors Meet Natural Wine Adventure",
+      "tags": [
+        "natural-wine",
+        "orange-wine",
+        "hidden-gem",
+        "casual-vibes"
+      ],
+      "website": "https://www.sookdc.com",
+      "address": {
+        "street": "1346 T St NW",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20009",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "easy-company-washington",
+      "restaurant": "Easy Company",
+      "neighborhood": "The Wharf",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Wine Bar & Restaurant",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Fair",
+        "variety": "Solid Range",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "The wine list at Easy Company feels like it's trying to channel that effortless European café energy — 70+ labels spanning France, Italy, Spain, and California. It's approachable without being dumbed down, but nothing here screams 'collector's cellar.' This is a piazza wine bar that knows its lane: easy-drinking bottles for waterfront brunches and long dinners.",
+      "selectionDeepDive": "The list leans Old World with solid Bordeaux representation and California classics filling out the roster. You'll find everything from Dry Creek Zinfandel to Napa Cab, with a respectable nod to Burgundy and the Loire. The spread hits the major regions without going deep into any one — no obscure appellations or natural wine rabbit holes here. It's a crowd-pleaser approach that works for a venue where people come for the views as much as the vino. The bottle range ($50-$166) keeps most options accessible, though the top-shelf picks like Heitz Cellar and Merry Edwards show they're not afraid to stock serious wine.",
+      "byTheGlass": "The by-the-glass program runs lean but competent — at least five options priced $14-$16. You've got a Pedroncelli Zinfandel, a Bordeaux Cabernet, and even a Sauternes dessert pour, which is a nice touch most casual spots skip. The selection rotates slowly based on what we've seen, so don't expect weekly discoveries, but the wines they've chosen are reliable and food-friendly.",
+      "bestValue": {
+        "wine": "Pedroncelli Zinfandel, Dry Creek Valley, 2023",
+        "price": "$15",
+        "note": "Classic Dry Creek producer at a fair glass price — peppery, fruit-forward, and perfect for their charcuterie boards"
+      },
+      "hiddenGem": {
+        "wine": "Sauternes, De L'alliance, Bordeaux, 2019",
+        "note": "Most people walk right past dessert wine, but this Sauternes by the glass is a steal for something this elegant — pair it with cheese or sip it solo"
+      },
+      "skipThis": {
+        "wine": "Heitz Cellar Cabernet Sauvignon, Napa Valley, 2019",
+        "note": "$166 is steep for a wine bar without somm service or proper stemware — you're paying for the name in a setting that doesn't support it"
+      },
+      "perfectPairing": {
+        "wine": "Chateau Lauduc Cabernet Sauvignon, Bordeaux, 2022",
+        "dish": "Steak Frites",
+        "note": "Classic Bordeaux structure cuts through the richness of the steak while the earthy tannins match the crispy frites — textbook pairing"
+      },
+      "bottomLine": "Easy Company delivers exactly what a waterfront wine bar should: a dependable list with fair pricing and enough range to keep things interesting without overwhelming. It's not a destination for wine geeks, but it's a solid neighborhood spot where you can drink well without overthinking it.",
+      "subtitle": "European Piazza Vibes Meet D.C. Waterfront",
+      "tags": [
+        "patio-pour",
+        "casual-vibes",
+        "old-world-focus",
+        "by-the-glass-hero"
+      ],
+      "website": "https://www.easycowharf.com",
+      "address": {
+        "street": "98 Blair Alley SW",
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20024",
+        "country": "US"
+      },
+      "dataCompleteness": 85,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "little-blackbird-washington",
+      "restaurant": "Little Blackbird",
+      "neighborhood": "Cleveland Park",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Mediterranean-inspired Wine Bar",
+      "badge": "wildcard",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Solid Range",
+        "specials": "Active Program",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "A 100-bottle list that takes wine seriously without being stuffy, which is exactly what Cleveland Park needed. The playful vibe extends to the wine program — this is a place that ages Chardonnay on seashells and calls its pairings 'Playful' instead of 'Suggested.'",
+      "selectionDeepDive": "The list leans European but doesn't ignore the home team, with solid representation from Italy and France alongside thoughtful West Coast picks. You'll find everything from Brooks' excellent Oregon Pinot to Tenuta Luce's Super Tuscan, with enough depth in each region to keep things interesting across multiple visits. The $40-85 bottle range keeps things accessible, and the Wine Club Sunday program suggests they actually want you to explore the list rather than hoard it. No massive cellar finds here, but the curation shows taste — Pala's 'Oltreluna' and Capella Sant'Andrea's Vernaccia aren't your typical wine bar defaults.",
+      "byTheGlass": "Twelve by-the-glass options hit the sweet spot between variety and freshness. The pours include a Bedell Cellars Chardonnay aged on seashells for $12 and a Coq Leon Beaujolais at $13 — both at 3.5oz pours that let you taste without committing. The glass list seems to rotate with intention rather than just sitting there collecting dust.",
+      "bestValue": {
+        "wine": "Brooks 'Amycas' 2023",
+        "price": "~$55-65 range",
+        "note": "Brooks makes some of Oregon's most food-friendly Pinot, and the 'Amycas' is their entry point that drinks well above its price point — perfect with their branzino"
+      },
+      "hiddenGem": {
+        "wine": "Capella Sant'Andrea 'Clara Stella' Vernaccia 2023",
+        "note": "Most people skip Vernaccia thinking it's boring hotel wine, but this one's got salinity and texture that'll surprise you — especially with that Tart Flambee"
+      },
+      "skipThis": {
+        "wine": "DiamAndes 'Perlita' Malbec/Syrah 2020",
+        "note": "Argentine Malbec-Syrah blends rarely justify their spot on a thoughtful list when there are better South American options out there"
+      },
+      "perfectPairing": {
+        "wine": "Comtesse Marion Pinot Noir 2023",
+        "dish": "Lamb Chop with garlic scalloped potatoes and lamb demi-glace",
+        "note": "French Pinot brings enough earthiness to match the lamb demi without overwhelming the scalloped potatoes — classic pairing executed right"
+      },
+      "bottomLine": "Little Blackbird gets the wine bar formula right: thoughtful list, fair prices, and a Wine Club Sunday program that actually encourages exploration. Send your friend here when they want to drink well without the somm intimidation.",
+      "subtitle": "Playful Pairings and Half-Price Wine Club Sundays",
+      "tags": [
+        "wine-bar",
+        "by-the-glass-hero",
+        "date-night",
+        "casual-vibes"
+      ],
+      "halfPriceWineNight": {
+        "day": "First Sunday of the Month",
+        "details": "Wine Club Sunday: All Playful Pairings at half price, plus special off-menu Playful Pairings available"
+      },
+      "website": "https://www.littleblackbirddc.com",
+      "address": {
+        "street": "3309 Connecticut Ave NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20008",
+        "country": "US"
+      },
+      "dataCompleteness": 100,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "eddie-merlots-prime-aged-beef-and-seafood-washington",
+      "restaurant": "Eddie Merlot's Prime Aged Beef & Seafood",
+      "neighborhood": "Vienna",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Steakhouse",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Stemless Casual",
+        "staff": "Willing but Green",
+        "markup": "Steep",
+        "variety": "Plays It Safe",
+        "specials": "Set & Forget",
+        "storage": "Acceptable"
+      },
+      "firstImpression": "This is a 165-bottle love letter to Napa Valley markup culture. The list reads like a greatest hits compilation of wines your boss orders at client dinners — Caymus, Daou, Duckhorn on repeat. Twenty-plus glass pours mean you can sample the corporate wine playbook without committing to a $200 bottle.",
+      "selectionDeepDive": "The list is California-dominant with a heavy tilt toward cult Cabs and premium Merlots that pair safely with prime beef. You'll find multiple Caymus offerings spanning $55 to $180, Daou flexing up to $325 for their Patrimony bottling, and the Duckhorn portfolio covering both varietals. It's a steakhouse-safe lineup that avoids risk — no natural wines, minimal Old World presence, and zero surprises. The range works for the steak-and-potato crowd but feels one-dimensional if you're hunting for anything beyond California's big hitters.",
+      "byTheGlass": "Twenty to twenty-five glass pours is solid volume for a steakhouse, though the selection skews predictable. Expect the usual suspects: robust Cabs, fruit-forward Pinots, safe Chardonnays that won't offend anyone at the table. The pour program feels static rather than rotating — built for consistency across a chain rather than seasonal exploration or staff experimentation.",
+      "bestValue": {
+        "wine": "Caymus Suisun 'The Walking Fool' Red Blend",
+        "price": "$55",
+        "note": "Entry point to the Caymus empire without the typical markup pain — a Petite Sirah-driven blend with enough structure for ribeye"
+      },
+      "hiddenGem": {
+        "wine": "Goldeneye Pinot Noir",
+        "note": "Most people skip Pinot at a steakhouse, but Duckhorn's Anderson Valley project delivers enough weight and dark fruit to stand up to beef without the Cab fatigue"
+      },
+      "skipThis": {
+        "wine": "Daou Patrimony",
+        "price": "$325",
+        "note": "Paso Robles Cab at trophy wine pricing — you're paying for scarcity theater, not a $325 drinking experience"
+      },
+      "perfectPairing": {
+        "wine": "Caymus Suisun 'Grand Durif'",
+        "dish": "Prime aged ribeye",
+        "note": "Durif (Petite Sirah) brings massive tannins and dark fruit that cut through marbled beef fat while matching the char"
+      },
+      "bottomLine": "Eddie Merlot's delivers exactly what the sign promises: a California-heavy wine list engineered for steak dinners and business meals. The markups sting and the selection won't surprise anyone, but if your table wants Caymus with their porterhouse, this gets the job done reliably.",
+      "subtitle": "California Cabs for the Expense Account Crowd",
+      "tags": [
+        "date-night",
+        "splurge-worthy"
+      ],
+      "website": "https://www.eddiemerlots.com",
+      "address": {
+        "street": "8300 Tyco Road",
+        "city": "Vienna",
+        "state": "Virginia",
+        "zip": "22182",
+        "country": "US"
+      },
+      "dataCompleteness": 82,
+      "researchConfidence": "high"
+    },
+    {
+      "slug": "mortons-the-steakhouse-washington",
+      "restaurant": "Morton's The Steakhouse",
+      "neighborhood": "Reston",
+      "city": "Washington",
+      "citySlug": "washington",
+      "cuisineType": "Steakhouse",
+      "badge": "reliable",
+      "metrics": {
+        "glassware": "Varietal Specific",
+        "staff": "Knowledgeable & Friendly",
+        "markup": "Fair",
+        "variety": "Crowd Pleasers",
+        "specials": "Set & Forget",
+        "storage": "Proper"
+      },
+      "firstImpression": "You know exactly what you're getting before you even open the leather-bound wine list: Napa Cabs, safe Sonoma Chards, and enough big-name bottles to impress a client dinner. What surprises us is that Morton's corporate overlords seem to have figured out fair pricing—most bottles are at or below typical retail, which is rare for a chain steakhouse.",
+      "selectionDeepDive": "The 200-300 bottle list plays it safe with California dominance—Napa Valley leads the charge with heavy hitters like Caymus and Don Melchor from Chile for those willing to spend. You'll find the expected Sonoma Coast Chardonnays and Paso Robles Cab from Austin Hope, plus token entries from Oregon's Willamette Valley and Spanish Rioja. This isn't a list for natural wine nerds or Burgundy hunters—it's built for steak-and-Cab traditionalists who want recognizable labels. The house State & Rush program (Chardonnay, Pinot Noir, Cabernet) offers a Morton's-branded safety net for the undecided.",
+      "byTheGlass": "Nine-plus glass pours running $14-$40 for 6oz gives you enough range to avoid commitment. The Crossbarn Sonoma Coast Chardonnay at $16 and Zuccardi Malbec at $14 are priced well below retail, which is borderline shocking. You're getting mostly California crowd-pleasers with a few international ringers, and they rotate just enough to keep regulars from total boredom.",
+      "bestValue": {
+        "wine": "Ruffino Modus Super Tuscan",
+        "price": "$15/glass",
+        "note": "A $45 retail bottle going for $15 a glass is absurd value—blended Sangiovese and international varieties that can stand up to a ribeye without the Napa price tag"
+      },
+      "hiddenGem": {
+        "wine": "Don Melchor Cabernet Sauvignon, Puente Alto",
+        "note": "Chilean Cab from one of the country's top estates that most diners skip because they're laser-focused on Napa—serious structure and aging potential without the California trophy tax"
+      },
+      "skipThis": {
+        "wine": "Austin Hope Cabernet Sauvignon, Paso Robles",
+        "note": "Solid wine but overhyped and everywhere—you're paying for the Instagram-famous label when better values sit three lines down on the list"
+      },
+      "perfectPairing": {
+        "wine": "Caymus Cabernet Sauvignon, Napa Valley",
+        "dish": "Bone-in Ribeye",
+        "note": "The platonic ideal of steakhouse pairing—Caymus' plush, high-alcohol fruit bomb matches the richness and char of a perfectly aged ribeye"
+      },
+      "bottomLine": "Morton's won't blow your mind, but it won't gouge you either. The list is predictable in the best way—you know the players, the pricing is shockingly fair for a national chain, and the staff knows how to guide a table through Napa versus Paso without being condescending.",
+      "subtitle": "Corporate Consistency Meets Surprisingly Fair Pricing",
+      "tags": [
+        "date-night",
+        "splurge-worthy",
+        "deep-cellar"
+      ],
+      "website": "https://www.mortons.com/location/mortons-the-steakhouse-reston-va/",
+      "address": {
+        "street": "11956 Market St",
+        "city": "Reston",
+        "state": "Virginia",
+        "zip": "20190",
+        "country": "US"
+      },
+      "dataCompleteness": 94,
+      "researchConfidence": "high"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "Masseria",
+      "neighborhood": "Union Market",
+      "reason": "No specific wine names, producers, or pricing data available despite strong program indicators. List size and region focus known, but cannot write credible review without actual bottle references.",
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82,
+      "phase": "writing"
+    },
+    {
+      "name": "Capitol Cider House",
+      "neighborhood": "Petworth",
+      "reason": "This is primarily a cidery/cider production facility, not a wine-focused restaurant. The research data contains only their own cider products with no evidence of an actual wine list, wine producers, or wine program details beyond vague mentions of 'natural wines' and 'European wines' without specific bottles, pricing, or selection depth.",
+      "sourcesFound": 8,
+      "confidenceLevel": "high",
+      "dataCompleteness": 79,
+      "phase": "writing"
+    },
+    {
+      "name": "Zeffirelli Ristorante Italiano",
+      "neighborhood": "Herndon",
+      "reason": "No specific wine names, producers, or pricing data found in research sources. Cannot write credible review without concrete wine list details.",
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 67,
+      "phase": "writing"
+    }
+  ]
+}

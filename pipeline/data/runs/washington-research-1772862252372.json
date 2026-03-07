@@ -1,0 +1,1211 @@
+{
+  "city": "Washington",
+  "citySlug": "washington",
+  "state": "District of Columbia",
+  "researchedAt": "2026-03-07T05:44:12.372Z",
+  "restaurants": [
+    {
+      "name": "Fiola",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "website": "https://www.fioladc.com",
+      "address": {
+        "street": "601 Pennsylvania Avenue NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20004"
+      },
+      "wineListSize": "800+",
+      "byTheGlassCount": "20-25",
+      "priceRange": "$60-$500+",
+      "notableWines": [
+        "Barolo and Barbaresco from top Piedmont producers",
+        "Super Tuscans including Sassicaia, Ornellaia",
+        "Brunello di Montalcino",
+        "Champagne including prestige cuvées"
+      ],
+      "wineRegionFocus": [
+        "Italy",
+        "Piedmont",
+        "Tuscany",
+        "France",
+        "Champagne"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Upscale contemporary Italian fine dining with elegant décor near the National Archives, known for sophisticated Italian cuisine and an extensive Italian-focused wine program.",
+      "popularDishes": [
+        "Handmade pasta",
+        "Crudo",
+        "Osso buco"
+      ],
+      "citationLinks": [
+        "http://www.kevineats.com/2014/06/fiola-washington-dc.html",
+        "https://www.fioladc.com/dinner",
+        "https://www.fioladc.com/beverages",
+        "https://www.fioladc.com/dinner-a-la-carte"
+      ],
+      "markupSampling": [],
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 79
+    },
+    {
+      "name": "Del Mar",
+      "neighborhood": "Unknown",
+      "cuisineType": "Spanish seafood",
+      "website": "https://www.delmardc.com",
+      "address": {
+        "street": "791 Wharf Street SW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20024"
+      },
+      "wineListSize": "150-200",
+      "byTheGlassCount": "18-24",
+      "priceRange": "$52-$145/bottle (from private dining list)",
+      "notableWines": [
+        "Finca Valldosera, brut nature, Penedès, Spain",
+        "Ramon Canals, brut rosé, Cava, Gran Reserva, Spain",
+        "Voirin-Jumel, champagne, Blanc de Blancs",
+        "Henriot, rosé champagne, Reims",
+        "Gañeta, txakoli, Basque Country",
+        "Pazo Senorañs, albariño, Rías Baixas",
+        "Monasterio de Corias, Vina Grandiella, xarel-lo, Cangas",
+        "Nisia, Las Suertes – Old Vines, verdejo, Rueda",
+        "Benjamin Rodeo, Predicador Blanco, viura|garnacha blanca, Rioja",
+        "Antica, chardonnay, Napa Valley, CA",
+        "Quintessa, Illumination, sauvignon blanc, Napa Valley, CA",
+        "Clos Figueras, viognier-garnacha blanca, Priorat",
+        "Bodegas Breca, Brega, garnacha, Calatayud",
+        "Ferrer Bobet, Vinyes Velles, cariñena|garnacha|cab, Priorat",
+        "Ramey, Claret, cabernet-merlot, Napa Valley, CA",
+        "Duckhorn, merlot, Napa Valley, CA",
+        "Tyler, Chardonnay, Santa Barbara, CA",
+        "Brocard, Montee de Tonnerre, Chardonnay, Chablis, Burgundy"
+      ],
+      "wineRegionFocus": [
+        "Spain (Penedès, Cava, Basque Country, Rías Baixas, Cangas, Rueda, Rioja, Priorat, Calatayud)",
+        "USA (Napa Valley, Santa Barbara)",
+        "France (Champagne, Chablis)"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "A two-story jewel box overlooking the Potomac River and vibrant Wharf scene, designed by Spanish artisans to celebrate Spanish craftsmanship and lifestyle with scenic views and comfortable booths.",
+      "popularDishes": [
+        "Signature Paella",
+        "Tapas",
+        "Catalan-Style Charcoal Grilled Entrees"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$$ - $$$",
+      "citationLinks": [
+        "https://www.delmardc.com",
+        "https://www.tripadvisor.com/Restaurant_Review-g28970-d13075930-Reviews-Del_Mar-Washington_DC_District_of_Columbia.html",
+        "https://www.delmardc.com/reservations",
+        "https://delmardc.squarespace.com/s/Del-Mar-Private-Dining-Menu-Fall-and-Winter.pdf",
+        "https://delmardc.squarespace.com/s/Del-Mar-Private-Dining-Menu-Winter-2019-2020.pdf",
+        "https://starwinelist.com/wine-place/del-mar",
+        "https://www.winespectator.com/restaurants/4717/del-mar"
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "dataCompleteness": 85
+    },
+    {
+      "name": "Joe's Seafood, Prime Steak & Stone Crab",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "website": "https://www.joes.net",
+      "address": {
+        "street": "750 15th Street NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20005"
+      },
+      "wineListSize": "450 selections, 4,640 inventory",
+      "byTheGlassCount": "25-30",
+      "priceRange": "$$ (range of pricing, many bottles <$50 and $100+)",
+      "notableWines": [
+        "Frank Family Vineyards (wine dinner series: 2019 Sparkling Brut Rosé, 2023 Carneros Chardonnay, 2022 Carneros Pinot Noir, 2022 Napa Valley Cabernet Sauvignon, 2021 Rutherford Reserve Cabernet Sauvignon, 2018 Late Harvest Chardonnay)",
+        "Zuccardi Serie A Malbec, Stags' Leap Winery Petite Sirah, Penfolds Max's Shiraz (by the glass)"
+      ],
+      "wineRegionFocus": [
+        "California",
+        "France"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Classic upscale surf-and-turf concept with a large wine program featuring accessible California wines and a strong by-the-glass selection.",
+      "popularDishes": [
+        "Florida stone crab",
+        "Prime steaks",
+        "Key lime pie"
+      ],
+      "citationLinks": [
+        "https://www.winespectator.com/restaurants/2273/joe",
+        "https://starwinelist.com/wine-place/joe-s-seafood-prime-steak-and-stone-crab-washington-dc",
+        "https://www.frankfamilyvineyards.com/events/joes-seafood-wine-dinner-series",
+        "https://www.joes.net/washington-dc/events/cocktail-hour",
+        "https://order.toasttab.com/online/leye-joes-dc/item-alc-joes-signature-6295_9482cbba-4ace-45d5-815c-cc6e60660b32",
+        "https://www.joes.net/washington-dc"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Benvolio Pinot Grigio",
+          "restaurantPrice": "$52",
+          "retailPrice": "$20",
+          "markupPercent": 160
+        },
+        {
+          "wine": "Far Niente Chardonnay",
+          "restaurantPrice": "$108",
+          "retailPrice": "$40",
+          "markupPercent": 170
+        },
+        {
+          "wine": "William Fevre Chablis",
+          "restaurantPrice": "$100",
+          "retailPrice": "$30",
+          "markupPercent": 233
+        },
+        {
+          "wine": "Bella Union Cabernet",
+          "restaurantPrice": "$120",
+          "retailPrice": "$40",
+          "markupPercent": 200
+        },
+        {
+          "wine": "Beronia Rioja",
+          "restaurantPrice": "$80",
+          "retailPrice": "$20",
+          "markupPercent": 300
+        },
+        {
+          "wine": "Bethel Heights Pinot Noir",
+          "restaurantPrice": "$84",
+          "retailPrice": "$30",
+          "markupPercent": 180
+        }
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 94
+    },
+    {
+      "name": "Masseria",
+      "neighborhood": "Unknown",
+      "cuisineType": "Italian (Puglian)",
+      "website": "https://www.masseria-dc.com",
+      "address": {
+        "street": "1340 4th Street, NE",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20002"
+      },
+      "wineListSize": "250-300 selections",
+      "byTheGlassCount": "15-20",
+      "priceRange": "$$$",
+      "notableWines": [
+        "Italian regional wines",
+        "Puglia producers",
+        "Natural wines"
+      ],
+      "wineRegionFocus": [
+        "Puglia",
+        "Southern Italy",
+        "Sicily",
+        "Campania"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Exposed brick walls, flickering candlelight, and an open kitchen create a warm, inviting atmosphere blending rustic charm with contemporary sophistication.",
+      "popularDishes": [
+        "Handmade pasta",
+        "Wood-fired dishes",
+        "Seasonal Italian preparations"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$158-$270 (tasting menus)",
+      "citationLinks": [
+        "https://www.masseria-dc.com",
+        "https://www.masseria-dc.com/contact",
+        "https://www.masseria-dc.com/reservations",
+        "https://www.finedininglovers.com/restaurants/masseria"
+      ],
+      "markupSampling": [],
+      "wineListSource": "unknown",
+      "photoSourcesChecked": false,
+      "sourcesFound": 4,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Alhambra",
+      "neighborhood": "Unknown",
+      "cuisineType": "Mediterranean",
+      "website": "https://www.alhambra.com",
+      "address": {
+        "street": "923 16th Street NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20006"
+      },
+      "wineListSize": "300 labels",
+      "byTheGlassCount": "18-22",
+      "priceRange": "$$-$$$",
+      "notableWines": [
+        "Caymus",
+        "Dunn",
+        "Inglenook",
+        "Cuentaviñas (Rioja)",
+        "Bodegas Emilio Moro (Ribera del Duero)",
+        "Miraval Rosé",
+        "Alsace Riesling"
+      ],
+      "wineRegionFocus": [
+        "California",
+        "Spain"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Elegant and modern dining room blending historic features with bold hues and rich textures in a convivial setting inside The St. Regis Washington, D.C.",
+      "reservationRecommended": true,
+      "averageEntreePrice": "$$$",
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g28970-d14030974-Reviews-Alhambra-Washington_DC_District_of_Columbia.html",
+        "https://www.alhambradc.com",
+        "https://www.theinfatuation.com/washington-dc/reviews/alhambra",
+        "https://washington.org/find-dc-listings/st-regis-restaurant",
+        "https://www.marriott.com/en-us/hotels/wassx-the-st-regis-washington-dc/dining/",
+        "https://www.winespectator.com/articles/capital-wine-lists-to-try-in-washington-dc",
+        "https://www.novacircle.com/spots/north-america/united-states/district-of-columbia/washington-dc/washington-dc/alhambra-c16ebb/menu",
+        "https://www.opentable.com/r/alhambra-washington",
+        "http://places.singleplatform.com/adour-at-the-st-regis/menu",
+        "https://www.alhambradc.com/our-menus"
+      ],
+      "markupSampling": [],
+      "wineListSource": "press",
+      "photoSourcesChecked": true,
+      "sourcesFound": 10,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Cork Wine Bar & Market",
+      "neighborhood": "Unknown",
+      "cuisineType": "Contemporary American, Wine Bar",
+      "website": "http://www.corkdc.com/",
+      "address": {
+        "street": "1805 14th St NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20009"
+      },
+      "wineListSize": "100-150",
+      "byTheGlassCount": "18+ options",
+      "priceRange": "$6-$14 per 2oz pour, $7-$27 per 4oz pour, $40-$74 per bottle",
+      "notableWines": [
+        "Lucien Crochet Sancerre Rouge 2019",
+        "Gueyrosse St. Émilion Grand Cru 2015",
+        "Vietti Perbacco 2022",
+        "Dumont Brut Champagne",
+        "Jean-Marc Brocard Kimmeridgien Chardonnay",
+        "Château Soucherie Anjou Blanc"
+      ],
+      "wineRegionFocus": [
+        "Loire Valley, France",
+        "Burgundy, France",
+        "Bordeaux, France",
+        "Champagne, France",
+        "Piedmont, Italy",
+        "Veneto, Italy",
+        "Friuli, Italy",
+        "Puglia, Italy",
+        "Rioja, Spain",
+        "Basque Country, Spain",
+        "Mosel, Germany"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Casually elegant wine bar with classic warmth, offering a curated selection of Old World wines by the glass paired with European-inspired share plates in a bustling Logan Circle setting.",
+      "popularDishes": [
+        "Beef Burger",
+        "Grilled Hanger Steak",
+        "Burrata"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$18-$30 range",
+      "citationLinks": [
+        "https://www.opentable.com/r/cork-wine-bar-and-market-washington",
+        "https://www.corkdc.com/location/cork-wine-bar-market/",
+        "https://washington.org/find-dc-listings/cork-wine-bar",
+        "https://www.corkdc.com/menu/cork-wine/",
+        "https://www.corkdc.com/wine-bar-menus/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 5,
+      "confidenceLevel": "high",
+      "dataCompleteness": 85
+    },
+    {
+      "name": "Barkada Wine Bar",
+      "neighborhood": "Unknown",
+      "cuisineType": "Wine Bar",
+      "website": "https://www.barkadawinebar.com",
+      "address": {
+        "street": "1939 12th St NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20009"
+      },
+      "wineListSize": "80-120",
+      "byTheGlassCount": "15-20",
+      "priceRange": "$68-$120/bottle",
+      "notableWines": [
+        "Praesidium Riserva 2019",
+        "Sesti Brunello 2015",
+        "Sesti Brunello 2016",
+        "Sesti Brunello 2017",
+        "Madonna Nera, Rosso 2021"
+      ],
+      "wineRegionFocus": [
+        "Italy"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Trendy, hip wine bar with a cozy, casual, and vibrant atmosphere ideal for gathering with friends.",
+      "popularDishes": [
+        "Pesto hummus"
+      ],
+      "reservationRecommended": true,
+      "citationLinks": [
+        "https://www.tripadvisor.com/Restaurant_Review-g28970-d22899154-Reviews-Barkada_Wine_Bar-Washington_DC_District_of_Columbia.html",
+        "https://www.eventective.com/washington-dc/barkada-wine-and-cocktail-bar-779764.html",
+        "https://www.novacircle.com/spots/north-america/united-states/district-of-columbia/washington-dc/washington-dc/barkada-wine-bar-89d31f",
+        "https://www.barkadawinebar.com",
+        "https://resy.com/cities/washington-dc/venues/barkada-wine-bar",
+        "https://www.toasttab.com/local/order/barkada-wine-bar-1939-12th-st-nw-c1-a",
+        "https://order.toasttab.com/online/barkada-wine-bar-1939-12th-st-nw-c1-a",
+        "https://www.novacircle.com/spots/north-america/united-states/district-of-columbia/washington-dc/washington-dc/barkada-wine-bar-89d31f/menu",
+        "https://order.toasttab.com/online/barkada-wine-bar-1939-12th-st-nw-c1-a/item-castellucci-miano-shiara-2020_ae4cd5c2-3c5a-4764-a51c-bb3caafb5042",
+        "https://www.barkadawinebar.com/private-events"
+      ],
+      "markupSampling": [
+        {
+          "wine": "ArPePe Fiamme Antiche 2019",
+          "restaurantPrice": "$87",
+          "retailPrice": "$65",
+          "markupPercent": 34
+        },
+        {
+          "wine": "ArPePe Rocca d Piro 2017",
+          "restaurantPrice": "$79",
+          "retailPrice": "$55",
+          "markupPercent": 44
+        },
+        {
+          "wine": "ArPePe Stella Retica 2017",
+          "restaurantPrice": "$79",
+          "retailPrice": "$60",
+          "markupPercent": 32
+        },
+        {
+          "wine": "Benevelli Langhe 2020",
+          "restaurantPrice": "$60",
+          "retailPrice": "$45",
+          "markupPercent": 33
+        }
+      ],
+      "wineListSource": "online order menu",
+      "photoSourcesChecked": false,
+      "sourcesFound": 10,
+      "confidenceLevel": "high",
+      "dataCompleteness": 94
+    },
+    {
+      "name": "Metier",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "website": "https://www.metierdc.com",
+      "address": {
+        "street": "1015 7th St NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20001"
+      },
+      "wineListSize": "500+",
+      "byTheGlassCount": "25-30",
+      "priceRange": "$80-$1000+/bottle",
+      "notableWines": [
+        "1982 Chasse-Spleen[1]",
+        "Leo Steen, Jurassic Park, Chenin Blanc, Santa Ynez Valley, CA, 2012[2]",
+        "Alzinger, Loibenberg, Riesling Smaragd, Wachau, Austria, 2016[2]",
+        "Wimmer-Czerny, Weelfel, Alte Reben Grüner Veltliner[7]",
+        "DeLille Cellars, Doyenne Métier, Rhône Blend, Yakima Valley, Washington, 2014[7]",
+        "RDV, Rendezvous, Bordeaux Blend, Virginia, 2013[7]",
+        "Arista Pinot Noir, Russian River Valley, California, 2014[7]"
+      ],
+      "wineRegionFocus": [
+        "Domestic (US)",
+        "French",
+        "World’s major viticultural regions[3]"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Eric Ziebold's tasting menu-only fine dining restaurant with an exceptional, deep wine program featuring rare and aged bottles.",
+      "popularDishes": [
+        "Multi-course tasting menu",
+        "Seasonal tasting menu",
+        "Wine pairings"
+      ],
+      "citationLinks": [
+        "https://www.goodtastevice.com/metier-washington-dc/",
+        "http://www.kevineats.com/2018/08/metier-washington-dc.html?m=0",
+        "https://metierdc.com/wine-spirits/",
+        "http://metierdc.com/wp-content/uploads/2015/12/Metier-Wine-Pairing-4.26.17-2.pdf",
+        "http://www.kevineats.com/2018/08/metier-washington-dc.html",
+        "https://metierdc.com/menu/",
+        "https://www.tripadvisor.com/Restaurant_Review-g28970-d10371749-Reviews-Metier-Washington_DC_District_of_Columbia.html",
+        "https://www.novacircle.com/spots/north-america/united-states/district-of-columbia/washington-municipality/washington/metier-3ab9ba/about",
+        "https://metierdc.com",
+        "https://www.finedininglovers.com/restaurants/metier"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 10,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Revel Restaurant",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "address": {
+        "street": "1445 Church Street NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20005"
+      },
+      "wineListSize": "40-60 bottles",
+      "byTheGlassCount": "25-35 glasses",
+      "priceRange": "$28-$80/bottle",
+      "notableWines": [
+        "Sangiovese | Revel",
+        "Cabernet Sauvignon | Revel",
+        "Cabernet Franc | Revel",
+        "Carménère | Revel",
+        "Malbec | Revel",
+        "Zinfandel",
+        "Black Sheep Rouge [Petite Sirah Red Blend] | Revel",
+        "Halozen [Dry Red Blend] | Pullus",
+        "Pais Viejo | J. Bouchon",
+        "Lambrusco | Cantina Settecani",
+        "Tempranillo | Tridente",
+        "Pinot Noir | Prost",
+        "Black Sheep Blanc [Sauv Blanc Blend] | Revel",
+        "Pinot Gris | Revel",
+        "Dry Riesling | Revel",
+        "Chardonnay (Unoaked) | Revel | Paquet Montagnac",
+        "Moscato | D'Altieri",
+        "Chenin Blanc | Wildekans",
+        "Muscadet | Domaine de la Tourmaline",
+        "Vinho Verde | Arca Nova",
+        "Black Sheep Rosé [Syrah, Cab Sauv, Pinot Gris] | Revel",
+        "Black Sheep Brut",
+        "Prosecco",
+        "Cremant Rosé",
+        "Kila Cava",
+        "Champagne | Collet"
+      ],
+      "wineRegionFocus": [
+        "Revel (urban winery)",
+        "Italy",
+        "France",
+        "Portugal",
+        "Chile"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Casual neighborhood wine bar and restaurant emphasizing approachable, value-driven wines from small producers around the world.",
+      "popularDishes": [
+        "Cheese and charcuterie boards",
+        "Seasonal small plates",
+        "Burgers",
+        "Flatbreads"
+      ],
+      "citationLinks": [
+        "https://www.revelotr.com/menus",
+        "https://www.revelrestaurant.com/menus/wine-list",
+        "https://postmates.com/store/revel-restaurant-&-bar/usR93mu9QuWVM75XKa8dHw"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Sook DC",
+      "neighborhood": "Unknown",
+      "cuisineType": "Fusion / Eclectic Middle Eastern café and wine bar",
+      "website": "https://www.sookdc.com",
+      "address": {
+        "street": "1346 T St NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20009"
+      },
+      "wineListSize": "40-50",
+      "byTheGlassCount": "8 options",
+      "priceRange": "$15-$20/glass",
+      "notableWines": [
+        "Lini 910 Lambrusca Rosso (Emilia Romagna, IT)",
+        "Domaine Glinavos 'Paleokerisio' (Ioannina, Epirus, GR)",
+        "Fitz-Ritter Riesling Sekt (Pfalz, GE)",
+        "Julie Hoch 'Elderflower #1' (Niederösterreich, Austria)",
+        "Masseria Li Veli Verdeca (Puglia, IT)",
+        "Argatia 'Haroula' Malagouzia/Assyrtiko/Xinomavro (Naousa, GR)",
+        "Maloof Wines 'Fancy Free' Chardonnay/Aligote (Oregon, US)",
+        "Teliani Valley Glekhuri Kisi Qvevri Amber (Kakheti, Georgia)",
+        "J. Mourat Rosé (Loire, FR)",
+        "Mersel Red Velvet Cinsault (Bekaa Valley, Lebanon)",
+        "Kavaklidere 'Ancyra' Kalecik Karasi (Anatolia, Turkey)",
+        "Pasatiempo 'Mistico' Merlot/Nebbiolo/Syrah (Guadalupe Valley, MX)"
+      ],
+      "wineRegionFocus": [
+        "Natural/low-intervention wines",
+        "Greece",
+        "Georgia",
+        "Lebanon",
+        "Turkey",
+        "Mexico",
+        "Italy",
+        "France",
+        "Austria",
+        "Germany",
+        "Oregon"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "A welcoming, spacious gathering space that transforms from a dynamic daytime café into an intimate, globally inspired wine bar by night, fostering community and connection.",
+      "popularDishes": [
+        "Khachapuri",
+        "Potato chip nachos",
+        "Syrian seven-spice chicken wings"
+      ],
+      "reservationRecommended": false,
+      "citationLinks": [
+        "https://www.sookdc.com",
+        "https://www.theinfatuation.com/washington-dc/reviews/sook",
+        "https://washingtonian.com/2025/12/10/compass-rose-is-reborn-as-sook-an-all-day-cafe-market-and-wine-bar/",
+        "https://www.sookdc.com/faqs",
+        "https://www.ramw.org/restaurant/sook-dc",
+        "https://www.sookdc.com/menu",
+        "https://www.thelistareyouonit.com/openings/sook-dc"
+      ],
+      "markupSampling": [],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Easy Company",
+      "neighborhood": "Unknown",
+      "cuisineType": "Wine Bar & Restaurant (American)",
+      "website": "https://www.easycowharf.com",
+      "address": {
+        "street": "98 Blair Alley SW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20024"
+      },
+      "wineListSize": "70+ labels",
+      "byTheGlassCount": "at least 5 options",
+      "priceRange": "$14-$16/glass, $50-$166/bottle",
+      "notableWines": [
+        "Zinfandel, Pedroncelli, Dry Creek Valley, CA, 2023 ($15 glass)",
+        "Cabernet Sauvignon, Chateau Lauduc, Bordeaux, France, 2022 ($15 glass)",
+        "Sauternes, De L'alliance, Bordeaux, France, 2019 ($16 glass)",
+        "Heitz Cellar Cabernet Sauvignon, Napa Valley, California, 2019 ($166)",
+        "Merry Edwards Pinot Noir, Russian River Valley, California, 2019 ($166)"
+      ],
+      "wineRegionFocus": [
+        "California",
+        "France (Bordeaux, Alsace, Loire, Burgundy)",
+        "Italy",
+        "Spain"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "An enchanting open-air piazza-style wine bar inspired by European cafes with waterfront views.",
+      "popularDishes": [
+        "Brunch Burger with fried egg and garlic aioli",
+        "Steak Frites",
+        "Cheese Charcuterie Boards"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$19-23",
+      "citationLinks": [
+        "https://www.easycowharf.com/location/easy-company/",
+        "https://www.easycowharf.com/about/",
+        "https://www.easycowharf.com/menus/",
+        "https://www.easycowharf.com/faq/",
+        "https://www.easycowharf.com/menu/wine-selection-copy/",
+        "https://www.easycowharf.com"
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 85
+    },
+    {
+      "name": "Little Blackbird",
+      "neighborhood": "Unknown",
+      "cuisineType": "Mediterranean-inspired Wine Bar",
+      "website": "https://www.littleblackbirddc.com",
+      "address": {
+        "street": "3309 Connecticut Ave NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20008"
+      },
+      "wineListSize": "100 bottles + 12 by-the-glass",
+      "byTheGlassCount": "12 options",
+      "priceRange": "$40-$85/bottle",
+      "notableWines": [
+        "Brooks 'Amycas' 2023",
+        "Pala 'Oltreluna' 2022",
+        "Heidsieck & Co. ‘Monopole’ Brut NV",
+        "La Mouliniere Bordeaux Rose 2024",
+        "Capella Sant’Andrea 'Clara Stella’ Vernaccia 2023",
+        "Tenuta Luce ‘Lucente’ Super Tuscan 2022",
+        "Comtesse Marion Pinot Noir 2023",
+        "DiamAndes ‘Perlita’ Malbec/Syrah 2020",
+        "Halter Ranch Cabernet Sauvignon 2020"
+      ],
+      "wineRegionFocus": [
+        "Italy",
+        "France",
+        "California",
+        "Pacific Northwest"
+      ],
+      "sommelierOnStaff": true,
+      "halfPriceNight": "First Sunday of the Month",
+      "halfPriceDetails": "Wine Club Sunday: All Playful Pairings at half price, special off-menu Playful Pairings available[3]",
+      "vibeDescription": "A sophisticated yet playful wine bar with a cozy, dimly lit atmosphere perfect for a memorable night out.",
+      "popularDishes": [
+        "Tart Flambee (Flammekueche with asparagus and prosciutto)",
+        "Hearth roasted branzino",
+        "Lamb Chop with garlic scalloped potatoes and lamb demi-glace"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$28-$35 range",
+      "citationLinks": [
+        "https://www.littleblackbirddc.com",
+        "https://bardc.com/bars/little-blackbird/",
+        "https://www.littleblackbirddc.com/about",
+        "https://www.littleblackbirddc.com/dinnermenu",
+        "https://www.littleblackbirddc.com/little-blackbird-wine-club",
+        "https://www.thelistareyouonit.com/little-black-bird",
+        "https://georgetowner.com/articles/2023/09/21/cleveland-park-restaurant-little-blackbird-is-a-playful-delight/",
+        "https://dcist.com/story/23/09/12/little-blackbird-wine-bar-opens-in-cleveland-park-dc/"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Heidsieck & Co. ‘Monopole’ Brut NV",
+          "restaurantPrice": null,
+          "retailPrice": null,
+          "markupPercent": null
+        },
+        {
+          "wine": "Pace Nebbiolo 2022",
+          "restaurantPrice": null,
+          "retailPrice": null,
+          "markupPercent": null
+        },
+        {
+          "wine": "Brooks ‘Amycas’ 2023",
+          "restaurantPrice": null,
+          "retailPrice": null,
+          "markupPercent": null
+        },
+        {
+          "wine": "Bedell Cellars Chardonnay (Aged on Seashells)",
+          "restaurantPrice": "$12 (3.5 oz pour)",
+          "retailPrice": null,
+          "markupPercent": null
+        },
+        {
+          "wine": "Coq Leon Beaujolais",
+          "restaurantPrice": "$13 (3.5 oz pour)",
+          "retailPrice": null,
+          "markupPercent": null
+        }
+      ],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 8,
+      "confidenceLevel": "high",
+      "dataCompleteness": 100
+    },
+    {
+      "name": "Eddie Merlot's Prime Aged Beef & Seafood",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "website": "https://www.eddiemerlots.com",
+      "address": {
+        "street": "8300 Tyco Road",
+        "city": "Vienna",
+        "state": "Virginia",
+        "zip": "22182"
+      },
+      "wineListSize": "165 selections",
+      "byTheGlassCount": "20-25 options",
+      "priceRange": "$55-$325/bottle",
+      "notableWines": [
+        "Daou Cabernet Sauvignon ($199)",
+        "Caymus Suisun “The Walking Fool” Red Blend ($55)",
+        "Caymus Suisun “Grand Durif” ($75)",
+        "Caymus Vineyards “50th Anniversary” Cabernet Sauvignon ($180)",
+        "Daou Patrimony ($325)",
+        "Duckhorn Merlot",
+        "Duckhorn Cabernet Sauvignon",
+        "Goldeneye Pinot Noir"
+      ],
+      "wineRegionFocus": [
+        "California"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Upscale steakhouse chain with extensive American wine list focused on premium California Cabernets and classic pairings for prime beef.",
+      "popularDishes": [
+        "Prime aged steaks",
+        "Lobster tail",
+        "Chilean sea bass"
+      ],
+      "citationLinks": [
+        "https://www.winespectator.com/restaurants/6933/eddie-merlot's",
+        "https://www.eddiemerlots.com/wp-content/uploads/2024/10/EM-Holiday-LTO-Menu-2024_W.pdf",
+        "https://www.youtube.com/watch?v=CpsA80qk0_Y",
+        "https://static.theknot.com/xo-marketplace/concierge-vendors/1857-e9ac6200-4920-44c1-8847-f207ed1a74c5.pdf",
+        "https://www.eddiemerlots.com/ashburn/menus/private-dining-menu/",
+        "https://www.eddiemerlots.com/ashburn/menus/happyhour-food-drink/",
+        "https://www.eddiemerlots.com/promotions/happyhour/"
+      ],
+      "markupSampling": [],
+      "wineListSource": "review",
+      "photoSourcesChecked": false,
+      "sourcesFound": 7,
+      "confidenceLevel": "high",
+      "dataCompleteness": 82
+    },
+    {
+      "name": "Capitol Cider House",
+      "neighborhood": "Unknown",
+      "cuisineType": "American | Contemporary | Mediterranean",
+      "website": "https://www.capitolciderhouse.com",
+      "address": {
+        "street": "3930 Georgia Ave NW",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "zip": "20011"
+      },
+      "wineListSize": "20-30",
+      "byTheGlassCount": "8-12",
+      "priceRange": "$-$$",
+      "notableWines": [],
+      "wineRegionFocus": [
+        "Natural wines",
+        "European wines"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "A vibrant production space and tasting room in Petworth with a casual, family-friendly atmosphere featuring board games, outdoor patio seating, and a focus on craft hard ciders.",
+      "popularDishes": [
+        "Empanadas",
+        "Rotis and curry bowls",
+        "Cheese plates"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "Very Inexpensive",
+      "citationLinks": [
+        "https://tableagent.com/washington-dc/capitol-cider-house/",
+        "https://www.tripadvisor.com/Attraction_Review-g28970-d17801903-Reviews-Capitol_Cider_House-Washington_DC_District_of_Columbia.html",
+        "https://www.petworthnews.org/blog/capitol-cider-house-petworths-newest-cidery",
+        "https://cidercraftmag.com/qa-with-jared-fackrell-of-capitol-cider-house/",
+        "https://www.wine-searcher.com/find/capitole+cider+house+virginia+gold+north+columbia+washington+dc+usa/1/usa",
+        "https://www.bassins.com/capitol-cider-house-pommeau-pink-lady",
+        "https://www.wine-searcher.com/find/capitole+cider+house+sap+happy+dry+washington+dc+usa",
+        "https://www.bassins.com/capitol-cider-house-capitol-cuvee-4pk"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Capitol Cider House 'Virginia Gold' North Columbia",
+          "restaurantPrice": "$50",
+          "retailPrice": "$50",
+          "markupPercent": 0
+        },
+        {
+          "wine": "Capitol Cider House 'Sap Happy' Dry Cider",
+          "restaurantPrice": "$6",
+          "retailPrice": "$6",
+          "markupPercent": 0
+        },
+        {
+          "wine": "Capitol Cider House Pommeau - Pink Lady",
+          "restaurantPrice": "$28.99",
+          "retailPrice": "$28.99",
+          "markupPercent": 0
+        },
+        {
+          "wine": "Capitol Cider House Capitol Cuvee 4pk",
+          "restaurantPrice": "$10.99",
+          "retailPrice": "$10.99",
+          "markupPercent": 0
+        }
+      ],
+      "wineListSource": "unknown",
+      "photoSourcesChecked": false,
+      "sourcesFound": 8,
+      "confidenceLevel": "high",
+      "dataCompleteness": 79
+    },
+    {
+      "name": "Morton's The Steakhouse - Reston",
+      "neighborhood": "Unknown",
+      "cuisineType": "Unknown",
+      "address": {
+        "street": "11956 Market St",
+        "city": "Reston",
+        "state": "Virginia",
+        "zip": "20190"
+      },
+      "wineListSize": "200-300",
+      "byTheGlassCount": "9+ options",
+      "priceRange": "$14-$40/glass (6oz), $40-$625/bottle",
+      "notableWines": [
+        "Crossbarn Chardonnay, Sonoma Coast",
+        "Austin Hope Cabernet, Paso Robles",
+        "Caymus Cabernet Sauvignon, Napa Valley",
+        "State & Rush Chardonnay/Pinot Noir/Cabernet Sauvignon",
+        "Don Melchor Cabernet Sauvignon, Puente Alto"
+      ],
+      "wineRegionFocus": [
+        "California (Napa, Sonoma, Paso Robles)",
+        "Oregon (Willamette Valley)",
+        "Chile",
+        "Spain (Rioja)"
+      ],
+      "sommelierOnStaff": true,
+      "vibeDescription": "Upscale national steakhouse chain with a corporate-curated wine list focusing on big Napa Cabernets and steakhouse-friendly selections",
+      "popularDishes": [
+        "Bone-in ribeye",
+        "Filet mignon",
+        "Colossal shrimp"
+      ],
+      "citationLinks": [
+        "https://www.mortons.com/location/mortons-the-steakhouse-reston-va/",
+        "https://www.mortons.com/menu/wine/",
+        "https://www.corkrules.com/morton-s-the-steakhouse/episodes/95",
+        "https://www.mortons.com/menu/beverage-menu-mtwd/",
+        "https://www.mortons.com/menu/bar-12-21-after-dinner-mtho/",
+        "https://www.mortons.com/menu/bar-12-21-mtjo/"
+      ],
+      "markupSampling": [
+        {
+          "wine": "Segura Viudas Brut Cava",
+          "restaurantPrice": "$13",
+          "retailPrice": "$10",
+          "markupPercent": 30
+        },
+        {
+          "wine": "Moët & Chandon Brut Épernay",
+          "restaurantPrice": "$26",
+          "retailPrice": "$50",
+          "markupPercent": -48
+        },
+        {
+          "wine": "Crossbarn Chardonnay Sonoma Coast",
+          "restaurantPrice": "$16",
+          "retailPrice": "$25",
+          "markupPercent": -36
+        },
+        {
+          "wine": "Santa Margherita Pinot Grigio Valdadige",
+          "restaurantPrice": "$19",
+          "retailPrice": "$25",
+          "markupPercent": -24
+        },
+        {
+          "wine": "J. Lohr Bay Mist Riesling Arroyo Seco",
+          "restaurantPrice": "$14",
+          "retailPrice": "$12",
+          "markupPercent": 17
+        },
+        {
+          "wine": "Hogwash Rosé California",
+          "restaurantPrice": "$14",
+          "retailPrice": "$20",
+          "markupPercent": -30
+        },
+        {
+          "wine": "Glazebrook Sauvignon Blanc Marlborough",
+          "restaurantPrice": "$14",
+          "retailPrice": "$15",
+          "markupPercent": -7
+        },
+        {
+          "wine": "Zuccardi Los Olivos Malbec Mendoza",
+          "restaurantPrice": "$14",
+          "retailPrice": "$20",
+          "markupPercent": -30
+        },
+        {
+          "wine": "Emmolo Merlot Napa Valley",
+          "restaurantPrice": "$30",
+          "retailPrice": "$40",
+          "markupPercent": -25
+        },
+        {
+          "wine": "Ruffino Modus Super Tuscan Tuscany",
+          "restaurantPrice": "$15",
+          "retailPrice": "$45",
+          "markupPercent": -67
+        }
+      ],
+      "wineListSource": "website",
+      "photoSourcesChecked": false,
+      "sourcesFound": 6,
+      "confidenceLevel": "high",
+      "dataCompleteness": 94
+    },
+    {
+      "name": "Zeffirelli Ristorante Italiano",
+      "neighborhood": "Unknown",
+      "cuisineType": "Italian",
+      "website": "https://www.zeffirelliva.com",
+      "address": {
+        "street": "728 Pine St",
+        "city": "Herndon",
+        "state": "Virginia",
+        "zip": "20170"
+      },
+      "wineListSize": "50-80",
+      "byTheGlassCount": "8-12",
+      "priceRange": "$$-$$$",
+      "notableWines": [],
+      "wineRegionFocus": [
+        "Italy",
+        "Tuscany",
+        "Piedmont"
+      ],
+      "sommelierOnStaff": false,
+      "vibeDescription": "Upscale Italian dining with an authentic, elegant atmosphere reminiscent of Florence.",
+      "popularDishes": [
+        "Branzino Capri (Mediterranean sea bass with crab meat and lobster/champagne sauce)",
+        "Linguine alla Vongole (fresh clams with white wine sauce)",
+        "Famous Veal Chop (herb-marinated and grilled)"
+      ],
+      "reservationRecommended": true,
+      "averageEntreePrice": "$19-25",
+      "citationLinks": [
+        "https://www.opentable.com/zeffirelli-ristorante-italiano",
+        "https://menupages.com/zeffirelli-ristorante-italiano/728-pine-st-herndon",
+        "https://www.zeffirelliva.com"
+      ],
+      "markupSampling": [],
+      "wineListSource": "unknown",
+      "photoSourcesChecked": false,
+      "sourcesFound": 3,
+      "confidenceLevel": "medium",
+      "dataCompleteness": 67
+    }
+  ],
+  "skippedRestaurants": [
+    {
+      "name": "Fiola Mare",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 1 sources (min: 3)",
+      "sourcesFound": 1,
+      "confidenceLevel": "low",
+      "dataCompleteness": 91,
+      "phase": "research",
+      "replacedBy": "Easy Company"
+    },
+    {
+      "name": "Blue Duck Tavern",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Little Blackbird"
+    },
+    {
+      "name": "Le Diplomate",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Eddie Merlot's Prime Aged Beef & Seafood"
+    },
+    {
+      "name": "Bourbon Steak",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Capitol Cider House"
+    },
+    {
+      "name": "RPM Italian",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Morton's The Steakhouse - Reston"
+    },
+    {
+      "name": "District Winery",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research",
+      "replacedBy": "Zeffirelli Ristorante Italiano"
+    },
+    {
+      "name": "Lulu's Winegarden",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Barcelona Wine Bar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Primrose",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Cynthia Bar & Bistro",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Kinship",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 72,
+      "phase": "research"
+    },
+    {
+      "name": "Flight Wine Bar",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Sushi Nakazawa DC",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Cafe du Parc",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 2 sources (min: 3)",
+      "sourcesFound": 2,
+      "confidenceLevel": "low",
+      "dataCompleteness": 94,
+      "phase": "research"
+    },
+    {
+      "name": "Central Michel Richard",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    },
+    {
+      "name": "Barcelona Wine Bar Cathedral Heights",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Grand Cata",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 0% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 0,
+      "phase": "research"
+    },
+    {
+      "name": "Uncorked Chevy Chase",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Maxwell Park",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 57,
+      "phase": "research"
+    },
+    {
+      "name": "Nero",
+      "neighborhood": "Unknown",
+      "reason": "low confidence; only 0 sources (min: 3); 5% complete (min: 40%)",
+      "sourcesFound": 0,
+      "confidenceLevel": "low",
+      "dataCompleteness": 5,
+      "phase": "research"
+    }
+  ]
+}

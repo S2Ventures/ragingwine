@@ -191,7 +191,9 @@
     "citySlug": "washington",
     "state": "District of Columbia",
     "priority": 19,
-    "status": "pending"
+    "status": "completed",
+    "lastRunAt": "2026-03-07T05:46:44.753Z",
+    "reviewCount": 13
   },
   {
     "city": "Chicago",
